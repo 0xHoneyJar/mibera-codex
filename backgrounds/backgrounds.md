@@ -1326,13 +1326,19 @@ locations, it has over 80,000 stores worldwide.
 
 ## Simple Backgrounds
 
-57_simple background.png
+**Image Files:**
+
+![Simple Background - TV Glitch](../images/simple/simple background/57_simple background(4).png)
 
 **Brief Visual Description:** a stereotypical TV glitch in vibrant colors.
 
 **Dominant Colors:** white, neon yellow, turquoise, green, fuschia, red, blue, and black.
 
-57_simple background.png
+---
+
+**Image Files:**
+
+![Simple Background - Dark Grey](../images/simple/simple background/57_simple background(3).png)
 
 **Brief Visual Description:** a textured plain black / dark grey background with central light
 
@@ -1340,7 +1346,11 @@ positioning.
 
 **Dominant Colors:** black / dark grey.
 
-57_simple background.png
+---
+
+**Image Files:**
+
+![Simple Background - Misty Grey](../images/simple/simple background/57_simple background(5).png)
 
 **Brief Visual Description:** light gray misty upper half and gradually turns to black towards the
 
@@ -1348,7 +1358,11 @@ bottom, with textured, weathered surface and central light positioning.
 
 **Dominant Colors:** black / dark grey.
 
-57_simple background.png
+---
+
+**Image Files:**
+
+![Simple Background - Grey Fade](../images/simple/simple background/57_simple background(6).png)
 
 **Brief Visual Description:** dark grey fading to light grey downwards with textured weathered
 
@@ -1356,19 +1370,31 @@ surface and subtle speckles.
 
 **Dominant Colors:** dark grey, light grey.
 
-57_simple background.png
+---
+
+**Image Files:**
+
+![Simple Background - Teal](../images/simple/simple background/57_simple background(1).png)
 
 **Brief Visual Description:** vibrant teal textured background with strong vignette effect framing it.
 
 **Dominant Colors:** vibrant teal, dark navy / blue.
 
-57_simple background.png
+---
+
+**Image Files:**
+
+![Simple Background - Rainbow](../images/simple/simple background/57_simple background(2).png)
 
 **Brief Visual Description:** vibrant rainbow color from top to bottom.
 
 **Dominant Colors:** vibrant rainbow color; red, orange, yellow, green, blue, indigo, purple.
 
-57_simple background.png
+---
+
+**Image Files:**
+
+![Simple Background - Golden](../images/simple/simple background/57_simple background(7).png)
 
 **Brief Visual Description:** golden background that grows gradually brighter towards the middle
 
@@ -1378,7 +1404,11 @@ direction.
 
 **Dominant Colors:** dark gold, bright gold
 
-57_simple background.png
+---
+
+**Image Files:**
+
+![Simple Background - Pink](../images/simple/simple background/57_simple background.png)
 
 **Brief Visual Description:** vibrant warm pink textured background with strong vignette effect
 
