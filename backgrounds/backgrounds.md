@@ -1530,7 +1530,9 @@ hanging decoration, and racks of items in square shapes.
 
 **Name:** Aquarius
 
-**Image Files:** aquarius.PNG
+**Image Files:**
+
+![Aquarius](../images/Constellations/aquarius.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1564,7 +1566,9 @@ aloof, with a strong focus on individuality and community betterment.
 
 **Name:** Pisces
 
-**Image Files:** pisces.PNG
+**Image Files:**
+
+![Pisces](../images/Constellations/pisces.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1622,7 +1626,9 @@ sky in the background.
 
 **Name:** Capricornus
 
-**Image Files:** capricorn.PNG
+**Image Files:**
+
+![Capricornus](../images/Constellations/capricorn.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1866,7 +1872,9 @@ co-authoring De Divina Proportione (1509), which explored the golden ratio.
 
 **Name:** Cancer
 
-**Image Files:** cancer.PNG
+**Image Files:**
+
+![Cancer](../images/Constellations/cancer.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1900,7 +1908,9 @@ a strong sense of security and tradition.
 
 **Name:** Virgo
 
-**Image Files:** virgo.PNG
+**Image Files:**
+
+![Virgo](../images/Constellations/virgo.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1972,7 +1982,9 @@ Neolithic engineering and cultural significance.
 
 **Name:** Libra
 
-**Image Files:** libra.PNG
+**Image Files:**
+
+![Libra](../images/Constellations/libra.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2006,7 +2018,9 @@ cooperative and value partnerships.
 
 **Name:** Leo
 
-**Image Files:** leo.PNG
+**Image Files:**
+
+![Leo](../images/Constellations/leo.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2120,7 +2134,9 @@ side in the background; two big old cameras are placed in front, from a first-pe
 
 **Name:** Ophiuchus
 
-**Image Files:** ophiuchus.PNG
+**Image Files:**
+
+![Ophiuchus](../images/Constellations/ophiuchus.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2198,7 +2214,9 @@ emphasizing inclusivity and experimental sound.
 
 **Name:** Gemini
 
-**Image Files:** gemini.PNG
+**Image Files:**
+
+![Gemini](../images/Constellations/gemini.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2232,7 +2250,9 @@ charming, and excel at connecting ideas and people.
 
 **Name:** Taurus
 
-**Image Files:** taurus.PNG
+**Image Files:**
+
+![Taurus](../images/Constellations/taurus.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2266,7 +2286,9 @@ pleasures.
 
 **Name:** Sagittarius
 
-**Image Files:** sagittarius.PNG
+**Image Files:**
+
+![Sagittarius](../images/Constellations/sagittarius.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2300,7 +2322,9 @@ generous, honest, and love exploring diverse cultures and ideas.
 
 **Name:** Scorpius
 
-**Image Files:** scorpius.PNG
+**Image Files:**
+
+![Scorpius](../images/Constellations/scorpius.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2334,7 +2358,9 @@ or intense but are resourceful and fiercely protective of loved ones.
 
 **Name:** Aries
 
-**Image Files:** aries.PNG
+**Image Files:**
+
+![Aries](../images/Constellations/aries.PNG)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
