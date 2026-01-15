@@ -8,7 +8,9 @@
 
 **Name:** Wartime
 
-**Image Files:** SS4_milady_wartime.png
+**Image Files:**
+
+![Wartime](../images/face accessories__z60/SS4_milady_wartime.png)
 
 **Brief Visual Description:** Blood splattered upwards.
 
@@ -74,7 +76,9 @@ for "rituals" as part of internet trolling, as well as an asset of a shirt beari
 
 **Name:** Dots
 
-**Image Files:** SS3_milady_Dots.png
+**Image Files:**
+
+![Dots](../images/face accessories__z60/SS3_milady_Dots.png)
 
 **Brief Visual Description:** Three small black dots under each eye.
 
@@ -116,7 +120,9 @@ dots/crescent in the OG milady collection
 
 **Name:** Crafty
 
-**Image Files:** SS2_freetekno_crafty.png
+**Image Files:**
+
+![Crafty](../images/face accessories__z60/SS2_freetekno_crafty.png)
 
 **Brief Visual Description:** Couple of bandages.
 
@@ -146,7 +152,9 @@ dots/crescent in the OG milady collection
 
 **Name:** Teardrops
 
-**Image Files:** SS3_milady_teardrops.png
+**Image Files:**
+
+![Teardrops](../images/face accessories__z60/SS3_milady_teardrops.png)
 
 **Brief Visual Description:** Three tear / liquid drops.
 
@@ -182,7 +190,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Face+Decoration
 
 **Name:** Cross
 
-**Image Files:** SS3_milady_Cross.png
+**Image Files:**
+
+![Cross](../images/face accessories__z60/SS3_milady_Cross.png)
 
 **Brief Visual Description:** Slightly transparent upside down cross.
 
@@ -216,7 +226,9 @@ Milady Maker has multiple “Cross” assets such as earrings, face tattoo, and 
 
 **Name:** Fluoro Pink
 
-**Image Files:** SS3_freetekno_Fluoro Pink.png
+**Image Files:**
+
+![Fluoro Pink](../images/face accessories__z60/SS3_freetekno_Fluoro Pink.png)
 
 **Brief Visual Description:** Three vibrant neon-pink strokes, one bigger than the other two.
 
@@ -282,7 +294,9 @@ to the rave look.
 
 **Name:** Red Forehead
 
-**Image Files:** SS3_milady_modern_nepal_Red Forehead.png
+**Image Files:**
+
+![Red Forehead](../images/face accessories__z60/SS3_milady_modern_nepal_Red Forehead.png)
 
 **Brief Visual Description:** vibrant red strokes going upwards.
 
@@ -326,7 +340,9 @@ energy. For married women, it also signifies commitment.
 
 **Name:** Bleeding
 
-**Image Files:** SS3_milady_bleeding.png
+**Image Files:**
+
+![Bleeding](../images/face accessories__z60/SS3_milady_bleeding.png)
 
 **Brief Visual Description:** Blood dripping down from a neat cut.
 
@@ -356,7 +372,9 @@ energy. For married women, it also signifies commitment.
 
 **Name:** Star Face
 
-**Image Files:** SS3_acidhouse_star.png
+**Image Files:**
+
+![Star Face](../images/face accessories__z60/SS3_acidhouse_star.png)
 
 **Brief Visual Description:** Black star.
 
@@ -386,7 +404,9 @@ energy. For married women, it also signifies commitment.
 
 **Name:** Blush
 
-**Image Files:** SS1_milady_blush.png
+**Image Files:**
+
+![Blush](../images/face accessories__z60/SS1_milady_blush.png)
 
 **Brief Visual Description:** Very subtle warm pink blush, translucent.
 
@@ -416,7 +436,9 @@ energy. For married women, it also signifies commitment.
 
 **Name:** Tyson
 
-**Image Files:** SS3_Milady_tyson.png
+**Image Files:**
+
+![Tyson](../images/face accessories__z60/SS3_Milady_tyson.png)
 
 **Brief Visual Description:** Tribal tattoo; featuring bold, flowing black lines with an asymmetrical
 
@@ -488,7 +510,9 @@ which he claims aided his mental health and fight preparation.
 
 **Name:** Fluoro Blue
 
-**Image Files:** SS3_freetekno_Fluoro Blue.png
+**Image Files:**
+
+![Fluoro Blue](../images/face accessories__z60/SS3_freetekno_Fluoro Blue.png)
 
 **Brief Visual Description:** Three vibrant neon-blue (almost turquoise) strokes, one bigger than
 
@@ -556,7 +580,9 @@ to the rave look.
 
 **Name:** Fluoro Green
 
-**Image Files:** SS3_freetekno_Fluoro Green.png
+**Image Files:**
+
+![Fluoro Green](../images/face accessories__z60/SS3_freetekno_Fluoro Green.png)
 
 **Brief Visual Description:** Three vibrant-neon green strokes, one bigger than the other two.
 
@@ -622,7 +648,9 @@ to the rave look.
 
 **Name:** Bindi
 
-**Image Files:** SS1_milady_modern_nepal_Bindi.png
+**Image Files:**
+
+![Bindi](../images/face accessories__z60/SS1_milady_modern_nepal_Bindi.png)
 
 **Brief Visual Description:** Red dot
 
@@ -664,7 +692,9 @@ fashion statement globally
 
 **Name:** Mibera Smiley
 
-**Image Files:** SS3_freetekno_mibera smiley.png
+**Image Files:**
+
+![Mibera Smiley](../images/face accessories__z60/SS3_freetekno_mibera smiley.png)
 
 **Brief Visual Description:** Smiley face with bear ears made of thin lines.
 
@@ -696,7 +726,9 @@ original remilia / Milady smiley logo. Only natural for it to be included.
 
 **Name:** Star
 
-**Image Files:** SS2_Milady_Star.png
+**Image Files:**
+
+![Star](../images/face accessories__z60/SS2_Milady_Star.png)
 
 **Brief Visual Description:** Small black star.
 
@@ -728,7 +760,9 @@ original remilia / Milady smiley logo. Only natural for it to be included.
 
 **Name:** Hand
 
-**Image Files:** SS3_milady_hand.png
+**Image Files:**
+
+![Hand](../images/face accessories__z60/SS3_milady_hand.png)
 
 **Brief Visual Description:** Red hand print
 
@@ -758,7 +792,9 @@ original remilia / Milady smiley logo. Only natural for it to be included.
 
 **Name:** Oil
 
-**Image Files:** SS2_freetekno_Oil.png
+**Image Files:**
+
+![Oil](../images/face accessories__z60/SS2_freetekno_Oil.png)
 
 **Brief Visual Description:** Black smudges, 1 bigger in size and 2 small ones.
 
@@ -796,7 +832,9 @@ original remilia / Milady smiley logo. Only natural for it to be included.
 
 **Name:** Heart
 
-**Image Files:** SS2_milady_Heart.png
+**Image Files:**
+
+![Heart](../images/face accessories__z60/SS2_milady_Heart.png)
 
 **Brief Visual Description:** Two tiny hearts in black.
 
@@ -828,7 +866,9 @@ original remilia / Milady smiley logo. Only natural for it to be included.
 
 **Name:** Hindu Swastika
 
-**Image Files:** SS4_Hindu swastika.png
+**Image Files:**
+
+![Hindu Swastika](../images/face accessories__z60/SS4_Hindu swastika.png)
 
 **Brief Visual Description:** Hindu Swastika in red; a symmetrical shape with four identical arms
 
@@ -878,7 +918,9 @@ tainted by the Nazis' reversed version, but it remains sacred in these cultures.
 
 **Name:** Chulym 2
 
-**Image Files:** SS4_milady_chulym 2.png
+**Image Files:**
+
+![Chulym 2](../images/face accessories__z60/SS4_milady_chulym 2.png)
 
 **Brief Visual Description:** Five small white dots at the top forming a slight arc, two red upward
 
@@ -930,7 +972,9 @@ Krai, Russia, along the Chulym River.
 
 **Name:** Indian Paint
 
-**Image Files:** SS4_chicagodetroit_ancient_indian_Indian.png
+**Image Files:**
+
+![Indian Paint](../images/face accessories__z60/SS4_chicagodetroit_ancient_indian_Indian.png)
 
 **Brief Visual Description:** Brush strokes and smudges of bright red and yellow stripes with a
 
@@ -970,7 +1014,9 @@ and rituals, symbolizing prosperity, protection, and spiritual connection.
 
 **Name:** Crescent
 
-**Image Files:** SS4_milady_Crescent.png
+**Image Files:**
+
+![Crescent](../images/face accessories__z60/SS4_milady_Crescent.png)
 
 **Brief Visual Description:** Black crescent moon shape, facing north.
 
@@ -1002,7 +1048,9 @@ and rituals, symbolizing prosperity, protection, and spiritual connection.
 
 **Name:** Chulym
 
-**Image Files:** SS4_milady_chulym.png
+**Image Files:**
+
+![Chulym](../images/face accessories__z60/SS4_milady_chulym.png)
 
 **Brief Visual Description:** White strokes with a slight hint of pink / rosy undertones. 1 line in the
 
@@ -1046,7 +1094,9 @@ Krai, Russia, along the Chulym River.
 
 **Name:** Mononoke
 
-**Image Files:** SS4_milady_Mononoke.png
+**Image Files:**
+
+![Mononoke](../images/face accessories__z60/SS4_milady_Mononoke.png)
 
 **Brief Visual Description:** Two medium-sized triangles in red, pointed downward.
 
@@ -1098,7 +1148,9 @@ marks her as a protector of nature.
 
 **Name:** Pride
 
-**Image Files:** SS2_milady_pride.png
+**Image Files:**
+
+![Pride](../images/face accessories__z60/SS2_milady_pride.png)
 
 **Brief Visual Description:** Rainbow strokes in a rectangle shape. Symbolizing a pride flag.
 
@@ -1144,7 +1196,9 @@ inclusion).
 
 **Name:** Trans Flag
 
-**Image Files:** SS2_milady_trans flag.png
+**Image Files:**
+
+![Trans Flag](../images/face accessories__z60/SS2_milady_trans flag.png)
 
 **Brief Visual Description:** Strokes of bright blue, pink, and white in a rectangle shape.
 
@@ -1190,7 +1244,9 @@ Johnson.
 
 **Name:** Tear Drop
 
-**Image Files:** SS2_Milady_tear drop.png
+**Image Files:**
+
+![Tear Drop](../images/face accessories__z60/SS2_Milady_tear drop.png)
 
 **Brief Visual Description:** Face tattoo of a symmetrical form with a rounded wider base that
 
@@ -1238,7 +1294,9 @@ loss or resilience.
 
 **Name:** Fluoro White
 
-**Image Files:** SS2_freetekno_Fluoro White.png
+**Image Files:**
+
+![Fluoro White](../images/face accessories__z60/SS2_freetekno_Fluoro White.png)
 
 **Brief Visual Description:** Three white strokes, one bigger than the other two.
 
@@ -1300,7 +1358,9 @@ to the rave look.
 
 **Name:** Whiskers
 
-**Image Files:** SS1_milady_Whiskers.png
+**Image Files:**
+
+![Whiskers](../images/face accessories__z60/SS1_milady_Whiskers.png)
 
 **Brief Visual Description:** Six really thin lines resembling cat whiskers.
 
@@ -1330,7 +1390,9 @@ to the rave look.
 
 **Name:** Small Bandage
 
-**Image Files:** SS1_milady_small bandage.png
+**Image Files:**
+
+![Small Bandage](../images/face accessories__z60/SS1_milady_small bandage.png)
 
 **Brief Visual Description:** Small bandage in white.
 
@@ -1360,7 +1422,9 @@ to the rave look.
 
 **Name:** Mibera
 
-**Image Files:** SS5_milady_Mibera.png
+**Image Files:**
+
+![Mibera](../images/face accessories__z60/SS5_milady_Mibera.png)
 
 **Brief Visual Description:** Writing of ‘MIBERA’ in all capital letters.
 
@@ -1390,7 +1454,9 @@ to the rave look.
 
 **Name:** Bandaid
 
-**Image Files:** SS1_milady_bandaid.png
+**Image Files:**
+
+![Bandaid](../images/face accessories__z60/SS1_milady_bandaid.png)
 
 **Brief Visual Description:** Small band-aid in their stereotypical light-brown color.
 
@@ -1420,7 +1486,9 @@ to the rave look.
 
 **Name:** Clean Bandage
 
-**Image Files:** SS1_chicagodetroit_clean bandage.png
+**Image Files:**
+
+![Clean Bandage](../images/face accessories__z60/SS1_chicagodetroit_clean bandage.png)
 
 **Brief Visual Description:** Square-shaped bandage in white with a thin line cross on top of it
 
@@ -1452,7 +1520,9 @@ securing the bandage in place.
 
 **Name:** Joker
 
-**Image Files:** SS5_joker.PNG
+**Image Files:**
+
+![Joker](../images/face accessories__z60/SS5_joker.PNG)
 
 **Brief Visual Description:** Roughly circular, white face with smudged outline. On it are: two
 
@@ -1490,7 +1560,9 @@ eyes. a red, diamond-shaped nose, and a wide red curved smile.
 
 **Name:** Septum
 
-**Image Files:** SS1_freetekno_Septum.PNG
+**Image Files:**
+
+![Septum](../images/face accessories__z60/SS1_freetekno_Septum.PNG)
 
 **Brief Visual Description:** Small circular ring resembling a ring..
 
@@ -1520,7 +1592,9 @@ eyes. a red, diamond-shaped nose, and a wide red curved smile.
 
 **Name:** Aboriginal Red
 
-**Image Files:** SS5_freetekno_ancient_aboriginal_Aboriginal Red.png
+**Image Files:**
+
+![Aboriginal Red](../images/face accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Red.png)
 
 **Brief Visual Description:** Red slightly curved horizontal red paint above (or framed within) a
 
@@ -1572,7 +1646,9 @@ narrative.
 
 **Name:** Ethiopian
 
-**Image Files:** SS5_chicagodetroit_ancient_ethiopian_Ethiopian.png
+**Image Files:**
+
+![Ethiopian](../images/face accessories__z60/SS5_chicagodetroit_ancient_ethiopian_Ethiopian.png)
 
 **Brief Visual Description:** White base with smudged outline, and messy circular-rectangular
 
@@ -1628,7 +1704,9 @@ their headgear, reflecting their connection to the land.
 
 **Name:** Bandage
 
-**Image Files:** SS1_chicagodetroit_bandage.png
+**Image Files:**
+
+![Bandage](../images/face accessories__z60/SS1_chicagodetroit_bandage.png)
 
 **Brief Visual Description:** Square-shaped bandage in white, tiny reddish spot in the middle
 
@@ -1660,7 +1738,9 @@ covered under a thin line cross on top of it.
 
 **Name:** Aboriginal Orange
 
-**Image Files:** SS5_freetekno_ancient_aboriginal_Aboriginal Orange.png
+**Image Files:**
+
+![Aboriginal Orange](../images/face accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Orange.png)
 
 **Brief Visual Description:** An orange, slightly curved, orange thick horizontal stroke, with
 
