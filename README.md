@@ -10,6 +10,15 @@ Individual entries for all 10,000 Mibera NFTs, each featuring:
 
 [Browse all Miberas →](miberas/index.md)
 
+## Birthdays
+
+9,995 unique birthdays spanning 15,000 years of history — from 13,166 BCE to 2024 CE. Each entry includes:
+- **Era Context** — Historical period and what was happening in the world
+- **Astrological Snapshot** — Sun sign, element, modality, ruling planet, and cosmic energy
+- **Time of Birth** — Dawn, midnight, dusk, and their mystical significance
+
+[Browse all Birthdays →](birthdays/index.md)
+
 ## Categories
 
 **Core Lore** — Archetypes, Ancestors, Tarot Cards
