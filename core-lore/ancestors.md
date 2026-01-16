@@ -99,11 +99,9 @@ Drugs Representations / Associated
 
 Drugs Representations / Associated
 
-**Modern:** CBD, Nicotine, 2C-B, MDA, Chewing Tobacco, DMT, Iproniazid, MDMA
+**Modern:** CBD, Nicotine, 2C-B, MDA, Chewing Tobacco, DMT, Iproniazid, MDMA, Benadryl
 
-**Ancient:** Benadryl, Bhang, Arundo Donax, Bufotenine, Sassafras, Psychotria Viridis, Datura,
-
-Peyote
+**Ancient:** Bhang, Arundo Donax, Bufotenine, Sassafras, Psychotria Viridis, Datura, Peyote
 
 **Sources:**
 
@@ -135,9 +133,9 @@ Peyote
 
 Drugs Representations / Associated
 
-**Modern:** Poppers, Scopolamine, Shroom Tea
+**Modern:** Poppers, Scopolamine, Shroom Tea, Sertraline
 
-**Ancient:** Kykeon, Sertraline, Nymphaea Caerulea, Henbane, St John's Wort, Mandrake
+**Ancient:** Kykeon, Nymphaea Caerulea, Henbane, St John's Wort, Mandrake
 
 **Sources:**
 
@@ -210,9 +208,9 @@ Drugs Representations / Associated
 
 Drugs Representations / Associated
 
-**Modern:** Sildenafil, Ibogaine,
+**Modern:** Sildenafil, Ibogaine
 
-**Ancient:** Tabernaemontana, Yohimbine, Iboga
+**Ancient:** Tabernaemontana, Yohimbe, Iboga
 
 **Sources:**
 
@@ -363,9 +361,9 @@ Drugs Representations / Associated
 
 Drugs Representations / Associated
 
-**Modern:** Euphoria
+**Modern:** Sober
 
-**Ancient:** Sober
+**Ancient:** Euphoria, Sober
 
 **Sources:**
 
@@ -569,7 +567,7 @@ Drugs Representations / Associated
 
 **Modern:** Clear Pill
 
-**Ancient:** Wine (ritual inversion)
+**Ancient:** Ethanol
 
 **Sources:**
 
@@ -680,9 +678,9 @@ Drugs Representations / Associated
 
 Drugs Representations / Associated
 
-**Modern:** Alcohol, Ethanol
+**Modern:** Alcohol
 
-**Ancient:**
+**Ancient:** Ethanol
 
 **Sources:**
 
@@ -953,9 +951,9 @@ Drugs Representations / Associated
 
 Drugs Representations / Associated
 
-**Modern:** Poppers
+**Modern:** Poppers, Alcohol
 
-**Ancient:** Alcohol
+**Ancient:** Ethanol
 
 **Sources:**
 
@@ -1070,7 +1068,7 @@ Drugs Representations / Associated
 
 **Modern:** Alcohol
 
-**Ancient:** Bhang, Opium
+**Ancient:** Bhang
 
 **Sources:**
 
@@ -1106,9 +1104,9 @@ Drugs Representations / Associated
 
 Drugs Representations / Associated
 
-**Modern:** Weed, Edibles
+**Modern:** Weed, THC Edibles
 
-**Ancient:** Cannabis
+**Ancient:** Bhang
 
 **Sources:**
 
@@ -1185,9 +1183,9 @@ Drugs Representations / Associated
 
 Drugs Representations / Associated
 
-**Modern:** Wine (ritual)
+**Modern:** Alcohol
 
-**Ancient:** Ancestral Trance
+**Ancient:** Ethanol, Ancestral Trance
 
 **Sources:**
 
@@ -1223,7 +1221,7 @@ Drugs Representations / Associated
 
 **Modern:** CBD
 
-**Ancient:** Bhang, Soma, Cannabis
+**Ancient:** Bhang
 
 **Sources:**
 
@@ -1262,7 +1260,7 @@ Drugs Representations / Associated
 
 Drugs Representations / Associated
 
-**Modern:** Modafinil, Nootropics
+**Modern:** Piracetam
 
 **Ancient:** Coffee
 
