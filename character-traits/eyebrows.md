@@ -10,7 +10,7 @@ EYEBROWS
 
 **Name:** concerned thick
 
-**Image Files:** Concerned Thick.png
+![Concerned Thick](../images/eyebrows__z95/Concerned%20Thick.webp)
 
 **Brief Visual Description:** thicker pair of tilted eyebrows slightly curved downwards
 
@@ -36,7 +36,7 @@ EYEBROWS
 
 **Name:** intense
 
-**Image Files:** Intense.png
+![Intense](../images/eyebrows__z95/Intense.webp)
 
 **Brief Visual Description:** thick pair of eyebrows, almost straight in shape and slightly arched
 
@@ -64,7 +64,7 @@ EYEBROWS
 
 **Name:** anxious thick
 
-**Image Files:** Anxious Thick.png
+![Anxious Thick](../images/eyebrows__z95/Anxious%20Thick.webp)
 
 **Brief Visual Description:** thicker pair of eyebrows, arched with a slight upward tilt at the inner
 
@@ -92,7 +92,7 @@ EYEBROWS
 
 **Name:** Concerned
 
-**Image Files:** Concerned.png
+![Concerned](../images/eyebrows__z95/Concerned.webp)
 
 **Brief Visual Description:** thinner pair of tilted eyebrows slightly curved downwards
 
@@ -118,7 +118,7 @@ EYEBROWS
 
 **Name:** short
 
-**Image Files:** Short.png
+![Short](../images/eyebrows__z95/Short.webp)
 
 **Brief Visual Description:** short thick eyebrows that’s thicker at the inner side and grows thinner
 
@@ -146,7 +146,7 @@ EYEBROWS
 
 **Name:** normal
 
-**Image Files:** Normal.png
+![Normal](../images/eyebrows__z95/Normal.webp)
 
 **Brief Visual Description:** thin eyebrows, slightly curved with no arch..
 
@@ -172,7 +172,7 @@ EYEBROWS
 
 **Name:** normal thick
 
-**Image Files:** Normal Thick.png
+![Normal Thick](../images/eyebrows__z95/Normal%20Thick.webp)
 
 **Brief Visual Description:** thicker eyebrows, slightly curved with no arch..
 
@@ -196,7 +196,7 @@ EYEBROWS
 
 **Name:** Anxious
 
-**Image Files:** Anxious.png
+![Anxious](../images/eyebrows__z95/Anxious.webp)
 
 **Brief Visual Description:** Thin pair of eyebrows, arched with a slight upward tilt at the inner
 
@@ -224,7 +224,7 @@ EYEBROWS
 
 **Name:** stern
 
-**Image Files:** Stern.png
+![Stern](../images/eyebrows__z95/Stern.webp)
 
 **Brief Visual Description:** a pair of straight, slightly angled downward eyebrows. Shape is flat
 

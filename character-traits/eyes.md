@@ -10,7 +10,7 @@ EYES
 
 **Name:** stoned brown
 
-**Image Files:** Stoned Brown__w9.png
+![Stoned Brown](../images/eyes__z69/Stoned%20Brown__w9.webp)
 
 **Brief Visual Description:** Brown eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -36,7 +36,7 @@ EYES
 
 **Name:** ecstasy sky
 
-**Image Files:** Ecstasy Sky__w8.png
+![Ecstasy Sky](../images/eyes__z69/Ecstasy%20Sky__w8.webp)
 
 **Brief Visual Description:** sky-blue eyes with heavily dilated pupils.
 
@@ -62,7 +62,7 @@ EYES
 
 **Name:** hypno brown
 
-**Image Files:** Hypno Brown__w7.png
+![Hypno Brown](../images/eyes__z69/Hypno%20Brown__w7.webp)
 
 **Brief Visual Description:** brown eyes with prominent white spirals.
 
@@ -122,7 +122,7 @@ EYES
 
 **Name:** normal leaf
 
-**Image Files:** Normal Leaf__w25.png
+![Normal Leaf](../images/eyes__z69/Normal%20Leaf__w25.webp)
 
 **Brief Visual Description:** normal leafy-green eyes
 
@@ -152,7 +152,7 @@ EYES
 
 **Name:** normal (sky)
 
-**Image Files:** Normal Sky__w25.png
+![Normal Sky](../images/eyes__z69/Normal%20Sky__w25.webp)
 
 **Brief Visual Description:** normal eyes in a sky-blue.
 
@@ -182,7 +182,7 @@ EYES
 
 **Name:** normal gold
 
-**Image Files:** Normal Gold__w25.png
+![Normal Gold](../images/eyes__z69/Normal%20Gold__w25.webp)
 
 **Brief Visual Description:** normal eyes, brighter than brown.
 
@@ -212,7 +212,7 @@ EYES
 
 **Name:** normal grey
 
-**Image Files:** Normal Grey__w25.png
+![Normal Grey](../images/eyes__z69/Normal%20Grey__w25.webp)
 
 **Brief Visual Description:** normal eyes in grey.
 
@@ -242,7 +242,7 @@ EYES
 
 **Name:** normal ocean
 
-**Image Files:** Normal Ocean__w25.png
+![Normal Ocean](../images/eyes__z69/Normal%20Ocean__w25.webp)
 
 **Brief Visual Description:** normal eyes in bright ocean blue.
 
@@ -272,7 +272,7 @@ EYES
 
 **Name:** normal brown
 
-**Image Files:** Normal Ocean__w25.png
+![Normal Ocean](../images/eyes__z69/Normal%20Ocean__w25.webp)
 
 **Brief Visual Description:** normal eyes in earthy brown.
 
@@ -302,7 +302,7 @@ EYES
 
 **Name:** heart leaf
 
-**Image Files:** Heart Leaf__w15.png
+![Heart Leaf](../images/eyes__z69/Heart%20Leaf__w15.webp)
 
 **Brief Visual Description:** eyes with heart-shaped pupils in leafy green.
 
@@ -328,7 +328,7 @@ EYES
 
 **Name:** heart brown
 
-**Image Files:** Heart Brown__w15.png
+![Heart Brown](../images/eyes__z69/Heart%20Brown__w15.webp)
 
 **Brief Visual Description:** eyes with heart-shaped pupils in brown.
 
@@ -354,7 +354,7 @@ EYES
 
 **Name:** sparkle forest
 
-**Image Files:** Sparkle Forest__w15.png
+![Sparkle Forest](../images/eyes__z69/Sparkle%20Forest__w15.webp)
 
 **Brief Visual Description:** deep-green eyes with three white dots between the iris and pupil.
 
@@ -380,7 +380,7 @@ EYES
 
 **Name:** bright brown
 
-**Image Files:** Bright Brown__w13.png
+![Bright Brown](../images/eyes__z69/Bright%20Brown__w13.webp)
 
 **Brief Visual Description:** brown eyes with a large white four pointed star within the pupil
 
@@ -406,7 +406,7 @@ EYES
 
 **Name:** sparkle brown
 
-**Image Files:** Sparkle Brown__w15.png
+![Sparkle Brown](../images/eyes__z69/Sparkle%20Brown__w15.webp)
 
 **Brief Visual Description:** Brown eyes with three white dots between the iris and pupil.
 
@@ -432,7 +432,7 @@ EYES
 
 **Name:** heart ocean
 
-**Image Files:** Heart Ocean__w15.png
+![Heart Ocean](../images/eyes__z69/Heart%20Ocean__w15.webp)
 
 **Brief Visual Description:** eyes with heart-shaped pupils in dark teal..
 
@@ -458,7 +458,7 @@ EYES
 
 **Name:** sparkle leaf
 
-**Image Files:** Sparkle Leaf__w15.png
+![Sparkle Leaf](../images/eyes__z69/Sparkle%20Leaf__w15.webp)
 
 **Brief Visual Description:** leafy-green eyes with three white dots between the iris and pupil.
 
@@ -482,7 +482,7 @@ EYES
 
 **Name:** Heart Grey
 
-**Image Files:** Heart Grey__w15.png
+![Heart Grey](../images/eyes__z69/Heart%20Grey__w15.webp)
 
 **Brief Visual Description:** Eyes with heart-shaped pupils in grey.
 
@@ -516,7 +516,7 @@ EYES
 
 **Name:** bright gold
 
-**Image Files:** Bright Gold__w13.png
+![Bright Gold](../images/eyes__z69/Bright%20Gold__w13.webp)
 
 **Brief Visual Description:** golden eyes with a large white four pointed star within the pupil
 
@@ -542,7 +542,7 @@ EYES
 
 **Name:** heart lilac
 
-**Image Files:** Heart Lilac__w15.png
+![Heart Lilac](../images/eyes__z69/Heart%20Lilac__w15.webp)
 
 **Brief Visual Description:** eyes with heart-shaped pupils in lilac
 
@@ -568,7 +568,7 @@ EYES
 
 **Name:** sparkle lilac
 
-**Image Files:** Sparkle Lilac__w15.png
+![Sparkle Lilac](../images/eyes__z69/Sparkle%20Lilac__w15.webp)
 
 **Brief Visual Description:** lilac eyes with three white dots between the iris and pupil.
 
@@ -594,7 +594,7 @@ EYES
 
 **Name:** sparkle gold
 
-**Image Files:** Sparkle Gold__w15.png
+![Sparkle Gold](../images/eyes__z69/Sparkle%20Gold__w15.webp)
 
 **Brief Visual Description:** golden eyes with three white dots between the iris and pupil.
 
@@ -620,7 +620,7 @@ EYES
 
 **Name:** heart gold
 
-**Image Files:** Heart Gold__w15.png
+![Heart Gold](../images/eyes__z69/Heart%20Gold__w15.webp)
 
 **Brief Visual Description:** eyes with heart-shaped pupils in matte gold.
 
@@ -646,7 +646,7 @@ EYES
 
 **Name:** sparkle sky
 
-**Image Files:** Sparkle Sky__w15.png
+![Sparkle Sky](../images/eyes__z69/Sparkle%20Sky__w15.webp)
 
 **Brief Visual Description:** sky-blue eyes with three white dots between the iris and pupil.
 
@@ -672,7 +672,7 @@ EYES
 
 **Name:** sparkle grey
 
-**Image Files:** Sparkle Grey__w15.png
+![Sparkle Grey](../images/eyes__z69/Sparkle%20Grey__w15.webp)
 
 **Brief Visual Description:** grey eyes with three white dots between the iris and pupil.
 
@@ -698,7 +698,7 @@ EYES
 
 **Name:** sparkle ocean
 
-**Image Files:** Sparkle Ocean__w15.png
+![Sparkle Ocean](../images/eyes__z69/Sparkle%20Ocean__w15.webp)
 
 **Brief Visual Description:** teal eyes with three white dots between the iris and pupil.
 
@@ -724,7 +724,7 @@ EYES
 
 **Name:** bright lilac
 
-**Image Files:** Bright Lilac__w13.png
+![Bright Lilac](../images/eyes__z69/Bright%20Lilac__w13.webp)
 
 **Brief Visual Description:** bright purple eyes with a large white four pointed star within the pupil
 
@@ -750,7 +750,7 @@ EYES
 
 **Name:** bright leaf
 
-**Image Files:** Bright Leaf__w13.png
+![Bright Leaf](../images/eyes__z69/Bright%20Leaf__w13.webp)
 
 **Brief Visual Description:** bright leafy green eyes with a large white four pointed star within the
 
@@ -778,7 +778,7 @@ EYES
 
 **Name:** heart sky
 
-**Image Files:** Heart Sky__w14.png
+![Heart Sky](../images/eyes__z69/Heart%20Sky__w14.webp)
 
 **Brief Visual Description:** eyes with heart-shaped pupils in blue.
 
@@ -804,7 +804,7 @@ EYES
 
 **Name:** bright sky
 
-**Image Files:** Bright Sky__w13.png
+![Bright Sky](../images/eyes__z69/Bright%20Sky__w13.webp)
 
 **Brief Visual Description:** blue eyes with a large white four pointed star within the pupil
 
@@ -830,7 +830,7 @@ EYES
 
 **Name:** bright grey
 
-**Image Files:** Bright Grey__w13.png
+![Bright Grey](../images/eyes__z69/Bright%20Grey__w13.webp)
 
 **Brief Visual Description:** grey eyes with a large white four pointed star within the pupil
 
@@ -856,7 +856,7 @@ EYES
 
 **Name:** bright ocean
 
-**Image Files:** Bright Ocean__w13.png
+![Bright Ocean](../images/eyes__z69/Bright%20Ocean__w13.webp)
 
 **Brief Visual Description:** teal eyes with a large white four pointed star within the pupil
 
@@ -882,7 +882,7 @@ EYES
 
 **Name:** stoned gold
 
-**Image Files:** Stoned Gold__w9.png
+![Stoned Gold](../images/eyes__z69/Stoned%20Gold__w9.webp)
 
 **Brief Visual Description:** golden eyes. The whites of the eyes are red, eyelids partially
 
@@ -910,7 +910,7 @@ EYES
 
 **Name:** sleepy ocean
 
-**Image Files:** Sleepy Ocean__w9.png
+![Sleepy Ocean](../images/eyes__z69/Sleepy%20Ocean__w9.webp)
 
 **Brief Visual Description:** tired eyes with vibrant teal iris
 
@@ -936,7 +936,7 @@ EYES
 
 **Name:** stoned lilac
 
-**Image Files:** Stoned Lilac__w9.png
+![Stoned Lilac](../images/eyes__z69/Stoned%20Lilac__w9.webp)
 
 **Brief Visual Description:** bright-purple eyes. The whites of the eyes are red, eyelids partially
 
@@ -964,7 +964,7 @@ EYES
 
 **Name:** sleepy gold
 
-**Image Files:** Sleepy Gold__w9.png
+![Sleepy Gold](../images/eyes__z69/Sleepy%20Gold__w9.webp)
 
 **Brief Visual Description:** tired eyes with golden iris.
 
@@ -990,7 +990,7 @@ EYES
 
 **Name:** ecstasy ocean
 
-**Image Files:** Ecstasy Ocean__w8.png
+![Ecstasy Ocean](../images/eyes__z69/Ecstasy%20Ocean__w8.webp)
 
 **Brief Visual Description:** teal eyes with heavily dilated pupils.
 
@@ -1016,7 +1016,7 @@ EYES
 
 **Name:** stoned grey
 
-**Image Files:** Stoned Grey__w9.png
+![Stoned Grey](../images/eyes__z69/Stoned%20Grey__w9.webp)
 
 **Brief Visual Description:** grey eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -1042,7 +1042,7 @@ EYES
 
 **Name:** sleepy leaf
 
-**Image Files:** Sleepy Leaf__w9.png
+![Sleepy Leaf](../images/eyes__z69/Sleepy%20Leaf__w9.webp)
 
 **Brief Visual Description:** tired eyes with leafy green iris.
 
@@ -1068,7 +1068,7 @@ EYES
 
 **Name:** stoned sky
 
-**Image Files:** Stoned Sky__w9.png
+![Stoned Sky](../images/eyes__z69/Stoned%20Sky__w9.webp)
 
 **Brief Visual Description:** bright-blue eyes. The whites of the eyes are red, eyelids partially
 
@@ -1096,7 +1096,7 @@ EYES
 
 **Name:** sleepy grey
 
-**Image Files:** Sleepy Grey__w9.png
+![Sleepy Grey](../images/eyes__z69/Sleepy%20Grey__w9.webp)
 
 **Brief Visual Description:** tired eyes with grey iris.
 
@@ -1122,7 +1122,7 @@ EYES
 
 **Name:** sleepy sky
 
-**Image Files:** Sleepy Grey__w9.png
+![Sleepy Grey](../images/eyes__z69/Sleepy%20Grey__w9.webp)
 
 **Brief Visual Description:** tired eyes with grey iris
 
@@ -1148,7 +1148,7 @@ EYES
 
 **Name:** pinhole ocean
 
-**Image Files:** Pinhole Ocean__w7.png
+![Pinhole Ocean](../images/eyes__z69/Pinhole%20Ocean__w7.webp)
 
 **Brief Visual Description:** teal eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -1174,7 +1174,7 @@ EYES
 
 **Name:** stoned leaf
 
-**Image Files:** Stoned Leaf__w9.png
+![Stoned Leaf](../images/eyes__z69/Stoned%20Leaf__w9.webp)
 
 **Brief Visual Description:** leafy-green eyes. The whites of the eyes are red, eyelids partially
 
@@ -1202,7 +1202,7 @@ EYES
 
 **Name:** sleepy brown
 
-**Image Files:** Sleepy Brown__w9.png
+![Sleepy Brown](../images/eyes__z69/Sleepy%20Brown__w9.webp)
 
 **Brief Visual Description:** tired eyes with brown iris.
 
@@ -1228,7 +1228,7 @@ EYES
 
 **Name:** hypno leaf
 
-**Image Files:** Hypno Leaf__w7.png
+![Hypno Leaf](../images/eyes__z69/Hypno%20Leaf__w7.webp)
 
 **Brief Visual Description:** leafy green eyes with prominent white spirals.
 
@@ -1254,7 +1254,7 @@ EYES
 
 **Name:** ecstasy grey
 
-**Image Files:** Ecstasy Grey__w8.png
+![Ecstasy Grey](../images/eyes__z69/Ecstasy%20Grey__w8.webp)
 
 **Brief Visual Description:** grey eyes with heavily dilated pupils.
 
@@ -1280,7 +1280,7 @@ EYES
 
 **Name:** stoned ocean
 
-**Image Files:** Stoned Ocean__w9.png
+![Stoned Ocean](../images/eyes__z69/Stoned%20Ocean__w9.webp)
 
 **Brief Visual Description:** teal eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -1306,7 +1306,7 @@ EYES
 
 **Name:** sleepy lilac
 
-**Image Files:** Sleepy Lilac__w9.png
+![Sleepy Lilac](../images/eyes__z69/Sleepy%20Lilac__w9.webp)
 
 **Brief Visual Description:** tired eyes with bright purple iris
 
@@ -1332,7 +1332,7 @@ EYES
 
 **Name:** ecstasy brown
 
-**Image Files:** Ecstasy Brown__w8.png
+![Ecstasy Brown](../images/eyes__z69/Ecstasy%20Brown__w8.webp)
 
 **Brief Visual Description:** brown eyes with heavily dilated pupils.
 
@@ -1358,7 +1358,7 @@ EYES
 
 **Name:** ecstasy leaf
 
-**Image Files:** Ecstasy Leaf__w8.png
+![Ecstasy Leaf](../images/eyes__z69/Ecstasy%20Leaf__w8.webp)
 
 **Brief Visual Description:** green eyes with heavily dilated pupils
 
@@ -1384,7 +1384,7 @@ EYES
 
 **Name:** hypno grey
 
-**Image Files:** Hypno Grey__w7.png
+![Hypno Grey](../images/eyes__z69/Hypno%20Grey__w7.webp)
 
 **Brief Visual Description:** grey eyes with prominent white spirals.
 
@@ -1410,7 +1410,7 @@ EYES
 
 **Name:** pinhole lilac
 
-**Image Files:** Pinhole Lilac__w7.png
+![Pinhole Lilac](../images/eyes__z69/Pinhole%20Lilac__w7.webp)
 
 **Brief Visual Description:** lilac eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -1436,7 +1436,7 @@ EYES
 
 **Name:** crossed grey
 
-**Image Files:** Crossed Grey__w6.png
+![Crossed Grey](../images/eyes__z69/Crossed%20Grey__w6.webp)
 
 **Brief Visual Description:** crossed eyes with bright grey iris
 
@@ -1462,7 +1462,7 @@ EYES
 
 **Name:** crossed leaf
 
-**Image Files:** Crossed Leaf__w6.png
+![Crossed Leaf](../images/eyes__z69/Crossed%20Leaf__w6.webp)
 
 **Brief Visual Description:** crossed eyes with bright green iris.
 
@@ -1488,7 +1488,7 @@ EYES
 
 **Name:** crying gold
 
-**Image Files:** Crying Gold__w6.png
+![Crying Gold](../images/eyes__z69/Crying%20Gold__w6.webp)
 
 **Brief Visual Description:** golden eyes with tears in the corners.
 
@@ -1514,7 +1514,7 @@ EYES
 
 **Name:** crying ocean
 
-**Image Files:** Crying Ocean__w6.png
+![Crying Ocean](../images/eyes__z69/Crying%20Ocean__w6.webp)
 
 **Brief Visual Description:** teal eyes with tears in the corners.
 
@@ -1540,7 +1540,7 @@ EYES
 
 **Name:** pinhole grey
 
-**Image Files:** Pinhole Grey__w7.png
+![Pinhole Grey](../images/eyes__z69/Pinhole%20Grey__w7.webp)
 
 **Brief Visual Description:** grey eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -1566,7 +1566,7 @@ EYES
 
 **Name:** ecstasy lilac
 
-**Image Files:** Ecstasy Lilac__w8.png
+![Ecstasy Lilac](../images/eyes__z69/Ecstasy%20Lilac__w8.webp)
 
 **Brief Visual Description:** purple eyes with heavily dilated pupils.
 
@@ -1592,7 +1592,7 @@ EYES
 
 **Name:** crying sky
 
-**Image Files:** Crying Sky__w6.png
+![Crying Sky](../images/eyes__z69/Crying%20Sky__w6.webp)
 
 **Brief Visual Description:** sky-blue eyes with tears in the corners.
 
@@ -1618,7 +1618,7 @@ EYES
 
 **Name:** hypno sky
 
-**Image Files:** Hypno Sky__w7.png
+![Hypno Sky](../images/eyes__z69/Hypno%20Sky__w7.webp)
 
 **Brief Visual Description:** blue eyes with prominent white spirals.
 
@@ -1644,7 +1644,7 @@ EYES
 
 **Name:** ecstasy gold
 
-**Image Files:** Ecstasy Gold__w8.png
+![Ecstasy Gold](../images/eyes__z69/Ecstasy%20Gold__w8.webp)
 
 **Brief Visual Description:** golden eyes with heavily dilated pupils.
 
@@ -1670,7 +1670,7 @@ EYES
 
 **Name:** crying grey
 
-**Image Files:** Crying Grey__w6.png
+![Crying Grey](../images/eyes__z69/Crying%20Grey__w6.webp)
 
 **Brief Visual Description:** grey eyes with tears in the corners.
 
@@ -1696,7 +1696,7 @@ EYES
 
 **Name:** hypno ocean
 
-**Image Files:** Hypno Ocean__w7.png
+![Hypno Ocean](../images/eyes__z69/Hypno%20Ocean__w7.webp)
 
 **Brief Visual Description:** teal eyes with prominent white spirals.
 
@@ -1722,7 +1722,7 @@ EYES
 
 **Name:** pinhole sky
 
-**Image Files:** Pinhole Sky__w7.png
+![Pinhole Sky](../images/eyes__z69/Pinhole%20Sky__w7.webp)
 
 **Brief Visual Description:** sky-blue eyes with constricted pupils, or usually known as pinpoint
 
@@ -1750,7 +1750,7 @@ EYES
 
 **Name:** pinhole gold
 
-**Image Files:** Pinhole Gold__w7.png
+![Pinhole Gold](../images/eyes__z69/Pinhole%20Gold__w7.webp)
 
 **Brief Visual Description:** golden eyes with constricted pupils, or usually known as pinpoint
 
@@ -1778,7 +1778,7 @@ EYES
 
 **Name:** hypno gold
 
-**Image Files:** Hypno Gold__w7.png
+![Hypno Gold](../images/eyes__z69/Hypno%20Gold__w7.webp)
 
 **Brief Visual Description:** golden brown eyes with prominent white spirals.
 
@@ -1804,7 +1804,7 @@ EYES
 
 **Name:** crossed ocean
 
-**Image Files:** Crossed Ocean__w6.png
+![Crossed Ocean](../images/eyes__z69/Crossed%20Ocean__w6.webp)
 
 **Brief Visual Description:** crossed eyes with bright teal iris.
 
@@ -1830,7 +1830,7 @@ EYES
 
 **Name:** crying lilac
 
-**Image Files:** Crying Lilac__w6.png
+![Crying Lilac](../images/eyes__z69/Crying%20Lilac__w6.webp)
 
 **Brief Visual Description:** lilac eyes with tears in the corners.
 
@@ -1856,7 +1856,7 @@ EYES
 
 **Name:** crossed sky
 
-**Image Files:** Crossed Sky__w6.png
+![Crossed Sky](../images/eyes__z69/Crossed%20Sky__w6.webp)
 
 **Brief Visual Description:** crossed eyes with sky-blue iris.
 
@@ -1882,7 +1882,7 @@ EYES
 
 **Name:** pinhole brown
 
-**Image Files:** Pinhole Brown__w7.png
+![Pinhole Brown](../images/eyes__z69/Pinhole%20Brown__w7.webp)
 
 **Brief Visual Description:** brown eyes with constricted pupils, or usually known as pinpoint
 
@@ -1910,7 +1910,7 @@ EYES
 
 **Name:** crossed gold
 
-**Image Files:** Crossed Gold__w6.png
+![Crossed Gold](../images/eyes__z69/Crossed%20Gold__w6.webp)
 
 **Brief Visual Description:** crossed eyes with golden iris.
 
@@ -1936,7 +1936,7 @@ EYES
 
 **Name:** pinhole leaf
 
-**Image Files:** Pinhole Leaf__w7.png
+![Pinhole Leaf](../images/eyes__z69/Pinhole%20Leaf__w7.webp)
 
 **Brief Visual Description:** leafy green eyes with constricted pupils, or usually known as pinpoint
 
@@ -1964,7 +1964,7 @@ EYES
 
 **Name:** crying leaf
 
-**Image Files:** Crying Leaf__w6.png
+![Crying Leaf](../images/eyes__z69/Crying%20Leaf__w6.webp)
 
 **Brief Visual Description:** green eyes with tears in the corners.
 
@@ -1990,7 +1990,7 @@ EYES
 
 **Name:** crossed brown
 
-**Image Files:** Crossed Brown__w6.png
+![Crossed Brown](../images/eyes__z69/Crossed%20Brown__w6.webp)
 
 **Brief Visual Description:** crossed eyes with brown iris.
 
@@ -2016,7 +2016,7 @@ EYES
 
 **Name:** hypno lilac
 
-**Image Files:** Hypno Lilac__w7.png
+![Hypno Lilac](../images/eyes__z69/Hypno%20Lilac__w7.webp)
 
 **Brief Visual Description:** purple eyes with prominent white spirals.
 
@@ -2042,7 +2042,7 @@ EYES
 
 **Name:** blind
 
-**Image Files:** Blind__w4.png
+![Blind](../images/eyes__z69/Blind__w4.webp)
 
 **Brief Visual Description:** complete white portraying a pair of blind eyes.
 
@@ -2068,7 +2068,7 @@ EYES
 
 **Name:** whirlpool
 
-**Image Files:** Whirlpool__w5.png
+![Whirlpool](../images/eyes__z69/Whirlpool__w5.webp)
 
 **Brief Visual Description:** bright blue eyes showcasing (or holding) whirlpools inside of them.
 
@@ -2094,7 +2094,7 @@ EYES
 
 **Name:** true love
 
-**Image Files:** True Love__w5.png
+![True Love](../images/eyes__z69/True%20Love__w5.webp)
 
 **Brief Visual Description:** pink iris with hearty details showcasing eyes that seem to be in love.
 
@@ -2120,7 +2120,7 @@ EYES
 
 **Name:** crossed lilac
 
-**Image Files:** Crossed Lilac__w6.png
+![Crossed Lilac](../images/eyes__z69/Crossed%20Lilac__w6.webp)
 
 **Brief Visual Description:** crossed eyes with lilac iris.
 
@@ -2146,7 +2146,7 @@ EYES
 
 **Name:** angelic
 
-**Image Files:** Angelic__w4.png
+![Angelic](../images/eyes__z69/Angelic__w4.webp)
 
 **Brief Visual Description:** iridescent eyes, perhaps showcasing one’s angelic nature.
 
@@ -2172,7 +2172,7 @@ EYES
 
 **Name:** crying brown
 
-**Image Files:** Crying Brown__w6.png
+![Crying Brown](../images/eyes__z69/Crying%20Brown__w6.webp)
 
 **Brief Visual Description:** Brown eyes with tears in the corners.
 
@@ -2198,7 +2198,7 @@ EYES
 
 **Name:** teddy
 
-**Image Files:** Teddy__w5.PNG
+![Teddy](../images/eyes__z69/Teddy__w5.webp)
 
 **Brief Visual Description:** eyes in steady teddy’s style
 
@@ -2224,7 +2224,7 @@ EYES
 
 **Name:** clocks
 
-**Image Files:** Time__w5.png
+![Time](../images/eyes__z69/Time__w5.webp)
 
 **Brief Visual Description:** a pair of bright yellow eyes showing a clock from each one of them.
 
@@ -2250,7 +2250,7 @@ EYES
 
 **Name:** honey swirl
 
-**Image Files:** Honey Swirl__w5.png
+![Honey Swirl](../images/eyes__z69/Honey%20Swirl__w5.webp)
 
 **Brief Visual Description:** a pair of swirly yellow eyes that look like they’re made up of honey.
 
@@ -2276,7 +2276,7 @@ EYES
 
 **Name:** demonic
 
-**Image Files:** Demonic__w4.png
+![Demonic](../images/eyes__z69/Demonic__w4.webp)
 
 **Brief Visual Description:** plain red eyes with no visible iris. Somewhat demonic and soulless.
 
@@ -2302,7 +2302,7 @@ EYES
 
 **Name:** henlo
 
-**Image Files:** henlo__w1.PNG
+![henlo](../images/eyes__z69/henlo__w1.webp)
 
 **Brief Visual Description:** a pair of ‘henlo’ eyes.
 
@@ -2328,7 +2328,7 @@ EYES
 
 **Name:** meta eyes
 
-**Image Files:** Meta eyes__w3.PNG
+![Meta eyes](../images/eyes__z69/Meta%20eyes__w3.webp)
 
 **Brief Visual Description:** "eyes" written in sloppy black text instead of actual eyes
 

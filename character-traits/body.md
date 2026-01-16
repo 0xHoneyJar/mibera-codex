@@ -8,7 +8,7 @@
 
 **Name:** Clay
 
-**Image Files:** clay__z80.PNG clay__w13.PNG
+![Clay](../images/body__z40/clay__z80.webp)
 
 **Brief Visual Description:** slightly tanned skin.
 
@@ -20,7 +20,7 @@
 
 **Name:** umber
 
-**Image Files:** umber__z80.PNG umber__w13.PNG
+![Umber](../images/body__z40/umber__z80.webp)
 
 **Brief Visual Description:** a slightly darker tone than a tanned skin.
 
@@ -32,7 +32,7 @@
 
 **Name:** ivory (z80)
 
-**Image Files:** ivory__w10.PNG ivory__z80.PNG
+![Ivory](../images/body__z40/ivory__z80.webp)
 
 **Brief Visual Description:** fair skin with slightly warm or neutral undertone.
 
@@ -44,7 +44,7 @@
 
 **Name:** Bronze
 
-**Image Files:** bronze__w10.PNG bronze__z80.PNG -
+![Bronze](../images/body__z40/bronze__z80.webp)
 
 **Brief Visual Description:** Bronze skin, darker than a tan.
 
@@ -56,7 +56,7 @@
 
 **Name:** sable
 
-**Image Files:** sable__w13.PNG sable__z80.PNG
+![Sable](../images/body__z40/sable__z80.webp)
 
 **Brief Visual Description:** sable skin, rich dark brown with a warm undertone.
 
@@ -68,7 +68,7 @@
 
 **Name:** mahogany
 
-**Image Files:** mahogany__w10.PNG mahogany__z80.PNG
+![Mahogany](../images/body__z40/mahogany__z80.webp)
 
 **Brief Visual Description:** mahogany skin, warm deep brown with reddish / coppery undertone.
 
@@ -80,7 +80,7 @@
 
 **Name:** beige
 
-**Image Files:** beige__w10.PNG beige__z80.PNG
+![Beige](../images/body__z40/beige__z80.webp)
 
 **Brief Visual Description:** beige skin, warm light to medium shade, neutral appearance, and
 
@@ -94,7 +94,7 @@ resembling a pale tan or light sand. It has a subtle golden yellowish undertones
 
 **Name:** pale
 
-**Image Files:** pale__w2.PNG pale__z80.PNG
+![Pale](../images/body__z40/pale__z80.webp)
 
 **Brief Visual Description:** pale skin, a very light, fair shade with minimal pigmentation, very
 
@@ -108,7 +108,7 @@ porcelain-like.
 
 **Name:** pink
 
-**Image Files:** pink__w13.PNG pink__z80.PNG
+![Pink](../images/body__z40/pink__z80.webp)
 
 **Brief Visual Description:** a very light, fair skin with cool rosy undertones that give it a soft,
 
@@ -136,7 +136,7 @@ undertones. It has a hint of light amber or caramel.
 
 **Name:** ebony
 
-**Image Files:** ebony__w2.PNG ebony__z80.PNG
+![Ebony](../images/body__z40/ebony__z80.webp)
 
 **Brief Visual Description:** ebony skin, a deep, rich, dark brown to near-black shade. Intense
 
@@ -150,7 +150,7 @@ brown with cool / neutral undertones.
 
 **Name:** tan
 
-**Image Files:** tan__w2.PNG tan__z80.PNG
+![Tan](../images/body__z40/tan__z80.webp)
 
 **Brief Visual Description:** tan skin, medium brown with warm / neutral undertones..
 
