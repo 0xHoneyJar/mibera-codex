@@ -10,13 +10,13 @@
 
 **Name:** Aquarius
 
-**Image Files:** Sun Aquarius.png
+![Sun Aquarius](../images/Sun/Sun%20Aquarius.webp)
 
 **Date Range:** January 20 - February 18
 
 **Glyph:** ♒
 
-**Element:** Water
+**Element:** Air
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Name:** Aries
 
-**Image Files:** Sun Aries.png
+![Sun Aries](../images/Sun/Sun%20Aries.webp)
 
 **Date Range:** March 21 - April 19
 
@@ -38,7 +38,7 @@
 
 **Name:** Cancer
 
-**Image Files:** Sun Cancer.png
+![Sun Cancer](../images/Sun/Sun%20Cancer.webp)
 
 **Date Range:** June 22 - July 22
 
@@ -52,7 +52,7 @@
 
 **Name:** Capricorn
 
-**Image Files:** Sun Capricorn.png
+![Sun Capricorn](../images/Sun/Sun%20Capricorn.webp)
 
 **Date Range:** December 22 - January 19
 
@@ -66,7 +66,7 @@
 
 **Name:** Gemini
 
-**Image Files:** Sun Gemini.png
+![Sun Gemini](../images/Sun/Sun%20Gemini.webp)
 
 **Date Range:** May 21 - June 20
 
@@ -80,7 +80,7 @@
 
 **Name:** Leo
 
-**Image Files:** Sun Leo.png
+![Sun Leo](../images/Sun/Sun%20Leo.webp)
 
 **Date Range:** July 23 - August 22
 
@@ -94,7 +94,7 @@
 
 **Name:** Libra
 
-**Image Files:** Sun Libra.png
+![Sun Libra](../images/Sun/Sun%20Libra.webp)
 
 **Date Range:** September 23 - October 22
 
@@ -108,7 +108,7 @@
 
 **Name:** Pisces
 
-**Image Files:** Sun Pisces.png
+![Sun Pisces](../images/Sun/Sun%20Pisces.webp)
 
 **Date Range:** February 19 - March 20
 
@@ -122,7 +122,7 @@
 
 **Name:** Sagittarius
 
-**Image Files:** Sun Sagittarius.png
+![Sun Sagittarius](../images/Sun/Sun%20Sagittarius.webp)
 
 **Date Range:** November 22 - December 21
 
@@ -136,7 +136,7 @@
 
 **Name:** Scorpio
 
-**Image Files:** Sun Scorpio.png
+![Sun Scorpio](../images/Sun/Sun%20Scorpio.webp)
 
 **Date Range:** October 23 - November 21
 
@@ -150,7 +150,7 @@
 
 **Name:** Taurus
 
-**Image Files:** Sun Taurus.png
+![Sun Taurus](../images/Sun/Sun%20Taurus.webp)
 
 **Date Range:** April 20 - May 20
 
@@ -164,7 +164,7 @@
 
 **Name:** Virgo
 
-**Image Files:** Sun Virgo.png
+![Sun Virgo](../images/Sun/Sun%20Virgo.webp)
 
 **Date Range:** August 23 - September 22
 
@@ -180,13 +180,11 @@
 
 **Name:** Aquarius
 
-**Image Files:** Moon Aquarius.png
-
-**Date Range:** January 19 - February 18
+![Moon Aquarius](../images/Moon/Moon%20Aquarius.webp)
 
 **Glyph:** ♒
 
-**Element:** Water
+**Element:** Air
 
 ---
 
@@ -194,9 +192,7 @@
 
 **Name:** Aries
 
-**Image Files:** Moon Aries.png
-
-**Date Range:**
+![Moon Aries](../images/Moon/Moon%20Aries.webp)
 
 **Glyph:** ♈
 
@@ -208,9 +204,7 @@
 
 **Name:** Cancer
 
-**Image Files:** Moon Cancer.png
-
-**Date Range:**
+![Moon Cancer](../images/Moon/Moon%20Cancer.webp)
 
 **Glyph:** ♋
 
@@ -222,9 +216,7 @@
 
 **Name:** Capricorn
 
-**Image Files:** Moon Capricorn.png
-
-**Date Range:**
+![Moon Capricorn](../images/Moon/Moon%20Capricorn.webp)
 
 **Glyph:** ♑
 
@@ -236,9 +228,7 @@
 
 **Name:** Gemini
 
-**Image Files:** Moon Gemini.png
-
-**Date Range:**
+![Moon Gemini](../images/Moon/Moon%20Gemini.webp)
 
 **Glyph:** ♊
 
@@ -250,9 +240,7 @@
 
 **Name:** Leo
 
-**Image Files:** Moon Leo.png
-
-**Date Range:**
+![Moon Leo](../images/Moon/Moon%20Leo.webp)
 
 **Glyph:** ♌
 
@@ -264,9 +252,7 @@
 
 **Name:** Libra
 
-**Image Files:** Moon Libra.png
-
-**Date Range:**
+![Moon Libra](../images/Moon/Moon%20Libra.webp)
 
 **Glyph:** ♎
 
@@ -278,9 +264,7 @@
 
 **Name:** Pisces
 
-**Image Files:** Moon Pisces.png
-
-**Date Range:**
+![Moon Pisces](../images/Moon/Moon%20Pisces.webp)
 
 **Glyph:** ♓
 
@@ -292,9 +276,7 @@
 
 **Name:** Sagittarius
 
-**Image Files:** Moon Sagittarius.png
-
-**Date Range:**
+![Moon Sagittarius](../images/Moon/Moon%20Sagittarius.webp)
 
 **Glyph:** ♐
 
@@ -306,9 +288,7 @@
 
 **Name:** Scorpio
 
-**Image Files:** Moon Scorpio.png
-
-**Date Range:**
+![Moon Scorpio](../images/Moon/Moon%20Scorpio.webp)
 
 **Glyph:** ♏
 
@@ -320,9 +300,7 @@
 
 **Name:** Taurus
 
-**Image Files:** Moon Taurus.png
-
-**Date Range:**
+![Moon Taurus](../images/Moon/Moon%20Taurus.webp)
 
 **Glyph:** ♉
 
@@ -334,9 +312,7 @@
 
 **Name:** Virgo
 
-**Image Files:** Moon Virgo.png
-
-**Date Range:**
+![Moon Virgo](../images/Moon/Moon%20Virgo.webp)
 
 **Glyph:** ♍
 
@@ -350,13 +326,11 @@
 
 **Name:** Aquarius
 
-**Image Files:** Rising Aquarius.png
-
-**Date Range:**
+![Rising Aquarius](../images/Rising/Rising%20Aquarius.webp)
 
 **Glyph:** ♒
 
-**Element:** Water
+**Element:** Air
 
 ---
 
@@ -364,9 +338,7 @@
 
 **Name:** Aries
 
-**Image Files:** Rising Aries.png
-
-**Date Range:**
+![Rising Aries](../images/Rising/Rising%20Aries.webp)
 
 **Glyph:** ♈
 
@@ -378,9 +350,7 @@
 
 **Name:** Cancer
 
-**Image Files:** Rising Cancer.png
-
-**Date Range:**
+![Rising Cancer](../images/Rising/Rising%20Cancer.webp)
 
 **Glyph:** ♋
 
@@ -392,9 +362,7 @@
 
 **Name:** Capricorn
 
-**Image Files:** Rising Capricorn.png
-
-**Date Range:**
+![Rising Capricorn](../images/Rising/Rising%20Capricorn.webp)
 
 **Glyph:** ♑
 
@@ -406,9 +374,7 @@
 
 **Name:** Gemini
 
-**Image Files:** Rising Gemini.png
-
-**Date Range:**
+![Rising Gemini](../images/Rising/Rising%20Gemini.webp)
 
 **Glyph:** ♊
 
@@ -420,9 +386,7 @@
 
 **Name:** Leo
 
-**Image Files:** Rising Leo.png
-
-**Date Range:**
+![Rising Leo](../images/Rising/Rising%20Leo.webp)
 
 **Glyph:** ♌
 
@@ -434,9 +398,7 @@
 
 **Name:** Libra
 
-**Image Files:** Rising Libra.png
-
-**Date Range:**
+![Rising Libra](../images/Rising/Rising%20Libra.webp)
 
 **Glyph:** ♎
 
@@ -448,9 +410,7 @@
 
 **Name:** Pisces
 
-**Image Files:** Rising Pisces.png
-
-**Date Range:**
+![Rising Pisces](../images/Rising/Rising%20Pisces.webp)
 
 **Glyph:** ♓
 
@@ -462,9 +422,7 @@
 
 **Name:** Sagittarius
 
-**Image Files:** Rising Sagittarius.png
-
-**Date Range:**
+![Rising Sagittarius](../images/Rising/Rising%20Sagittarius.webp)
 
 **Glyph:** ♐
 
@@ -476,9 +434,7 @@
 
 **Name:** Scorpio
 
-**Image Files:** Rising Scorpio.png
-
-**Date Range:**
+![Rising Scorpio](../images/Rising/Rising%20Scorpio.webp)
 
 **Glyph:** ♏
 
@@ -490,9 +446,7 @@
 
 **Name:** Taurus
 
-**Image Files:** Rising Taurus.png
-
-**Date Range:**
+![Rising Taurus](../images/Rising/Rising%20Taurus.webp)
 
 **Glyph:** ♉
 
@@ -504,13 +458,10 @@
 
 **Name:** Virgo
 
-**Image Files:** Rising Virgo.png
-
-**Date Range:**
+![Rising Virgo](../images/Rising/Rising%20Virgo.webp)
 
 **Glyph:** ♍
 
 **Element:** Earth
 
 ---
-

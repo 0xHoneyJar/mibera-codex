@@ -8,11 +8,11 @@
 
 **Name:** Air
 
-**Image Files:** Air.PNG
+![Air](../images/Elements/Air.webp)
 
 **Mibera Geography Associations:**
 
-**Real World Astrological Associations:**
+**Real World Astrological Associations:** Gemini, Libra, Aquarius
 
 **Quadrant:** Northern (lat ≥ 0) and Eastern (lon ≥ 0) quadrant
 
@@ -22,11 +22,11 @@
 
 **Name:** Earth
 
-**Image Files:** Earth.PNG
+![Earth](../images/Elements/Earth.webp)
 
 **Mibera Geography Associations:**
 
-**Real World Astrological Associations:**
+**Real World Astrological Associations:** Taurus, Virgo, Capricorn
 
 **Quadrant:** Northern (lat ≥ 0) and Western (lon < 0) quadrant.
 
@@ -36,11 +36,11 @@
 
 **Name:** Fire
 
-**Image Files:** Fire.PNG
+![Fire](../images/Elements/Fire.webp)
 
 **Mibera Geography Associations:**
 
-**Real World Astrological Associations:**
+**Real World Astrological Associations:** Aries, Leo, Sagittarius
 
 **Quadrant:** Southern (lat < 0) and Eastern (lon ≥ 0) quadrant.
 
@@ -50,13 +50,12 @@
 
 **Name:** Water
 
-**Image Files:** Water.PNG
+![Water](../images/Elements/Water.webp)
 
 **Mibera Geography Associations:**
 
-**Real World Astrological Associations:**
+**Real World Astrological Associations:** Cancer, Scorpio, Pisces
 
 **Quadrant:** Southern (lat < 0) and Western (lon < 0) quadrant.
 
 ---
-
