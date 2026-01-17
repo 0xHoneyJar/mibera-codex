@@ -6,2351 +6,4859 @@
 
 ## Golden Hoop
 
+### Visual Properties
+
 **Name:** Golden Hoop
 
-**Image Files:** SS3_golden hoop.PNG
+**Image Files:**
+SS3_golden hoop.PNG
 
-**Brief Visual Description:** Golden hoop / circular earring
+**Accessory Type:**
+
+**Visual Description:** Golden hoop / circular earring
 
 **Dominant Colors:** Golden
 
-**Reasoning for Inclusion within Mibera:** Aligned culture, related to the 90s rave
+**Material Impression:**
 
-**General Real World Trait History:** DiY crew; a Nottingham-based collective, co-founded by
+---
 
-Harry Harrison, Rick "Digs" Down, Simon "DK" Smith, and Pete "Woosh" Birch in 1989. They
+### Cultural Context
 
-hold a big role in bridging hippy free parties and urban club culture, resisting commercialization
+**Source Type:**
 
-and police crackdowns, notably during the 1992 Castlemorton rave and the 1994 Criminal
+**Cultural Origin:** DiY crew; a Nottingham-based collective, co-founded by Harry Harrison, Rick "Digs" Down, Simon "DK" Smith, and Pete "Woosh" Birch in 1989. They hold a big role in bridging hippy free parties and urban club culture, resisting commercialization and police crackdowns, notably during the 1992 Castlemorton rave and the 1994 Criminal Justice Act. The piece notes their utopian yet hedonistic legacy, marked by drug-related challenges and occasional milestone free parties, as detailed in Harrison’s book Dreaming in Yellow.
 
-Justice Act. The piece notes their utopian yet hedonistic legacy, marked by drug-related
+**Era:**
 
-challenges and occasional milestone free parties, as detailed in Harrison’s book Dreaming in
+**Scene Association:**
 
-Yellow.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** December 9, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:** Jani
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):**
+**Archetype:** 
 
-**Swag Score (if applicable):** 3
+**Archetype Alignment:** Aligned culture, related to the 90s rave
 
-**Research Sources:**
+**Vibe Tags:**
 
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 9, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1167452819809378386/11677982971933
-
-57342
-
 - https://www.theguardian.com/music/2022/apr/19/90s-rave-crew-diy-sound-system-interview-we-
 
-sacrificed-our-sanity
+**Summary:** 
 
 ---
 
 ## Dopamine
 
+### Visual Properties
+
 **Name:** Dopamine
 
-**Image Files:** SS3_dopamine.png
+**Image Files:**
+SS3_dopamine.png
 
-**Brief Visual Description:** Earring in the molecular shape of ‘dopamine’ in silver or rosegold; a
+**Accessory Type:**
 
-hexagonal shape in the center with lines extending out of 2 points ending with a dot-like shape.
+**Visual Description:** Earring in the molecular shape of ‘dopamine’ in silver or rosegold; a hexagonal shape in the center with lines extending out of 2 points ending with a dot-like shape.
 
 **Dominant Colors:** Silver / rosegold.
 
-**Reasoning for Inclusion within Mibera:** “Feel-good” chemical produced by the brain itself
+**Material Impression:**
 
-that’s more related to driving behavior towards rewards than direct happiness.
+---
 
-**General Real World Trait History:** Dopamine is a chemical messenger in the nervous system,
+### Cultural Context
 
-primarily produced in the brain's substantia nigra and ventral tegmental area. It plays a key role
+**Source Type:**
 
-in the brain's reward system, influencing feelings of pleasure, motivation, and reinforcement
+**Cultural Origin:** Dopamine is a chemical messenger in the nervous system, primarily produced in the brain's substantia nigra and ventral tegmental area. It plays a key role in the brain's reward system, influencing feelings of pleasure, motivation, and reinforcement learning.
 
-learning.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani / Gumi
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** “Feel-good” chemical produced by the brain itself that’s more related to driving behavior towards rewards than direct happiness.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani / Gumi
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Dopamine
+
+**Summary:** 
 
 ---
 
 ## Beramilia
 
+### Visual Properties
+
 **Name:** Beramilia
 
-**Image Files:** SS3_acidhouse_Beramilia.png
+**Image Files:**
+SS3_acidhouse_Beramilia.png
 
-**Brief Visual Description:** Earring in the shape of a smiley face in yellow with curved ears.
+**Accessory Type:**
 
-Radiating a bit of glow.
+**Visual Description:** Earring in the shape of a smiley face in yellow with curved ears. Radiating a bit of glow.
 
 **Dominant Colors:** Yellow
 
-**Reasoning for Inclusion within Mibera:** Main iconography for Mibera
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):** Acidhouse
+**Scene Association:**
 
-**Swag Score (if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** Main iconography for Mibera
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1157089577102737459/11790183996076
 
-97459
+**Summary:** 
 
 ---
 
 ## Smol Strawberry
 
+### Visual Properties
+
 **Name:** Smol Strawberry
 
-**Image Files:** SS3_milady_Strawberry.png
+**Image Files:**
+SS3_milady_Strawberry.png
 
-**Brief Visual Description:** Strawberry.
+**Accessory Type:**
+
+**Visual Description:** Strawberry.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:** Correlation with Milady as part of their traits.
+**Material Impression:**
 
-**General Real World Trait History:** Milady Maker is a 2021 Ethereum NFT collection of 10,000
+---
 
-generative neochibi-style PFPs inspired by 2000s Tokyo street fashion, created by
+### Cultural Context
 
-pseudonymous Remilia Collective.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Milady Maker is a 2021 Ethereum NFT collection of 10,000 generative neochibi-style PFPs inspired by 2000s Tokyo street fashion, created by pseudonymous Remilia Collective.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:**
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Milady
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** Correlation with Milady as part of their traits.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://opensea.io/collection/milady
-
 - https://www.datawallet.com/crypto/what-is-milady-nft
+
+**Summary:** 
 
 ---
 
 ## Purple Lolipop
 
+### Visual Properties
+
 **Name:** Purple Lolipop
 
-**Image Files:** SS3_purple lolipop.png
+**Image Files:**
+SS3_purple lolipop.png
 
-**Brief Visual Description:** Earring with a purple lollipop as the charm.
+**Accessory Type:**
+
+**Visual Description:** Earring with a purple lollipop as the charm.
 
 **Dominant Colors:** Vibrant purple
 
-**Reasoning for Inclusion within Mibera:** Relation to drug-use and users, as well as rave
+**Material Impression:**
 
-culture.
+---
 
-**General Real World Trait History:** Rave culture is closely tied to drugs like MDMA, but often
+### Cultural Context
 
-leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental
+**Source Type:**
 
-damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral
+**Cultural Origin:** Rave culture is closely tied to drugs like MDMA, but often leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either coated or infused to disguise it as candy for easier transport and consumption at events
 
-stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either
+**Era:**
 
-coated or infused to disguise it as candy for easier transport and consumption at events
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):**
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** 
 
-**Note:** Influenced by Babybera.
+**Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://darta.net.au/real-deal-on-drugs/why-do-people-suck-on-lollipops-and-chew-so-much-whe
-
-n-they-take-ecstasy/
-
 - https://www.addictionadvocates.com/addiction-treatments/drug-rehab/what-are-mdma-lollipops/
+
+**Summary:** 
 
 ---
 
 ## Green Lolipop
 
+### Visual Properties
+
 **Name:** Green Lolipop
 
-**Image Files:** SS1_green lolipop.png
+**Image Files:**
+SS1_green lolipop.png
 
-**Brief Visual Description:** Earring with a leafy green lollipop as the charm.
+**Accessory Type:**
+
+**Visual Description:** Earring with a leafy green lollipop as the charm.
 
 **Dominant Colors:** Leafy green
 
-**Reasoning for Inclusion within Mibera:** Relation to drug-use and users, as well as rave
+**Material Impression:**
 
-culture.
+---
 
-**General Real World Trait History:** Rave culture is closely tied to drugs like MDMA, but often
+### Cultural Context
 
-leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental
+**Source Type:**
 
-damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral
+**Cultural Origin:** Rave culture is closely tied to drugs like MDMA, but often leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either coated or infused to disguise it as candy for easier transport and consumption at events
 
-stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either
+**Era:**
 
-coated or infused to disguise it as candy for easier transport and consumption at events
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):**
+### Mibera Integration
 
-**Swag Score (if applicable):** 1
+**Archetype:** 
 
-**Note:** Influenced by Babybera.
+**Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://darta.net.au/real-deal-on-drugs/why-do-people-suck-on-lollipops-and-chew-so-much-whe
-
-n-they-take-ecstasy/
-
 - https://www.addictionadvocates.com/addiction-treatments/drug-rehab/what-are-mdma-lollipops/
+
+**Summary:** 
 
 ---
 
 ## Green Gummy Bear
 
+### Visual Properties
+
 **Name:** Green Gummy Bear
 
-**Image Files:** SS3_green gummy bear.png
+**Image Files:**
+SS3_green gummy bear.png
 
-**Brief Visual Description:** Earring with green gummy bear as the charm.
+**Accessory Type:**
+
+**Visual Description:** Earring with green gummy bear as the charm.
 
 **Dominant Colors:** Leafy green
 
-**Reasoning for Inclusion within Mibera:** Relation to drugs and a nod to Gumi’s name.
+**Material Impression:**
 
-**General Real World Trait History:** Gummy bears are often laced with drugs.
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** June 4, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Babybera
+**Cultural Origin:** Gummy bears are often laced with drugs.
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score (if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Relation to drugs and a nod to Gumi’s name.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** Babybera
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Spiral 3
 
+### Visual Properties
+
 **Name:** Spiral 3
 
-**Image Files:** SS3_freetekno_Spiral 3.png
+**Image Files:**
+SS3_freetekno_Spiral 3.png
 
-**Brief Visual Description:** Thick swirl / spiral earring in white with black swirly tribal line-art on
+**Accessory Type:**
 
-them.
+**Visual Description:** Thick swirl / spiral earring in white with black swirly tribal line-art on them.
 
 **Dominant Colors:** White, black
 
-**Reasoning for Inclusion within Mibera:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way.
+**Material Impression:**
 
-Spiral Tribe is a big influence within Mibera lore.
+---
 
-**General Real World Trait History:** Spiral Tribe is a free party sound system and collective that
+### Cultural Context
 
-emerged in the early 1990s in West London. Known for their nomadic lifestyle and
+**Source Type:**
 
-anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
+**Cultural Origin:** Spiral Tribe is a free party sound system and collective that emerged in the early 1990s in West London. Known for their nomadic lifestyle and anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house and hardcore techno.
 
-and hardcore techno.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Gods
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Freetekno
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** Gods
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1167452819809378386/11674681938209
 
-87414
+**Summary:** 
 
 ---
 
 ## Spiral 2
 
+### Visual Properties
+
 **Name:** Spiral 2
 
-**Image Files:** SS3_freetekno_modern_aboriginal_Spiral 2.png
+**Image Files:**
+SS3_freetekno_modern_aboriginal_Spiral 2.png
 
-**Brief Visual Description:** Thick swirl / spiral earring in black with white swirly tribal line-art on
+**Accessory Type:**
 
-them.
+**Visual Description:** Thick swirl / spiral earring in black with white swirly tribal line-art on them.
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way.
+**Material Impression:**
 
-Spiral Tribe is a big influence within Mibera lore.
+---
 
-**General Real World Trait History:** Spiral Tribe is a free party sound system and collective that
+### Cultural Context
 
-emerged in the early 1990s in West London. Known for their nomadic lifestyle and
+**Source Type:**
 
-anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
+**Cultural Origin:** Spiral Tribe is a free party sound system and collective that emerged in the early 1990s in West London. Known for their nomadic lifestyle and anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):** Aboriginal
+**Why This Matters:**
 
-**Archetype (if applicable):** Freetekno
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
 
-**Modern / Ancient:** Modern
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Aboriginal
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1167452819809378386/11674681938209
 
-87414
+**Summary:** 
 
 ---
 
 ## Spiral 1
 
+### Visual Properties
+
 **Name:** Spiral 1
 
-**Image Files:** SS3_freetekno_modern_aboriginal_Spiral 2.png
+**Image Files:**
+SS3_freetekno_modern_aboriginal_Spiral 2.png
 
-**Brief Visual Description:** Thick swirl / spiral earring in black
+**Accessory Type:**
+
+**Visual Description:** Thick swirl / spiral earring in black
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way.
+**Material Impression:**
 
-Spiral Tribe is a big influence within Mibera lore.
+---
 
-**General Real World Trait History:** Spiral Tribe is a free party sound system and collective that
+### Cultural Context
 
-emerged in the early 1990s in West London. Known for their nomadic lifestyle and
+**Source Type:**
 
-anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
+**Cultural Origin:** Spiral Tribe is a free party sound system and collective that emerged in the early 1990s in West London. Known for their nomadic lifestyle and anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Freetekno
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
 
-**Modern / Ancient:** Modern
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1167452819809378386/11674681938209
 
-87414
+**Summary:** 
 
 ---
 
 ## Rainbow Ring
 
+### Visual Properties
+
 **Name:** Rainbow Rings
 
-**Image Files:** SS3_rainbow ring.png
+**Image Files:**
+SS3_rainbow ring.png
 
-**Brief Visual Description:** Thin rainbow ring / hoop-earring.
+**Accessory Type:**
+
+**Visual Description:** Thin rainbow ring / hoop-earring.
 
 **Dominant Colors:** Rainbow color
 
-**Reasoning for Inclusion within Mibera:** In relation to pride and LGBTQ+ which is also a big
+**Material Impression:**
 
-part of rave culture.
+---
 
-**General Real World Trait History:** The rainbow flag, designed by Gilbert Baker in 1978, is a
+### Cultural Context
 
-global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation,
+**Source Type:**
 
-used in pride events and advocacy for LGBTQ+ rights.
+**Cultural Origin:** The rainbow flag, designed by Gilbert Baker in 1978, is a global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation, used in pride events and advocacy for LGBTQ+ rights.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** June 4, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Meta Earrings
 
+### Visual Properties
+
 **Name:** Meta Earrings
 
-**Image Files:** SS3_milady_Meta Earrings.png
+**Image Files:**
+SS3_milady_Meta Earrings.png
 
-**Brief Visual Description:** Writing of the word ‘EARRINGS’ in all capital letters.
+**Accessory Type:**
+
+**Visual Description:** Writing of the word ‘EARRINGS’ in all capital letters.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** June 19, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score (if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 19, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Paperclip 2
 
+### Visual Properties
+
 **Name:** Paperclip 2
 
-**Image Files:** SS3_freetekno_Paperclip 2.png
+**Image Files:**
+SS3_freetekno_Paperclip 2.png
 
-**Brief Visual Description:** Two paperclips / safety pins in light-grey.
+**Accessory Type:**
+
+**Visual Description:** Two paperclips / safety pins in light-grey.
 
 **Dominant Colors:** Light grey / silver
 
-**Reasoning for Inclusion within Mibera:** It carries a long-standing history rooted in the punk
+**Material Impression:**
 
-and counterculture movement. Which is very much aligned with Mibera culture in general.
+---
 
-**General Real World Trait History:** Paper-clip symbolizes resilience, strength, and overcoming
+### Cultural Context
 
-challenges while embracing one's unique identity.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Paper-clip symbolizes resilience, strength, and overcoming challenges while embracing one's unique identity.
 
-**Date Created/Uploaded:** November 28, 2023
+**Era:**
 
-**Who Introduced the Trait:** Jani
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Freetekno
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
 
-- https://discord.com/channels/1133935527855399053/1167452819809378386/11678043915464
+---
 
-29450
+### Mibera Integration
 
-- https://boho-magic.com/blogs/news/safety-pin-earring-symbolism
+**Archetype:** Freetekno
+
+**Archetype Alignment:** It carries a long-standing history rooted in the punk and counterculture movement. Which is very much aligned with Mibera culture in general.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1167452819809378386/11678043915464 29450 - https://boho-magic.com/blogs/news/safety-pin-earring-symbolism ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Rainbow
 
+### Visual Properties
+
 **Name:** Rainbow
 
-**Image Files:** SS3_rainbow.png
+**Image Files:**
+SS3_rainbow.png
 
-**Brief Visual Description:** Stereotypical rainbow; a curved band of colors consisting of red,
+**Accessory Type:**
 
-orange, yellow, green, blue, indigo, violet.
+**Visual Description:** Stereotypical rainbow; a curved band of colors consisting of red, orange, yellow, green, blue, indigo, violet.
 
 **Dominant Colors:** Rainbow color
 
-**Reasoning for Inclusion within Mibera:** In relation to pride and LGBTQ+ which is also a big
+**Material Impression:**
 
-part of rave culture.
+---
 
-**General Real World Trait History:** The rainbow flag, designed by Gilbert Baker in 1978, is a
+### Cultural Context
 
-global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation,
+**Source Type:**
 
-used in pride events and advocacy for LGBTQ+ rights.
+**Cultural Origin:** The rainbow flag, designed by Gilbert Baker in 1978, is a global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation, used in pride events and advocacy for LGBTQ+ rights.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Capsule
 
+### Visual Properties
+
 **Name:** Capsule
 
-**Image Files:** SS3_capsule.PNG
+**Image Files:**
+SS3_capsule.PNG
 
-**Brief Visual Description:** White and red capsule.
+**Accessory Type:**
+
+**Visual Description:** White and red capsule.
 
 **Dominant Colors:** White, red
 
-**Reasoning for Inclusion within Mibera:** Its relation to drugs / medication.
+**Material Impression:**
 
-**General Real World Trait History:** A capsule is a small, enclosed container, often used for
+---
 
-medicine, supplements, or space modules, designed to be swallowed or deployed easily.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** June 4, 2024
+**Cultural Origin:** A capsule is a small, enclosed container, often used for medicine, supplements, or space modules, designed to be swallowed or deployed easily.
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Its relation to drugs / medication.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Marijuana Leaf
 
+### Visual Properties
+
 **Name:** Marijuana Leaf
 
-**Image Files:** SS3_marijuana leaf.png
+**Image Files:**
+SS3_marijuana leaf.png
 
-**Brief Visual Description:** Earring with a green marijuana leaf as the charm; pointed leaflets
+**Accessory Type:**
 
-radiating from a central stalk. The leaflets are narrow, elongated, and have jagged edges.
+**Visual Description:** Earring with a green marijuana leaf as the charm; pointed leaflets radiating from a central stalk. The leaflets are narrow, elongated, and have jagged edges.
 
 **Dominant Colors:** Green
 
-**Reasoning for Inclusion within Mibera:** Bong bear leaning aesthetics.
+**Material Impression:**
 
-**General Real World Trait History:** Marijuana leaf is the distinctive, serrated, palmate leaf of the
+---
 
-cannabis plant, typically with 5-7 leaflets. Heavily associated with Bong Bear, the genesis
+### Cultural Context
 
-project of the Berachain ecosystem.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Marijuana leaf is the distinctive, serrated, palmate leaf of the cannabis plant, typically with 5-7 leaflets. Heavily associated with Bong Bear, the genesis project of the Berachain ecosystem.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:**
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Bong bear leaning aesthetics.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://interchaininfo.zone/indexes/bong-bears
-
 - https://opensea.io/collection/bongbears
-
 - https://docs.berachain.com/learn/berachain-nfts
+
+**Summary:** 
 
 ---
 
 ## Egyptian
 
+### Visual Properties
+
 **Name:** Egyptian
 
-**Image Files:** SS3_milady_ancient_mayan_Egyptian.png
+**Image Files:**
+SS3_milady_ancient_mayan_Egyptian.png
 
-**Brief Visual Description:** Gold rectangular earring with hints of blue and a few stripes inside of
+**Accessory Type:**
 
-a line-frame in darker gold.
+**Visual Description:** Gold rectangular earring with hints of blue and a few stripes inside of a line-frame in darker gold.
 
 **Dominant Colors:** Gold
 
-**Reasoning for Inclusion within Mibera:** In relation / within an aligned aesthetic to ancient
+**Material Impression:**
 
-Egyptian as one of Mibera’s ancestors, as well as the Mayan tribe.
+---
 
-**General Real World Trait History:** Both Mayan and Egyptian civilizations built pyramids as
+### Cultural Context
 
-sacred structures, symbolizing their connection to the cosmos, aligned with astronomical events,
+**Source Type:**
 
-reflecting advanced mathematical and cosmological knowledge.
+**Cultural Origin:** Both Mayan and Egyptian civilizations built pyramids as sacred structures, symbolizing their connection to the cosmos, aligned with astronomical events, reflecting advanced mathematical and cosmological knowledge.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Scene Association:**
 
-**Who Introduced the Trait:** Gods
+**Geographic Roots:**
 
-**Ancestor (if applicable):** Mayan
+**Why This Matters:**
 
-**Archetype (if applicable):** Milady
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
 
-**Modern / Ancient:** Ancient
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** In relation / within an aligned aesthetic to ancient Egyptian as one of Mibera’s ancestors, as well as the Mayan tribe.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Mayan
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** Gods
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1167452819809378386/11674701088730
-
-72652
-
 - https://s3.amazonaws.com/prod-hmhco-vmg-craftcms-public/mayan-pyramids-vs-egyptian-pyra
 
-mids-lesson-guide.pdf
+**Summary:** 
 
 ---
 
 ## Pyramid
 
+### Visual Properties
+
 **Name:** Pyramid
 
-**Image Files:** SS3_pyramid.png
+**Image Files:**
+SS3_pyramid.png
 
-**Brief Visual Description:** Earring with a small pyramid as the charm.
+**Accessory Type:**
+
+**Visual Description:** Earring with a small pyramid as the charm.
 
 **Dominant Colors:** Sandy beige
 
-**Reasoning for Inclusion within Mibera:** In relation / within an aligned aesthetic to ancient
+**Material Impression:**
 
-Egyptian as one of Mibera’s ancestors. Also in relation to Sun Ra.
+---
 
-**General Real World Trait History:** Pyramids, iconic Egyptian structures, symbolize ancient
+### Cultural Context
 
-engineering and spiritual beliefs, often linked to the sun god Ra. Sun Ra, the jazz musician,
+**Source Type:**
 
-drew inspiration from Egyptian mythology, incorporating pyramid imagery into his Afrofuturist
+**Cultural Origin:** Pyramids, iconic Egyptian structures, symbolize ancient engineering and spiritual beliefs, often linked to the sun god Ra. Sun Ra, the jazz musician, drew inspiration from Egyptian mythology, incorporating pyramid imagery into his Afrofuturist aesthetic to signify cosmic connection and Black empowerment.
 
-aesthetic to signify cosmic connection and Black empowerment.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** June 4, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** In relation / within an aligned aesthetic to ancient Egyptian as one of Mibera’s ancestors. Also in relation to Sun Ra.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Egyptian_pyramids
+
+**Summary:** 
 
 ---
 
 ## Serotonin
 
+### Visual Properties
+
 **Name:** Serotonin
 
-**Image Files:** SS3_serotonin.png
+**Image Files:**
+SS3_serotonin.png
 
-**Brief Visual Description:** Earring in the molecular shape of ‘serotonin’ in silver / grey, a few
+**Accessory Type:**
 
-lines connecting to each other forming open shapes in the middle.
+**Visual Description:** Earring in the molecular shape of ‘serotonin’ in silver / grey, a few lines connecting to each other forming open shapes in the middle.
 
 **Dominant Colors:** Silver.
 
-**Reasoning for Inclusion within Mibera:** Chemical that’s found in the brain, gut, and blood
+**Material Impression:**
 
-platelets. Related to many drugs and drug users behavior in general.
+---
 
-**General Real World Trait History:** Serotonin is a neurotransmitter and hormone, primarily
+### Cultural Context
 
-found in the brain, gut, and blood platelets, that regulates mood, sleep, appetite, and digestion.
+**Source Type:**
 
-Low serotonin levels are linked to depression, anxiety, and sleep disorders.
+**Cultural Origin:** Serotonin is a neurotransmitter and hormone, primarily found in the brain, gut, and blood platelets, that regulates mood, sleep, appetite, and digestion. Low serotonin levels are linked to depression, anxiety, and sleep disorders.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani / Gumi
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Chemical that’s found in the brain, gut, and blood platelets. Related to many drugs and drug users behavior in general.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani / Gumi
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://id.wikipedia.org/wiki/Serotonin
+
+**Summary:** 
 
 ---
 
 ## Lightning Bolt
 
+### Visual Properties
+
 **Name:** Lightning Bolt
 
-**Image Files:** SS3_lightning bolt.png
+**Image Files:**
+SS3_lightning bolt.png
 
-**Brief Visual Description:** Earring of a lightning bolt in bright yellow, pointed sharp edges.
+**Accessory Type:**
+
+**Visual Description:** Earring of a lightning bolt in bright yellow, pointed sharp edges.
 
 **Dominant Colors:** Bright yellow.
 
-**Reasoning for Inclusion within Mibera:** In relation to the rave culture as well as a slight Zeus
+**Material Impression:**
 
-reference.
+---
 
-**General Real World Trait History:** Lightning Bolt shaped accessory was a very common rave
+### Cultural Context
 
-accessory.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Lightning Bolt shaped accessory was a very common rave accessory.
 
-**Date Created/Uploaded:** June 4, 2024
+**Era:**
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** In relation to the rave culture as well as a slight Zeus reference.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Bear Heart
 
+### Visual Properties
+
 **Name:** Bear Heart
 
-**Image Files:** SS3_bera heart.png
+**Image Files:**
+SS3_bera heart.png
 
-**Brief Visual Description:** Small bear in dark brown holding a red heart.
+**Accessory Type:**
+
+**Visual Description:** Small bear in dark brown holding a red heart.
 
 **Dominant Colors:** Brown, red.
 
-**Reasoning for Inclusion within Mibera:** Its relation to the overall theme of the Berachain
+**Material Impression:**
 
-ecosystem.
+---
 
-**General Real World Trait History:** Berachain is an EVM-compatible Layer 1 blockchain
+### Cultural Context
 
-launched on February 6, 2025, designed for DeFi with a unique Proof-of-Liquidity (PoL)
+**Source Type:**
 
-**consensus mechanism. It uses a tri-token system:** BERA for transactions and staking, BGT for
+**Cultural Origin:** Berachain is an EVM-compatible Layer 1 blockchain launched on February 6, 2025, designed for DeFi with a unique Proof-of-Liquidity (PoL)
 
-governance, and HONEY as a stablecoin.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Its relation to the overall theme of the Berachain ecosystem.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://docs.berachain.com/learn/?source=post_page-----37d1236a84c0--------------------------------
 
--------
-
-- https://x.com/berachain
+**Summary:** 
 
 ---
 
 ## Red Gummy Bear
 
+### Visual Properties
+
 **Name:** Red Gummy Bear
 
-**Image Files:** SS3_red gummy bear.png
+**Image Files:**
+SS3_red gummy bear.png
 
-**Brief Visual Description:** Earring with red gummy bear as the charm.
+**Accessory Type:**
+
+**Visual Description:** Earring with red gummy bear as the charm.
 
 **Dominant Colors:** Bright red
 
-**Reasoning for Inclusion within Mibera:** Relation to drugs and a nod to Gumi’s name.
+**Material Impression:**
 
-**General Real World Trait History:** Gummy bears are often laced with drugs.
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** June 4, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Babybera
+**Cultural Origin:** Gummy bears are often laced with drugs.
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score (if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Relation to drugs and a nod to Gumi’s name.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** Babybera
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Dog Bone
 
+### Visual Properties
+
 **Name:** Dog Bone
 
-**Image Files:** SS3_dog bone.PNG
+**Image Files:**
+SS3_dog bone.PNG
 
-**Brief Visual Description:** Dog bone in milky white, slightly shiny.
+**Accessory Type:**
+
+**Visual Description:** Dog bone in milky white, slightly shiny.
 
 **Dominant Colors:** Milky white
 
-**Reasoning for Inclusion within Mibera:** In relation to the “Dog Bone Village” meme within the
+**Material Impression:**
 
-Milady Maker NFT community around the end of 2024
+---
 
-**General Real World Trait History:** Dog Bone Village was made and spread mainly by the
+### Cultural Context
 
-Milady Maker NFT community to refer to poverty or people struggling with it. But there has also
+**Source Type:**
 
-been a lot of made-up content and lore in regards to the original term.
+**Cultural Origin:** Dog Bone Village was made and spread mainly by the Milady Maker NFT community to refer to poverty or people struggling with it. But there has also been a lot of made-up content and lore in regards to the original term.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** In relation to the “Dog Bone Village” meme within the Milady Maker NFT community around the end of 2024
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/CharlotteFang77/status/1869222754073063824
-
 - https://x.com/ehnveee/status/1896295505191473354
-
 - https://x.com/MasonFinial/status/1847001925260124199
-
 - https://x.com/CharlotteFang77/status/1846949121904857227
+
+**Summary:** 
 
 ---
 
 ## Stylish Lee Scratch
 
+### Visual Properties
+
 **Name:** Stylish Lee Scratch
 
-**Image Files:** SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
+**Image Files:**
+SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
-**Brief Visual Description:** Two triangles with one upside-down colliding on top of each other
+**Accessory Type:**
 
-forming what’s commonly known as the Star of David, with a blue colored eyeball in the middle.
+**Visual Description:** Two triangles with one upside-down colliding on top of each other forming what’s commonly known as the Star of David, with a blue colored eyeball in the middle.
 
 **Dominant Colors:** Silver, blue
 
-**Reasoning for Inclusion within Mibera:** Lee Scratch Perry had an indirect but foundational
+**Material Impression:**
 
-influence on Chicago house and Detroit techno cultures through his pioneering dub techniques
+---
 
-and experimental sound manipulation in the 1970s.
+### Cultural Context
 
-**General Real World Trait History:** Lee "Scratch" Perry was a Jamaican reggae and dub music
+**Source Type:**
 
-pioneer, renowned for his innovative production techniques and eccentric personality. Born
+**Cultural Origin:** Lee "Scratch" Perry was a Jamaican reggae and dub music pioneer, renowned for his innovative production techniques and eccentric personality. Born Rainford Hugh Perry, he gained fame in the 1960s and 1970s, producing for The Wailers and creating hits like "Upsetter" with his Upsetters band. Known for his experimental studio work, including remixing and effects, he won a Grammy in 2003 for Jamaican E.T.
 
-Rainford Hugh Perry, he gained fame in the 1960s and 1970s, producing for The Wailers and
+**Era:**
 
-creating hits like "Upsetter" with his Upsetters band. Known for his experimental studio work,
+**Scene Association:**
 
-including remixing and effects, he won a Grammy in 2003 for Jamaican E.T.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:**
+---
 
-**Ancestor (if applicable):** Rastafarian
+### Mibera Integration
 
-**Archetype (if applicable):** Chicago Detroit
+**Archetype:** Chicago Detroit
 
-**Swag Score (if applicable):** 3
+**Archetype Alignment:** Lee Scratch Perry had an indirect but foundational influence on Chicago house and Detroit techno cultures through his pioneering dub techniques and experimental sound manipulation in the 1970s.
 
-**Modern / Ancient:** Modern
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Rastafarian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.metrotimes.com/music/dub-pioneer-lee-scratch-perry-brings-true-sonic-wizardry-to-
-
-detroit-3695270
-
 - https://afropop.org/articles/lee-scratch-perrys-underground-truths
+
+**Summary:** 
 
 ---
 
 ## Chrome Kitty
 
+### Visual Properties
+
 **Name:** Chrome Kitty
 
-**Image Files:** SS3_milady_Chrome Kitty.png
+**Image Files:**
+SS3_milady_Chrome Kitty.png
 
-**Brief Visual Description:** Earring with a hello kitty outline silver charm
+**Accessory Type:**
+
+**Visual Description:** Earring with a hello kitty outline silver charm
 
 **Dominant Colors:** Chrome silver
 
-**Reasoning for Inclusion within Mibera:** Babybera influence, Hello Kitty inspired item.
+**Material Impression:**
 
-**General Real World Trait History:** Baby Bera is an artist and a project based on the Berachain
+---
 
-ecosystem creating music, NFTs, physical products, and a community. As for Hello Kitty, it is a
+### Cultural Context
 
-globally iconic, mouthless, white cat with a red bow created by Sanrio in 1974 with commercial
+**Source Type:**
 
-purpose and no clear backstory.
+**Cultural Origin:** Baby Bera is an artist and a project based on the Berachain ecosystem creating music, NFTs, physical products, and a community. As for Hello Kitty, it is a globally iconic, mouthless, white cat with a red bow created by Sanrio in 1974 with commercial purpose and no clear backstory.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Scene Association:**
 
-**Who Introduced the Trait:** Gumi
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Milady
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** Babybera influence, Hello Kitty inspired item.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Gold Hoop
 
+### Visual Properties
+
 **Name:** Gold Hoop
 
-**Image Files:** SS4_acidhouse_ancient_greek_Gold Hoop.png
+**Image Files:**
+SS4_acidhouse_ancient_greek_Gold Hoop.png
 
-**Brief Visual Description:** Circular earring with a flat curved shape inside of it and a red gem.
+**Accessory Type:**
+
+**Visual Description:** Circular earring with a flat curved shape inside of it and a red gem.
 
 **Dominant Colors:** Gold, red
 
-**Reasoning for Inclusion within Mibera:** Aesthetically in relation / alignment to one of Mibera’s
+**Material Impression:**
 
-ancestors, the Greek.
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Ancestor (if applicable):** Greek
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**Modern / Ancient:** Ancient
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** Aesthetically in relation / alignment to one of Mibera’s ancestors, the Greek.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Greek
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## UFO
 
+### Visual Properties
+
 **Name:** UFO
 
-**Image Files:** SS3_acidhouse_ufo.png
+**Image Files:**
+SS3_acidhouse_ufo.png
 
-**Brief Visual Description:** Earring with a green UFO; a round, disc-like structure, with a dome
+**Accessory Type:**
 
-or protrusion on top and bottom, radiating light that’s facing downwards- as the charm.
+**Visual Description:** Earring with a green UFO; a round, disc-like structure, with a dome or protrusion on top and bottom, radiating light that’s facing downwards- as the charm.
 
 **Dominant Colors:** Neon green, black
 
-**Reasoning for Inclusion within Mibera:** In relation to Acidhouse, one of Mibera’s archetypes.
+**Material Impression:**
 
-**General Real World Trait History:** UFOs and acidhouse culture is largely anecdotal and tied to
+---
 
-the psychedelic, countercultural elements of the late 1980s and early 1990s rave scene. The
+### Cultural Context
 
-term “UFO” also happened to be the name of a pioneering acidhouse club in Berlin.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** UFOs and acidhouse culture is largely anecdotal and tied to the psychedelic, countercultural elements of the late 1980s and early 1990s rave scene. The term “UFO” also happened to be the name of a pioneering acidhouse club in Berlin.
 
-**Date Created/Uploaded:** June 4, 2024
+**Era:**
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Acidhouse
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** In relation to Acidhouse, one of Mibera’s archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Ufo_(club,_Berlin)
-
 - https://hatfulofhistory.wordpress.com/2015/05/17/thinking-historically-about-acid-house-early-rav
-
-e-culture-the-soundtrack-to-late-thatcherism/
-
 - https://www.vetted.show/blog/ufos-in-american-culture
+
+**Summary:** 
 
 ---
 
 ## Baddie Double Gold
 
+### Visual Properties
+
 **Name:** Baddie Double Gold
 
-**Image Files:** SS3_baddie double gold.png
+**Image Files:**
+SS3_baddie double gold.png
 
-**Brief Visual Description:** Two balls (studs) in gold, linear in placement to one another.
+**Accessory Type:**
+
+**Visual Description:** Two balls (studs) in gold, linear in placement to one another.
 
 **Dominant Colors:** Gold
 
-**Reasoning for Inclusion within Mibera:** Bera Baddies inspired item.
+**Material Impression:**
 
-**General Real World Trait History:** Bera Baddies is a community-driven project led and focused
+---
 
-on providing a supportive and exclusive space for the female in the Berachain ecosystem.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** Bera Baddies is a community-driven project led and focused on providing a supportive and exclusive space for the female in the Berachain ecosystem.
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Bera Baddies inspired item.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/berabaddies
+
+**Summary:** 
 
 ---
 
 ## Baddie Double Blue
 
+### Visual Properties
+
 **Name:** Baddie Double Blue
 
-**Image Files:** SS1_baddie double blue.png
+**Image Files:**
+SS1_baddie double blue.png
 
-**Brief Visual Description:** Two balls (studs) in bright blue linear in placement to one another.
+**Accessory Type:**
+
+**Visual Description:** Two balls (studs) in bright blue linear in placement to one another.
 
 **Dominant Colors:** Bright blue, aquatic
 
-**Reasoning for Inclusion within Mibera:** Bera Baddies inspired item.
+**Material Impression:**
 
-**General Real World Trait History:** Bera Baddies is a community-driven project led and focused
+---
 
-on providing a supportive and exclusive space for the female in the Berachain ecosystem.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** Bera Baddies is a community-driven project led and focused on providing a supportive and exclusive space for the female in the Berachain ecosystem.
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Bera Baddies inspired item.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/berabaddies
+
+**Summary:** 
 
 ---
 
 ## Spiky Pink
 
+### Visual Properties
+
 **Name:** Spiky Pink
 
-**Image Files:** SS3_spiky pink.png
+**Image Files:**
+SS3_spiky pink.png
 
-**Brief Visual Description:** Spiky pink small ring-shaped earring
+**Accessory Type:**
+
+**Visual Description:** Spiky pink small ring-shaped earring
 
 **Dominant Colors:** Pink
 
-**Reasoning for Inclusion within Mibera:** In relation to the rave culture, especially in the 2000s,
+**Material Impression:**
 
-which is very much aligned with Mibera.
+---
 
-**General Real World Trait History:** In the 2000s, cute spiky earrings were a staple in rave
+### Cultural Context
 
-culture, reflecting its bold, rebellious aesthetic. Popularized in the late '90s and early 2000s club
+**Source Type:**
 
-scenes, these edgy accessories are often seen in the DIY nature of fashion of the ravers.
+**Cultural Origin:** In the 2000s, cute spiky earrings were a staple in rave culture, reflecting its bold, rebellious aesthetic. Popularized in the late '90s and early 2000s club scenes, these edgy accessories are often seen in the DIY nature of fashion of the ravers.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** In relation to the rave culture, especially in the 2000s, which is very much aligned with Mibera.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://freedomravewear.com/blogs/freedom-rave-wear/the-rave-revolution-fashion-and-culture-i
 
-**n-the-90s-and-early-2000s[](https:** //freedomravewear.com/blogs/freedom-rave-wear-blog/the-rav
-
-e-revolution-fashion-and-culture-in-the-90s-and-early-2000s)
-
-- https://www.playfulmag.com/post/the-evolution-of-rave-fashion-from-90s-cyber-to-today-s-trends
-
-**[](https:** //www.playfulmag.com/post/the-evolution-of-rave-fashion-from-90s-cyber-to-today-s-tren
-
-ds)
+**Summary:** 
 
 ---
 
 ## Orange Slice
 
+### Visual Properties
+
 **Name:** Orange Slice
 
-**Image Files:** SS3_milady_orange slice.png
+**Image Files:**
+SS3_milady_orange slice.png
 
-**Brief Visual Description:** Slice of an orange facing down.
+**Accessory Type:**
+
+**Visual Description:** Slice of an orange facing down.
 
 **Dominant Colors:** Orange
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score (if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Purple Blossom
 
+### Visual Properties
+
 **Name:** Purple Blossom
 
-**Image Files:** SS2_purple blossom.png
+**Image Files:**
+SS2_purple blossom.png
 
-**Brief Visual Description:** Purple flower with 5 petals
+**Accessory Type:**
+
+**Visual Description:** Purple flower with 5 petals
 
 **Dominant Colors:** Purple
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score (if applicable):** 2
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Red Black Feather
 
+### Visual Properties
+
 **Name:** Red Black Feather
 
-**Image Files:** SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
+**Image Files:**
+SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
-**Brief Visual Description:** Dangling feather in red, black, and white, with tiny black dots at the
+**Accessory Type:**
 
-end.
+**Visual Description:** Dangling feather in red, black, and white, with tiny black dots at the end.
 
 **Dominant Colors:** Red, black, white
 
-**Reasoning for Inclusion within Mibera:** Its relation to Native American culture and fashion
+**Material Impression:**
 
-having it being one of Mibera’s ancestor types.
+---
 
-**General Real World Trait History:** Feather earrings hold deep cultural significance in Native
+### Cultural Context
 
-American traditions, symbolizing honor, wisdom, strength, trust, power, and freedom as gifts
+**Source Type:**
 
-from the sky or Creator, often linked to eagles representing spiritual connection and bravery.
+**Cultural Origin:** Feather earrings hold deep cultural significance in Native American traditions, symbolizing honor, wisdom, strength, trust, power, and freedom as gifts from the sky or Creator, often linked to eagles representing spiritual connection and bravery.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):** Native American
+**Why This Matters:**
 
-**Archetype (if applicable):** Acidhouse
+**Notable Figures:**
 
-**Swag Score (if applicable):** 4
+---
 
-**Modern / Ancient:** Ancient
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** Its relation to Native American culture and fashion having it being one of Mibera’s ancestor types.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Native American
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://artinas.com/collections/feathers
-
 - https://indiantraders.com/blogs/news/native-american-feather-symbolism
+
+**Summary:** 
 
 ---
 
 ## Grateful Dead Forest Green
 
+### Visual Properties
+
 **Name:** Grateful Dead Forest Green
 
-**Image Files:** SS2_grateful dead forest green.png
+**Image Files:**
+SS2_grateful dead forest green.png
 
-**Brief Visual Description:** Earring of a dancing / walking bear in forest green.
+**Accessory Type:**
+
+**Visual Description:** Earring of a dancing / walking bear in forest green.
 
 **Dominant Colors:** Dark / forest green
 
-**Reasoning for Inclusion within Mibera:** Grateful Dead has a big influence and part in Mibera’s
+**Material Impression:**
 
-lore.
+---
 
-**General Real World Trait History:** The Grateful Dead was an American rock band formed in
+### Cultural Context
 
-1965, known for their improvisational live performances, psychedelic sound, and dedicated
+**Source Type:**
 
-fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture
+**Cultural Origin:** The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
-icons, led by Jerry Garcia until his death in 1995.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** June 4, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 2
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Grateful_Dead
+
+**Summary:** 
 
 ---
 
 ## Gumball
 
+### Visual Properties
+
 **Name:** Gumball
 
-**Image Files:** SS3_Gumball.PNG
+**Image Files:**
+SS3_Gumball.PNG
 
-**Brief Visual Description:** Circular shape in purple and blue with ‘GB’ on it and a liquidy texture
+**Accessory Type:**
 
-dripping down from one side.
+**Visual Description:** Circular shape in purple and blue with ‘GB’ on it and a liquidy texture dripping down from one side.
 
 **Dominant Colors:** Purple, blue
 
-**Reasoning for Inclusion within Mibera:** Fellow bera brojekt
+**Material Impression:**
 
-**General Real World Trait History:** GumBall Protocol is a Berachaain ecosystem project
+---
 
-powering multiple dApps.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** GumBall Protocol is a Berachaain ecosystem project powering multiple dApps.
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Fellow bera brojekt
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/GumBallProtocol
-
 - https://www.gumballlabs.io/
+
+**Summary:** 
 
 ---
 
 ## Red Lolipop
 
+### Visual Properties
+
 **Name:** Red Lolipop
 
-**Image Files:** SS2_red lolipop.png
+**Image Files:**
+SS2_red lolipop.png
 
-**Brief Visual Description:** Earring with a vibrant red lollipop as the charm.
+**Accessory Type:**
+
+**Visual Description:** Earring with a vibrant red lollipop as the charm.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:** Relation to drug-use and users, as well as rave
+**Material Impression:**
 
-culture.
+---
 
-**General Real World Trait History:** Rave culture is closely tied to drugs like MDMA, but often
+### Cultural Context
 
-leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental
+**Source Type:**
 
-damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral
+**Cultural Origin:** Rave culture is closely tied to drugs like MDMA, but often leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either coated or infused to disguise it as candy for easier transport and consumption at events
 
-stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either
+**Era:**
 
-coated or infused to disguise it as candy for easier transport and consumption at events
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):**
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** 
 
-**Note:** Influenced by Babybera.
+**Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://darta.net.au/real-deal-on-drugs/why-do-people-suck-on-lollipops-and-chew-so-much-whe
-
-n-they-take-ecstasy/
-
 - https://www.addictionadvocates.com/addiction-treatments/drug-rehab/what-are-mdma-lollipops/
+
+**Summary:** 
 
 ---
 
 ## Bera Flower
 
+### Visual Properties
+
 **Name:** Bera Flower
 
-**Image Files:** SS2_bera flower.png
+**Image Files:**
+SS2_bera flower.png
 
-**Brief Visual Description:** Earring with a white flower with pointed petals and 2 leaves.
+**Accessory Type:**
+
+**Visual Description:** Earring with a white flower with pointed petals and 2 leaves.
 
 **Dominant Colors:** White, green
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Ancestor (if applicable):**
+**Cultural Origin:** 
 
-**Archetype (if applicable):**
+**Era:**
 
-**Swag Score (if applicable):** 2
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Triskelion
 
+### Visual Properties
+
 **Name:** Triskelion
 
-**Image Files:** SS4_acidhouse_Triskelion.png
+**Image Files:**
+SS4_acidhouse_Triskelion.png
 
-**Brief Visual Description:** Silver triskelion; 3 spirals connected into one in the middle.
+**Accessory Type:**
+
+**Visual Description:** Silver triskelion; 3 spirals connected into one in the middle.
 
 **Dominant Colors:** Silver / grey
 
-**Reasoning for Inclusion within Mibera:** The triskelion’s dynamic, swirling design resonates
+**Material Impression:**
 
-with rave culture’s emphasis on movement, energy, and unity. It appears in rave art, jewelry, and
+---
 
-tattoos, symbolizing the cyclical nature of music and dance, personal growth, and
+### Cultural Context
 
-interconnectedness among ravers. While not a core symbol, its aesthetic aligns with the
+**Source Type:**
 
-subculture’s vibrant, spiritual vibe.
+**Cultural Origin:** Derived from the Greek "triskelḗs" (meaning "three-legged"), Triskelion represents concepts like progress, cycles, or the trinity, appearing in cultures from Neolithic Malta to Celtic Ireland.
 
-**General Real World Trait History:** Derived from the Greek "triskelḗs" (meaning
+**Era:**
 
-"three-legged"), Triskelion represents concepts like progress, cycles, or the trinity, appearing in
+**Scene Association:**
 
-cultures from Neolithic Malta to Celtic Ireland.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:** Jani
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):** Acidhouse
+**Archetype:** Acidhouse
 
-**Swag Score (if applicable):** 4
+**Archetype Alignment:** The triskelion’s dynamic, swirling design resonates with rave culture’s emphasis on movement, energy, and unity. It appears in rave art, jewelry, and tattoos, symbolizing the cyclical nature of music and dance, personal growth, and interconnectedness among ravers. While not a core symbol, its aesthetic aligns with the subculture’s vibrant, spiritual vibe.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://symbolismhub.com/what-does-the-triskelion-symbolize-in-contemporary-culture/
-
 - https://studyofsymbols.com/triskelion-history-meaning-of-symbols/
-
 - https://maxmag.org/archeology/triskelion-meaning-ancient-symbol/
+
+**Summary:** 
 
 ---
 
 ## Lemon Slice
 
+### Visual Properties
+
 **Name:** Lemon Slice
 
-**Image Files:** SS2_milady_lemon slice.png
+**Image Files:**
+SS2_milady_lemon slice.png
 
-**Brief Visual Description:** Slice of lemon facing down
+**Accessory Type:**
+
+**Visual Description:** Slice of lemon facing down
 
 **Dominant Colors:** Yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score (if applicable):** 2
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Industrial
 
+### Visual Properties
+
 **Name:** Industrial
 
-**Image Files:** SS4_industrial.png
+**Image Files:**
+SS4_industrial.png
 
-**Brief Visual Description:** Thin bar with two spiky studs, one on each end.
+**Accessory Type:**
+
+**Visual Description:** Thin bar with two spiky studs, one on each end.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** Its relation to rave culture, which aligns with Mibera.
+**Material Impression:**
 
-**General Real World Trait History:** Industrial piercings gained popularity in the late 20th century
+---
 
-within punk and alternative subcultures, which share roots with rave culture’s emphasis on
+### Cultural Context
 
-nonconformity and self-expression. In rave culture, body modifications like industrial piercings
+**Source Type:**
 
-align with the scene’s DIY ethos and visual rebellion against mainstream norms.
+**Cultural Origin:** Industrial piercings gained popularity in the late 20th century within punk and alternative subcultures, which share roots with rave culture’s emphasis on nonconformity and self-expression. In rave culture, body modifications like industrial piercings align with the scene’s DIY ethos and visual rebellion against mainstream norms.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):** 4
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Its relation to rave culture, which aligns with Mibera.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## White Thick
 
+### Visual Properties
+
 **Name:** White Thick
 
-**Image Files:** SS2_freetekno_modern_nativeAmerican_White Thick.png
+**Image Files:**
+SS2_freetekno_modern_nativeAmerican_White Thick.png
 
-**Brief Visual Description:** Thick white ring shaped earring
+**Accessory Type:**
+
+**Visual Description:** Thick white ring shaped earring
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:** In relation to modern culture of the Native American,
+**Material Impression:**
 
-which is one of Mibera’s ancestor traits.
+---
 
-**General Real World Trait History:** White buffalo hoop earrings are a style of Native American
+### Cultural Context
 
-jewelry usually featuring white buffalo stone, a rare white stone. Often set in sterling silver, these
+**Source Type:**
 
-hoops showcase bold, creamy white cabochons or inlays, symbolizing purity, spirituality, and
+**Cultural Origin:** White buffalo hoop earrings are a style of Native American jewelry usually featuring white buffalo stone, a rare white stone. Often set in sterling silver, these hoops showcase bold, creamy white cabochons or inlays, symbolizing purity, spirituality, and connection to Native American heritage, particularly among Plains tribes where the white buffalo is sacred.
 
-connection to Native American heritage, particularly among Plains tribes where the white buffalo
+**Era:**
 
-is sacred.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Freetekno
 
-**Ancient / Modern:** Modern
+**Archetype Alignment:** In relation to modern culture of the Native American, which is one of Mibera’s ancestor traits.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Native American
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/White_buffalo
+
+**Summary:** 
 
 ---
 
 ## Grateful Dead Magenta
 
+### Visual Properties
+
 **Name:** Grateful Dead Magenta
 
-**Image Files:** SS4_grateful dead magenta.png
+**Image Files:**
+SS4_grateful dead magenta.png
 
-**Brief Visual Description:** Earring of a dancing / walking bear in deep magenta.
+**Accessory Type:**
+
+**Visual Description:** Earring of a dancing / walking bear in deep magenta.
 
 **Dominant Colors:** Deep magenta
 
-**Reasoning for Inclusion within Mibera:** Grateful Dead has a big influence and part in Mibera’s
+**Material Impression:**
 
-lore.
+---
 
-**General Real World Trait History:** The Grateful Dead was an American rock band formed in
+### Cultural Context
 
-1965, known for their improvisational live performances, psychedelic sound, and dedicated
+**Source Type:**
 
-fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture
+**Cultural Origin:** The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
-icons, led by Jerry Garcia until his death in 1995.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** June 4, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 4
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Grateful_Dead
+
+**Summary:** 
 
 ---
 
 ## Star Trio
 
+### Visual Properties
+
 **Name:** Star Trio
 
-**Image Files:** SS4_freetekno_stars.png
+**Image Files:**
+SS4_freetekno_stars.png
 
-**Brief Visual Description:** Three small star shapes in linear placement, in black.
+**Accessory Type:**
+
+**Visual Description:** Three small star shapes in linear placement, in black.
 
 **Dominant Colors:** Black / dark grey
 
-**Reasoning for Inclusion within Mibera:** Its relation with rave culture which ties back to
+**Material Impression:**
 
-Mibera.
+---
 
-**General Real World Trait History:** In rave culture, star-shaped accessories like necklaces,
+### Cultural Context
 
-earrings, hair clips, and glowing pendants symbolize light, energy, and cosmic connection,
+**Source Type:**
 
-reflecting the subculture’s vibrant, transcendent ethos. Stars evoke a sense of wonder, aligning
+**Cultural Origin:** In rave culture, star-shaped accessories like necklaces, earrings, hair clips, and glowing pendants symbolize light, energy, and cosmic connection, reflecting the subculture’s vibrant, transcendent ethos. Stars evoke a sense of wonder, aligning with the PLUR (Peace, Love, Unity, Respect) philosophy and the euphoric, otherworldly vibe of raves.
 
-with the PLUR (Peace, Love, Unity, Respect) philosophy and the euphoric, otherworldly vibe of
+**Era:**
 
-raves.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Freetekno
+
+**Archetype Alignment:** Its relation with rave culture which ties back to Mibera.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
-theacidmind.com
-
 - https://cercle-festival.com/
+
+**Summary:** 
 
 ---
 
 ## Golden Cuff
 
+### Visual Properties
+
 **Name:** Golden Cuff
 
-**Image Files:** SS2_golden cuff.PNG
+**Image Files:**
+SS2_golden cuff.PNG
 
-**Brief Visual Description:** Long golden cuff, cylindrical in shape.
+**Accessory Type:**
+
+**Visual Description:** Long golden cuff, cylindrical in shape.
 
 **Dominant Colors:** Gold
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score (if applicable):** 2
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Smol Ring
 
+### Visual Properties
+
 **Name:** Smol Ring
 
-**Image Files:** SS2_smol ring.PNG
+**Image Files:**
+SS2_smol ring.PNG
 
-**Brief Visual Description:** Small thin round black ring earring.
+**Accessory Type:**
+
+**Visual Description:** Small thin round black ring earring.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score (if applicable):** 2
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Black Ring
 
+### Visual Properties
+
 **Name:** Black Ring
 
-**Image Files:** SS2_Black Ring.PNG
+**Image Files:**
+SS2_Black Ring.PNG
 
-**Brief Visual Description:** Thicker round black ring earring.
+**Accessory Type:**
+
+**Visual Description:** Thicker round black ring earring.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score (if applicable):** 2
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Grateful Dead Yellow
 
+### Visual Properties
+
 **Name:** Grateful Dead Yellow
 
-**Image Files:** SS4_grateful dead yellow.png
+**Image Files:**
+SS4_grateful dead yellow.png
 
-**Brief Visual Description:** Earring of a dancing / walking bear in yellow, with a pink scarf.
+**Accessory Type:**
+
+**Visual Description:** Earring of a dancing / walking bear in yellow, with a pink scarf.
 
 **Dominant Colors:** Yellow, pink
 
-**Reasoning for Inclusion within Mibera:** Grateful Dead has a big influence and part in Mibera’s
+**Material Impression:**
 
-lore.
+---
 
-**General Real World Trait History:** The Grateful Dead was an American rock band formed in
+### Cultural Context
 
-1965, known for their improvisational live performances, psychedelic sound, and dedicated
+**Source Type:**
 
-fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture
+**Cultural Origin:** The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
-icons, led by Jerry Garcia until his death in 1995.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** June 4, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 4
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Grateful_Dead
+
+**Summary:** 
 
 ---
 
 ## Multiple Silver Rings
 
+### Visual Properties
+
 **Name:** Multiple Silver Rings
 
-**Image Files:** SS4_chicagodetroit_Multiple Silver Rings.png
+**Image Files:**
+SS4_chicagodetroit_Multiple Silver Rings.png
 
-**Brief Visual Description:** Three thin silver ring-style earrings.
+**Accessory Type:**
+
+**Visual Description:** Three thin silver ring-style earrings.
 
 **Dominant Colors:** Silver
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Scene Association:**
 
-**Swag Score (if applicable):** 4
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Adderall
 
+### Visual Properties
+
 **Name:** Adderall
 
-**Image Files:** SS4_adderall.png
+**Image Files:**
+SS4_adderall.png
 
-**Brief Visual Description:** Two small soft-blue circular tablets, one with ‘AD’ and one with ‘10’
+**Accessory Type:**
 
-on them.
+**Visual Description:** Two small soft-blue circular tablets, one with ‘AD’ and one with ‘10’ on them.
 
 **Dominant Colors:** Soft-blue
 
-**Reasoning for Inclusion within Mibera:** Drugs being a big part of Mibera’s culture.
+**Material Impression:**
 
-**General Real World Trait History:** Adderall is a prescription medication containing
+---
 
-amphetamine and dextroamphetamine, used to treat ADHD and narcolepsy. It stimulates the
+### Cultural Context
 
-central nervous system, improving focus, attention, and impulse control, but can cause side
+**Source Type:**
 
-effects like insomnia, anxiety, or addiction with misuse. In rave culture Adderall is often taken for
+**Cultural Origin:** Adderall is a prescription medication containing amphetamine and dextroamphetamine, used to treat ADHD and narcolepsy. It stimulates the central nervous system, improving focus, attention, and impulse control, but can cause side effects like insomnia, anxiety, or addiction with misuse. In rave culture Adderall is often taken for its stimulant effects, enhancing energy and focus during long dance events.
 
-its stimulant effects, enhancing energy and focus during long dance events.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** June 4, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 4
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Drugs being a big part of Mibera’s culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Adderall
+
+**Summary:** 
 
 ---
 
 ## Toothy
 
+### Visual Properties
+
 **Name:** Toothy
 
-**Image Files:** SS4_toothy.png
+**Image Files:**
+SS4_toothy.png
 
-**Brief Visual Description:** Earring with a piece of a molar tooth.
+**Accessory Type:**
+
+**Visual Description:** Earring with a piece of a molar tooth.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** In relation to Milady Maker figures in their community and
+---
 
-culture.
+### Cultural Context
 
-**Team Anecdotes:** Milady artist, Shiro, had a fixation on drawing teeth for a while.
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** In relation to Milady Maker figures in their community and culture.
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** Milady artist, Shiro, had a fixation on drawing teeth for a while.
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Pearl
 
+### Visual Properties
+
 **Name:** Pearl
 
-**Image Files:** SS2_pearl.png
+**Image Files:**
+SS2_pearl.png
 
-**Brief Visual Description:** White pearl.
+**Accessory Type:**
+
+**Visual Description:** White pearl.
 
 **Dominant Colors:** Pearly white
 
-**Reasoning for Inclusion within Mibera:** Inspired by Ron Hardy’s look in an article with Redbull
+**Material Impression:**
 
-Music Academy, making it related to Chicago Detroit culture.
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Inspired by Ron Hardy’s look in an article with Redbull Music Academy, making it related to Chicago Detroit culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608814206512
-
-12840
-
 - https://daily.redbullmusicacademy.com/2015/05/ron-hardy-at-the-music-box/
+
+**Summary:** 
 
 ---
 
 ## Yellow Tassles
 
+### Visual Properties
+
 **Name:** Yellow Tassles
 
-**Image Files:** SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
+**Image Files:**
+SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
-**Brief Visual Description:** Dangling tassel in gold; a bigger abstract shape with three dangling
+**Accessory Type:**
 
-smaller shapes.
+**Visual Description:** Dangling tassel in gold; a bigger abstract shape with three dangling smaller shapes.
 
 **Dominant Colors:** Light gold
 
-**Reasoning for Inclusion within Mibera:** Its relation to one of Mibera’s archetypes: Chicago
+**Material Impression:**
 
-Detroit, as it is heavily tied to the ballroom scene / culture.
+---
 
-**General Real World Trait History:** Though it was rooted in Harlem, the ballroom culture
+### Cultural Context
 
-expanded to major U.S. cities including Chicago and Detroit, creating vibrant regional scenes.
+**Source Type:**
 
-Chicago is often credited as “birthplace of the ball”, with the House of Avant Garde making itself
+**Cultural Origin:** Though it was rooted in Harlem, the ballroom culture expanded to major U.S. cities including Chicago and Detroit, creating vibrant regional scenes. Chicago is often credited as “birthplace of the ball”, with the House of Avant Garde making itself a pioneer. As Detroit emerged as a Black and Latino/a queer space for performance, gender expression, and HIV/AIDS prevention. Both cities share a history of Black and queer resilience, using balls to create safe spaces and challenge societal norms.
 
-a pioneer. As Detroit emerged as a Black and Latino/a queer space for performance, gender
+**Era:**
 
-expression, and HIV/AIDS prevention. Both cities share a history of Black and queer resilience,
+**Scene Association:**
 
-using balls to create safe spaces and challenge societal norms.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Notable Figures:**
 
-**Who Introduced the Trait:**
+---
 
-**Ancestor (if applicable):** Ballroom
+### Mibera Integration
 
-**Archetype (if applicable):** Chicago Detroit
+**Archetype:** Chicago Detroit
 
-**Swag Score (if applicable):** 4
+**Archetype Alignment:** Its relation to one of Mibera’s archetypes: Chicago Detroit, as it is heavily tied to the ballroom scene / culture.
 
-**Modern / Ancient:** Modern
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Ballroom
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.michiganpublic.org/arts-culture/2013-12-19/exploring-ballroom-culture-in-detroit
-
 - https://archive.org/details/butchqueensupinp0000bail
+
+**Summary:** 
 
 ---
 
 ## Alien
 
+### Visual Properties
+
 **Name:** Alien
 
-**Image Files:** SS2_alien.png
+**Image Files:**
+SS2_alien.png
 
-**Brief Visual Description:** Alien head in green; round with a pointed end at the bottom, with two
+**Accessory Type:**
 
-big black eyes.
+**Visual Description:** Alien head in green; round with a pointed end at the bottom, with two big black eyes.
 
 **Dominant Colors:** Lime green
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score (if applicable):** 2
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Paperclip 1
 
+### Visual Properties
+
 **Name:** Paperclip 1
 
-**Image Files:** SS5_freetekno_Paperclip 1.png
+**Image Files:**
+SS5_freetekno_Paperclip 1.png
 
-**Brief Visual Description:** Set consisting of 1 stud in dark grey, 2 safety pins / paper clips, and 2
+**Accessory Type:**
 
-shiny smaller studs.
+**Visual Description:** Set consisting of 1 stud in dark grey, 2 safety pins / paper clips, and 2 shiny smaller studs.
 
 **Dominant Colors:** Silver / grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** November 28, 2023
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):** Freetekno
+**Scene Association:**
 
-**Swag Score (if applicable):** 5
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Multiple
 
+### Visual Properties
+
 **Name:** Multiple
 
-**Image Files:** SS5_freetekno_multiple.png
+**Image Files:**
+SS5_freetekno_multiple.png
 
-**Brief Visual Description:** Set consisting of 2 industrial piercings (a bar with spiky stud on each
+**Accessory Type:**
 
-end), and 3 studs with balls on one side and spikes on the other side.
+**Visual Description:** Set consisting of 2 industrial piercings (a bar with spiky stud on each end), and 3 studs with balls on one side and spikes on the other side.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:**
 
-**Archetype (if applicable):** Freetekno
+**Scene Association:**
 
-**Swag Score (if applicable):** 5
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Tribal Bera
 
+### Visual Properties
+
 **Name:** Tribal Bera
 
-**Image Files:** SS5_tribal bera.png
+**Image Files:**
+SS5_tribal bera.png
 
-**Brief Visual Description:** Black bear wearing a colorful regalia.
+**Accessory Type:**
+
+**Visual Description:** Black bear wearing a colorful regalia.
 
 **Dominant Colors:** Black, white, yellow, red, purple, turquoise
 
-**Reasoning for Inclusion within Mibera:** Its alignment in theme with the Berachain ecosystem
+**Material Impression:**
 
-and partially Mibera’s tribal aesthetic.
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Its alignment in theme with the Berachain ecosystem and partially Mibera’s tribal aesthetic.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Gold Chain
 
+### Visual Properties
+
 **Name:** Gold Chain
 
-**Image Files:** SS5_freetekno_ancient_aboriginal_Gold Chain.png
+**Image Files:**
+SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
-**Brief Visual Description:** Gold chain dangling off what looks like a pearl.
+**Accessory Type:**
+
+**Visual Description:** Gold chain dangling off what looks like a pearl.
 
 **Dominant Colors:** Gold, pearly white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** November 28, 2023
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Ancestor (if applicable):** Aboriginal
+**Era:**
 
-**Archetype (if applicable):** Freetekno
+**Scene Association:**
 
-**Swag Score (if applicable):** 5
+**Geographic Roots:**
 
-**Modern / Ancient:** Ancient
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Aboriginal
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Blue Bead
 
+### Visual Properties
+
 **Name:** Blue Bead
 
-**Image Files:** SS5_chicagodetroit_modern_mongolian_Blue Beads.png
+**Image Files:**
+SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
-**Brief Visual Description:** Tiny blue beads with a few in magenta and darker teal, dangling off
+**Accessory Type:**
 
-of a silver plating / charm.
+**Visual Description:** Tiny blue beads with a few in magenta and darker teal, dangling off of a silver plating / charm.
 
 **Dominant Colors:** Blue / teal
 
-**Reasoning for Inclusion within Mibera:** Its alignment to one of Mibera’s ancestors:
+**Material Impression:**
 
-Mongolian.
+---
 
-**General Real World Trait History:** Mongolian culture, rooted in nomadic traditions,
+### Cultural Context
 
-shamanism, and vibrant art, has a subtle but growing influence on rave culture, particularly
+**Source Type:**
 
-through festivals that blend traditional elements with modern electronic music. The nomadic
+**Cultural Origin:** Mongolian culture, rooted in nomadic traditions, shamanism, and vibrant art, has a subtle but growing influence on rave culture, particularly through festivals that blend traditional elements with modern electronic music. The nomadic lifestyle’s emphasis on freedom and connection to nature resonates with rave culture’s PLUR (Peace, Love, Unity, Respect) ethos. Traditional Mongolian throat singing (khoomii) and instruments like the morin khuur also occasionally appear in EDM tracks, adding spiritual and cultural depth to rave performances. Events like the Kharkhorum Visual Art & Music Festival and Nomadic Beats Festival in Mongolia fuse electronic dance music with cultural elements like horseback raves, where participants enter venues on horses, evoking Mongolia’s equestrian heritage.
 
-lifestyle’s emphasis on freedom and connection to nature resonates with rave culture’s PLUR
+**Era:**
 
-(Peace, Love, Unity, Respect) ethos. Traditional Mongolian throat singing (khoomii) and
+**Scene Association:**
 
-instruments like the morin khuur also occasionally appear in EDM tracks, adding spiritual and
+**Geographic Roots:**
 
-cultural depth to rave performances. Events like the Kharkhorum Visual Art & Music Festival and
+**Why This Matters:**
 
-Nomadic Beats Festival in Mongolia fuse electronic dance music with cultural elements like
+**Notable Figures:**
 
-horseback raves, where participants enter venues on horses, evoking Mongolia’s equestrian
+---
 
-heritage.
+### Mibera Integration
 
-**Team Anecdotes:**
+**Archetype:** Chicago Detroit
 
-**Date Created/Uploaded:** November 28, 2023
+**Archetype Alignment:** Its alignment to one of Mibera’s ancestors: Mongolian.
 
-**Who Introduced the Trait:** Fedor
+**Vibe Tags:**
 
-**Ancestor (if applicable):** Mongolian
+**Setting:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Swag Score:** 5
 
-**Swag Score (if applicable):** 5
+**Swag Justification:**
 
-**Modern / Ancient:** Modern
+---
+
+### Connections
+
+**Ancestor:** Mongolian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1167452819809378386/11678711289838
-
-42816
-
 - https://deepnewz.com/asia/mongolia-hosts-unique-horseback-raves-july-2024-blending-electron
-
-ic-music
-
 - https://iedm.com/blogs/industry-news/cultural-fusion-global-influences-in-rave-wear
-
 - https://montsame.mn/en/read/330271
+
+**Summary:** 
 
 ---
 
 ## Day Glowstick
 
+### Visual Properties
+
 **Name:** Day Glowstick
 
-**Image Files:** SS1_acidhouse_Day Glowstick.png
+**Image Files:**
+SS1_acidhouse_Day Glowstick.png
 
-**Brief Visual Description:** Glowstick in neon yellow.
+**Accessory Type:**
+
+**Visual Description:** Glowstick in neon yellow.
 
 **Dominant Colors:** Neon yellow
 
-**Reasoning for Inclusion within Mibera:** Big part of the rave culture as accessories, which is
+**Material Impression:**
 
-aligned with Mibera culture.
+---
 
-**General Real World Trait History:** Glowstick earring, especially vibrant neon or “day glow”
+### Cultural Context
 
-styles are iconic accessories in rave culture popularized since the 1990s. Their bright, dynamic
+**Source Type:**
 
-glow aligns with the subculture’s focus on creating immersive, communal experiences at events
+**Cultural Origin:** Glowstick earring, especially vibrant neon or “day glow” styles are iconic accessories in rave culture popularized since the 1990s. Their bright, dynamic glow aligns with the subculture’s focus on creating immersive, communal experiences at events like Electric Daisy Carnival or underground raves.
 
-like Electric Daisy Carnival or underground raves.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** November 28, 2023
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score (if applicable):** 1
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** Big part of the rave culture as accessories, which is aligned with Mibera culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** November 28, 2023
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
 
-ravelife.tv
 
-iedm.com
+**Summary:** 
 
 ---
 
 ## Peace Heart
 
+### Visual Properties
+
 **Name:** Peace Heart
 
-**Image Files:** SS1_peace heart.png
+**Image Files:**
+SS1_peace heart.png
 
-**Brief Visual Description:** Earring with the universal ‘peace’ symbol in a heart as a charm, very
+**Accessory Type:**
 
-thin in frame; a line goes through the middle part of the heart with shorter lines symmetrically
-
-aligned diagonally mirroring each other at the bottom.
+**Visual Description:** Earring with the universal ‘peace’ symbol in a heart as a charm, very thin in frame; a line goes through the middle part of the heart with shorter lines symmetrically aligned diagonally mirroring each other at the bottom.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:** Its relation to the rave culture as an iconic symbolism
+**Material Impression:**
 
-and accessories.
+---
 
-**General Real World Trait History:** The peace heart, , a symbol combining a heart with a peace
+### Cultural Context
 
-sign, represents love, unity, and harmony in rave culture, directly embodying the PLUR ethos
+**Source Type:**
 
-(Peace, Love, Unity, Respect). The peace heart’s prominence reflects rave culture’s roots in
+**Cultural Origin:** The peace heart, , a symbol combining a heart with a peace sign, represents love, unity, and harmony in rave culture, directly embodying the PLUR ethos (Peace, Love, Unity, Respect). The peace heart’s prominence reflects rave culture’s roots in creating safe, inclusive spaces for self-expression through dance and music.
 
-creating safe, inclusive spaces for self-expression through dance and music.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** June 4, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 1
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Its relation to the rave culture as an iconic symbolism and accessories.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Rainbow Spiky Ball
 
+### Visual Properties
+
 **Name:** Rainbow Spiky Ball
 
-**Image Files:** SS5_rainbow spiky ball.png
+**Image Files:**
+SS5_rainbow spiky ball.png
 
-**Brief Visual Description:** Rainbow-colored spiky ball.
+**Accessory Type:**
+
+**Visual Description:** Rainbow-colored spiky ball.
 
 **Dominant Colors:** Rainbow
 
-**Reasoning for Inclusion within Mibera:** In relation to pride and LGBTQ+ which is also a big
+**Material Impression:**
 
-part of rave culture.
+---
 
-**General Real World Trait History:** The rainbow flag, designed by Gilbert Baker in 1978, is a
+### Cultural Context
 
-global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation,
+**Source Type:**
 
-used in pride events and advocacy for LGBTQ+ rights.
+**Cultural Origin:** The rainbow flag, designed by Gilbert Baker in 1978, is a global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation, used in pride events and advocacy for LGBTQ+ rights.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):** 5
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Experimental
 
+### Visual Properties
+
 **Name:** Experimental
 
-**Image Files:** SS3_experimental.png
+**Image Files:**
+SS3_experimental.png
 
-**Brief Visual Description:** Earring with a laboratory flask with green liquid inside of it as a
+**Accessory Type:**
 
-charm; the flask is thin by the neck and wide at the bottom.
+**Visual Description:** Earring with a laboratory flask with green liquid inside of it as a charm; the flask is thin by the neck and wide at the bottom.
 
 **Dominant Colors:** Bright green
 
-**Reasoning for Inclusion within Mibera:** Symbolizing the general process of drug creation.
-
-Drugs are a big part of Mibera culture in general.
-
-**General Real World Trait History:**
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** December 10, 2024
-
-**Who Introduced the Trait:**
-
-**Ancestor (if applicable):**
-
-**Archetype (if applicable):**
-
-**Swag Score (if applicable):** 3
+**Material Impression:**
 
 ---
 
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Symbolizing the general process of drug creation. Drugs are a big part of Mibera culture in general.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---

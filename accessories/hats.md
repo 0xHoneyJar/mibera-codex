@@ -6,5119 +6,9621 @@
 
 ## Bear Headband
 
+### Visual Properties
+
 **Name:** Bera Headband
 
 **Image Files:**
-
 ![Bera Headband](../images/hats__z160/SS3_milady_Bera%20Headband.webp)
 
-**Brief Visual Description:** Brown headband of bear ears; curved ears with smaller half circle
+**Accessory Type:**
 
-shapes inside in lighter color.
+**Visual Description:** Brown headband of bear ears; curved ears with smaller half circle shapes inside in lighter color.
 
 **Dominant Colors:** Brown, light pale brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Tez
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Sources / References:**
+**Notable Figures:**
 
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143684092467093684/11436862982389
 
-80198
+**Summary:** 
 
 ---
 
 ## Catboy Ears
 
+### Visual Properties
+
 **Name:** Catboy Ears
 
 **Image Files:**
-
 ![Catboy Ears](../images/hats__z160/SS3_milady_Catboy%20Ears.webp)
 
-**Brief Visual Description:** Black headband of cat ears; pointed triangular shape with soft edges,
+**Accessory Type:**
 
-light pink in color on the inner part.
+**Visual Description:** Black headband of cat ears; pointed triangular shape with soft edges, light pink in color on the inner part.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Note:** Milady has a trait called “cat ears with bell”.
+**Notable Figures:**
 
-https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22values%22:[%2
+---
 
-2cat+ears+with+bell%22]}]
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Trucker Mibera
 
+### Visual Properties
+
 **Name:** Trucker Mibera
 
 **Image Files:**
-
 ![Trucker Mibera](../images/hats__z160/SS3_milady_Trucker%20Mibera.webp)
 
-**Brief Visual Description:** White and yellow cap with Mibera logo in the middle; a yellow smiley
+**Accessory Type:**
 
-face with bear ears.
+**Visual Description:** White and yellow cap with Mibera logo in the middle; a yellow smiley face with bear ears.
 
 **Dominant Colors:** Yellow, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Note:** Milady has a lot of hats within the Trucker category.
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Got Autism
 
+### Visual Properties
+
 **Name:** Got Autism
 
 **Image Files:**
-
 ![SS3 Got Autism](../images/hats__z160/SS3_Got%20Autism.webp)
 
-**Brief Visual Description:** Navy blue cap with white text on it saying “mibera got autism”.
+**Accessory Type:**
+
+**Visual Description:** Navy blue cap with white text on it saying “mibera got autism”.
 
 **Dominant Colors:** Navy blue, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Jake
 
+### Visual Properties
+
 **Name:** Jake
 
 **Image Files:**
-
 ![Jake](../images/hats__z160/SS3_acidhouse_Jake.webp)
 
-**Brief Visual Description:** Yellow hat with earflaps in the shape of Jake the dog from Adventure
+**Accessory Type:**
 
-time. A yellow dog with round white eyes, droopy snout, and red tongue out..
+**Visual Description:** Yellow hat with earflaps in the shape of Jake the dog from Adventure time. A yellow dog with round white eyes, droopy snout, and red tongue out..
 
 **Dominant Colors:** Yellow, white, black, red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** (summary below)
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** (summary below)
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1161382544617508874/11634742480991
-
-68318
-
 - https://www.youtube.com/watch?si=3AxmPTlIzYV1k30j&t=661&v=h3t3YnVgY9k&feature=youtu
 
-.be
-
-**Summary:**
-
-**On the Video:**
-
-**"Britain's Illegal Rave Renaissance:** LOCKED OFF" is a 2016 documentary by VICE, directed by
-
-Clive Martin, exploring the resurgence of illegal raves in the UK. It highlights how, after the first
-
-wave of rave culture in the late 1980s and early 1990s was driven underground by strict laws
-
-like the 1994 Criminal Justice and Public Order Act, a new generation of ravers has revived the
-
-scene. Facing a decline in legal nightlife, with nearly half of UK clubs closing in the decade
-
-before 2016, young people are breaking into abandoned spaces using bolt-cutters and squatting
-
-laws to host underground parties. These events, fueled by social media and a desire for
-
-freedom, feature intense music, drugs, and hedonism but face challenges like police
-
-crackdowns, media scrutiny, and safety concerns, including fatalities. The documentary
-
-questions whether this chaotic, rebellious scene can survive increasing opposition from
-
-authorities.
-
-**On Jake the Dog:**
-
-Jake the Dog is a main character in Adventure Time, a magical, shape-shifting dog and Finn the
-
-Human's best friend and adoptive brother. With a laid-back, loyal, and fun-loving personality,
-
-Jake uses his stretchy powers to assist Finn on adventures in the Land of Ooo. Voiced by John
-
-DiMaggio, he’s known for his wisdom, humor, and occasional mischief, often acting as a mentor
-
-figure while enjoying life’s simple pleasures like food and music.
+**Summary:** 
 
 ---
 
 ## Green Turban
 
+### Visual Properties
+
 **Name:** Green Turban
 
 **Image Files:**
-
 ![Green Turban](../images/hats__z160/SS3_milady_Green%20Turban.webp)
 
-**Brief Visual Description:** Plain green turban (a piece of garment / clothing), tied at the back.
+**Accessory Type:**
+
+**Visual Description:** Plain green turban (a piece of garment / clothing), tied at the back.
 
 **Dominant Colors:** Green
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Resilient
 
+### Visual Properties
+
 **Name:** Resilient
 
 **Image Files:**
-
 ![Resilient](../images/hats__z160/SS3_freetekno_Resilient.webp)
 
-**Brief Visual Description:** Black cap with red rectangular shape in the middle and the text
+**Accessory Type:**
 
-“Resilient” in it.
+**Visual Description:** Black cap with red rectangular shape in the middle and the text “Resilient” in it.
 
 **Dominant Colors:** Black, red, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Frank Waln, a Sicangu Lakota rapper from the Rosebud
+---
 
-Indian Reservation, uses hip-hop to bridge Native and urban communities, sharing experiences
+### Cultural Context
 
-of life on the reservation and cultural resilience. Based in Chicago, he sees hip-hop as a
+**Source Type:**
 
-platform for cultural exchange, addressing challenges like poverty and historical trauma while
+**Cultural Origin:** Frank Waln, a Sicangu Lakota rapper from the Rosebud Indian Reservation, uses hip-hop to bridge Native and urban communities, sharing experiences of life on the reservation and cultural resilience. Based in Chicago, he sees hip-hop as a platform for cultural exchange, addressing challenges like poverty and historical trauma while fostering connection and understanding
 
-fostering connection and understanding
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** July 25, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11696086343182
-
-05029
-
 - https://ictnews.org/news/native-rap-artist-builds-bridges-with-his-music-
+
+**Summary:** 
 
 ---
 
 ## Alien Head Band
 
+### Visual Properties
+
 **Name:** Alien Head Band
 
 **Image Files:**
-
 ![Alien Head Band](../images/hats__z160/SS3_milady_Alien%20Head%20Band.webp)
 
-**Brief Visual Description:** Light green alien headband with 3 eye balls, an antenna, and 2
+**Accessory Type:**
 
-pointy ears.
+**Visual Description:** Light green alien headband with 3 eye balls, an antenna, and 2 pointy ears.
 
 **Dominant Colors:** Green, white with slight tint of green
 
-**Reasoning for Inclusion within Mibera:** Part of CFang and Milady trait / lore.
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Source / Reference:**
+**Notable Figures:**
 
-twitter.com/CharlotteFang77/status/1694126068738003340?t=dxMlObkirSKGBKENFPCn7A&s
+---
 
-=19
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** Part of CFang and Milady trait / lore.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## WAGMI
 
+### Visual Properties
+
 **Name:** WAGMI
 
 **Image Files:**
-
 ![WAGMI](../images/hats__z160/SS3_milady_WAGMI.webp)
 
-**Brief Visual Description:** Dark green cap with white text on it saying “WAGMI” crossed with a
+**Accessory Type:**
 
-line.
+**Visual Description:** Dark green cap with white text on it saying “WAGMI” crossed with a line.
 
 **Dominant Colors:** Dark green, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** WAGMI, short for "We're All Gonna Make It", is a popular
+---
 
-phrase in crypto culture, especially on platforms like X. It expresses optimism, camaraderie, and
+### Cultural Context
 
-collective confidence in the success of a cryptocurrency project or the broader market, often
+**Source Type:**
 
-used to boost morale during volatile times.
+**Cultural Origin:** WAGMI, short for "We're All Gonna Make It", is a popular phrase in crypto culture, especially on platforms like X. It expresses optimism, camaraderie, and collective confidence in the success of a cryptocurrency project or the broader market, often used to boost morale during volatile times.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** July 25, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Tez (the WAGMI), Jani (the crossing line)
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Milady
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Tez (the WAGMI), Jani (the crossing line)
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143684092467093684/11458861583336
 
-73512
+**Summary:** 
 
 ---
 
 ## I Have Mibera
 
+### Visual Properties
+
 **Name:** I Have Mibera
 
 **Image Files:**
-
 ![SS3 I Have Mibera](../images/hats__z160/SS3_I%20Have%20Mibera.webp)
 
-**Brief Visual Description:** Navy blue cap with white text on it saying “Please be patient I have
+**Accessory Type:**
 
-Mibera”.
+**Visual Description:** Navy blue cap with white text on it saying “Please be patient I have Mibera”.
 
 **Dominant Colors:** Navy blue, white
 
-**Reasoning for Inclusion within Mibera:** In relation to a meme related to Milady, which is one
+**Material Impression:**
 
-of Mibera’s archetypes.
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** July 25, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Jani
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
 
-**Sources / Reference:**
+---
 
-- https://discord.com/channels/1133935527855399053/1143684092467093684/11551260631611
+### Mibera Integration
 
-67882
+**Archetype:** 
 
-- https://x.com/MiladyMaker333/status/1704922323877584916/photo/1
+**Archetype Alignment:** In relation to a meme related to Milady, which is one of Mibera’s archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Spiral Tribe
 
+### Visual Properties
+
 **Name:** Spiral Tribe
 
 **Image Files:**
-
 ![Spiral Tribe](../images/hats__z160/SS3_milady_Spiral%20Tribe.webp)
 
-**Brief Visual Description:** Black cap with a tribal Mibera logo in the middle, in white. The logo is
+**Accessory Type:**
 
-in the shape of a bear head with tribal-style design on the inside.
+**Visual Description:** Black cap with a tribal Mibera logo in the middle, in white. The logo is in the shape of a bear head with tribal-style design on the inside.
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Might be inspired by this too:**
+**Notable Figures:**
 
-- https://frankiestone27.wordpress.com/zine-production/spiral-tribe/
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Cozy Sonic
 
+### Visual Properties
+
 **Name:** Cozy Sonic
 
 **Image Files:**
-
 ![Cozy Sonic](../images/hats__z160/SS3_acidhouse_Cozy%20Sonic.webp)
 
-**Brief Visual Description:** Hat in the shape of Sonic the Hedgehog with the main color being
+**Accessory Type:**
 
-blue and light-beige, two eyes, a little nose, and pointy ears.
+**Visual Description:** Hat in the shape of Sonic the Hedgehog with the main color being blue and light-beige, two eyes, a little nose, and pointy ears.
 
 **Dominant Colors:** Blue, light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Inspired by Steady Teddys Sonic hat
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** Inspired by Steady Teddys Sonic hat
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Reference:**
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Beret
 
+### Visual Properties
+
 **Name:** beret
 
 **Image Files:**
-
 ![Beret](../images/hats__z160/SS3_milady_Beret.webp)
 
-**Brief Visual Description:** Small beret in dark army green / dark grey.
+**Accessory Type:**
+
+**Visual Description:** Small beret in dark army green / dark grey.
 
 **Dominant Colors:** Dark army green / dark grey.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Note:** It’s inspired by one of Milady’s traits / assets.
+**Notable Figures:**
 
-(sorry i feel like im color-blind sometimes lol T,T)
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Midsommmar
 
+### Visual Properties
+
 **Name:** Midsommar
 
 **Image Files:**
-
 ![ancient irishDruid Midsommar](../images/hats__z160/SS3_milady_ancient_irishDruid_Midsommar.webp)
 
-**Brief Visual Description:** Flower crown with soft red, yellow, and white flowers, and a bunch of
+**Accessory Type:**
 
-leaves.
+**Visual Description:** Flower crown with soft red, yellow, and white flowers, and a bunch of leaves.
 
 **Dominant Colors:** Green, light red, yellow, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Midsommar (2019), directed by Ari Aster, is a folk horror film
+---
 
-following Dani, a grieving American student, who joins her boyfriend and his friends on a trip to
+### Cultural Context
 
-a remote Swedish commune for a rare midsummer festival. As the group encounters the
+**Source Type:**
 
-cult-like Hårga community, the seemingly idyllic rituals turn increasingly disturbing, blending
+**Cultural Origin:** Midsommar (2019), directed by Ari Aster, is a folk horror film following Dani, a grieving American student, who joins her boyfriend and his friends on a trip to a remote Swedish commune for a rare midsummer festival. As the group encounters the cult-like Hårga community, the seemingly idyllic rituals turn increasingly disturbing, blending psychological horror with vibrant, daylight-drenched visuals. The film explores themes of grief, trauma, and toxic relationships, culminating in the main character’s unsettling transformation.
 
-psychological horror with vibrant, daylight-drenched visuals. The film explores themes of grief,
+**Era:**
 
-trauma, and toxic relationships, culminating in the main character’s unsettling transformation.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:** Fedor
+**Notable Figures:**
 
-**Trait Conflicts:**
+---
 
-**Ancestor (if applicable):** Irish Druid
+### Mibera Integration
 
-**Archetype (if applicable):** Milady
+**Archetype:** Milady
 
-**Swag Score (if applicable):** 3
+**Archetype Alignment:** 
 
-**Ancient / Modern:** Ancient
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Irish Druid
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Remiliaco
 
+### Visual Properties
+
 **Name:** Remiliaco
 
 **Image Files:**
-
 ![Remiliaco](../images/hats__z160/SS3_acidhouse_Remiliaco.webp)
 
-**Brief Visual Description:** White and black cap with “REMILIA CORPORATION” text in black,
+**Accessory Type:**
 
-surrounded by a lot of little stars in full-black and thin outline.
+**Visual Description:** White and black cap with “REMILIA CORPORATION” text in black, surrounded by a lot of little stars in full-black and thin outline.
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/who_anon_/status/1682805589179609095?s=20
+
+**Summary:** 
 
 ---
 
 ## Tweed Peak Cap
 
+### Visual Properties
+
 **Name:** Tweed Peak Cap
 
 **Image Files:**
-
 ![Tweed Peak Cap](../images/hats__z160/SS3_milady_Tweed%20Peak%20Cap.webp)
 
-**Brief Visual Description:** Plain tweed cap in dull green.
+**Accessory Type:**
+
+**Visual Description:** Plain tweed cap in dull green.
 
 **Dominant Colors:** Dull green
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143360154734174308/11573155203249
-
-80776
-
 - https://frankiestone27.wordpress.com/zine-production/spiral-tribe/
+
+**Summary:** 
 
 ---
 
 ## Remcon
 
+### Visual Properties
+
 **Name:** Remcon
 
 **Image Files:**
-
 ![Remcon](../images/hats__z160/SS3_acidhouse_Remcon.webp)
 
-**Brief Visual Description:** White and soft bright pink cap with “REMILIA-CON TOKYO 2023”
+**Accessory Type:**
 
-text in black, under graphic of a pair of wings outlined.
+**Visual Description:** White and soft bright pink cap with “REMILIA-CON TOKYO 2023” text in black, under graphic of a pair of wings outlined.
 
 **Dominant Colors:** Pink, white, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Inspired by a merch from Remilia-con that was held in
+---
 
-Tokyo in 2023.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** July 24, 2024
+**Cultural Origin:** Inspired by a merch from Remilia-con that was held in Tokyo in 2023.
 
-**Who Introduced the Trait:** Tez
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Acidhouse
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/miladymaker/status/1642527309725835264
-
 - https://x.com/who_anon_/status/1684357121368809473?s=20
-
 - https://discord.com/channels/1133935527855399053/1143684092467093684/11571564
 
-54994804747
+**Summary:** 
 
 ---
 
 ## Russian
 
+### Visual Properties
+
 **Name:** Russian
 
 **Image Files:**
-
 ![Russian](../images/hats__z160/SS3_milady_Russian.webp)
 
-**Brief Visual Description:** Dark grey ushanka / Russian winter hat with ear flaps and fluffy front
+**Accessory Type:**
 
-framing the face part.
+**Visual Description:** Dark grey ushanka / Russian winter hat with ear flaps and fluffy front framing the face part.
 
 **Dominant Colors:** Dark grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The hat was
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** The hat was
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143360154734174308/11573133116506
-
-23499
-
 - https://www.youtube.com/watch?app=desktop&v=P0JA_Uspyjs
 
-**Summary:**
-
-The video captures members of Spiral Tribe, a pivotal UK-based free party sound system and
-
-arts collective formed in 1990, discussing their ethos and activities during their active years in
-
-the mid-1990s. Conducted in 1995, the interview covers their role in the free party and teknival
-
-movement, their nomadic lifestyle, and their influence on the European rave scene, particularly
-
-after relocating to mainland Europe following legal challenges in the UK, such as the
-
-Castlemorton Common Festival in 1992. The video provides a glimpse into their
-
-anti-establishment philosophy, emphasizing "free music for free people," their rejection of
-
-commercialism, and their contributions to spiral tekno, a genre named after them.
+**Summary:** The video captures members of Spiral Tribe, a pivotal UK-based free party sound system and arts collective formed in 1990, discussing their ethos and activities during their active years in the mid-1990s. Conducted in 1995, the interview covers their role in the free party and teknival movement, their nomadic lifestyle, and their influence on the European rave scene, particularly after relocating to mainland Europe following legal challenges in the UK, such as the Castlemorton Common Festival in 1992. The video provides a glimpse into their anti-establishment philosophy, emphasizing "free music for free people," their rejection of commercialism, and their contributions to spiral tekno, a genre named after them.
 
 ---
 
 ## Baddies Blue
 
+### Visual Properties
+
 **Name:** Baddies Blue
 
 **Image Files:**
-
 ![SS3 Baddies Blue](../images/hats__z160/SS3_Baddies%20Blue.webp)
 
-**Brief Visual Description:** Blue cap with a graphic of a brown bear with red ribbon on one ear
+**Accessory Type:**
 
-holding a white flower.
+**Visual Description:** Blue cap with a graphic of a brown bear with red ribbon on one ear holding a white flower.
 
 **Dominant Colors:** Blue, brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**NOTE:** STILL NEED TO FIND THE ORIGINAL DESIGN BY GUMI
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## No World as Fucked as Mine
 
+### Visual Properties
+
 **Name:** No World As Fucked As Mine
 
 **Image Files:**
-
 ![modern traveller No World As Fucked As Mine](../images/hats__z160/SS3_acidhouse_modern_traveller_No%20World%20As%20Fucked%20As%20Mine.webp)
 
-**Brief Visual Description:** White cap with black text in thin font that reads “no world as fucked
+**Accessory Type:**
 
-as mine” with no capitalization.
+**Visual Description:** White cap with black text in thin font that reads “no world as fucked as mine” with no capitalization.
 
 **Dominant Colors:** White, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Kai Whiston’s upbringing in the New Age Traveller
+---
 
-community. Set in Shaftesbury, Dorset, it traces the grassroots, neo-hippy rave scene led by
+### Cultural Context
 
-groups like Spiral Tribe in the 1980s and 1990s, against Thatcher’s Britain. It also touches on
+**Source Type:**
 
-folkloric traditions inspiring modern “rave mysticism” in electronic music.
+**Cultural Origin:** Kai Whiston’s upbringing in the New Age Traveller community. Set in Shaftesbury, Dorset, it traces the grassroots, neo-hippy rave scene led by groups like Spiral Tribe in the 1980s and 1990s, against Thatcher’s Britain. It also touches on folkloric traditions inspiring modern “rave mysticism” in electronic music.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** July 24, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):** Traveller
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
 
-**Ancient / Modern:** Modern
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Traveller
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11679259368266
-
-26048
-
 - https://www.youtube.com/watch?v=RgyFiFJGqgo
+
+**Summary:** 
 
 ---
 
 ## Camo
 
+### Visual Properties
+
 **Name:** Camo
 
 **Image Files:**
-
 ![Camo](../images/hats__z160/SS3_milady_Camo.webp)
 
-**Brief Visual Description:** Mushroom shaped beret with camo patterns with army green color.
+**Accessory Type:**
+
+**Visual Description:** Mushroom shaped beret with camo patterns with army green color.
 
 **Dominant Colors:** Dark green, light pale green, brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.last.fm/music/Spiral+Tribe/+images/4a76ad2d75bf4c009277f1b547ff1483
-
 - https://discord.com/channels/1133935527855399053/1143360154734174308/11573144533904
 
-91729
+**Summary:** 
 
 ---
 
 ## Ethiopian Headdress
 
+### Visual Properties
+
 **Name:** Ethiopian Headdress
 
 **Image Files:**
-
 ![Ethiopian Headdress](../images/hats__z160/SS3_milady_Ethiopian%20Headdress.webp)
 
-**Brief Visual Description:** Headdress made of different varieties of leaves, white flowers, and
+**Accessory Type:**
 
-yellow fruits.
+**Visual Description:** Headdress made of different varieties of leaves, white flowers, and yellow fruits.
 
 **Dominant Colors:** Green, yellow, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The Suri tribe in Ethiopia’s Omo Valley is known for their
+---
 
-intricate face paint and stunning floral headpieces, using natural materials like clay, mud, and
+### Cultural Context
 
-flowers to create artistic designs. These traditions, showcased for tourists, reflect their deep
+**Source Type:**
 
-connection to nature amid challenges like regional violence and cattle raiding.
+**Cultural Origin:** The Suri tribe in Ethiopia’s Omo Valley is known for their intricate face paint and stunning floral headpieces, using natural materials like clay, mud, and flowers to create artistic designs. These traditions, showcased for tourists, reflect their deep connection to nature amid challenges like regional violence and cattle raiding.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Milady
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1158770561560879134/11591080145156
-
-87445
-
 - https://thursd.com/articles/people-from-the-ethiopian-suri-tribe-wear-intricate-face-paint-and-don
 
--breathtaking-floral-headpieces
+**Summary:** 
 
 ---
 
 ## McDonalds 2
 
+### Visual Properties
+
 **Name:** McDonalds 2
 
 **Image Files:**
-
 ![Mcdonalds 2](../images/hats__z160/SS3_milady_Mcdonalds%202.webp)
 
-**Brief Visual Description:** Cap with stripy colours of a burger, light brown, dark brown, and
+**Accessory Type:**
 
-green. In the middle is a big ‘M’ logo with a small text that reads ‘mibera’.
+**Visual Description:** Cap with stripy colours of a burger, light brown, dark brown, and green. In the middle is a big ‘M’ logo with a small text that reads ‘mibera’.
 
 **Dominant Colors:** Light brown, dark brown, green, yellow.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani / Gods
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani / Gods
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://smilemakersonline.com/big-mac-retro-cap/
+
+**Summary:** 
 
 ---
 
 ## American Union
 
+### Visual Properties
+
 **Name:** American Union
 
 **Image Files:**
-
 ![American Union](../images/hats__z160/SS3_milady_American%20Union.webp)
 
-**Brief Visual Description:** Fisherman hat in blue with a red star in the middle and white dots.
+**Accessory Type:**
+
+**Visual Description:** Fisherman hat in blue with a red star in the middle and white dots.
 
 **Dominant Colors:** Blue, red, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Ron Hardy, a pioneering Chicago DJ, shaped house music
+---
 
-at The Music Box club in the 1980s. Known for his high-energy, experimental style, he mixed
+### Cultural Context
 
-disco, soul, and early house tracks, often playing them at fast tempos or backwards, creating an
+**Source Type:**
 
-electrifying atmosphere. His innovative edits and residency at the club, which featured unique
+**Cultural Origin:** Ron Hardy, a pioneering Chicago DJ, shaped house music at The Music Box club in the 1980s. Known for his high-energy, experimental style, he mixed disco, soul, and early house tracks, often playing them at fast tempos or backwards, creating an electrifying atmosphere. His innovative edits and residency at the club, which featured unique amenities like a fruit bar, helped define Chicago's house music scene.
 
-amenities like a fruit bar, helped define Chicago's house music scene.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** July 25, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608814206512
-
-12840
-
 - https://daily.redbullmusicacademy.com/2015/05/ron-hardy-at-the-music-box/
+
+**Summary:** 
 
 ---
 
 ## Straw Farmer
 
+### Visual Properties
+
 **Name:** Straw farmer
 
 **Image Files:**
-
 ![Straw Farmers](../images/hats__z160/SS3_acidhouse_Straw%20Farmers.webp)
 
-**Brief Visual Description:** Straw hat with thick red stripe around it.
+**Accessory Type:**
+
+**Visual Description:** Straw hat with thick red stripe around it.
 
 **Dominant Colors:** Beige, red.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani / Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani / Gumi
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1133935528400666677/11406201923433
 
-96352
+**Summary:** 
 
 ---
 
 ## Amanita
 
+### Visual Properties
+
 **Name:** Amanita
 
 **Image Files:**
-
 ![amanita](../images/hats__z160/SS3_milady_amanita.webp)
 
-**Brief Visual Description:** Big hat in the shape of a mushroom head in red with white spots.
+**Accessory Type:**
+
+**Visual Description:** Big hat in the shape of a mushroom head in red with white spots.
 
 **Dominant Colors:** Red, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The Amanita genus is a group of mushrooms in the
+---
 
-Agaricales order, known for distinctive features like a veil, white spore print, and often a bulbous
+### Cultural Context
 
-stem base. It includes over 600 species, ranging from edible to highly toxic. Notable species
+**Source Type:**
 
-include Amanita muscaria (fly agaric), with its iconic red cap and white warts, often toxic and
+**Cultural Origin:** The Amanita genus is a group of mushrooms in the Agaricales order, known for distinctive features like a veil, white spore print, and often a bulbous stem base. It includes over 600 species, ranging from edible to highly toxic. Notable species include Amanita muscaria (fly agaric), with its iconic red cap and white warts, often toxic and hallucinogenic, and Amanita phalloides (death cap), responsible for most fatal mushroom poisonings due to its potent toxins. They typically grow in forests, forming mycorrhizal relationships with trees.
 
-hallucinogenic, and Amanita phalloides (death cap), responsible for most fatal mushroom
+**Era:**
 
-poisonings due to its potent toxins. They typically grow in forests, forming mycorrhizal
+**Scene Association:**
 
-relationships with trees.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:** Fedor
+---
 
-**Trait Conflicts:**
+### Mibera Integration
 
-**Ancestor (if applicable):**
+**Archetype:** Milady
 
-**Archetype (if applicable):** Milady
+**Archetype Alignment:** 
 
-**Swag Score (if applicable):** 3
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1158511884706779227/11624197337574
 
-27813
+**Summary:** 
 
 ---
 
 ## Sudan Sufi
 
+### Visual Properties
+
 **Name:** Sudan Sufi
 
 **Image Files:**
-
 ![Sudan Sufi](../images/hats__z160/SS3_milady_Sudan%20Sufi.webp)
 
-**Brief Visual Description:** Taqiyah cap in patterns of circular shapes and lines. A small rounded
+**Accessory Type:**
 
-cap that fits tightly onto the head.
+**Visual Description:** Taqiyah cap in patterns of circular shapes and lines. A small rounded cap that fits tightly onto the head.
 
 **Dominant Colors:** Shades of purple.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Fedor
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.theguardian.com/world/gallery/2016/feb/05/the-psychedelic-world-of-sudans-sufis-in
 
--pictures
-
-**Summary:**
-
-The article showcases the vibrant rituals of Sudan's Qadiriyya Sufi order in Omdurman, where
-
-worshippers gather every Friday at Sheikh Hamed Al Nil mosque for dhikr, a mystical practice
-
-involving prayers, dances, and spins to achieve spiritual trance. The colorful ceremonies,
-
-marked by green jalabiyas symbolizing Sufi simplicity, feature music, chants, and incense,
-
-drawing large crowds in a celebration of faith.
+**Summary:** The article showcases the vibrant rituals of Sudan's Qadiriyya Sufi order in Omdurman, where worshippers gather every Friday at Sheikh Hamed Al Nil mosque for dhikr, a mystical practice involving prayers, dances, and spins to achieve spiritual trance. The colorful ceremonies, marked by green jalabiyas symbolizing Sufi simplicity, feature music, chants, and incense, drawing large crowds in a celebration of faith.
 
 ---
 
 ## THJ Globe
 
+### Visual Properties
+
 **Name:** THJ Globe
 
 **Image Files:**
-
 ![SS3 THJ Globe](../images/hats__z160/SS3_THJ%20Globe.webp)
 
-**Brief Visual Description:** Bone-white fisherman hat with strings. On it is a graphic of two bears
+**Accessory Type:**
 
-holding a yellow globe on top of a cloud with black text “THJ” on it.
+**Visual Description:** Bone-white fisherman hat with strings. On it is a graphic of two bears holding a yellow globe on top of a cloud with black text “THJ” on it.
 
 **Dominant Colors:** White, yellow.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:** The Honey Jar
+---
 
-**Link to Partner:** https://x.com/0xhoneyjar https://0xhoneyjar.mirror.xyz/
+### Mibera Integration
 
-- https://www.0xhoneyjar.xyz/
+**Archetype:** 
 
-**Summary:** a Berachain-native community venture studio focused on building and supporting
+**Archetype Alignment:** 
 
-projects within the Berachain ecosystem. Their flagship project, Honeycomb NFT, is a perks
+**Vibe Tags:**
 
-aggregator that provides holders with whitelist access, airdrops, and other benefits across
+**Setting:**
 
-Berachain projects, acting as an "anti-hustle" entry point to the ecosystem. They also incubate
+**Swag Score:** 3
 
-DeFi and NFT projects like Henlo and ApiologyDAO, fostering community engagement,
+**Swag Justification:**
 
-creativity, and liquidity through partnerships and public goods.
+---
 
-**Partner Relationship:**
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** a Berachain-native community venture studio focused on building and supporting projects within the Berachain ecosystem. Their flagship project, Honeycomb NFT, is a perks aggregator that provides holders with whitelist access, airdrops, and other benefits across Berachain projects, acting as an "anti-hustle" entry point to the ecosystem. They also incubate DeFi and NFT projects like Henlo and ApiologyDAO, fostering community engagement, creativity, and liquidity through partnerships and public goods. **Partner Relationship:**
 
 ---
 
 ## Orange
 
+### Visual Properties
+
 **Name:** Orange
 
 **Image Files:**
-
 ![Orange](../images/hats__z160/SS3_milady_Orange.webp)
 
-**Brief Visual Description:** Small orange-shaped and coloured beret with 2 small green leaves
+**Accessory Type:**
 
-standing out in the middle of it.
+**Visual Description:** Small orange-shaped and coloured beret with 2 small green leaves standing out in the middle of it.
 
 **Dominant Colors:** Orange, green.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Note:** Part of Miady’s trait (Hat: orange beret)
+**Notable Figures:**
 
-https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22values%22:[%2
+---
 
-2orange+beret%22]}]
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## I Eat Ass
 
+### Visual Properties
+
 **Name:** I Eat Ass
 
 **Image Files:**
-
 ![I Eat Ass](../images/hats__z160/SS3_chicagodetroit_I%20Eat%20Ass.webp)
 
-**Brief Visual Description:** Red cap with bold white text that reads “I EAT ASS”.
+**Accessory Type:**
+
+**Visual Description:** Red cap with bold white text that reads “I EAT ASS”.
 
 **Dominant Colors:** Red, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Baddies Pink
 
+### Visual Properties
+
 **Name:** Baddies Pink
 
 **Image Files:**
-
 ![SS3 Baddies Pink](../images/hats__z160/SS3_Baddies%20Pink.webp)
 
-**Brief Visual Description:** Soft bright pink cap with a graphic of a brown bear with red ribbon on
+**Accessory Type:**
 
-one ear holding a white flower.
+**Visual Description:** Soft bright pink cap with a graphic of a brown bear with red ribbon on one ear holding a white flower.
 
 **Dominant Colors:** Pink, brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:** Bera Baddies
+---
 
-**Link to Partner:** https://x.com/berabaddies https://linktr.ee/berabaddies
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Mcdonalds 1
 
+### Visual Properties
+
 **Name:** McDonalds 1
 
 **Image Files:**
-
 ![Mcdonalds 1](../images/hats__z160/SS3_chicagodetroit_Mcdonalds%201.webp)
 
-**Brief Visual Description:** Bright red and yellow newsboy cap with Mcdonalds’ logo on it, a
+**Accessory Type:**
 
-vintage McDonald’s hat.
+**Visual Description:** Bright red and yellow newsboy cap with Mcdonalds’ logo on it, a vintage McDonald’s hat.
 
 **Dominant Colors:** Red, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gods
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-- https://www.amazon.com/McDonalds-Vintage-Official-Employee-Uniform/dp/B08GNYS18F
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 - https://www.amazon.com/McDonalds-Vintage-Official-Employee-Uniform/dp/B08GNYS18F ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gods
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Remilia Embroidered
 
+### Visual Properties
+
 **Name:** Remillia Embroidered
 
 **Image Files:**
-
 ![Remilia Embroidered](../images/hats__z160/SS3_acidhouse_Remilia%20Embroidered.webp)
 
-**Brief Visual Description:** Light orange with blue embroidery that reads “REMILIA” inside of an
+**Accessory Type:**
 
-oval graphic with a star.
+**Visual Description:** Light orange with blue embroidery that reads “REMILIA” inside of an oval graphic with a star.
 
 **Dominant Colors:** Orange, blue
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Inspired by one of Remilia’s official merch on their website.
+---
 
-Remilia Corporation is a decentralized autonomous organization (DAO) and digital art collective
+### Cultural Context
 
-behind the Milady Maker NFT series, launched in 2021. Inspired by Touhou Project’s Remilia
+**Source Type:**
 
-Scarlet, it focuses on provocative digital art and crypto-backed projects, like Bonkler,
+**Cultural Origin:** Inspired by one of Remilia’s official merch on their website. Remilia Corporation is a decentralized autonomous organization (DAO) and digital art collective behind the Milady Maker NFT series, launched in 2021. Inspired by Touhou Project’s Remilia Scarlet, it focuses on provocative digital art and crypto-backed projects, like Bonkler, emphasizing net art and online performance. Members often use pseudonyms and draw from Y2K Japanese street-style aesthetics.
 
-emphasizing net art and online performance. Members often use pseudonyms and draw from
+**Era:**
 
-Y2K Japanese street-style aesthetics.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** July 24, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Trait Conflicts:**
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):** Acidhouse
+**Archetype:** Acidhouse
 
-**Swag Score (if applicable):** 3
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://store.remilia.org/
-
 - https://x.com/who_anon_/status/1684357945419608064
-
 - https://x.com/MiladyMaker333/status/1765494973590618176
+
+**Summary:** 
 
 ---
 
 ## Hat With Feathers
 
+### Visual Properties
+
 **Name:** Hat With Feathers
 
 **Image Files:**
-
 ![ancient mongolian Hat With Feathers](../images/hats__z160/SS4_acidhouse_ancient_mongolian_Hat%20With%20Feathers.webp)
 
-**Brief Visual Description:** Big headpiece consisting of a brown base with thin flowy strings on
+**Accessory Type:**
 
-the front part and down framing the face. Multiple feathers that are enormous in size are poking
-
-out of the top part of the hat.
+**Visual Description:** Big headpiece consisting of a brown base with thin flowy strings on the front part and down framing the face. Multiple feathers that are enormous in size are poking out of the top part of the hat.
 
 **Dominant Colors:** Brown, dirty white, light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Mongolian shamanic rituals; that were being revived after
+---
 
-being banned for 70 years under communist rule. Protected by Mongolia’s constitution since
+### Cultural Context
 
-1992, these ancient practices involve shamans (buu) performing ceremonies, such as a
+**Source Type:**
 
-summer solstice ritual near Ulaanbaatar.
+**Cultural Origin:** Mongolian shamanic rituals; that were being revived after being banned for 70 years under communist rule. Protected by Mongolia’s constitution since 1992, these ancient practices involve shamans (buu) performing ceremonies, such as a summer solstice ritual near Ulaanbaatar.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** July 26, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):** Mongolian
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score (if applicable):** 4
+### Mibera Integration
 
-**Ancient / Modern:** Ancient
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Mongolian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 26, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1163467995549536397/11634680584850
-
-84190
-
 - https://www.theguardian.com/world/gallery/2018/jun/29/mongolias-shamanic-rituals-in-pictures
+
+**Summary:** 
 
 ---
 
 ## Orthodox Fur Small
 
+### Visual Properties
+
 **Name:** Orthodox Fur Small
 
 **Image Files:**
-
 ![modern orthodoxjew Orthodox Fur Small](../images/hats__z160/SS3_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Small.webp)
 
-**Brief Visual Description:** Round furry hat in black.
+**Accessory Type:**
+
+**Visual Description:** Round furry hat in black.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Ultra-Orthodox Jewish groups; like Neturei Karta and
+---
 
-Satmar Hasidim, who oppose Zionism and the State of Israel on religious grounds. They view
+### Cultural Context
 
-the establishment of Israel as an anti-messianic act, believing Jews are forbidden to return
+**Source Type:**
 
-collectively to the Holy Land or establish sovereignty until divine redemption by the Messiah.
+**Cultural Origin:** Ultra-Orthodox Jewish groups; like Neturei Karta and Satmar Hasidim, who oppose Zionism and the State of Israel on religious grounds. They view the establishment of Israel as an anti-messianic act, believing Jews are forbidden to return collectively to the Holy Land or establish sovereignty until divine redemption by the Messiah. This stems from a Midrash interpretation that Jews must wait passively for divine intervention rather than pursue human-driven political efforts like Zionism. These groups see Israel’s existence as a violation of Jewish law and anticipate its divine dissolution.
 
-This stems from a Midrash interpretation that Jews must wait passively for divine intervention
+**Era:**
 
-rather than pursue human-driven political efforts like Zionism. These groups see Israel’s
+**Scene Association:**
 
-existence as a violation of Jewish law and anticipate its divine dissolution.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** July 26, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:** Jani
+---
 
-**Trait Conflicts:**
+### Mibera Integration
 
-**Ancestor (if applicable):** Orthodox Jew
+**Archetype:** Chicago Detroit
 
-**Archetype (if applicable):** Chicago Detroit
+**Archetype Alignment:** 
 
-**Swag Score (if applicable):** 3
+**Vibe Tags:**
 
-**Ancient / Modern:** Modern
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Orthodox Jew
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 26, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1138982309106819182/11623532024155
-
-42353
-
 - https://www.myjewishlearning.com/article/ultra-orthodox-anti-zionist/
+
+**Summary:** 
 
 ---
 
 ## Wide Brim
 
+### Visual Properties
+
 **Name:** Wide Brim
 
 **Image Files:**
-
 ![Wide Brim](../images/hats__z160/SS3_chicagodetroit_Wide%20Brim.webp)
 
-**Brief Visual Description:** All-black hat with wide brim.
+**Accessory Type:**
+
+**Visual Description:** All-black hat with wide brim.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11696182359902
 
-29203
+**Summary:** 
 
 ---
 
 ## Bitcoin 2
 
+### Visual Properties
+
 **Name:** Bitcoin 2
 
 **Image Files:**
-
 ![Bitcoin 2](../images/hats__z160/SS4_acidhouse_Bitcoin%202.webp)
 
-**Brief Visual Description:** Black cap with colourful graphics lined up in order of: sonic, bitcoin,
+**Accessory Type:**
 
-10, HP (Harry Potter), and Inu- as well as colourful text that reads “Harry Potter Obama” above
-
-them.
+**Visual Description:** Black cap with colourful graphics lined up in order of: sonic, bitcoin, 10, HP (Harry Potter), and Inu- as well as colourful text that reads “Harry Potter Obama” above them.
 
 **Dominant Colors:** Black, red, blue, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a
+---
 
-meme-based cryptocurrency on Ethereum (ERC-20) and Binance Smart Chain (BSC), launched
+### Cultural Context
 
-around late 2021. The token employs reflection, liquidity pool acquisition, and burn functions in
+**Source Type:**
 
-trades.
+**Cultural Origin:** HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a meme-based cryptocurrency on Ethereum (ERC-20) and Binance Smart Chain (BSC), launched around late 2021. The token employs reflection, liquidity pool acquisition, and burn functions in trades.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score (if applicable):** 4
+### Mibera Integration
 
-**FOR PARTNERS TRAITS ONLY:**
+**Archetype:** Acidhouse
 
-**Partner:** HPOS10I (HarryPotterObamaSonic10Inu)
+**Archetype Alignment:** 
 
-**Link to Partner:** https://x.com/HPOS10Ireturns , https://hpos10i.com/
+**Vibe Tags:**
 
-**Partner Relationship:**
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Cincinnati Reds
 
+### Visual Properties
+
 **Name:** Cincinnati Reds
 
 **Image Files:**
-
 ![C](../images/hats__z160/SS3_freetekno_C.webp)
 
-**Brief Visual Description:** Red cap with big yellow letter ‘C’ in the middle.
+**Accessory Type:**
+
+**Visual Description:** Red cap with big yellow letter ‘C’ in the middle.
 
 **Dominant Colors:** Red, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** (NOTE DOWN BELOW)
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** (NOTE DOWN BELOW)
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11677948827153
-
-40810
-
 - https://www.youtube.com/watch?v=WyGW88l6q-8&t=243s
 
-**NOTE:** This can be about two things, Cincinnati Reds itself or Tonka at The Zap.
-
-**Cincinnati:**
-
-The Cincinnati Reds, based in Cincinnati, Ohio, are a Major League Baseball team in the
-
-National League Central Division. Founded in 1881 as the Cincinnati Red Stockings, they joined
-
-the NL in 1890 and have won five World Series titles.
-
-**Tonka ZAP 1990:**
-
-Tonka at The Zap was a legendary club night at The Zap Club in Brighton, England, during the
-
-late 1980s and early 1990s, known for its acid house and early trance music. Held on Mondays,
-
-it featured DJs like DJ Harvey, Choci, and Rev, attracting a diverse crowd and shaping the UK’s
-
-underground dance scene. The events ran for five years, ending in summer 1993.
+**Summary:** 
 
 ---
 
 ## Head Tube
 
+### Visual Properties
+
 **Name:** Head Tube
 
 **Image Files:**
-
 ![Head Tube](../images/hats__z160/SS3_chicagodetroit_Head%20Tube.webp)
 
-**Brief Visual Description:** Plain black turban.
+**Accessory Type:**
+
+**Visual Description:** Plain black turban.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Sailor
 
+### Visual Properties
+
 **Name:** Sailor
 
 **Image Files:**
-
 ![Sailor](../images/hats__z160/SS3_milady_Sailor.webp)
 
-**Brief Visual Description:** White sailor hat with a graphic of an anchor and a stripe on top of it in
+**Accessory Type:**
 
-greyish tone.
+**Visual Description:** White sailor hat with a graphic of an anchor and a stripe on top of it in greyish tone.
 
 **Dominant Colors:** White, grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Note:** It’s inspired by one of Milady’s traits / assets.
+**Notable Figures:**
 
-https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22values%22:[%2
+---
 
-2sailor+hat%22]}]
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Modern Irish
 
+### Visual Properties
+
 **Name:** Modern Irish
 
 **Image Files:**
-
 ![Modern Irish](../images/hats__z160/SS2_acidhouse_Modern%20Irish.webp)
 
-**Brief Visual Description:** Green bucket hat / walking hat with patches of different garments
+**Accessory Type:**
 
-with different colors and patterns on it and a small yellow feather.
+**Visual Description:** Green bucket hat / walking hat with patches of different garments with different colors and patterns on it and a small yellow feather.
 
 **Dominant Colors:** Green, yellow, blue, red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1159838989872803870/11599373830311
-
-11701
-
 - https://celticranch.com/collections/mens-irish-hats/products/hanna-walking-hat
+
+**Summary:** 
 
 ---
 
 ## Aum Headwear
 
+### Visual Properties
+
 **Name:** Aum Headwear
 
 **Image Files:**
-
 ![modern japanese Aum Headwear](../images/hats__z160/SS3_acidhouse_modern_japanese_Aum%20Headwear.webp)
 
-**Brief Visual Description:** What looks like white bandages going around the head and tiny wires
+**Accessory Type:**
 
-in yellow, blue, and red in between them.
+**Visual Description:** What looks like white bandages going around the head and tiny wires in yellow, blue, and red in between them.
 
 **Dominant Colors:** White, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Aum Shinrikyo, founded in 1984 by Shoko Asahara in
+---
 
-Japan, was a doomsday cult blending Buddhist, Hindu, and Christian apocalyptic beliefs. Initially
+### Cultural Context
 
-a spiritual group, it gained legal religious status in 1989, growing to tens of thousands of
+**Source Type:**
 
-followers. The cult turned violent after a failed 1990 election bid, engaging in crimes like
+**Cultural Origin:** Aum Shinrikyo, founded in 1984 by Shoko Asahara in Japan, was a doomsday cult blending Buddhist, Hindu, and Christian apocalyptic beliefs. Initially a spiritual group, it gained legal religious status in 1989, growing to tens of thousands of followers. The cult turned violent after a failed 1990 election bid, engaging in crimes like extortion, murder, and chemical weapons production. Notable attacks include the 1994 Matsumoto sarin gas attack and the 1995 Tokyo subway sarin attack. Asahara and key members were executed in 2018. The group, now called Aleph and Hikari no Wa, remains active but is monitored as a "dangerous religion" in Japan.
 
-extortion, murder, and chemical weapons production. Notable attacks include the 1994
+**Era:**
 
-Matsumoto sarin gas attack and the 1995 Tokyo subway sarin attack. Asahara and key
+**Scene Association:**
 
-members were executed in 2018. The group, now called Aleph and Hikari no Wa, remains
+**Geographic Roots:**
 
-active but is monitored as a "dangerous religion" in Japan.
+**Why This Matters:**
 
-**Team Anecdotes:**
+**Notable Figures:**
 
-**Date Created/Uploaded:** July 24, 2024
+---
 
-**Who Introduced the Trait:** Jani
+### Mibera Integration
 
-**Trait Conflicts:**
+**Archetype:** Acidhouse
 
-**Ancestor (if applicable):** Japanese
+**Archetype Alignment:** 
 
-**Archetype (if applicable):** Acidhouse
+**Vibe Tags:**
 
-**Swag Score (if applicable):** 3
+**Setting:**
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Japanese
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.thehindu.com/news/international/aum-cult-members-face-execution-for-tokyo-subw
 
-ay-gas-attack/article23299723.ece
+**Summary:** 
 
 ---
 
 ## Working Like a Dog
 
+### Visual Properties
+
 **Name:** Working Like a Dog
 
 **Image Files:**
-
 ![Workin Like A Dog](../images/hats__z160/SS2_acidhouse_Workin%20Like%20A%20Dog.webp)
 
-**Brief Visual Description:** Brown cap with white text that reads “WORKIN’ LIKE A DOG ALL
+**Accessory Type:**
 
-DAY ON” followed by a word in bright blue that says “MILADY”.
+**Visual Description:** Brown cap with white text that reads “WORKIN’ LIKE A DOG ALL DAY ON” followed by a word in bright blue that says “MILADY”.
 
 **Dominant Colors:** Dark brown, white, bright blue
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://store.remilia.org/cdn/shop/products/working-trucker.gif?v=1662426646
-
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11667491941622
 
-78506
+**Summary:** 
 
 ---
 
 ## Cute Bera
 
+### Visual Properties
+
 **Name:** Cute Bera
 
 **Image Files:**
-
 ![SS3 Cute Bera](../images/hats__z160/SS3_Cute%20Bera.webp)
 
-**Brief Visual Description:** Brown hat in the shape of a bear face; a tiny face in the middle, big
+**Accessory Type:**
 
-curved ears, and two paws extending out of the front part resting on the front side of the head.
+**Visual Description:** Brown hat in the shape of a bear face; a tiny face in the middle, big curved ears, and two paws extending out of the front part resting on the front side of the head.
 
 **Dominant Colors:** Brown, light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Flower Hat
 
+### Visual Properties
+
 **Name:** Flower Hat
 
 **Image Files:**
-
 ![SS2 Flower Hat](../images/hats__z160/SS2_Flower%20Hat.webp)
 
-**Brief Visual Description:** Wide round hat with pink ribbon wrapped around it and a few small
+**Accessory Type:**
 
-tulips on the other side. The hat is in the colour of beige / the sand.
+**Visual Description:** Wide round hat with pink ribbon wrapped around it and a few small tulips on the other side. The hat is in the colour of beige / the sand.
 
 **Dominant Colors:** beige, sandy
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Maid Head
 
+### Visual Properties
+
 **Name:** Maid Head
 
 **Image Files:**
-
 ![Maid Head](../images/hats__z160/SS2_milady_Maid%20Head.webp)
 
-**Brief Visual Description:** White mob cap / maid headband, ruffly in shape.
+**Accessory Type:**
+
+**Visual Description:** White mob cap / maid headband, ruffly in shape.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
 
-**Note:** It’s inspired by one of Milady’s traits / assets.
+**Notable Figures:**
 
-https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22values%22:[%2
+---
 
-2maid+hat%22]}]
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Peyote
 
+### Visual Properties
+
 **Name:** Peyote Hat
 
 **Image Files:**
-
 ![Peyote Hat](../images/hats__z160/SS4_freetekno_Peyote%20Hat.webp)
 
-**Brief Visual Description:** Wide round hat, flat in shape, with a bunch of grey feathers on top
+**Accessory Type:**
 
-and a red-yellow pompom in the center. On the edge of the hat are dangling ornaments with
-
-patterns in blue and orange.
+**Visual Description:** Wide round hat, flat in shape, with a bunch of grey feathers on top and a red-yellow pompom in the center. On the edge of the hat are dangling ornaments with patterns in blue and orange.
 
 **Dominant Colors:** Red, blue, orange, red, yellow, grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Peyote is seen as a divine teacher, fostering unity and
+---
 
-heart-opening experiences, requiring respect and ethical sourcing due to its slow growth and
+### Cultural Context
 
-cultural significance. Peyote ceremony is a sacred, Indigenous ritual using the peyote cactus, a
+**Source Type:**
 
-spiritual medicine containing mescaline. Conducted by tribes like the Huichol and Native
+**Cultural Origin:** Peyote is seen as a divine teacher, fostering unity and heart-opening experiences, requiring respect and ethical sourcing due to its slow growth and cultural significance. Peyote ceremony is a sacred, Indigenous ritual using the peyote cactus, a spiritual medicine containing mescaline. Conducted by tribes like the Huichol and Native American Church, it involves all-night ceremonies with prayer, music, and introspection for emotional and spiritual healing.
 
-American Church, it involves all-night ceremonies with prayer, music, and introspection for
+**Era:**
 
-emotional and spiritual healing.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Trait Conflicts:**
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):** Freetekno
+**Archetype:** Freetekno
 
-**Swag Score (if applicable):** 4
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1159122178009210890/11591224412395
-
-39722
-
 - https://www.arkanainternational.com/blog/peyote
+
+**Summary:** 
 
 ---
 
 ## Bera Bucket
 
+### Visual Properties
+
 **Name:** Bera Bucket
 
 **Image Files:**
-
 ![Bera Bucket](../images/hats__z160/SS3_milady_Bera%20Bucket.webp)
 
-**Brief Visual Description:** Brown bucket hat with bear face with sparkly eyes and bear ears.
+**Accessory Type:**
+
+**Visual Description:** Brown bucket hat with bear face with sparkly eyes and bear ears.
 
 **Dominant Colors:** brown, light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Sami Hat
 
+### Visual Properties
+
 **Name:** Sami Hat
 
 **Image Files:**
-
 ![ancient Sami Hat](../images/hats__z160/SS3_acidhouse_ancient_Sami%20Hat.webp)
 
-**Brief Visual Description:** Red tall, sturdy, hat in almost rectangular shape with green linings on
+**Accessory Type:**
 
-it.
+**Visual Description:** Red tall, sturdy, hat in almost rectangular shape with green linings on it.
 
 **Dominant Colors:** Red, green
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The Sámi are an Indigenous people of northern Europe,
+---
 
-primarily in Norway, Sweden, Finland, and Russia’s Kola Peninsula, with a population of about
+### Cultural Context
 
-80,000–100,000. Traditionally nomadic, they’ve historically relied on reindeer herding, fishing,
+**Source Type:**
 
-and hunting, with a rich culture featuring unique languages (9–11 dialects), joik singing, and
+**Cultural Origin:** The Sámi are an Indigenous people of northern Europe, primarily in Norway, Sweden, Finland, and Russia’s Kola Peninsula, with a population of about 80,000–100,000. Traditionally nomadic, they’ve historically relied on reindeer herding, fishing, and hunting, with a rich culture featuring unique languages (9–11 dialects), joik singing, and duodji crafts. Facing centuries of forced assimilation, including bans on their language and land dispossession, they’ve maintained their identity through activism since the 1970s, gaining cultural protections and political representation like the Sámi Parliaments.
 
-duodji crafts. Facing centuries of forced assimilation, including bans on their language and land
+**Era:**
 
-dispossession, they’ve maintained their identity through activism since the 1970s, gaining
+**Scene Association:**
 
-cultural protections and political representation like the Sámi Parliaments.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:** Jani
+---
 
-**Trait Conflicts:**
+### Mibera Integration
 
-**Ancestor (if applicable):**
+**Archetype:** Acidhouse
 
-**Archetype (if applicable):** Acidhouse
+**Archetype Alignment:** 
 
-**Swag Score (if applicable):** 3
+**Vibe Tags:**
 
-**Ancient / Modern:** Ancient
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1167921978817138770/11679238044969
 
-98451
+**Summary:** 
 
 ---
 
 ## Stylized Fashion
 
+### Visual Properties
+
 **Name:** Stylized Fashion
 
 **Image Files:**
-
 ![Stylized Fashion](../images/hats__z160/SS3_chicagodetroit_Stylized%20Fashion.webp)
 
-**Brief Visual Description:** Flat, asymmetrical hat in red maroon.
+**Accessory Type:**
+
+**Visual Description:** Flat, asymmetrical hat in red maroon.
 
 **Dominant Colors:** Red Maroon
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 25, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11696182359902
 
-29203
+**Summary:** 
 
 ---
 
 ## CPAP
 
+### Visual Properties
+
 **Name:** CPAP
 
 **Image Files:**
-
 ![CPAP](../images/hats__z160/SS4_freetekno_CPAP.webp)
 
-**Brief Visual Description:** Head of the CPAP machine with a grey thick tube that goes back.
+**Accessory Type:**
+
+**Visual Description:** Head of the CPAP machine with a grey thick tube that goes back.
 
 **Dominant Colors:** Clear white, dark grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** A CPAP (Continuous Positive Airway Pressure) machine is
+---
 
-a medical device used to treat sleep apnea by delivering a steady stream of air through a mask
+### Cultural Context
 
-worn over the nose or mouth, keeping airways open during sleep to prevent breathing pauses
+**Source Type:**
 
-and improve oxygen flow.
+**Cultural Origin:** A CPAP (Continuous Positive Airway Pressure) machine is a medical device used to treat sleep apnea by delivering a steady stream of air through a mask worn over the nose or mouth, keeping airways open during sleep to prevent breathing pauses and improve oxygen flow.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Freetekno
+---
 
-**Swag Score (if applicable):** 4
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11678054971523
 
-93317
+**Summary:** 
 
 ---
 
 ## Undiagnosed
 
+### Visual Properties
+
 **Name:** Undiagnosed
 
 **Image Files:**
-
 ![SS2 Undiagnosed](../images/hats__z160/SS2_Undiagnosed.webp)
 
-**Brief Visual Description:** Black cap with light yellow text that reads “Undiagnosed but I’m pretty
+**Accessory Type:**
 
-sure…”
+**Visual Description:** Black cap with light yellow text that reads “Undiagnosed but I’m pretty sure…”
 
 **Dominant Colors:** Black, soft light yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## THJ Bees
 
+### Visual Properties
+
 **Name:** THJ Bees
 
 **Image Files:**
-
 ![SS4 THJ Bees](../images/hats__z160/SS4_THJ%20Bees.webp)
 
-**Brief Visual Description:** Light grey bucket hat with a graphic of a white bear wearing a purple
+**Accessory Type:**
 
-hat eating honey out of a big jar surrounded by bees.
+**Visual Description:** Light grey bucket hat with a graphic of a white bear wearing a purple hat eating honey out of a big jar surrounded by bees.
 
 **Dominant Colors:** Light grey, yellow, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:** The Honey Jar
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Forehead Kiss
 
+### Visual Properties
+
 **Name:** Forehead Kiss
 
 **Image Files:**
-
 ![Forehead Kiss](../images/hats__z160/SS2_milady_Forehead%20Kiss.webp)
 
-**Brief Visual Description:** Kiss stamp in red.
+**Accessory Type:**
+
+**Visual Description:** Kiss stamp in red.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Shoulder Orange
 
+### Visual Properties
+
 **Name:** Shoulder Orange
 
 **Image Files:**
-
 ![Shoulder Orange](../images/hats__z160/SS2_milady_Shoulder%20Orange.webp)
 
-**Brief Visual Description:** Orange fruit with a tiny stem and one leaf.
+**Accessory Type:**
+
+**Visual Description:** Orange fruit with a tiny stem and one leaf.
 
 **Dominant Colors:** Orange
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## BM2C
 
+### Visual Properties
+
 **Name:** BM2C
 
 **Image Files:**
-
 ![SS2 BM2C](../images/hats__z160/SS2_BM2C.webp)
 
-**Brief Visual Description:** Soft pink cap with bm2c logo and text in white; a silhouette stickman
+**Accessory Type:**
 
-of someone with curved ears running inside of a square frame.
+**Visual Description:** Soft pink cap with bm2c logo and text in white; a silhouette stickman of someone with curved ears running inside of a square frame.
 
 **Dominant Colors:** Soft pink, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** BM2C is an art project on Berachain with a very quirky
+---
 
-sense of humour and distinct online persona. Launched an NFT collection that was available for
+### Cultural Context
 
-minting on February 11th.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** BM2C is an art project on Berachain with a very quirky sense of humour and distinct online persona. Launched an NFT collection that was available for minting on February 11th.
 
-**Date Created/Uploaded:** March 18, 2025
+**Era:**
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):** 2
+---
 
-**FOR PARTNERS TRAITS ONLY:**
+### Mibera Integration
 
-**Partner:** BM2C
+**Archetype:** 
 
-**Link to Partner:** https://x.com/bm2c_ , https://www.bm2c.com/
+**Archetype Alignment:** 
 
-**Partner Relationship:**
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 18, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Peyote Feather
 
+### Visual Properties
+
 **Name:** Peyote Feather
 
 **Image Files:**
-
 ![Peyote Feather](../images/hats__z160/SS4_freetekno_Peyote%20Feather.webp)
 
-**Brief Visual Description:** Headband in bone-white and black with sharp consistent patterns,
+**Accessory Type:**
 
-and a big feather standing in the middle of the headband.
+**Visual Description:** Headband in bone-white and black with sharp consistent patterns, and a big feather standing in the middle of the headband.
 
 **Dominant Colors:** Dirty bone-white, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## No Cap
 
+### Visual Properties
+
 **Name:** No Cap
 
 **Image Files:**
-
 ![SS2 No Cap](../images/hats__z160/SS2_No%20Cap.webp)
 
-**Brief Visual Description:** Black cap with small text in white that reads “no cap”.
+**Accessory Type:**
+
+**Visual Description:** Black cap with small text in white that reads “no cap”.
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Egg on Head
 
+### Visual Properties
+
 **Name:** Egg on Head
 
 **Image Files:**
-
 ![SS2 Egg on Head](../images/hats__z160/SS2_Egg%20on%20Head.webp)
 
-**Brief Visual Description:** The inside of an egg, intact, drooping down.
+**Accessory Type:**
+
+**Visual Description:** The inside of an egg, intact, drooping down.
 
 **Dominant Colors:** Transparent white, egg
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Ethiopian Flat
 
+### Visual Properties
+
 **Name:** Ethiopian Flat
 
 **Image Files:**
-
 ![Ethiopian Flat](../images/hats__z160/SS2_milady_Ethiopian%20Flat.webp)
 
-**Brief Visual Description:** Tall sturdy hat in black and grey that’s flat in shape.
+**Accessory Type:**
+
+**Visual Description:** Tall sturdy hat in black and grey that’s flat in shape.
 
 **Dominant Colors:** Black, grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Aboriginal Flag
 
+### Visual Properties
+
 **Name:** Aboriginal Flag
 
 **Image Files:**
-
 ![Aboriginal Flag](../images/hats__z160/SS2_freetekno_Aboriginal%20Flag.webp)
 
-**Brief Visual Description:** Dark navy cap with an Aboriginal flag on it; top half being black and
+**Accessory Type:**
 
-top bottom being red, with a yellow circle in the center.
+**Visual Description:** Dark navy cap with an Aboriginal flag on it; top half being black and top bottom being red, with a yellow circle in the center.
 
 **Dominant Colors:** Dark navy, black, yellow, red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** DJ PGZ; a Gunai/Kurnai and Yorta Yorta artist, is a
+---
 
-Naarm-based DJ and producer in techno and EDM. A former drummer and indie band member,
+### Cultural Context
 
-he’s passionate about expanding Blak thought through community events like BLK ICE and
+**Source Type:**
 
-filmmaking. During NAIDOC Week 2023, he shared his journey into electronic music, inspired
+**Cultural Origin:** DJ PGZ; a Gunai/Kurnai and Yorta Yorta artist, is a Naarm-based DJ and producer in techno and EDM. A former drummer and indie band member, he’s passionate about expanding Blak thought through community events like BLK ICE and filmmaking. During NAIDOC Week 2023, he shared his journey into electronic music, inspired by family artistry and global Indigenous cultures
 
-by family artistry and global Indigenous cultures
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** July 24, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1158511884706779227/11586947626652
-
-34482
-
 - https://au.rollingstone.com/music/music-features/dj-pgz-blak-electronic-artist-naidoc-week-4849
 
-4/
+**Summary:** 
 
 ---
 
 ## Rice Paddy
 
+### Visual Properties
+
 **Name:** Rice Paddy
 
 **Image Files:**
-
 ![Rice Paddy](../images/hats__z160/SS4_acidhouse_Rice%20Paddy.webp)
 
-**Brief Visual Description:** Asian farmer’s hat, large in size shaping a wide cone facing
+**Accessory Type:**
 
-downwards with strings dangling down the hat.
+**Visual Description:** Asian farmer’s hat, large in size shaping a wide cone facing downwards with strings dangling down the hat.
 
 **Dominant Colors:** Beige / light tan, red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 26, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 26, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Raiders
 
+### Visual Properties
+
 **Name:** Raiders
 
 **Image Files:**
-
 ![Raiders](../images/hats__z160/SS4_chicagodetroit_Raiders.webp)
 
-**Brief Visual Description:** Cap in grey gradient with white graphic of a face of a man with an
+**Accessory Type:**
 
-eyepatch, two swords crossed behind him, and text that says “RAIDERS”.
+**Visual Description:** Cap in grey gradient with white graphic of a face of a man with an eyepatch, two swords crossed behind him, and text that says “RAIDERS”.
 
 **Dominant Colors:** Shades of grey, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The Las Vegas Raiders are an NFL team in the AFC West,
+---
 
-founded in 1960 as the Oakland Raiders. They play home games at Allegiant Stadium in
+### Cultural Context
 
-Paradise, Nevada.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** The Las Vegas Raiders are an NFL team in the AFC West, founded in 1960 as the Oakland Raiders. They play home games at Allegiant Stadium in Paradise, Nevada.
 
-**Date Created/Uploaded:** August 2, 2024
+**Era:**
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Notable Figures:**
 
-**Swag Score (if applicable):** 4
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 2, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Fez
 
+### Visual Properties
+
 **Name:** Fez
 
 **Image Files:**
-
 ![Fez](../images/hats__z160/SS2_milady_Fez.webp)
 
-**Brief Visual Description:** Small fez hat in deep red; a tube-shaped hat with yellow string
+**Accessory Type:**
 
-dangling down the top center part.
+**Visual Description:** Small fez hat in deep red; a tube-shaped hat with yellow string dangling down the top center part.
 
 **Dominant Colors:** Red, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Fez hat; Originating in Morocco in the 17th century, it
+---
 
-became a symbol of Ottoman identity and later spread across the Muslim world and beyond,
+### Cultural Context
 
-often associated with cultural or religious significance.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Fez hat; Originating in Morocco in the 17th century, it became a symbol of Ottoman identity and later spread across the Muslim world and beyond, often associated with cultural or religious significance.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:**
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Milady
+**Notable Figures:**
 
-**Swag Score (if applicable):** 2
+---
 
-**Note:** It’s also a Milady trait.
+### Mibera Integration
 
-https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22values%22:[%2
+**Archetype:** Milady
 
-2fez%22]}]
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Den Hopium
 
+### Visual Properties
+
 **Name:** Den Hopium
 
 **Image Files:**
-
 ![SS2 Den Hopium](../images/hats__z160/SS2_Den%20Hopium.webp)
 
-**Brief Visual Description:** Vibrant green cap with the letter “L” inside of a white circle in the
+**Accessory Type:**
 
-middle.
+**Visual Description:** Vibrant green cap with the letter “L” inside of a white circle in the middle.
 
 **Dominant Colors:** Green, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Bera
 
+### Visual Properties
+
 **Name:** Bera
 
 **Image Files:**
-
 ![Bera](../images/hats__z160/SS4_milady_Bera.webp)
 
-**Brief Visual Description:** Brown cap with bear face, sparkly eyes, and bear ears
+**Accessory Type:**
+
+**Visual Description:** Brown cap with bear face, sparkly eyes, and bear ears
 
 **Dominant Colors:** Brown, light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Cowboy
 
+### Visual Properties
+
 **Name:** Cowboy
 
 **Image Files:**
-
 ![Cowboy](../images/hats__z160/SS4_milady_Cowboy.webp)
 
-**Brief Visual Description:** Black cowboy hat with red tie / rope around it.
+**Accessory Type:**
+
+**Visual Description:** Black cowboy hat with red tie / rope around it.
 
 **Dominant Colors:** Brown, light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**Note:** Part of Milady traits
+**Notable Figures:**
 
-https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22values%22:[%2
+---
 
-2brown+cowboy+hat%22]}]
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Lee Scratch 2
 
+### Visual Properties
+
 **Name:** Lee Scratch 2
 
 **Image Files:**
-
 ![Lee Scratch 2](../images/hats__z160/SS2_chicagodetroit_Lee%20Scratch%202.webp)
 
-**Brief Visual Description:** Bright cap with white / silver base and dark purple cap. Purple gems
+**Accessory Type:**
 
-wrapped in golden rings are filling the hat’s body.
+**Visual Description:** Bright cap with white / silver base and dark purple cap. Purple gems wrapped in golden rings are filling the hat’s body.
 
 **Dominant Colors:** Brown, light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Lee "Scratch" Perry (1936–2021) was a Jamaican music
+---
 
-producer, singer, and songwriter, renowned for pioneering dub music in the 1970s. His
+### Cultural Context
 
-innovative studio techniques, including remixing and sound effects, reshaped reggae,
+**Source Type:**
 
-influencing artists like Bob Marley, The Clash, and Beastie Boys. Known for his eccentric
+**Cultural Origin:** Lee "Scratch" Perry (1936–2021) was a Jamaican music producer, singer, and songwriter, renowned for pioneering dub music in the 1970s. His innovative studio techniques, including remixing and sound effects, reshaped reggae, influencing artists like Bob Marley, The Clash, and Beastie Boys. Known for his eccentric persona, Perry won a Grammy in 2003 and continued creating until his death in Jamaica at age 85.
 
-persona, Perry won a Grammy in 2003 and continued creating until his death in Jamaica at age
+**Era:**
 
-85.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Trait Conflicts:**
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):** Chicago Detroit
+**Archetype:** Chicago Detroit
 
-**Swag Score (if applicable):** 2
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Tight Turban
 
+### Visual Properties
+
 **Name:** Tight Turban
 
 **Image Files:**
-
 ![modern sufi Tight Turban](../images/hats__z160/SS2_chicagodetroit_modern_sufi_Tight%20Turban.webp)
 
-**Brief Visual Description:** Plain black turban that looks tightly wrapped.
+**Accessory Type:**
+
+**Visual Description:** Plain black turban that looks tightly wrapped.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Yung Singh; a British-Punjabi DJ and producer known for
+---
 
-blending UK garage, jungle, grime, and Punjabi music. Rising to fame with his 2020 Punjabi
+### Cultural Context
 
-Garage Mix, he won DJ Mag’s Breakthrough DJ of 2021. His eclectic sets, featured at festivals
+**Source Type:**
 
-like Glastonbury and Boiler Room, fuse dance music with South Asian influences.
+**Cultural Origin:** Yung Singh; a British-Punjabi DJ and producer known for blending UK garage, jungle, grime, and Punjabi music. Rising to fame with his 2020 Punjabi Garage Mix, he won DJ Mag’s Breakthrough DJ of 2021. His eclectic sets, featured at festivals like Glastonbury and Boiler Room, fuse dance music with South Asian influences.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):** Sufi
+**Notable Figures:**
 
-**Archetype (if applicable):** chicago detroit
+---
 
-**Swag Score (if applicable):** 2
+### Mibera Integration
 
-**Ancient / Modern:** Modern
+**Archetype:** chicago detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Sufi
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143684092467093684/11667305314514
-
-57547
-
 - https://earthackney.co.uk/performers/yung-singh/
+
+**Summary:** 
 
 ---
 
 ## Fruits Remilia
 
+### Visual Properties
+
 **Name:** Fruits Remilia Hat
 
 **Image Files:**
-
 ![Fruits Remilia Hat](../images/hats__z160/SS2_milady_Fruits%20Remilia%20Hat.webp)
 
-**Brief Visual Description:** Two-toned pink cap with cute graphic of a pair of eyebrows, huge
+**Accessory Type:**
 
-sparkly eyes, and a curved cat-like mouth.
+**Visual Description:** Two-toned pink cap with cute graphic of a pair of eyebrows, huge sparkly eyes, and a curved cat-like mouth.
 
 **Dominant Colors:** Pink, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/RemiliaRabbi/status/1938854728772845708
+
+**Summary:** 
 
 ---
 
 ## Face Hat with Feathers
 
+### Visual Properties
+
 **Name:** Face Hat with Feathers
 
 **Image Files:**
-
 ![ancient mongolian Face Hat With Feathers](../images/hats__z160/SS4_acidhouse_ancient_mongolian_Face%20Hat%20With%20Feathers.webp)
 
-**Brief Visual Description:** Dark green hat with tall and sturdy base with a white doodle of a face
+**Accessory Type:**
 
-on it; coming out of it stands multiple big feathers in dark colour (black / very dark green).
+**Visual Description:** Dark green hat with tall and sturdy base with a white doodle of a face on it; coming out of it stands multiple big feathers in dark colour (black / very dark green).
 
 **Dominant Colors:** Shades of green, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 26, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):** Mongolian
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**Ancient / Modern:** Ancient
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Mongolian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 26, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1163467995549536397/11634680584850
-
-84190
-
 - https://www.theguardian.com/world/gallery/2018/jun/29/mongolias-shamanic-rituals-in-pictures
+
+**Summary:** 
 
 ---
 
 ## Wire Cat Ears
 
+### Visual Properties
+
 **Name:** Wire Cat Ears
 
 **Image Files:**
-
 ![SS2 Wire Cat Ears](../images/hats__z160/SS2_Wire%20Cat%20Ears.webp)
 
-**Brief Visual Description:** Headband made of blinking LED wires shaped in cat ears; in purple /
+**Accessory Type:**
 
-pink.
+**Visual Description:** Headband made of blinking LED wires shaped in cat ears; in purple / pink.
 
 **Dominant Colors:** Purple, pink
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Wired cat ears; are popular accessories at raves and music
+---
 
-festivals, complementing the vibrant, expressive fashion of the scene.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** July 28, 2024
+**Cultural Origin:** Wired cat ears; are popular accessories at raves and music festivals, complementing the vibrant, expressive fashion of the scene.
 
-**Who Introduced the Trait:** Jani
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):** 2
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Marsha's Flowers
 
+### Visual Properties
+
 **Name:** Marsha’s Flowers
 
 **Image Files:**
-
 ![Marshas Flowers](../images/hats__z160/SS4_chicagodetroit_Marshas%20Flowers.webp)
 
-**Brief Visual Description:** Flower crowns made of different varieties of flowers in white, purple,
+**Accessory Type:**
 
-red, yellow, and green from the leaves.
+**Visual Description:** Flower crowns made of different varieties of flowers in white, purple, red, yellow, and green from the leaves.
 
 **Dominant Colors:** Purple, white, red, green, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Marsha P Johnson; a Black transgender activist and drag
+---
 
-performer, pivotal in the gay liberation movement. A key figure at the 1969 Stonewall uprising,
+### Cultural Context
 
-she co-founded the Gay Liberation Front and STAR (Street Transvestite Action Revolutionaries)
+**Source Type:**
 
-to support homeless queer youth. Known for her vibrant personality and advocacy for
+**Cultural Origin:** Marsha P Johnson; a Black transgender activist and drag performer, pivotal in the gay liberation movement. A key figure at the 1969 Stonewall uprising, she co-founded the Gay Liberation Front and STAR (Street Transvestite Action Revolutionaries) to support homeless queer youth. Known for her vibrant personality and advocacy for transgender rights.
 
-transgender rights.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143684092467093684/11689174836552
-
-82688
-
 - https://www.theguardian.com/film/2017/oct/05/death-life-marsha-p-johnson-review-documentary
+
+**Summary:** 
 
 ---
 
 ## Yayo
 
+### Visual Properties
+
 **Name:** Yayo
 
 **Image Files:**
-
 ![SS2 Yayo](../images/hats__z160/SS2_Yayo.webp)
 
-**Brief Visual Description:** Black and white cap with graphic of a shooting star and the text
+**Accessory Type:**
 
-“YAYO the world is yours” in a funky font.
+**Visual Description:** Black and white cap with graphic of a shooting star and the text “YAYO the world is yours” in a funky font.
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** YAYO Corporation; a subsidiary of Remilia Corporation,
+---
 
-launched its first NFT project, YAYO NFT, on the Canto network on February 11, 2023. The
+### Cultural Context
 
-collection features 4,000 digital action figures with real-world vehicles, weapons, and
+**Source Type:**
 
-backgrounds, reflecting YAYO’s aggressive business ethos and themes of masculinity, power,
+**Cultural Origin:** YAYO Corporation; a subsidiary of Remilia Corporation, launched its first NFT project, YAYO NFT, on the Canto network on February 11, 2023. The collection features 4,000 digital action figures with real-world vehicles, weapons, and backgrounds, reflecting YAYO’s aggressive business ethos and themes of masculinity, power, and speed.
 
-and speed.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):**
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.prnewswire.com/news-releases/yayo-corporation-releases-the-companys-first-ever-
 
-nft-project-yayo-nft-301751189.html
+**Summary:** 
 
 ---
 
 ## Tez Watermelon
 
+### Visual Properties
+
 **Name:** Tez Watermelon
 
 **Image Files:**
-
 ![SS4 tez watermelon](../images/hats__z160/SS4_tez%20watermelon.webp)
 
-**Brief Visual Description:** Neatly cut watermelon as a hat.
+**Accessory Type:**
+
+**Visual Description:** Neatly cut watermelon as a hat.
 
 **Dominant Colors:** Shades of green
 
-**Reasoning for Inclusion within Mibera:** Tez was a big part of Mibera building and creation.
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** March 11, 2025
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Tez was a big part of Mibera building and creation.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 11, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Make Milady Fun Again
 
+### Visual Properties
+
 **Name:** Make Milady Fun Again
 
 **Image Files:**
-
 ![SS2 Make Milady Fun Again](../images/hats__z160/SS2_Make%20Milady%20Fun%20Again.webp)
 
-**Brief Visual Description:** Two-toned cap in navy blue and white and black text that reads
+**Accessory Type:**
 
-“Make Milady Fun Again” followed by a little heart.
+**Visual Description:** Two-toned cap in navy blue and white and black text that reads “Make Milady Fun Again” followed by a little heart.
 
 **Dominant Colors:** Navy blue, white, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## OBB Lid
 
+### Visual Properties
+
 **Name:** OBB Lid
 
 **Image Files:**
-
 ![SS2 OBB Lid](../images/hats__z160/SS2_OBB%20Lid.webp)
 
-**Brief Visual Description:** What looks like a jar lid, in light yellow.
+**Accessory Type:**
+
+**Visual Description:** What looks like a jar lid, in light yellow.
 
 **Dominant Colors:** Light yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Ooga Booga Bears
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** Ooga Booga Bears
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/oogaboogaberas
+
+**Summary:** 
 
 ---
 
 ## Crowley
 
+### Visual Properties
+
 **Name:** Crowley
 
 **Image Files:**
-
 ![modern satanist Crawley](../images/hats__z160/SS4_freetekno_modern_satanist_Crawley.webp)
 
-**Brief Visual Description:** Triangle-shaped hat in black with white graphic of a triangle radiating
+**Accessory Type:**
 
-**light with an eye in the middle. (note:** the item is actually a hood and not a hat)
+**Visual Description:** Triangle-shaped hat in black with white graphic of a triangle radiating
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Aleister Crowley, an English occultist, mystic, and writer,
+---
 
-often called the "wickedest man in the world."
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Cultural Origin:** Aleister Crowley, an English occultist, mystic, and writer, often called the "wickedest man in the world."
 
-**Who Introduced the Trait:** Fedor
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Satanist
+**Geographic Roots:**
 
-**Archetype (if applicable):** Freetekno
+**Why This Matters:**
 
-**Swag Score (if applicable):** 4
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Satanist
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143684092467093684/11675133966530
-
-64335
-
 - https://en.wikipedia.org/wiki/Aleister_Crowley
 
-**Summary:**
-
-He founded the religion of Thelema, emphasizing the principle "Do what thou wilt shall be the
-
-whole of the Law." Crowley was known for his esoteric writings, ritual magic, and controversial
-
-lifestyle, blending mysticism, hedonism, and rebellion against societal norms.
+**Summary:** He founded the religion of Thelema, emphasizing the principle "Do what thou wilt shall be the whole of the Law." Crowley was known for his esoteric writings, ritual magic, and controversial lifestyle, blending mysticism, hedonism, and rebellion against societal norms.
 
 ---
 
 ## Butterfly Beanie
 
+### Visual Properties
+
 **Name:** Butterfly Beanie
 
 **Image Files:**
-
 ![SS4 Butterfly Beanie](../images/hats__z160/SS4_Butterfly%20Beanie.webp)
 
-**Brief Visual Description:** Black beanie with a black butterfly on a silver rectangular.
+**Accessory Type:**
+
+**Visual Description:** Black beanie with a black butterfly on a silver rectangular.
 
 **Dominant Colors:** Black, silver
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Orthodox Fur Large
 
+### Visual Properties
+
 **Name:** Orthodox Fur Large
 
 **Image Files:**
-
 ![modern orthodoxjew Orthodox Fur Large](../images/hats__z160/SS4_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Large.webp)
 
-**Brief Visual Description:** Round furry hat in black, large in size.
+**Accessory Type:**
+
+**Visual Description:** Round furry hat in black, large in size.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Ultra-Orthodox Jewish groups; like Neturei Karta and
+---
 
-Satmar Hasidim, who oppose Zionism and the State of Israel on religious grounds. They view
+### Cultural Context
 
-the establishment of Israel as an anti-messianic act, believing Jews are forbidden to return
+**Source Type:**
 
-collectively to the Holy Land or establish sovereignty until divine redemption by the Messiah.
+**Cultural Origin:** Ultra-Orthodox Jewish groups; like Neturei Karta and Satmar Hasidim, who oppose Zionism and the State of Israel on religious grounds. They view the establishment of Israel as an anti-messianic act, believing Jews are forbidden to return collectively to the Holy Land or establish sovereignty until divine redemption by the Messiah. This stems from a Midrash interpretation that Jews must wait passively for divine intervention rather than pursue human-driven political efforts like Zionism. These groups see Israel’s existence as a violation of Jewish law and anticipate its divine dissolution.
 
-This stems from a Midrash interpretation that Jews must wait passively for divine intervention
+**Era:**
 
-rather than pursue human-driven political efforts like Zionism. These groups see Israel’s
+**Scene Association:**
 
-existence as a violation of Jewish law and anticipate its divine dissolution.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** July 26, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:** Jani
+---
 
-**Trait Conflicts:**
+### Mibera Integration
 
-**Ancestor (if applicable):** Orthodox Jew
+**Archetype:** Chicago Detroit
 
-**Archetype (if applicable):** Chicago Detroit
+**Archetype Alignment:** 
 
-**Swag Score (if applicable):** 4
+**Vibe Tags:**
 
-**Ancient / Modern:** Modern
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Orthodox Jew
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 26, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1138982309106819182/11623532024155
-
-42353
-
 - https://www.myjewishlearning.com/article/ultra-orthodox-anti-zionist/
+
+**Summary:** 
 
 ---
 
 ## Pythia Robe
 
+### Visual Properties
+
 **Name:** Pythia Robe
 
 **Image Files:**
-
 ![ancient pythia Pythia Robe](../images/hats__z160/SS4_chicagodetroit_ancient_pythia_Pythia%20Robe.webp)
 
-**Brief Visual Description:** Red scarf draping down and folded around the bottom part.
+**Accessory Type:**
+
+**Visual Description:** Red scarf draping down and folded around the bottom part.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The Pythia; the priestess of the Oracle of Apollo at Delphi in
+---
 
-ancient Greece, revered as a prophetess who delivered cryptic prophecies while in a trance,
+### Cultural Context
 
-often induced by vapors or rituals. Chosen from local women, she served as a divine
+**Source Type:**
 
-intermediary, guiding decisions for individuals and city-states from the 8th century BCE until the
+**Cultural Origin:** The Pythia; the priestess of the Oracle of Apollo at Delphi in ancient Greece, revered as a prophetess who delivered cryptic prophecies while in a trance, often induced by vapors or rituals. Chosen from local women, she served as a divine intermediary, guiding decisions for individuals and city-states from the 8th century BCE until the 4th century CE, when the oracle declined under Roman rule and Christianity.
 
-4th century CE, when the oracle declined under Roman rule and Christianity.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** July 26, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani / Gods
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):** Pythia
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Chicago Detroit
 
-**Ancient / Modern:** Ancient
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Pythia
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 26, 2024
+
+**Introduced By:** Jani / Gods
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1164327631655813160/11688957174363
-
-09504
-
 - https://discord.com/channels/1133935527855399053/1152388368865431582/11525827143823
-
-64782
-
 - https://en.wikipedia.org/wiki/Pythia
+
+**Summary:** 
 
 ---
 
 ## Bitcoin 1
 
+### Visual Properties
+
 **Name:** Bitcoin 1
 
 **Image Files:**
-
 ![Bitcoin 1](../images/hats__z160/SS3_acidhouse_Bitcoin%201.webp)
 
-**Brief Visual Description:** Black cap with colourful graphics of a Sonic the Hedgehog with a
+**Accessory Type:**
 
-Bitcoin logo and the text “Harry Potter OBAMA” framing it.
+**Visual Description:** Black cap with colourful graphics of a Sonic the Hedgehog with a Bitcoin logo and the text “Harry Potter OBAMA” framing it.
 
 **Dominant Colors:** Black, red, blue, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a
+---
 
-meme-based cryptocurrency on Ethereum (ERC-20) and Binance Smart Chain (BSC), launched
+### Cultural Context
 
-around late 2021. The token employs reflection, liquidity pool acquisition, and burn functions in
+**Source Type:**
 
-trades.
+**Cultural Origin:** HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a meme-based cryptocurrency on Ethereum (ERC-20) and Binance Smart Chain (BSC), launched around late 2021. The token employs reflection, liquidity pool acquisition, and burn functions in trades.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
 
-**FOR PARTNERS TRAITS ONLY:**
+**Archetype:** Acidhouse
 
-**Partner:** HPOS10I (HarryPotterObamaSonic10Inu)
+**Archetype Alignment:** 
 
-**Link to Partner:** https://x.com/HPOS10Ireturns , https://hpos10i.com/
+**Vibe Tags:**
 
-**Partner Relationship:**
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Bear Down
 
+### Visual Properties
+
 **Name:** Bear Down
 
 **Image Files:**
-
 ![Bear Down](../images/hats__z160/SS2_acidhouse_Bear%20Down.webp)
 
-**Brief Visual Description:** Two-toned orange creamy white cap with big black text that reads
+**Accessory Type:**
 
-“BEAR DOWN”.
+**Visual Description:** Two-toned orange creamy white cap with big black text that reads “BEAR DOWN”.
 
 **Dominant Colors:** Orange, white with a hint of orange
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Duct Tape
 
+### Visual Properties
+
 **Name:** Duct Tape
 
 **Image Files:**
-
 ![duct tape](../images/hats__z160/SS1_chicagodetroit_duct%20tape.webp)
 
-**Brief Visual Description:** Silver duct tape
+**Accessory Type:**
+
+**Visual Description:** Silver duct tape
 
 **Dominant Colors:** Silver
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** June 5, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Fedor
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 5, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Mibera Pacifier
 
+### Visual Properties
+
 **Name:** Mibera Pacifier
 
 **Image Files:**
-
 ![Mibera Pacifier](../images/hats__z160/SS2_chicagodetroit_Mibera%20Pacifier.webp)
 
-**Brief Visual Description:** White pacifier with Mibera logo on it; a yellow smiley with bear ears.
+**Accessory Type:**
+
+**Visual Description:** White pacifier with Mibera logo on it; a yellow smiley with bear ears.
 
 **Dominant Colors:** White, yellow, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** June 19, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Fedor / Kata / Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 19, 2024
+
+**Introduced By:** Fedor / Kata / Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Vaneck Intern
 
+### Visual Properties
+
 **Name:** Vaneck Intern
 
 **Image Files:**
-
 ![vaneck intern](../images/hats__z160/SS2_freetekno_vaneck%20intern.webp)
 
-**Brief Visual Description:** Black cap with white text that reads “vaneck intern”.
+**Accessory Type:**
+
+**Visual Description:** Black cap with white text that reads “vaneck intern”.
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Aitoshi
 
+### Visual Properties
+
 **Name:** Aitoshi
 
 **Image Files:**
-
 ![Aitoshi](../images/hats__z160/SS2_acidhouse_Aitoshi.webp)
 
-**Brief Visual Description:** Beanie in pastel teal with rounded ears and black graphic of a bear
+**Accessory Type:**
 
-and chains.
+**Visual Description:** Beanie in pastel teal with rounded ears and black graphic of a bear and chains.
 
 **Dominant Colors:** Black, light pastel teal
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11667362632069
 
-48945
+**Summary:** 
 
 ---
 
 ## Blue Bow Hat
 
+### Visual Properties
+
 **Name:** Blue Bow Hat
 
 **Image Files:**
-
 ![SS2 Blue Bow Hat](../images/hats__z160/SS2_Blue%20Bow%20Hat.webp)
 
-**Brief Visual Description:** Round hat in soft blue, pretty flat in shape, with light blue tie around it
+**Accessory Type:**
 
-and a bow.
+**Visual Description:** Round hat in soft blue, pretty flat in shape, with light blue tie around it and a bow.
 
 **Dominant Colors:** Soft blue, light blue
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## McDonalds 3
 
+### Visual Properties
+
 **Name:** McDonalds 3
 
 **Image Files:**
-
 ![mcdonalds 3](../images/hats__z160/mcdonalds%203.webp)
 
-**Brief Visual Description:** Visor hat in red with Mcdonalds logo in the center; a yellow ‘M’.
+**Accessory Type:**
+
+**Visual Description:** Visor hat in red with Mcdonalds logo in the center; a yellow ‘M’.
 
 **Dominant Colors:** Red, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** May 4, 2025
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):**
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** May 4, 2025
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Party Hat Red
 
+### Visual Properties
+
 **Name:** Party Hat Red
 
 **Image Files:**
-
 ![SS4 Party Hat Red](../images/hats__z160/SS4_Party%20Hat%20Red.webp)
 
-**Brief Visual Description:** Crown-shaped hat in deep red.
+**Accessory Type:**
+
+**Visual Description:** Crown-shaped hat in deep red.
 
 **Dominant Colors:** Deep red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Party Hat Blue
 
+### Visual Properties
+
 **Name:** Party Hat Blue
 
 **Image Files:**
-
 ![SS5 Party Hat Blue](../images/hats__z160/SS5_Party%20Hat%20Blue.webp)
 
-**Brief Visual Description:** Crown-shaped hat in vibrant blue.
+**Accessory Type:**
+
+**Visual Description:** Crown-shaped hat in vibrant blue.
 
 **Dominant Colors:** Vibrant blue
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** June 15, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 15, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Backwards
 
+### Visual Properties
+
 **Name:** backwards
 
 **Image Files:**
-
 ![Backwards](../images/hats__z160/SS2_milady_Backwards.webp)
 
-**Brief Visual Description:** Back view of a cap light grey / beige, with the clippers and a
+**Accessory Type:**
 
-half-circle hole.
+**Visual Description:** Back view of a cap light grey / beige, with the clippers and a half-circle hole.
 
 **Dominant Colors:** Light greyish beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://homegrown.co.in/homegrown-creators/inside-the-secret-daytime-raves-that-provided-spa
-
-ce-for-diasporic-south-asians
-
 - https://discord.com/channels/1133935527855399053/1160911774086873089/11609258723715
 
-52316
+**Summary:** 
 
 ---
 
 ## Spiky Lee Scratch
 
+### Visual Properties
+
 **Name:** Spiky Lee Scratch
 
 **Image Files:**
-
 ![Lee Scratch](../images/hats__z160/SS5_chicagodetroit_Lee%20Scratch.webp)
 
-**Brief Visual Description:** Red cap with black spikes coming out of it all around the body and
+**Accessory Type:**
 
-along the edge of the cap.
+**Visual Description:** Red cap with black spikes coming out of it all around the body and along the edge of the cap.
 
 **Dominant Colors:** Red. black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Lee "Scratch" Perry (1936–2021) was a Jamaican music
+---
 
-producer, singer, and songwriter, renowned for pioneering dub music in the 1970s. His
+### Cultural Context
 
-innovative studio techniques, including remixing and sound effects, reshaped reggae,
+**Source Type:**
 
-influencing artists like Bob Marley, The Clash, and Beastie Boys. Known for his eccentric
+**Cultural Origin:** Lee "Scratch" Perry (1936–2021) was a Jamaican music producer, singer, and songwriter, renowned for pioneering dub music in the 1970s. His innovative studio techniques, including remixing and sound effects, reshaped reggae, influencing artists like Bob Marley, The Clash, and Beastie Boys. Known for his eccentric persona, Perry won a Grammy in 2003 and continued creating until his death in Jamaica at age 85.
 
-persona, Perry won a Grammy in 2003 and continued creating until his death in Jamaica at age
+**Era:**
 
-85.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** July 27, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:** Jani
+**Notable Figures:**
 
-**Trait Conflicts:**
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):** Chicago Detroit
+**Archetype:** Chicago Detroit
 
-**Swag Score (if applicable):** 5
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## FBI Hat
 
+### Visual Properties
+
 **Name:** FBI Hat
 
 **Image Files:**
-
 ![FBI Hat](../images/hats__z160/SS5_milady_FBI%20Hat.webp)
 
-**Brief Visual Description:** Black and white cap with blood (red) splatters from one side towards
+**Accessory Type:**
 
-the middle, and the word “FBI” in yellow inside of a navy blue rectangle in the middle.
+**Visual Description:** Black and white cap with blood (red) splatters from one side towards the middle, and the word “FBI” in yellow inside of a navy blue rectangle in the middle.
 
 **Dominant Colors:** White, black, navy blue, yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Kingdomly
 
+### Visual Properties
+
 **Name:** Kingdomly
 
 **Image Files:**
-
 ![SS3 Kingdomly](../images/hats__z160/SS3_Kingdomly.webp)
 
-**Brief Visual Description:** Knight helmet with brown bear ears and red fur at the back, the
+**Accessory Type:**
 
-helmet is wide opened.
+**Visual Description:** Knight helmet with brown bear ears and red fur at the back, the helmet is wide opened.
 
 **Dominant Colors:** Grey, red, brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** an NFT mint platform on Berachain that recently went
+---
 
-multi-chain.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** an NFT mint platform on Berachain that recently went multi-chain.
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
 
-**FOR PARTNERS TRAITS ONLY:**
+---
 
-**Partner:**
+### Mibera Integration
 
-**Link to Partner:** https://x.com/KingdomlyApp , https://www.kingdomly.app/
+**Archetype:** 
 
-**Partner Relationship:** fellow Berachain brojekt.
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Abusive
 
+### Visual Properties
+
 **Name:** Abusive
 
 **Image Files:**
-
 ![SS1 Abusive](../images/hats__z160/SS1_Abusive.webp)
 
-**Brief Visual Description:** Black and white cap with black text that reads “I could be abusive”.
+**Accessory Type:**
+
+**Visual Description:** Black and white cap with black text that reads “I could be abusive”.
 
 **Dominant Colors:** White, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://store.remilia.org/collections/milady-bootlegs/products/i-could-be-abusive-trucker-cap
+
+**Summary:** 
 
 ---
 
 ## THJ Dark Gray
 
+### Visual Properties
+
 **Name:** THJ Dark Gray
 
 **Image Files:**
-
 ![SS5 THJ Dark Gray](../images/hats__z160/SS5_THJ%20Dark%20Gray.webp)
 
-**Brief Visual Description:** Dark grey wide bucket hat with strings and a graphic of a bear in a
+**Accessory Type:**
 
-relaxed pose on top / behind the text “THJ” in yellow graffiti font.
+**Visual Description:** Dark grey wide bucket hat with strings and a graphic of a bear in a relaxed pose on top / behind the text “THJ” in yellow graffiti font.
 
 **Dominant Colors:** Dark grey, yellow, dark brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:** The Honey Jar
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Pink Panels
 
+### Visual Properties
+
 **Name:** Pink Panels
 
 **Image Files:**
-
 ![Pink Panels](../images/hats__z160/SS1_milady_Pink%20Panels.webp)
 
-**Brief Visual Description:** Cap in black and hot pink color divided per section.
+**Accessory Type:**
+
+**Visual Description:** Cap in black and hot pink color divided per section.
 
 **Dominant Colors:** Black, hot pink
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## FTX Risk Management
 
+### Visual Properties
+
 **Name:** FTX Risk Management
 
 **Image Files:**
-
 ![FTX Risk Management](../images/hats__z160/SS1_acidhouse_FTX%20Risk%20Management.webp)
 
-**Brief Visual Description:** Soft warm rose-pink cap with blue and white graphic of the logo FTX
+**Accessory Type:**
 
-and the text “RISK MANAGEMENT”.
+**Visual Description:** Soft warm rose-pink cap with blue and white graphic of the logo FTX and the text “RISK MANAGEMENT”.
 
 **Dominant Colors:** Soft warm rose pink, white, blue
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** FTX's risk management was a flawed system meant to
+---
 
-oversee financial risks at the cryptocurrency exchange FTX, which collapsed in 2022. It was
+### Cultural Context
 
-supposed to monitor and mitigate risks like market volatility, liquidity issues, and improper use of
+**Source Type:**
 
-customer funds. However, FTX, led by Sam Bankman-Fried, lacked a dedicated risk
+**Cultural Origin:** FTX's risk management was a flawed system meant to oversee financial risks at the cryptocurrency exchange FTX, which collapsed in 2022. It was supposed to monitor and mitigate risks like market volatility, liquidity issues, and improper use of customer funds. However, FTX, led by Sam Bankman-Fried, lacked a dedicated risk management team and had no effective controls, allowing the misappropriation of $8 billion in customer funds to its sister firm, Alameda Research, for speculative investments. This absence of oversight, combined with poor governance and no regulatory compliance, led to massive fraud and bankruptcy.
 
-management team and had no effective controls, allowing the misappropriation of $8 billion in
+**Era:**
 
-customer funds to its sister firm, Alameda Research, for speculative investments.
+**Scene Association:**
 
-This absence of oversight, combined with poor governance and no regulatory compliance, led to
+**Geographic Roots:**
 
-massive fraud and bankruptcy.
+**Why This Matters:**
 
-**Team Anecdotes:**
+**Notable Figures:**
 
-**Date Created/Uploaded:** July 26, 2024
+---
 
-**Who Introduced the Trait:**
+### Mibera Integration
 
-**Trait Conflicts:**
+**Archetype:** Acidhouse
 
-**Ancestor (if applicable):**
+**Archetype Alignment:** 
 
-**Archetype (if applicable):** Acidhouse
+**Vibe Tags:**
 
-**Swag Score (if applicable):** 1
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 26, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## wolf head
 
+### Visual Properties
+
 **Name:** wolf head
 
 **Image Files:**
-
 ![ancient mongolian Wolf Head](../images/hats__z160/SS5_milady_ancient_mongolian_Wolf%20Head.webp)
 
-**Brief Visual Description:** a white-grey furry hat with visible snout and mouth that looks like it’s
+**Accessory Type:**
 
-made of a wolf’s head.
+**Visual Description:** a white-grey furry hat with visible snout and mouth that looks like it’s made of a wolf’s head.
 
 **Dominant Colors:** white-grey, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):** Mongolian
+**Scene Association:**
 
-**Archetype (if applicable):** milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
 
-**Ancient / Modern:** Ancient
+**Notable Figures:**
 
-**FOR PARTNERS TRAITS ONLY:**
+---
 
-**Partner:**
+### Mibera Integration
 
-**Link to Partner:**
+**Archetype:** milady
 
-**Partner Relationship:**
+**Archetype Alignment:** 
 
-- https://discord.com/channels/1133935527855399053/1163467995549536397/11634687906679
+**Vibe Tags:**
 
-56345
+**Setting:**
 
-- https://www.theguardian.com/world/gallery/2018/jun/29/mongolias-shamanic-rituals-in-pictures
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Mongolian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## mbga
 
+### Visual Properties
+
 **Name:** mbga
 
 **Image Files:**
-
 ![SS1 MBGA](../images/hats__z160/SS1_MBGA.webp)
 
-**Brief Visual Description:** a deep red cap with white text that reads “MAKE BITCOIN GREAT
+**Accessory Type:**
 
-AGAIN”.
+**Visual Description:** a deep red cap with white text that reads “MAKE BITCOIN GREAT AGAIN”.
 
 **Dominant Colors:** deep red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## obb dripping honey
 
+### Visual Properties
+
 **Name:** obb dripping honey
 
 **Image Files:**
-
 ![SS5 OBB Dripping Honey](../images/hats__z160/SS5_OBB%20Dripping%20Honey.webp)
 
-**Brief Visual Description:** a lid of a clear jar with a dripping yellow liquid that seems to be
+**Accessory Type:**
 
-honey.
+**Visual Description:** a lid of a clear jar with a dripping yellow liquid that seems to be honey.
 
 **Dominant Colors:** yellow, clear / transparent.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## regal crown
 
+### Visual Properties
+
 **Name:** regal crown
 
 **Image Files:**
-
 ![SS5 Regal Crown](../images/hats__z160/SS5_Regal%20Crown.webp)
 
-**Brief Visual Description:** a regal crown; red on the inside with gold plating and framing on the
+**Accessory Type:**
 
-outside, adorned with white sparkly gems.
+**Visual Description:** a regal crown; red on the inside with gold plating and framing on the outside, adorned with white sparkly gems.
 
 **Dominant Colors:** golden, red, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** sonnienft / gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** sonnienft / gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## darkfi
 
+### Visual Properties
+
 **Name:** darkfi
 
 **Image Files:**
-
 ![SS3 Darkfi](../images/hats__z160/SS3_Darkfi.webp)
 
-**Brief Visual Description:** a black cap with white graphic of an upside down triangle with an eye
+**Accessory Type:**
 
-in the middle of it, and a text in old-school gothic font on the side that reads “Dark-fi”
+**Visual Description:** a black cap with white graphic of an upside down triangle with an eye in the middle of it, and a text in old-school gothic font on the side that reads “Dark-fi”
 
 **Dominant Colors:** black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## babybera x beradrome helmet
 
+### Visual Properties
+
 **Name:** babybera x beradrome helmet
 
 **Image Files:**
 
-**Brief Visual Description:** a biking helmet in baby teal and pink, with black accent underneath.
+
+**Accessory Type:**
+
+**Visual Description:** a biking helmet in baby teal and pink, with black accent underneath.
 
 **Dominant Colors:** baby teal, baby pink, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:**
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):**
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** 
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## aori
 
+### Visual Properties
+
 **Name:** aori
 
 **Image Files:**
-
 ![SS3 Aori](../images/hats__z160/SS3_Aori.webp)
 
-**Brief Visual Description:** a black cap with white graphic in the middle that looks like an ‘S’ and
+**Accessory Type:**
 
-an ‘O’ connected with an ‘I’ inside of it.
+**Visual Description:** a black cap with white graphic in the middle that looks like an ‘S’ and an ‘O’ connected with an ‘I’ inside of it.
 
 **Dominant Colors:** black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ramen finance bowl
 
+### Visual Properties
+
 **Name:** ramen finance bowl
 
 **Image Files:**
-
 ![SS3 Ramen Finance Bowl](../images/hats__z160/SS3_Ramen%20Finance%20Bowl.webp)
 
-**Brief Visual Description:** an upside down white bowl with red logo on it that looks like a bowl in
+**Accessory Type:**
 
-front of a flower. A yellow line runs across the edge of the bowl.
+**Visual Description:** an upside down white bowl with red logo on it that looks like a bowl in front of a flower. A yellow line runs across the edge of the bowl.
 
 **Dominant Colors:** white, red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## bozito cave off
 
+### Visual Properties
+
 **Name:** bozito cave off
 
 **Image Files:**
-
 ![SS4 bozito cave off](../images/hats__z160/SS4_bozito%20cave%20off.webp)
 
-**Brief Visual Description:** a big hood in the shape of a dead bear head, seen through the ‘dead
+**Accessory Type:**
 
-eyes’ and patched part in the middle. White bangs poke out of the hood on the front part.
+**Visual Description:** a big hood in the shape of a dead bear head, seen through the ‘dead eyes’ and patched part in the middle. White bangs poke out of the hood on the front part.
 
 **Dominant Colors:** shades of brown, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** March 23, 2025
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 23, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## satan
 
+### Visual Properties
+
 **Name:** satan
 
 **Image Files:**
-
 ![modern satanist Satan](../images/hats__z160/SS4_freetekno_modern_satanist_Satan.webp)
 
-**Brief Visual Description:** a deep red hood with white horn poking out on each side..
+**Accessory Type:**
+
+**Visual Description:** a deep red hood with white horn poking out on each side..
 
 **Dominant Colors:** red, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**Ancient / Modern:** Modern
+**Notable Figures:**
 
-**FOR PARTNERS TRAITS ONLY:**
+---
 
-**Partner:**
+### Mibera Integration
 
-**Link to Partner:**
+**Archetype:** freetekno
 
-**Partner Relationship:**
+**Archetype Alignment:** 
 
-- https://discord.com/channels/1133935527855399053/1143684092467093684/11674425579874
+**Vibe Tags:**
 
-71360
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## los bullas
 
+### Visual Properties
+
 **Name:** los bullas
 
 **Image Files:**
-
 ![SS4 los bullas](../images/hats__z160/SS4_los%20bullas.webp)
 
-**Brief Visual Description:** a black cap with white text in fancy font that reads “Los Bullas”.
+**Accessory Type:**
+
+**Visual Description:** a black cap with white text in fancy font that reads “Los Bullas”.
 
 **Dominant Colors:** black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** March 11, 2025
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 11, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## devon head
 
+### Visual Properties
+
 **Name:** devon head
 
 **Image Files:**
-
 ![Devon Head](../images/hats__z160/SS4_freetekno_Devon%20Head.webp)
 
-**Brief Visual Description:** an oversized bear head in the colour of bright beige / light shade of
+**Accessory Type:**
 
-brown.
+**Visual Description:** an oversized bear head in the colour of bright beige / light shade of brown.
 
 **Dominant Colors:** beige / light shade of brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## berahorses bucket
 
+### Visual Properties
+
 **Name:** berahorses bucket
 
 **Image Files:**
-
 ![SS3 Berahorses Bucket](../images/hats__z160/SS3_Berahorses%20Bucket.webp)
 
-**Brief Visual Description:** an orange bucket hat with lighter orange text with black outline that
+**Accessory Type:**
 
-reads “Neigh”
+**Visual Description:** an orange bucket hat with lighter orange text with black outline that reads “Neigh”
 
 **Dominant Colors:** orange, light orange
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## yeet bucket
 
+### Visual Properties
+
 **Name:** yeet bucket
 
 **Image Files:**
-
 ![SS3 Yeet Bucket](../images/hats__z160/SS3_Yeet%20Bucket.webp)
 
-**Brief Visual Description:** a pale yellow bucket hat with the Yeet logo and text in the middle. A
+**Accessory Type:**
 
-graphic of a yellow creature’s head with uneven crossed eyes, ears, and a drooling mouth.
+**Visual Description:** a pale yellow bucket hat with the Yeet logo and text in the middle. A graphic of a yellow creature’s head with uneven crossed eyes, ears, and a drooling mouth.
 
 **Dominant Colors:** pale yellow
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## reimu syndicate
 
+### Visual Properties
+
 **Name:** reimu syndicate
 
 **Image Files:**
-
 ![SS2 Reimu Syndicate](../images/hats__z160/SS2_Reimu%20Syndicate.webp)
 
-**Brief Visual Description:** greyish white cap with blue graphic of hearts and the text “REiMU
+**Accessory Type:**
 
-syndicate” on it.
+**Visual Description:** greyish white cap with blue graphic of hearts and the text “REiMU syndicate” on it.
 
 **Dominant Colors:** greyish white, blue
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## dread pirates bandana
 
+### Visual Properties
+
 **Name:** dread pirates bandana
 
 **Image Files:**
-
 ![Dread Pirates Bandana](../images/hats__z160/SS4_chicagodetroit_Dread%20Pirates%20Bandana.webp)
 
-**Brief Visual Description:** plain black durag that connects to a black eye mask with big holes
+**Accessory Type:**
 
-around the eyes area.
+**Visual Description:** plain black durag that connects to a black eye mask with big holes around the eyes area.
 
 **Dominant Colors:** black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Tez / Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** chicago detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** chicago detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** Tez / Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ketamine kneecap up the ra balaclava
 
+### Visual Properties
+
 **Name:** ketamine kneecap up the ra balaclava
 
 **Image Files:**
-
 ![SS4  ketamine kneecap up the ra balaclava ](../images/hats__z160/SS4_%20ketamine%20kneecap%20up%20the%20ra%20balaclava%20.webp)
 
-**Brief Visual Description:** a balaclava in the Irish flag colour and pattern; green, white, orange.
+**Accessory Type:**
+
+**Visual Description:** a balaclava in the Irish flag colour and pattern; green, white, orange.
 
 **Dominant Colors:** green, white, orange
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** March 14, 2025
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 14, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## indian
 
+### Visual Properties
+
 **Name:** indian
 
 **Image Files:**
-
 ![Indian](../images/hats__z160/SS4_chicagodetroit_Indian.webp)
 
-**Brief Visual Description:** a plain orange turban / dastar. Garment wrapped around the head.
+**Accessory Type:**
+
+**Visual Description:** a plain orange turban / dastar. Garment wrapped around the head.
 
 **Dominant Colors:** orange
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** chicago detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** chicago detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## strawberry
 
+### Visual Properties
+
 **Name:** strawberry
 
 **Image Files:**
-
 ![Strawberry](../images/hats__z160/SS2_milady_Strawberry.webp)
 
-**Brief Visual Description:** a strawberry-shaped hat that covers the entire head but the face.
+**Accessory Type:**
+
+**Visual Description:** a strawberry-shaped hat that covers the entire head but the face.
 
 **Dominant Colors:** red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## smokey durag
 
+### Visual Properties
+
 **Name:** smokey durag
 
 **Image Files:**
-
 ![SS5 Smokey Durag](../images/hats__z160/SS5_Smokey%20Durag.webp)
 
-**Brief Visual Description:** a tight black durag with small white text that reads “OOGA BOOGA”
+**Accessory Type:**
 
-with funky font on it.
+**Visual Description:** a tight black durag with small white text that reads “OOGA BOOGA” with funky font on it.
 
 **Dominant Colors:** black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** March 10, 2025
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 10, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## baby bera
 
+### Visual Properties
+
 **Name:** baby bera
 
 **Image Files:**
-
 ![Baby Bera](../images/hats__z160/SS3_chicagodetroit_Baby%20Bera.webp)
 
-**Brief Visual Description:** a black cap with babybera graphic in the middle; a dark grey bear in
+**Accessory Type:**
 
-relaxed pose and smiley expression
+**Visual Description:** a black cap with babybera graphic in the middle; a dark grey bear in relaxed pose and smiley expression
 
 **Dominant Colors:** black, grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 24, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** chicago detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** chicago detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sunra
 
+### Visual Properties
+
 **Name:** sunra
 
 **Image Files:**
-
 ![Sunra](../images/hats__z160/SS5_chicagodetroit_Sunra.webp)
 
-**Brief Visual Description:** a sun ra headdress; a headdress mainly in gold with cover / flap on
+**Accessory Type:**
 
-each side covering the ear in stripy black and gold. Near the center front that frames the face is
-
-a carving of the letter ‘A’ in a circle with 2 wings on each side. On top of the headdress is a big
-
-circular shape charm.
+**Visual Description:** a sun ra headdress; a headdress mainly in gold with cover / flap on each side covering the ear in stripy black and gold. Near the center front that frames the face is a carving of the letter ‘A’ in a circle with 2 wings on each side. On top of the headdress is a big circular shape charm.
 
 **Dominant Colors:** black, grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 27, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** chicago detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** chicago detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## hamas
 
+### Visual Properties
+
 **Name:** hamas
 
 **Image Files:**
-
 ![SS5 Hamas](../images/hats__z160/SS5_Hamas.webp)
 
-**Brief Visual Description:** a face cover made of red and white scarf showing only the eyes part,
+**Accessory Type:**
 
-with green garment with arabic script written on it going across the forehead.
+**Visual Description:** a face cover made of red and white scarf showing only the eyes part, with green garment with arabic script written on it going across the forehead.
 
 **Dominant Colors:** red, white, dark army green
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** July 28, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gods
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
 
-**FOR PARTNERS TRAITS ONLY:**
+**Notable Figures:**
 
-**Partner:**
+---
 
-**Link to Partner:**
+### Mibera Integration
 
-**Partner Relationship:**
+**Archetype:** 
 
-- https://discord.com/channels/1133935527855399053/1160911774086873089/11609219568713
+**Archetype Alignment:** 
 
-11390
+**Vibe Tags:**
 
-- https://discord.com/channels/1133935527855399053/1138982309106819182/11621599451191
+**Setting:**
 
-74696
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** Gods
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## fuzz earmuffs
 
+### Visual Properties
+
 **Name:** fuzz earmuffs
 
 **Image Files:**
 
-**Brief Visual Description:** a fuzzy earmuffs with white band and a pink ribbon on top of it in the
 
-center, and pink ear covers..
+**Accessory Type:**
+
+**Visual Description:** a fuzzy earmuffs with white band and a pink ribbon on top of it in the center, and pink ear covers..
 
 **Dominant Colors:** white, pink
 
-**Reasoning for Inclusion within Mibera:**
-
-**General Real World Trait History:**
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:**
-
-**Who Introduced the Trait:**
-
-**Trait Conflicts:**
-
-**Ancestor (if applicable):**
-
-**Archetype (if applicable):**
-
-**Swag Score (if applicable):**
-
-**FOR PARTNERS TRAITS ONLY:**
-
-**Partner:**
-
-**Link to Partner:**
-
-**Partner Relationship:**
+**Material Impression:**
 
 ---
 
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** 
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---

@@ -1,6 +1,6 @@
-# Clothing Trait Entry Template
+# Accessories Trait Entry Template
 
-*Use this template when documenting clothing traits. Fill in all applicable fields. For simple solid-colored shirts, use the Minimal Template at the bottom of this document.*
+*Use this template when documenting accessory traits (hats, earrings, glasses, masks, face accessories).*
 
 ---
 
@@ -12,9 +12,7 @@
 
 **Image Files:**
 
-**Garment Type:**
-
-**Fit:**
+**Accessory Type:**
 
 **Visual Description:**
 
@@ -83,35 +81,6 @@
 ---
 ---
 
-# Minimal Template (Simple Shirts)
-
-*Use this condensed template for basic solid-colored shirts and simple garments without cultural references.*
-
----
-
-## [Trait Name]
-
-**Name:**
-
-**Image Files:**
-
-**Visual Description:**
-
-**Dominant Colors:**
-
-**Archetype Affinity:**
-
-**Vibe Tags:**
-
-**Color Symbolism:**
-
-**Styling Notes:**
-
-**Date Added:**
-
----
----
-
 # Field Reference Guide
 
 ## Swag Score Scale
@@ -153,44 +122,66 @@
 | **Chicago Detroit** | Early 80s | House, techno | Sharp, soulful, foundational |
 | **Acidhouse** | Late 80s-90s | Acid, rave | Smiley faces, neon, ecstatic |
 
-## Garment Types
+## Accessory Types
 
-- t-shirt
-- long-sleeve
-- button-up
-- jacket
-- hoodie
-- suit
-- vest
-- sweater
-- polo
-- jersey
-- cardigan
-- coat
-- windbreaker
+### Hats
+- cap
+- trucker hat
+- beanie
+- bucket hat
+- headband
+- bandana
+- beret
+- cowboy hat
+- helmet
+- crown
+- animal ears
 
-## Fit Options
+### Earrings
+- hoop
+- stud
+- drop
+- chain
+- gauge
+- cuff
 
-- fitted
-- relaxed
-- oversized
-- cropped
-- tailored
-- baggy
+### Glasses
+- sunglasses
+- goggles
+- round glasses
+- visor
+- shield
+
+### Masks
+- full face
+- half mask
+- eye mask
+- gas mask
+- surgical mask
+- bandana mask
+
+### Face Accessories
+- piercings
+- face paint
+- tattoos
+- stickers
+- tears
+- blush
 
 ## Material Impressions
 
-- cotton
-- mesh
-- velvet
+- metal
+- gold
+- silver
+- plastic
+- fabric
 - leather
-- denim
-- synthetic
-- knit
-- distressed
-- vintage wash
-- shiny
-- matte
+- crystal
+- beaded
+- chain
+- holographic
+- LED
+- reflective
 
 ## Source Types
 
@@ -204,3 +195,4 @@
 - organization merch
 - vintage reference
 - subculture staple
+- crypto/web3 reference

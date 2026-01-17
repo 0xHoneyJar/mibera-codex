@@ -6,1789 +6,3130 @@
 
 ## Wartime
 
+### Visual Properties
+
 **Name:** Wartime
 
 **Image Files:**
-
 ![Wartime](../images/face%20accessories__z60/SS4_milady_wartime.webp)
 
-**Brief Visual Description:** Blood splattered upwards.
+**Accessory Type:**
+
+**Visual Description:** Blood splattered upwards.
 
 **Dominant Colors:** Blood red
 
-**Reasoning for Inclusion within Mibera:** Cultural reference within Milady around 2022, called
+**Material Impression:**
 
-the ‘wartime’ where a lot of Miladys put blood splatter on top of their Milady PFP.
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:**
 
-**Trait Conflicts:** -
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Milady
+**Why This Matters:**
 
-**Swag Score (if applicable):** 4
+**Notable Figures:**
 
-**Research Sources:**
+---
 
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** Cultural reference within Milady around 2022, called the ‘wartime’ where a lot of Miladys put blood splatter on top of their Milady PFP.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
 - https://x.com/willpowerabuser/status/1701468932887261310
-
 - https://x.com/___sa7nt___/status/1706433086072697261
-
-**.https:** //decrypt.co/302143/wartime-vitalik-defi-milady-ethereum-foundation
-
 - https://x.com/Ringofsaltt/status/1701359363720384606
-
 - https://x.com/anonsgarbs/status/1701724036932288549
 
-What I can conclude from different sources of information:
-
-- There was an ongoing “movement” around 2023 involving Milady community and
-
-Charlotte Fang - provoking a “wartime pfp” movement in which some of the community
-
-members put blood splatters on their Milady PFP.
-
-- Vitalik posted a few tweets showing support to Milady as well as changing his PFP to
-
-Milady Maker, provoking a bigger noise surrounding the collection.
-
-- Charlotte Fang got tangled in multiple controversies; two that are heavily related to this
-
-theme (in my opinion) is where he was doxxed to be behind “Miya”, a highly
-
-controversial ‘female’ online persona who faked over-the-counter sales of human blood
-
-for "rituals" as part of internet trolling, as well as an asset of a shirt bearing the word
-
-"Treblinka"—a reference to a Nazi concentration camp from World War II with ‘SS’ rank.
+**Summary:** 
 
 ---
 
 ## Dots
 
+### Visual Properties
+
 **Name:** Dots
 
 **Image Files:**
-
 ![Dots](../images/face%20accessories__z60/SS3_milady_Dots.webp)
 
-**Brief Visual Description:** Three small black dots under each eye.
+**Accessory Type:**
+
+**Visual Description:** Three small black dots under each eye.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** Based on an existing Milady Maker trait. The Milady
+**Material Impression:**
 
-trait features both a crescent moon on the forehead and four dots on the cheeks.
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:** The decision to include the dots as they are was to differentiate it some from
+**Source Type:**
 
-Milady and allow for the crescent to be on its own. The artist felt that the face accessory would
+**Cultural Origin:** 
 
-appear to be a bit cleaner, and more visually flexible that way.
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Fedor
+**Geographic Roots:**
 
-**Trait Conflicts:** -
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Milady
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
 
-**NOTE:** let’s research to see if there’s any history behind the inclusion of the
+**Archetype:** Milady
 
-dots/crescent in the OG milady collection
+**Archetype Alignment:** Based on an existing Milady Maker trait. The Milady trait features both a crescent moon on the forehead and four dots on the cheeks.
 
-(Mici hasn’t found much about ‘dots’ specifically yet)
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** The decision to include the dots as they are was to differentiate it some from Milady and allow for the crescent to be on its own. The artist felt that the face accessory would appear to be a bit cleaner, and more visually flexible that way.
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Crafty
 
+### Visual Properties
+
 **Name:** Crafty
 
 **Image Files:**
-
 ![Crafty](../images/face%20accessories__z60/SS2_freetekno_crafty.webp)
 
-**Brief Visual Description:** Couple of bandages.
+**Accessory Type:**
+
+**Visual Description:** Couple of bandages.
 
 **Dominant Colors:** Bone white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Teardrops
 
+### Visual Properties
+
 **Name:** Teardrops
 
 **Image Files:**
-
 ![Teardrops](../images/face%20accessories__z60/SS3_milady_teardrops.webp)
 
-**Brief Visual Description:** Three tear / liquid drops.
+**Accessory Type:**
+
+**Visual Description:** Three tear / liquid drops.
 
 **Dominant Colors:** Clear / black
 
-**Reasoning for Inclusion within Mibera:** Teardrop tattoo is one of Milady’s traits.
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Source:**
+**Notable Figures:**
 
-https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Face+Decoration%22,%22va
+---
 
-**lues%22:** [%22teardrops+tattoo%22]}]
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** Teardrop tattoo is one of Milady’s traits.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+- https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Face+Decoration%22,%22va
+
+**Summary:** 
 
 ---
 
 ## Cross
 
+### Visual Properties
+
 **Name:** Cross
 
 **Image Files:**
-
 ![Cross](../images/face%20accessories__z60/SS3_milady_Cross.webp)
 
-**Brief Visual Description:** Slightly transparent upside down cross.
+**Accessory Type:**
+
+**Visual Description:** Slightly transparent upside down cross.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Research:**
+**Notable Figures:**
 
-Milady Maker has multiple “Cross” assets such as earrings, face tattoo, and caps / hats.
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Fluoro Pink
 
+### Visual Properties
+
 **Name:** Fluoro Pink
 
 **Image Files:**
-
 ![Fluoro Pink](../images/face%20accessories__z60/SS3_freetekno_Fluoro Pink.webp)
 
-**Brief Visual Description:** Three vibrant neon-pink strokes, one bigger than the other two.
+**Accessory Type:**
+
+**Visual Description:** Three vibrant neon-pink strokes, one bigger than the other two.
 
 **Dominant Colors:** Neon pink
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** In the 90s, fluorescent colors were a key part of rave
+---
 
-culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of
+### Cultural Context
 
-the rave scene's spirit of liberation and individuality.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:**
 
-**Who Introduced the Trait:** Sunbera
+**Scene Association:**
 
-**Trait Conflicts:** -
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Freetekno
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
 
-- https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523
+### Mibera Integration
 
-61298
+**Archetype:** Freetekno
 
-**Research Sources:**
+**Archetype Alignment:** 
 
-**- https:** //fashion-era.com/fashion-history/1990s/90s-rave-fashion#:~:text=90s%20Rave%2
+**Vibe Tags:**
 
-0Culture%20and%20Fashion,defining%20tenet%20of%20rave%20culture.
+**Setting:**
 
-**- https:** //thedj-diaries.com/90s-rave-culture-beats-clubs-and-the-summer-of-love/#:~:text=
+**Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
-Characterized%20by%20its%20bold%2C%20eclectic,punk%2C%20hippie%2C%20and
+**Swag Justification:**
 
-%20cyberpunk.
+---
 
-**Summary:**
+### Connections
 
-In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and
+**Ancestor:** 
 
-self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent
+**Trait Synergies:**
 
-clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and
+**Trait Conflicts:** 
 
-energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of
+---
 
-liberation and individuality.
+### Attribution & Sources
 
-Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral
+**Date Added:** December 10, 2024
 
-to the rave look.
+**Introduced By:** Sunbera
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality. Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral to the rave look.
 
 ---
 
 ## Red Forehead
 
+### Visual Properties
+
 **Name:** Red Forehead
 
 **Image Files:**
-
 ![Red Forehead](../images/face%20accessories__z60/SS3_milady_modern_nepal_Red Forehead.webp)
 
-**Brief Visual Description:** vibrant red strokes going upwards.
+**Accessory Type:**
+
+**Visual Description:** vibrant red strokes going upwards.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** In Nepali culture, the red forehead mark, or "tika," is a Hindu
+---
 
-tradition made from vermilion, rice, and yogurt, applied during ceremonies and festivals like
+### Cultural Context
 
-Dashain. It symbolizes purity, devotion, and good fortune, marking the "third eye" for spiritual
+**Source Type:**
 
-energy. For married women, it also signifies commitment.
+**Cultural Origin:** In Nepali culture, the red forehead mark, or "tika," is a Hindu tradition made from vermilion, rice, and yogurt, applied during ceremonies and festivals like Dashain. It symbolizes purity, devotion, and good fortune, marking the "third eye" for spiritual energy. For married women, it also signifies commitment.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:** -
+**Why This Matters:**
 
-**Ancestor (if applicable):** Nepal
+**Notable Figures:**
 
-**Archetype (if applicable):** Milady
+---
 
-**Swag Score (if applicable):** 3
+### Mibera Integration
 
-**Ancient / Modern:** Modern
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Nepal
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1159942540150194255/11599434227785
 
-52411
+**Summary:** 
 
 ---
 
 ## Bleeding
 
+### Visual Properties
+
 **Name:** Bleeding
 
 **Image Files:**
-
 ![Bleeding](../images/face%20accessories__z60/SS3_milady_bleeding.webp)
 
-**Brief Visual Description:** Blood dripping down from a neat cut.
+**Accessory Type:**
+
+**Visual Description:** Blood dripping down from a neat cut.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Star Face
 
+### Visual Properties
+
 **Name:** Star Face
 
 **Image Files:**
-
 ![Star Face](../images/face%20accessories__z60/SS3_acidhouse_star.webp)
 
-**Brief Visual Description:** Black star.
+**Accessory Type:**
+
+**Visual Description:** Black star.
 
 **Dominant Colors:** Star
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Acidhouse
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Blush
 
+### Visual Properties
+
 **Name:** Blush
 
 **Image Files:**
-
 ![Blush](../images/face%20accessories__z60/SS1_milady_blush.webp)
 
-**Brief Visual Description:** Very subtle warm pink blush, translucent.
+**Accessory Type:**
+
+**Visual Description:** Very subtle warm pink blush, translucent.
 
 **Dominant Colors:** Pink
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Tyson
 
+### Visual Properties
+
 **Name:** Tyson
 
 **Image Files:**
-
 ![Tyson](../images/face%20accessories__z60/SS3_Milady_tyson.webp)
 
-**Brief Visual Description:** Tribal tattoo; featuring bold, flowing black lines with an asymmetrical
+**Accessory Type:**
 
-abstract design. Incorporating sharp angles, curves, and pointed tips.
+**Visual Description:** Tribal tattoo; featuring bold, flowing black lines with an asymmetrical abstract design. Incorporating sharp angles, curves, and pointed tips.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Mike Tyson
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** Mike Tyson
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
 
-**Research Summary:**
+**Notable Figures:**
 
-Individual
+---
 
-Mike Tyson, born June 30, 1966, in Brooklyn, New York, is a former professional boxer known
+### Mibera Integration
 
-for his ferocious style and troubled persona. As a person, Tyson had a turbulent life marked by a
+**Archetype:** Milady
 
-tough upbringing in a crime-ridden neighborhood, leading to juvenile delinquency and jail time
+**Archetype Alignment:** 
 
-before age 13. He transformed through boxing, mentored by Cus D’Amato, but struggled with
+**Vibe Tags:**
 
-anger, legal issues, and personal loss, including his 2009 divorce and the 2009 death of his
+**Setting:**
 
-daughter Exodus. He’s since embraced sobriety, philanthropy, and a softer public image, often
+**Swag Score:** 3
 
-showing humor and vulnerability.
+**Swag Justification:**
 
-Drug-Addiction
+---
 
-Mike Tyson, a former heavyweight boxing champion, has openly discussed his struggles with
+### Connections
 
-drug addiction, particularly cocaine and marijuana, which impacted his career and personal life.
+**Ancestor:** 
 
-He admitted to using drugs during major fights in the 2000s, including bouts against Lou
+**Trait Synergies:**
 
-Savarese and Danny Williams, and employed methods like a "whizzer" (fake penis with clean
+**Trait Conflicts:** 
 
-urine) to pass drug tests. Tyson’s drug use began early, with his first cocaine experience at age
+---
 
-11, and escalated after retiring in 2005, leading to arrests and legal issues, including a 2007
+### Attribution & Sources
 
-guilty plea for cocaine possession and DUI. He has since embraced sobriety, crediting cannabis
+**Date Added:** December 10, 2024
 
-for his transformation, and founded Tyson 2.0, a cannabis brand. While not directly linked to
+**Introduced By:** Gumi
 
-rave culture, his psychedelic use, including mushrooms, aligns with experimental drug trends,
+**Team Notes:** 
 
-which he claims aided his mental health and fight preparation.
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Fluoro Blue
 
+### Visual Properties
+
 **Name:** Fluoro Blue
 
 **Image Files:**
-
 ![Fluoro Blue](../images/face%20accessories__z60/SS3_freetekno_Fluoro Blue.webp)
 
-**Brief Visual Description:** Three vibrant neon-blue (almost turquoise) strokes, one bigger than
+**Accessory Type:**
 
-the other two.
+**Visual Description:** Three vibrant neon-blue (almost turquoise) strokes, one bigger than the other two.
 
 **Dominant Colors:** Turquoise
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** In the 90s, fluorescent colors were a key part of rave
+---
 
-culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of
+### Cultural Context
 
-the rave scene's spirit of liberation and individuality.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:**
 
-**Who Introduced the Trait:** Sunbera
+**Scene Association:**
 
-**Trait Conflicts:** -
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Freetekno
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
 
-- https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523
+### Mibera Integration
 
-61298
+**Archetype:** Freetekno
 
-**Research Sources:**
+**Archetype Alignment:** 
 
-**- https:** //fashion-era.com/fashion-history/1990s/90s-rave-fashion#:~:text=90s%20Rave%2
+**Vibe Tags:**
 
-0Culture%20and%20Fashion,defining%20tenet%20of%20rave%20culture.
+**Setting:**
 
-**- https:** //thedj-diaries.com/90s-rave-culture-beats-clubs-and-the-summer-of-love/#:~:text=
+**Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
-Characterized%20by%20its%20bold%2C%20eclectic,punk%2C%20hippie%2C%20and
+**Swag Justification:**
 
-%20cyberpunk.
+---
 
-**Summary:**
+### Connections
 
-In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and
+**Ancestor:** 
 
-self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent
+**Trait Synergies:**
 
-clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and
+**Trait Conflicts:** 
 
-energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of
+---
 
-liberation and individuality.
+### Attribution & Sources
 
-Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral
+**Date Added:** December 10, 2024
 
-to the rave look.
+**Introduced By:** Sunbera
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality. Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral to the rave look.
 
 ---
 
 ## Fluoro Green
 
+### Visual Properties
+
 **Name:** Fluoro Green
 
 **Image Files:**
-
 ![Fluoro Green](../images/face%20accessories__z60/SS3_freetekno_Fluoro Green.webp)
 
-**Brief Visual Description:** Three vibrant-neon green strokes, one bigger than the other two.
+**Accessory Type:**
+
+**Visual Description:** Three vibrant-neon green strokes, one bigger than the other two.
 
 **Dominant Colors:** neon-green
 
-**Reasoning for Inclusion within Mibera:** In the 90s, fluorescent colors were a key part of rave
+**Material Impression:**
 
-culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of
+---
 
-the rave scene's spirit of liberation and individuality.
+### Cultural Context
 
-**General Real World Trait History:**
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** 
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:**
 
-**Who Introduced the Trait:** Sunbera
+**Scene Association:**
 
-**Trait Conflicts:** -
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Freetekno
+**Notable Figures:**
 
-**Swag Score (if applicable):** 3
+---
 
-- https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523
+### Mibera Integration
 
-61298
+**Archetype:** Freetekno
 
-**Research Sources:**
+**Archetype Alignment:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality.
 
-**- https:** //fashion-era.com/fashion-history/1990s/90s-rave-fashion#:~:text=90s%20Rave%2
+**Vibe Tags:**
 
-0Culture%20and%20Fashion,defining%20tenet%20of%20rave%20culture.
+**Setting:**
 
-**- https:** //thedj-diaries.com/90s-rave-culture-beats-clubs-and-the-summer-of-love/#:~:text=
+**Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
-Characterized%20by%20its%20bold%2C%20eclectic,punk%2C%20hippie%2C%20and
+**Swag Justification:**
 
-%20cyberpunk.
+---
 
-**Summary:**
+### Connections
 
-In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and
+**Ancestor:** 
 
-self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent
+**Trait Synergies:**
 
-clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and
+**Trait Conflicts:** 
 
-energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of
+---
 
-liberation and individuality.
+### Attribution & Sources
 
-Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral
+**Date Added:** December 10, 2024
 
-to the rave look.
+**Introduced By:** Sunbera
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality. Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral to the rave look.
 
 ---
 
 ## Bindi
 
+### Visual Properties
+
 **Name:** Bindi
 
 **Image Files:**
-
 ![Bindi](../images/face%20accessories__z60/SS1_milady_modern_nepal_Bindi.webp)
 
-**Brief Visual Description:** Red dot
+**Accessory Type:**
+
+**Visual Description:** Red dot
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Traditional forehead mark in South Asian cultures,
+---
 
-especially India, often a red dot made from vermilion or adorned with decorative stickers.
+### Cultural Context
 
-Rooted in Hinduism, it marks the ajna chakra ("third eye"), symbolizing wisdom, protection, and
+**Source Type:**
 
-spiritual energy. For married women, a red bindi signifies marital status, while colors vary for
+**Cultural Origin:** Traditional forehead mark in South Asian cultures, especially India, often a red dot made from vermilion or adorned with decorative stickers. Rooted in Hinduism, it marks the ajna chakra ("third eye"), symbolizing wisdom, protection, and spiritual energy. For married women, a red bindi signifies marital status, while colors vary for unmarried women or men. Worn during rituals, festivals, or daily, its use has evolved into a fashion statement globally
 
-unmarried women or men. Worn during rituals, festivals, or daily, its use has evolved into a
+**Era:**
 
-fashion statement globally
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:** Jani
+**Notable Figures:**
 
-**Trait Conflicts:** -
+---
 
-**Ancestor (if applicable):** Nepal
+### Mibera Integration
 
-**Archetype (if applicable):** Milady
+**Archetype:** Milady
 
-**Swag Score (if applicable):** 1
+**Archetype Alignment:** 
 
-**Ancient / Modern:** Modern
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Nepal
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Mibera Smiley
 
+### Visual Properties
+
 **Name:** Mibera Smiley
 
 **Image Files:**
-
 ![Mibera Smiley](../images/face%20accessories__z60/SS3_freetekno_mibera smiley.webp)
 
-**Brief Visual Description:** Smiley face with bear ears made of thin lines.
+**Accessory Type:**
+
+**Visual Description:** Smiley face with bear ears made of thin lines.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** An outline of Mibera’s logo as a rendition of the
+**Material Impression:**
 
-original remilia / Milady smiley logo. Only natural for it to be included.
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi / Jani
+**Era:**
 
-**Trait Conflicts:** -
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Freetekno
+**Why This Matters:**
 
-**Swag Score (if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** An outline of Mibera’s logo as a rendition of the original remilia / Milady smiley logo. Only natural for it to be included.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi / Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Star
 
+### Visual Properties
+
 **Name:** Star
 
 **Image Files:**
-
 ![Star](../images/face%20accessories__z60/SS2_Milady_Star.webp)
 
-**Brief Visual Description:** Small black star.
+**Accessory Type:**
+
+**Visual Description:** Small black star.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
 
-**Note:** Milady Maker has a ‘Star Heart’ face tattoo asset.
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Hand
 
+### Visual Properties
+
 **Name:** Hand
 
 **Image Files:**
-
 ![Hand](../images/face%20accessories__z60/SS3_milady_hand.webp)
 
-**Brief Visual Description:** Red hand print
+**Accessory Type:**
+
+**Visual Description:** Red hand print
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Oil
 
+### Visual Properties
+
 **Name:** Oil
 
 **Image Files:**
-
 ![Oil](../images/face%20accessories__z60/SS2_freetekno_Oil.webp)
 
-**Brief Visual Description:** Black smudges, 1 bigger in size and 2 small ones.
+**Accessory Type:**
+
+**Visual Description:** Black smudges, 1 bigger in size and 2 small ones.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1174576866703724565/11746733154372
-
-19940
-
 - https://foundation.app/mint/eth/0x6a24aFBf9900329C4C38617d9fbB8b5B73083E3e/1
+
+**Summary:** 
 
 ---
 
 ## Heart
 
+### Visual Properties
+
 **Name:** Heart
 
 **Image Files:**
-
 ![Heart](../images/face%20accessories__z60/SS2_milady_Heart.webp)
 
-**Brief Visual Description:** Two tiny hearts in black.
+**Accessory Type:**
+
+**Visual Description:** Two tiny hearts in black.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
 
-**Note:** Milady Maker has a ‘Star Heart’ face tattoo asset.
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Hindu Swastika
 
+### Visual Properties
+
 **Name:** Hindu Swastika
 
 **Image Files:**
-
 ![Hindu Swastika](../images/face%20accessories__z60/SS4_Hindu swastika.webp)
 
-**Brief Visual Description:** Hindu Swastika in red; a symmetrical shape with four identical arms
+**Accessory Type:**
 
-bent at right angles, extending clockwise in a pinwheel-like pattern, with dots at the arm
-
-intersections.
+**Visual Description:** Hindu Swastika in red; a symmetrical shape with four identical arms bent at right angles, extending clockwise in a pinwheel-like pattern, with dots at the arm intersections.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The Hindu swastika is a 5,000-year-old symbol from the
+---
 
-Indus Valley Civilization, means "well-being" in Sanskrit and represents prosperity and the cycle
+### Cultural Context
 
-of life, linked to Ganesha. Used in Hindu, Jain, and Buddhist rituals. Its positive meaning was
+**Source Type:**
 
-tainted by the Nazis' reversed version, but it remains sacred in these cultures.
+**Cultural Origin:** The Hindu swastika is a 5,000-year-old symbol from the Indus Valley Civilization, means "well-being" in Sanskrit and represents prosperity and the cycle of life, linked to Ganesha. Used in Hindu, Jain, and Buddhist rituals. Its positive meaning was tainted by the Nazis' reversed version, but it remains sacred in these cultures.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani / Fedor
+**Geographic Roots:**
 
-**Trait Conflicts:** -
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):** 4
+### Mibera Integration
 
-**Resources:**
+**Archetype:** 
 
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani / Fedor
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143684710111911997/116744118631164
-
-7333
-
 - https://discord.com/channels/1133935527855399053/1143684645393797200/11675137638140
 
-47824
+**Summary:** 
 
 ---
 
 ## Chulym 2
 
+### Visual Properties
+
 **Name:** Chulym 2
 
 **Image Files:**
-
 ![Chulym 2](../images/face%20accessories__z60/SS4_milady_chulym 2.webp)
 
-**Brief Visual Description:** Five small white dots at the top forming a slight arc, two red upward
+**Accessory Type:**
 
-chevrons and a small red stroke.
+**Visual Description:** Five small white dots at the top forming a slight arc, two red upward chevrons and a small red stroke.
 
 **Dominant Colors:** Red, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Otyken; a Siberian indigenous music group formed in 2015
+---
 
-by Andrey Medonos in Krasnoyarsk, blending traditional folk music with modern pop, rock, and
+### Cultural Context
 
-EDM elements. Featuring members from ethnic groups like Chulym, Ket, Khakas, Dolgan, and
+**Source Type:**
 
-Selkup. They use native languages and instruments like jaw harps and drums, often crafted
+**Cultural Origin:** Otyken; a Siberian indigenous music group formed in 2015 by Andrey Medonos in Krasnoyarsk, blending traditional folk music with modern pop, rock, and EDM elements. Featuring members from ethnic groups like Chulym, Ket, Khakas, Dolgan, and Selkup. They use native languages and instruments like jaw harps and drums, often crafted themselves, to highlight Siberian culture.
 
-themselves, to highlight Siberian culture.
+**Era:**
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Trait Conflicts:** -
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Milady
 
-**Resources:**
+**Archetype Alignment:** 
 
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
 - https://en.wikipedia.org/wiki/Chulyms
-
-Turkic ethnic group indigenous to Siberia, primarily residing in Tomsk Oblast and Krasnoyarsk
-
-Krai, Russia, along the Chulym River.
-
 - https://www.youtube.com/watch?v=gTdHaerMUeo
-
 - https://www.youtube.com/watch?v=gPCGcVrgG5s
+
+**Summary:** 
 
 ---
 
 ## Indian Paint
 
+### Visual Properties
+
 **Name:** Indian Paint
 
 **Image Files:**
-
 ![Indian Paint](../images/face%20accessories__z60/SS4_chicagodetroit_ancient_indian_Indian.webp)
 
-**Brief Visual Description:** Brush strokes and smudges of bright red and yellow stripes with a
+**Accessory Type:**
 
-darker red / maroon stripe in the center.
+**Visual Description:** Brush strokes and smudges of bright red and yellow stripes with a darker red / maroon stripe in the center.
 
 **Dominant Colors:** Bright red, yellow, dark red (maroon)
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Traditional Indian paint includes the use of natural
+---
 
-substances like turmeric, sandalwood, vermilion (sindoor), and henna to create decorative
+### Cultural Context
 
-markings on the body and face. These paints are applied during festivals (e.g., Holi), weddings,
+**Source Type:**
 
-and rituals, symbolizing prosperity, protection, and spiritual connection.
+**Cultural Origin:** Traditional Indian paint includes the use of natural substances like turmeric, sandalwood, vermilion (sindoor), and henna to create decorative markings on the body and face. These paints are applied during festivals (e.g., Holi), weddings, and rituals, symbolizing prosperity, protection, and spiritual connection.
 
-**Team Anecdotes:**
+**Era:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Trait Conflicts:** -
+**Why This Matters:**
 
-**Ancestor (if applicable):** Indian
+**Notable Figures:**
 
-**Archetype (if applicable):** Chicago Detroit
+---
 
-**Swag Score (if applicable):** 4
+### Mibera Integration
 
-**Ancient / Modern:** Ancient
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Indian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Crescent
 
+### Visual Properties
+
 **Name:** Crescent
 
 **Image Files:**
-
 ![Crescent](../images/face%20accessories__z60/SS4_milady_Crescent.webp)
 
-**Brief Visual Description:** Black crescent moon shape, facing north.
+**Accessory Type:**
+
+**Visual Description:** Black crescent moon shape, facing north.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**Note:** Crescent tattoo is a trait on Milady Maker
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Chulym
 
+### Visual Properties
+
 **Name:** Chulym
 
 **Image Files:**
-
 ![Chulym](../images/face%20accessories__z60/SS4_milady_chulym.webp)
 
-**Brief Visual Description:** White strokes with a slight hint of pink / rosy undertones. 1 line in the
+**Accessory Type:**
 
-center with 2 dots symmetrically placed under it.
+**Visual Description:** White strokes with a slight hint of pink / rosy undertones. 1 line in the center with 2 dots symmetrically placed under it.
 
 **Dominant Colors:** White with a pinkish hue
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
 
-**Resources:**
+**Notable Figures:**
 
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
 - https://en.wikipedia.org/wiki/Chulyms
-
-Turkic ethnic group indigenous to Siberia, primarily residing in Tomsk Oblast and Krasnoyarsk
-
-Krai, Russia, along the Chulym River.
-
 - https://www.youtube.com/watch?v=gTdHaerMUeo
-
 - https://www.youtube.com/watch?v=gPCGcVrgG5s
+
+**Summary:** 
 
 ---
 
 ## Mononoke
 
+### Visual Properties
+
 **Name:** Mononoke
 
 **Image Files:**
-
 ![Mononoke](../images/face%20accessories__z60/SS4_milady_Mononoke.webp)
 
-**Brief Visual Description:** Two medium-sized triangles in red, pointed downward.
+**Accessory Type:**
+
+**Visual Description:** Two medium-sized triangles in red, pointed downward.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Princess Mononoke (1997)
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** Princess Mononoke (1997)
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Princess_Mononoke
 
-**Summary:**
-
-Princess Mononoke, is a 1997 animated film by Hayao Miyazaki, follows Ashitaka, a young
-
-warrior, and San, a human raised by wolves, in a conflict between nature and industrialization in
-
-feudal Japan. San, known as Princess Mononoke, fights to protect the forest and its spirit,
-
-embodying a fierce, wild spirit torn between human and natural worlds.
-
-Her face paint, consisting of red stripes on her cheeks, is a key symbol. Made with natural
-
-pigments, it reflects her wolf upbringing and warrior identity, aligning her with the forest's primal
-
-forces. The red color signifies strength, blood, and life, contrasting with her human heritage, and
-
-marks her as a protector of nature.
+**Summary:** Princess Mononoke, is a 1997 animated film by Hayao Miyazaki, follows Ashitaka, a young warrior, and San, a human raised by wolves, in a conflict between nature and industrialization in feudal Japan. San, known as Princess Mononoke, fights to protect the forest and its spirit, embodying a fierce, wild spirit torn between human and natural worlds. Her face paint, consisting of red stripes on her cheeks, is a key symbol. Made with natural pigments, it reflects her wolf upbringing and warrior identity, aligning her with the forest's primal forces. The red color signifies strength, blood, and life, contrasting with her human heritage, and marks her as a protector of nature.
 
 ---
 
 ## Pride
 
+### Visual Properties
+
 **Name:** Pride
 
 **Image Files:**
-
 ![Pride](../images/face%20accessories__z60/SS2_milady_pride.webp)
 
-**Brief Visual Description:** Rainbow strokes in a rectangle shape. Symbolizing a pride flag.
+**Accessory Type:**
+
+**Visual Description:** Rainbow strokes in a rectangle shape. Symbolizing a pride flag.
 
 **Dominant Colors:** Rainbow
 
-**Reasoning for Inclusion within Mibera:** The pride flag's history began with the rainbow flag,
+**Material Impression:**
 
-designed by Gilbert Baker in 1978 for San Francisco's gay community, commissioned by Harvey
+---
 
-Milk. Inspired by the rainbow's symbolism of diversity and Judy Garland's "Over the Rainbow,"
+### Cultural Context
 
-**the original had eight colors:** hot pink (sex), red (life), orange (healing), yellow (sunlight), green
+**Source Type:**
 
-(nature), turquoise (magic/art), indigo (serenity), and violet (spirit). Due to fabric shortages, it
+**Cultural Origin:** 
 
-was simplified to six colors by 1979, dropping hot pink and turquoise. Adopted globally, it
+**Era:**
 
-evolved with variants like the 2018 Philadelphia flag (adding black and brown for people of
+**Scene Association:**
 
-color) and the 2021 Progress flag (including light blue, pink, and white for trans and nonbinary
+**Geographic Roots:**
 
-inclusion).
+**Why This Matters:**
 
-**General Real World Trait History:**
+**Notable Figures:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Mibera Integration
 
-**Who Introduced the Trait:**
+**Archetype:** Milady
 
-**Trait Conflicts:** -
+**Archetype Alignment:** The pride flag's history began with the rainbow flag, designed by Gilbert Baker in 1978 for San Francisco's gay community, commissioned by Harvey Milk. Inspired by the rainbow's symbolism of diversity and Judy Garland's "Over the Rainbow,"
 
-**Ancestor (if applicable):**
+**Vibe Tags:**
 
-**Archetype (if applicable):** Milady
+**Setting:**
 
-**Swag Score (if applicable):** 2
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Trans Flag
 
+### Visual Properties
+
 **Name:** Trans Flag
 
 **Image Files:**
-
 ![Trans Flag](../images/face%20accessories__z60/SS2_milady_trans flag.webp)
 
-**Brief Visual Description:** Strokes of bright blue, pink, and white in a rectangle shape.
+**Accessory Type:**
 
-Symbolizing a trans flag.
+**Visual Description:** Strokes of bright blue, pink, and white in a rectangle shape. Symbolizing a trans flag.
 
 **Dominant Colors:** Bright blue, pink, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The transgender movement's history traces back to ancient
+---
 
-cultures, with examples like the Hijra in India and Two-Spirit individuals in Native American
+### Cultural Context
 
-societies, recognized for gender diversity. Modern activism began in the 20th century, with
+**Source Type:**
 
-pioneers like Magnus Hirschfeld in Germany (1890s) advocating for gender variance. Key
+**Cultural Origin:** The transgender movement's history traces back to ancient cultures, with examples like the Hijra in India and Two-Spirit individuals in Native American societies, recognized for gender diversity. Modern activism began in the 20th century, with pioneers like Magnus Hirschfeld in Germany (1890s) advocating for gender variance. Key milestones include Christine Jorgensen’s 1952 gender confirmation surgery, sparking public awareness, and the 1966 Compton’s Cafeteria riot in San Francisco, an early transgender uprising. The Stonewall Riots (1969) boosted the movement, led by trans figures like Marsha P. Johnson.
 
-milestones include Christine Jorgensen’s 1952 gender confirmation surgery, sparking public
+**Era:**
 
-awareness, and the 1966 Compton’s Cafeteria riot in San Francisco, an early transgender
+**Scene Association:**
 
-uprising. The Stonewall Riots (1969) boosted the movement, led by trans figures like Marsha P.
+**Geographic Roots:**
 
-Johnson.
+**Why This Matters:**
 
-**Team Anecdotes:**
+**Notable Figures:**
 
-**Date Created/Uploaded:** December 10, 2024
+---
 
-**Who Introduced the Trait:**
+### Mibera Integration
 
-**Trait Conflicts:** -
+**Archetype:** Milady
 
-**Ancestor (if applicable):**
+**Archetype Alignment:** 
 
-**Archetype (if applicable):** Milady
+**Vibe Tags:**
 
-**Swag Score (if applicable):** 2
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Tear Drop
 
+### Visual Properties
+
 **Name:** Tear Drop
 
 **Image Files:**
-
 ![Tear Drop](../images/face%20accessories__z60/SS2_Milady_tear drop.webp)
 
-**Brief Visual Description:** Face tattoo of a symmetrical form with a rounded wider base that
+**Accessory Type:**
 
-tapers gradually to a pointed tip.
+**Visual Description:** Face tattoo of a symmetrical form with a rounded wider base that tapers gradually to a pointed tip.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** Milady has tear drop as one of their traits.
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
 
-**Research Summary:**
+**Notable Figures:**
 
-The teardrop tattoo originated in prison culture, likely in the mid-20th century, with early
+---
 
-references in the 1970s among Latino gang members in the U.S.
+### Mibera Integration
 
-It’s typically inked near the eye and carries varied meanings: a filled teardrop can signify a
+**Archetype:** Milady
 
-murder committed, an outline may indicate attempted murder or a friend’s death, or it can mark
+**Archetype Alignment:** Milady has tear drop as one of their traits.
 
-time served or humiliation, like being "owned" by another inmate.
+**Vibe Tags:**
 
-Meanings differ by region, gang, and era, evolving from a criminal badge to a broader symbol of
+**Setting:**
 
-loss or resilience.
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Fluoro White
 
+### Visual Properties
+
 **Name:** Fluoro White
 
 **Image Files:**
-
 ![Fluoro White](../images/face%20accessories__z60/SS2_freetekno_Fluoro White.webp)
 
-**Brief Visual Description:** Three white strokes, one bigger than the other two.
+**Accessory Type:**
+
+**Visual Description:** Three white strokes, one bigger than the other two.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Sunbera
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 2
+**Why This Matters:**
 
-- https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523
+**Notable Figures:**
 
-61298
+---
 
-**Research Sources:**
+### Mibera Integration
 
-**- https:** //fashion-era.com/fashion-history/1990s/90s-rave-fashion#:~:text=90s%20Rave%2
+**Archetype:** Freetekno
 
-0Culture%20and%20Fashion,defining%20tenet%20of%20rave%20culture.
+**Archetype Alignment:** 
 
-**- https:** //thedj-diaries.com/90s-rave-culture-beats-clubs-and-the-summer-of-love/#:~:text=
+**Vibe Tags:**
 
-Characterized%20by%20its%20bold%2C%20eclectic,punk%2C%20hippie%2C%20and
+**Setting:**
 
-%20cyberpunk.
+**Swag Score:** 2 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
-**Summary:**
+**Swag Justification:**
 
-In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and
+---
 
-self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent
+### Connections
 
-clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and
+**Ancestor:** 
 
-energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of
+**Trait Synergies:**
 
-liberation and individuality.
+**Trait Conflicts:** 
 
-Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral
+---
 
-to the rave look.
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Sunbera
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. Rave fashion, characterized by its bold and eclectic style, embraced fluorescent clothing and accessories like glow sticks, often under ultraviolet lights, to create a vibrant and energetic atmosphere. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality. Fluorescent accessories like glow sticks, bracelets, and even face and body paint were integral to the rave look.
 
 ---
 
 ## Whiskers
 
+### Visual Properties
+
 **Name:** Whiskers
 
 **Image Files:**
-
 ![Whiskers](../images/face%20accessories__z60/SS1_milady_Whiskers.webp)
 
-**Brief Visual Description:** Six really thin lines resembling cat whiskers.
+**Accessory Type:**
+
+**Visual Description:** Six really thin lines resembling cat whiskers.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Small Bandage
 
+### Visual Properties
+
 **Name:** Small Bandage
 
 **Image Files:**
-
 ![Small Bandage](../images/face%20accessories__z60/SS1_milady_small bandage.webp)
 
-**Brief Visual Description:** Small bandage in white.
+**Accessory Type:**
+
+**Visual Description:** Small bandage in white.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Mibera
 
+### Visual Properties
+
 **Name:** Mibera
 
 **Image Files:**
-
 ![Mibera](../images/face%20accessories__z60/SS5_milady_Mibera.webp)
 
-**Brief Visual Description:** Writing of ‘MIBERA’ in all capital letters.
+**Accessory Type:**
+
+**Visual Description:** Writing of ‘MIBERA’ in all capital letters.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Bandaid
 
+### Visual Properties
+
 **Name:** Bandaid
 
 **Image Files:**
-
 ![Bandaid](../images/face%20accessories__z60/SS1_milady_bandaid.webp)
 
-**Brief Visual Description:** Small band-aid in their stereotypical light-brown color.
+**Accessory Type:**
+
+**Visual Description:** Small band-aid in their stereotypical light-brown color.
 
 **Dominant Colors:** Light brown.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Clean Bandage
 
+### Visual Properties
+
 **Name:** Clean Bandage
 
 **Image Files:**
-
 ![Clean Bandage](../images/face%20accessories__z60/SS1_chicagodetroit_clean bandage.webp)
 
-**Brief Visual Description:** Square-shaped bandage in white with a thin line cross on top of it
+**Accessory Type:**
 
-securing the bandage in place.
+**Visual Description:** Square-shaped bandage in white with a thin line cross on top of it securing the bandage in place.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Joker
 
+### Visual Properties
+
 **Name:** Joker
 
 **Image Files:**
-
 ![Joker](../images/face%20accessories__z60/SS5_joker.webp)
 
-**Brief Visual Description:** Roughly circular, white face with smudged outline. On it are: two
+**Accessory Type:**
 
-blue, upward-pointing triangles above the eyes with other two pointing downwards below the
-
-eyes. a red, diamond-shaped nose, and a wide red curved smile.
+**Visual Description:** Roughly circular, white face with smudged outline. On it are: two blue, upward-pointing triangles above the eyes with other two pointing downwards below the eyes. a red, diamond-shaped nose, and a wide red curved smile.
 
 **Dominant Colors:** white, blue, red.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** March 26, 2025
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 5
+**Why This Matters:**
 
-- https://discord.com/channels/1133935527855399053/1150328747908677654/11869669704159
+**Notable Figures:**
 
-80575
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 - https://discord.com/channels/1133935527855399053/1150328747908677654/11869669704159 80575 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 26, 2025
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Septum
 
+### Visual Properties
+
 **Name:** Septum
 
 **Image Files:**
-
 ![Septum](../images/face%20accessories__z60/SS1_freetekno_Septum.webp)
 
-**Brief Visual Description:** Small circular ring resembling a ring..
+**Accessory Type:**
+
+**Visual Description:** Small circular ring resembling a ring..
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Freetekno
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Aboriginal Red
 
+### Visual Properties
+
 **Name:** Aboriginal Red
 
 **Image Files:**
-
 ![Aboriginal Red](../images/face%20accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Red.webp)
 
-**Brief Visual Description:** Red slightly curved horizontal red paint above (or framed within) a
+**Accessory Type:**
 
-white one, with black stroke underneath.
+**Visual Description:** Red slightly curved horizontal red paint above (or framed within) a white one, with black stroke underneath.
 
 **Dominant Colors:** Red, white, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The origin of Aboriginal Australian red, black, and white face
+---
 
-paint lies in ancient Indigenous cultural practices, dating back tens of thousands of years.
+### Cultural Context
 
-These colors, derived from natural ochres (red and yellow from iron oxide, white from kaolin
+**Source Type:**
 
-clay, black from charcoal or manganese), are used in ceremonies, storytelling, and rites of
+**Cultural Origin:** The origin of Aboriginal Australian red, black, and white face paint lies in ancient Indigenous cultural practices, dating back tens of thousands of years. These colors, derived from natural ochres (red and yellow from iron oxide, white from kaolin clay, black from charcoal or manganese), are used in ceremonies, storytelling, and rites of passage. Red symbolizes the earth, blood, and life; black represents the people and the night sky; and white signifies peace, spirit, or the ancestors. Applied in intricate patterns during corroborees or body painting, they connect individuals to the Dreamtime, their spiritual creation narrative.
 
-passage. Red symbolizes the earth, blood, and life; black represents the people and the night
+**Era:**
 
-sky; and white signifies peace, spirit, or the ancestors. Applied in intricate patterns during
+**Scene Association:**
 
-corroborees or body painting, they connect individuals to the Dreamtime, their spiritual creation
+**Geographic Roots:**
 
-narrative.
+**Why This Matters:**
 
-**Team Anecdotes:**
+**Notable Figures:**
 
-**Date Created/Uploaded:** December 10, 2024
+---
 
-**Who Introduced the Trait:** Jani
+### Mibera Integration
 
-**Trait Conflicts:** -
+**Archetype:** Freetekno
 
-**Ancestor (if applicable):** Aboriginal
+**Archetype Alignment:** 
 
-**Archetype (if applicable):** Freetekno
+**Vibe Tags:**
 
-**Swag Score (if applicable):** 5
+**Setting:**
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 5
 
-- https://discord.com/channels/1133935527855399053/1158511884706779227/11585204469212
+**Swag Justification:**
 
-20146
+---
+
+### Connections
+
+**Ancestor:** Aboriginal
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Ethiopian
 
+### Visual Properties
+
 **Name:** Ethiopian
 
 **Image Files:**
-
 ![Ethiopian](../images/face%20accessories__z60/SS5_chicagodetroit_ancient_ethiopian_Ethiopian.webp)
 
-**Brief Visual Description:** White base with smudged outline, and messy circular-rectangular
+**Accessory Type:**
 
-shape doodles in black on top of it.
+**Visual Description:** White base with smudged outline, and messy circular-rectangular shape doodles in black on top of it.
 
 **Dominant Colors:** White, black
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** The face paint in the image is associated with the Surma (or
+---
 
-Suri) people, an ethnic group in Ethiopia's Omo Valley. The distinctive white base with black
+### Cultural Context
 
-geometric patterns, often ovals or circles, is made from a mixture of chalk, ash, or local clay,
+**Source Type:**
 
-applied during ceremonies, rites of passage, or adornment. This tradition, dating back centuries,
+**Cultural Origin:** The face paint in the image is associated with the Surma (or Suri) people, an ethnic group in Ethiopia's Omo Valley. The distinctive white base with black geometric patterns, often ovals or circles, is made from a mixture of chalk, ash, or local clay, applied during ceremonies, rites of passage, or adornment. This tradition, dating back centuries, signifies beauty, identity, and social status, with designs varying by individual or occasion. The Surma, including subgroups like the Mursi, also use natural materials like flowers and fruits in their headgear, reflecting their connection to the land.
 
-signifies beauty, identity, and social status, with designs varying by individual or occasion. The
+**Era:**
 
-Surma, including subgroups like the Mursi, also use natural materials like flowers and fruits in
+**Scene Association:**
 
-their headgear, reflecting their connection to the land.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:** Jani
+---
 
-**Trait Conflicts:** -
+### Mibera Integration
 
-**Ancestor (if applicable):** Ethiopian
+**Archetype:** Chicago Detroit
 
-**Archetype (if applicable):** Chicago Detroit
+**Archetype Alignment:** 
 
-**Swag Score (if applicable):** 5
+**Vibe Tags:**
 
-**Ancient / Modern:** Ancient
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Ethiopian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1158770561560879134/11591080145156
-
-87445
-
 - https://thursd.com/articles/people-from-the-ethiopian-suri-tribe-wear-intricate-face-paint-and-don
 
--breathtaking-floral-headpieces
+**Summary:** 
 
 ---
 
 ## Bandage
 
+### Visual Properties
+
 **Name:** Bandage
 
 **Image Files:**
-
 ![Bandage](../images/face%20accessories__z60/SS1_chicagodetroit_bandage.webp)
 
-**Brief Visual Description:** Square-shaped bandage in white, tiny reddish spot in the middle
+**Accessory Type:**
 
-covered under a thin line cross on top of it.
+**Visual Description:** Square-shaped bandage in white, tiny reddish spot in the middle covered under a thin line cross on top of it.
 
 **Dominant Colors:** White, semi-transparent red.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** -
+**Era:**
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 1
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Aboriginal Orange
 
+### Visual Properties
+
 **Name:** Aboriginal Orange
 
 **Image Files:**
-
 ![Aboriginal Orange](../images/face%20accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Orange.webp)
 
-**Brief Visual Description:** An orange, slightly curved, orange thick horizontal stroke, with
+**Accessory Type:**
 
-scattered yellow and black dots on top of it. Under it, a dark black line stroke with fewer yellow
-
-spots on it.
+**Visual Description:** An orange, slightly curved, orange thick horizontal stroke, with scattered yellow and black dots on top of it. Under it, a dark black line stroke with fewer yellow spots on it.
 
 **Dominant Colors:** Orange, black, yellow.
 
-**Reasoning for Inclusion within Mibera:**
-
-**General Real World Trait History:** The origin of Aboriginal Australian red, black, and white face
-
-paint lies in ancient Indigenous cultural practices, dating back tens of thousands of years.
-
-These colors, derived from natural ochres (red and yellow from iron oxide, white from kaolin
-
-clay, black from charcoal or manganese), are used in ceremonies, storytelling, and rites of
-
-passage. Red symbolizes the earth, blood, and life; black represents the people and the night
-
-sky; and white signifies peace, spirit, or the ancestors. Applied in intricate patterns during
-
-corroborees or body painting, they connect individuals to the Dreamtime, their spiritual creation
-
-narrative.
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** December 10, 2024
-
-**Who Introduced the Trait:** Jani
-
-**Trait Conflicts:** -
-
-**Ancestor (if applicable):** Aboriginal
-
-**Archetype (if applicable):** Freetekno
-
-**Swag Score (if applicable):** 5
-
-**Ancient / Modern:** Ancient
-
-**Source:**
-
-- https://discord.com/channels/1133935527855399053/1158511884706779227/11585204469212
-
-20146
+**Material Impression:**
 
 ---
 
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** The origin of Aboriginal Australian red, black, and white face paint lies in ancient Indigenous cultural practices, dating back tens of thousands of years. These colors, derived from natural ochres (red and yellow from iron oxide, white from kaolin clay, black from charcoal or manganese), are used in ceremonies, storytelling, and rites of passage. Red symbolizes the earth, blood, and life; black represents the people and the night sky; and white signifies peace, spirit, or the ancestors. Applied in intricate patterns during corroborees or body painting, they connect individuals to the Dreamtime, their spiritual creation narrative.
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** Aboriginal
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+- https://discord.com/channels/1133935527855399053/1158511884706779227/11585204469212
+
+**Summary:** 
+
+---

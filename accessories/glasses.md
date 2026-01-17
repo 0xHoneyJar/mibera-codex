@@ -6,1159 +6,2888 @@
 
 ## Omega
 
+### Visual Properties
+
 **Name:** Omega
 
 **Image Files:**
-
 ![Omega](../images/glasses__z140/acidhouse_Omega.webp)
 
-**Brief Visual Description:** Glasses with a hint of dark teal with Omega logos on them; a
+**Accessory Type:**
 
-horseshoe shape or an upside down ‘U’ with a flat top and two vertical legs going outwards at
+**Visual Description:** Glasses with a hint of dark teal with Omega logos on them; a horseshoe shape or an upside down ‘U’ with a flat top and two vertical legs going outwards at the bottom.
 
-the bottom.
+**Dominant Colors:** 
 
-**Reasoning for Inclusion within Mibera:** OlympusDAO in Berachain history. One of Bong
+**Material Impression:**
 
-Bear’s traits.
+---
 
-**Date created / uploaded:** December 10, 2024
+### Cultural Context
 
-**General Real World Trait History:**
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Tez
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Resources / References:**
+**Geographic Roots:**
 
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** OlympusDAO in Berachain history. One of Bong Bear’s traits.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143683806981800030/11513135764311
 
-94212
+**Summary:** 
 
 ---
 
 ## Tekno 2
 
+### Visual Properties
+
 **Name:** Tekno 2
 
 **Image Files:**
-
 ![Tekno 2](../images/glasses__z140/freetekno_Tekno 2.webp)
 
-**Brief Visual Description:** Black retro round glasses, with pure black shades and rusty looking
+**Accessory Type:**
 
-frames in a very dark brown, framing half top part of the glasses..
+**Visual Description:** Black retro round glasses, with pure black shades and rusty looking frames in a very dark brown, framing half top part of the glasses..
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 18, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:** Tez
+**Source Type:**
 
-**Archetype (if applicable):** Freetekno
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143360154734174308/11568383324211
 
-20010
+**Summary:** 
 
 ---
 
 ## Cyber Punk 1
 
+### Visual Properties
+
 **Name:** Cyber Punk 1
 
 **Image Files:**
-
 ![Cyber Punk 1](../images/glasses__z140/freetekno_Cyber Punk 1.webp)
 
-**Brief Visual Description:** Round glasses with a unique framing of a straight line only at the top
+**Accessory Type:**
 
-part acting as the bridge, and its temples. Both the framing and the shades are in similar shade
+**Visual Description:** Round glasses with a unique framing of a straight line only at the top part acting as the bridge, and its temples. Both the framing and the shades are in similar shade of dark grey.
 
-of dark grey.
+**Dominant Colors:** 
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**Date created / uploaded:** December 10, 2024
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Archetype (if applicable):** Freetekno
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Rayban
 
+### Visual Properties
+
 **Name:** Rayban
 
 **Image Files:**
-
 ![Rayban](../images/glasses__z140/chicagodetroit_Rayban.webp)
 
-**Brief Visual Description:** Rectangular-shaped glasses with clear lenses and thick black
+**Accessory Type:**
 
-frames.
+**Visual Description:** Rectangular-shaped glasses with clear lenses and thick black frames.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 18, 2024
+**Material Impression:**
 
-**General Real World Trait History:** Ron Hardy
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:** Jani
+**Source Type:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Cultural Origin:** Ron Hardy
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608814206512
-
-12840
-
 - https://daily.redbullmusicacademy.com/2015/05/ron-hardy-at-the-music-box
-
 - https://www.ray-ban.com/usa/electronics/RW4006ray-ban%20%7C%20meta%20wayfarer-black
 
-/8056597769440
+**Summary:** 
 
 ---
 
 ## Magenta Glow
 
+### Visual Properties
+
 **Name:** Magenta Glow
 
 **Image Files:**
-
 ![Magenta Glow](../images/glasses__z140/chicagodetroit_Magenta Glow.webp)
 
-**Brief Visual Description:** Glow glasses mainly in magenta, with yellow parts on its bridge and
+**Accessory Type:**
 
-temples.
+**Visual Description:** Glow glasses mainly in magenta, with yellow parts on its bridge and temples.
 
-**Reasoning for Inclusion within Mibera:** Glow sticks being a big part of 90s rave culture,
+**Dominant Colors:** 
 
-aligning with Mibera’s.
+**Material Impression:**
 
-**Date created / uploaded:** June 18, 2024
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Who Introduced the Trait:** Tez
+**Cultural Origin:** 
 
-**Archetype (if applicable):** Chicago Detroit
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** Glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.vice.com/en/article/the-ten-weirdest-90s-rave-customs-according-to-slipmatt/
+
+**Summary:** 
 
 ---
 
 ## Mottega Blue
 
+### Visual Properties
+
 **Name:** mottega blue
 
 **Image Files:**
-
 ![Mottega Blue](../images/glasses__z140/milady_Mottega Blue.webp)
 
-**Brief Visual Description:** Glasses with light blue lenses and thick blue frames.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** This is an existing trait within Milady Maker.
+**Visual Description:** Glasses with light blue lenses and thick blue frames.
 
-**Date created / uploaded:** June 5, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Gumi
+### Cultural Context
 
-**Archetype (if applicable):** Milady
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** This is an existing trait within Milady Maker.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 5, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Harajuku
 
+### Visual Properties
+
 **Name:** Harajuku
 
 **Image Files:**
-
 ![Harajuku](../images/glasses__z140/milady_Harajuku.webp)
 
-**Brief Visual Description:** red frames with orange lenses.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** This is an existing Milady Maker trait.
+**Visual Description:** red frames with orange lenses.
 
-**Date created / uploaded:** June 16, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Tez
+### Cultural Context
 
-**Archetype (if applicable):** Milady
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** This is an existing Milady Maker trait.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 16, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Red Glow
 
+### Visual Properties
+
 **Name:** Red Glow
 
 **Image Files:**
-
 ![Red Glow](../images/glasses__z140/chicagodetroit_Red Glow.webp)
 
-**Brief Visual Description:** Glow glasses mainly in red, with yellow on the center and sides.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** Glow sticks being a big part of 90s rave culture,
+**Visual Description:** Glow glasses mainly in red, with yellow on the center and sides.
 
-aligning with Mibera’s.
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 18, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:** Tez
+**Source Type:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** Glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.vice.com/en/article/the-ten-weirdest-90s-rave-customs-according-to-slipmatt/
+
+**Summary:** 
 
 ---
 
 ## Black Scifi
 
+### Visual Properties
+
 **Name:** Black Scifi
 
 **Image Files:**
-
 ![Black Scifi](../images/glasses__z140/chicagodetroit_Black Scifi.webp)
 
-**Brief Visual Description:** all-black glasses with slightly curved top-framing and triangular cut at
+**Accessory Type:**
 
-the middle bottom part.
+**Visual Description:** all-black glasses with slightly curved top-framing and triangular cut at the middle bottom part.
 
-**Reasoning for Inclusion within Mibera:** Its relation to the house music history in Chicago,
+**Dominant Colors:** 
 
-highlighting the birth of the first female DJ in Chicago’s house scene.
+**Material Impression:**
 
-**Date created / uploaded:** June 18, 2024
+---
 
-**General Real World Trait History:** The Chosen Few DJs, Lori Branch.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** The Chosen Few DJs, Lori Branch.
 
-**Archetype (if applicable):** Chicago detroit
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
 
-- https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049
+**Geographic Roots:**
 
-85178
+**Why This Matters:**
 
-- https://www.312soul.com/1984-1990
+**Notable Figures:**
 
-**Summary:**
+---
 
-The article focuses on the history of house music in Chicago from 1985 to 1990. Highlighting the
+### Mibera Integration
 
-genre's development, key figures like Larry Heard (Mr. Fingers) who pioneered deep house, and
+**Archetype:** Chicago detroit
 
-the emergence of sub-genres like soulful house and acid house. It also recognizes Lori Branch,
+**Archetype Alignment:** Its relation to the house music history in Chicago, highlighting the birth of the first female DJ in Chicago’s house scene.
 
-the first female DJ in Chicago’s house scene, and her contributions.
+**Vibe Tags:**
 
-It is part of a broader retrospective on Chicago’s Black music history.
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049 85178 - https://www.312soul.com/1984-1990
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** The article focuses on the history of house music in Chicago from 1985 to 1990. Highlighting the genre's development, key figures like Larry Heard (Mr. Fingers) who pioneered deep house, and the emergence of sub-genres like soulful house and acid house. It also recognizes Lori Branch, the first female DJ in Chicago’s house scene, and her contributions. It is part of a broader retrospective on Chicago’s Black music history.
 
 ---
 
 ## Red Sunglasses
 
+### Visual Properties
+
 **Name:** Red Sunglasses
 
 **Image Files:**
-
 ![Red Sunglasses](../images/glasses__z140/chicagodetroit_Red Sunglasses.webp)
 
-**Brief Visual Description:** Round transparent sunglasses with a thin red framing.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** Round transparent sunglasses with a thin red framing.
 
-**Date created / uploaded:** December 10, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Jani
+### Cultural Context
 
-**Archetype (if applicable):** Chicago Detroit
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
 
-- https://discord.com/channels/1133935527855399053/1143360212842061834/11608841784270
+**Era:**
 
-56219
+**Scene Association:**
 
-- https://ra.co/features/1597
+**Geographic Roots:**
 
-**Summary:**
+**Why This Matters:**
 
-The article explores the origins and heyday of The Warehouse, a legendary Chicago nightclub
+**Notable Figures:**
 
-pivotal to the development of house music. The article details how the venue, active in the late
+---
 
-1970s and 1980s, became the namesake for the genre through its innovative DJ performances
+### Mibera Integration
 
-and vibrant dance culture.
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608841784270 56219 - https://ra.co/features/1597
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** The article explores the origins and heyday of The Warehouse, a legendary Chicago nightclub pivotal to the development of house music. The article details how the venue, active in the late 1970s and 1980s, became the namesake for the genre through its innovative DJ performances and vibrant dance culture.
 
 ---
 
 ## Sunnies
 
+### Visual Properties
+
 **Name:** Sunnies
 
 **Image Files:**
-
 ![Sunnies](../images/glasses__z140/acidhouse_Sunnies.webp)
 
-**Brief Visual Description:** Triangle-shaped glasses with grey lenses and grey frames
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** Triangle-shaped glasses with grey lenses and grey frames
 
-**Date created / uploaded:** December 10, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Tez
+### Cultural Context
 
-**Archetype (if applicable):** acidhouse
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
 
-- https://discord.com/channels/1133935527855399053/1139903294219759730/11404782576245
+**Era:**
 
-26909
+**Scene Association:**
 
-(not sure if it’s the same sunnies, but i’m assuming it is for now)
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1139903294219759730/11404782576245 26909 (not sure if it’s the same sunnies, but i’m assuming it is for now) ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Cyber Punk 2
 
+### Visual Properties
+
 **Name:** Cyber Punk 2
 
 **Image Files:**
-
 ![Cyber Punk 2](../images/glasses__z140/freetekno_Cyber Punk 2.webp)
 
-**Brief Visual Description:** All-black cyberpunk style glasses
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** All-black cyberpunk style glasses
 
-**Date created / uploaded:** June 18, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:**
+### Cultural Context
 
-**Archetype (if applicable):** Freetekno
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Round
 
+### Visual Properties
+
 **Name:** Round
 
 **Image Files:**
-
 ![Round](../images/glasses__z140/acidhouse_Round.webp)
 
-**Brief Visual Description:** Silver, circular framed glasses with clear lenses.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** Silver, circular framed glasses with clear lenses.
 
-**Date created / uploaded:** June 18, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:**
+### Cultural Context
 
-**Archetype (if applicable):** Acidhouse
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Purple Glow
 
+### Visual Properties
+
 **Name:** Purple Glow
 
 **Image Files:**
-
 ![Purple Glow](../images/glasses__z140/chicagodetroit_Purple Glow.webp)
 
-**Brief Visual Description:** Glow glasses mainly in purple, with yellow on the center and sides.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** glow sticks being a big part of 90s rave culture,
+**Visual Description:** Glow glasses mainly in purple, with yellow on the center and sides.
 
-aligning with Mibera’s.
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 18, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:** Tez
+**Source Type:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.vice.com/en/article/the-ten-weirdest-90s-rave-customs-according-to-slipmatt/
+
+**Summary:** 
 
 ---
 
 ## YY
 
+### Visual Properties
+
 **Name:** YY
 
 **Image Files:**
-
 ![YY](../images/glasses__z140/milady_YY.webp)
 
-**Brief Visual Description:** Dark shades of purple glasses with dark grey framing.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** Dark shades of purple glasses with dark grey framing.
 
-**Date created / uploaded:** June 17, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Gumi
+### Cultural Context
 
-**Archetype (if applicable):** Milady
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 17, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Reflections
 
+### Visual Properties
+
 **Name:** Reflections
 
 **Image Files:**
-
 ![Reflections](../images/glasses__z140/chicagodetroit_Reflections.webp)
 
-**Brief Visual Description:** Classic aviator with black and white reflections on its lenses and thin
+**Accessory Type:**
 
-black frames.
+**Visual Description:** Classic aviator with black and white reflections on its lenses and thin black frames.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** August 3rd, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 3rd, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## star goggles
 
+### Visual Properties
+
 **Name:** Star Goggles
 
 **Image Files:**
-
 ![Star Goggles](../images/glasses__z140/freetekno_Star Goggles.webp)
 
-**Brief Visual Description:** Black goggles with a white star on one side.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** Black goggles with a white star on one side.
 
-**Date created / uploaded:** June 16, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Tez
+### Cultural Context
 
-**Archetype (if applicable):** Freetekno
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
 
-**Source:**
+**Era:**
 
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 16, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143683806981800030/11436875916449
 
-05513
+**Summary:** 
 
 ---
 
 ## black white sunglasses
 
+### Visual Properties
+
 **Name:** black white sunglasses
 
 **Image Files:**
-
 ![Black White Sunglasses](../images/glasses__z140/chicagodetroit_Black White Sunglasses.webp)
 
-**Brief Visual Description:** a pair of sleek black sunglasses with a hint of white on the top frame.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** a pair of sleek black sunglasses with a hint of white on the top frame.
 
-**Date created / uploaded:** June 18, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:**
+### Cultural Context
 
-**Archetype (if applicable):** chicago detroit
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** chicago detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Tactical
 
+### Visual Properties
+
 **Name:** tactical
 
 **Image Files:**
-
 ![Tactical](../images/glasses__z140/milady_Tactical.webp)
 
-**Brief Visual Description:** big turquoise visor with stats / readings on it, in black framing.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** Based on a Bong Bear’s trait / art tactical glasses.
+**Visual Description:** big turquoise visor with stats / readings on it, in black framing.
 
-**Date created / uploaded:** December 10, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Tez
+### Cultural Context
 
-**Archetype (if applicable):** Milady
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
 
-**Sources / References:**
+**Era:**
 
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** Based on a Bong Bear’s trait / art tactical glasses.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143683806981800030/11516747625951
 
-47786
+**Summary:** 
 
 ---
 
 ## tekno 1
 
+### Visual Properties
+
 **Name:** tekno 1
 
 **Image Files:**
-
 ![Tekno 1](../images/glasses__z140/freetekno_Tekno 1.webp)
 
-**Brief Visual Description:** all-black round glasses.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** all-black round glasses.
 
-**Date created / uploaded:** June 18, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:**
+### Cultural Context
 
-**Archetype (if applicable):** freetekno
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## mottega yellow
 
+### Visual Properties
+
 **Name:** Mottega Yellow
 
 **Image Files:**
-
 ![Mottega Yellow](../images/glasses__z140/milady_Mottega Yellow.webp)
 
-**Brief Visual Description:** Glasses with dark lenses and thick yellow frames.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** This trait is “invisible” in the original Milady collection.
+**Visual Description:** Glasses with dark lenses and thick yellow frames.
 
-https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Glasses%22,%22val
+**Dominant Colors:** 
 
-**ues%22:** %5B%22mottega+sunglasses+yellow%22%5D%7D%5D
+**Material Impression:**
 
-**Date created / uploaded:** June 5, 2024
+---
 
-**General Real World Trait History:** Inspired trait from the Milady Maker NFT collection.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** Inspired trait from the Milady Maker NFT collection.
 
-**Archetype (if applicable):** Milady
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** This trait is “invisible” in the original Milady collection. https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Glasses%22,%22val
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 5, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
 
 **Sources:**
+- https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Glasses%22,%22values%22
 
-https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Glasses%22,%22values%22
-
-**:** [%22mottega%20sunglasses%20yellow%22]}]
+**Summary:** 
 
 ---
 
 ## 3d
 
+### Visual Properties
+
 **Name:** 3D
 
 **Image Files:**
-
 ![3D](../images/glasses__z140/chicacodetroit_3D.webp)
 
-**Brief Visual Description:** Flimsy glasses with white frames. Left frame is blue and right frame
+**Accessory Type:**
 
-is red.
+**Visual Description:** Flimsy glasses with white frames. Left frame is blue and right frame is red.
 
-**Reasoning for Inclusion within Mibera:** One of Bong Bear traits.
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 17, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:** Tez
+**Source Type:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-**Sources and References:**
+**Scene Association:**
 
-- https://discord.com/channels/1133935527855399053/1143683806981800030/11513134432536
+**Geographic Roots:**
 
-49528
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** One of Bong Bear traits.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 17, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## squad
 
+### Visual Properties
+
 **Name:** Squad
 
 **Image Files:**
-
 ![Squad](../images/glasses__z140/acidhouse_Squad.webp)
 
-**Brief Visual Description:** Pointed all black sunglasses.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** Seen in the OG Bong Bears collection, on Beartull’s
+**Visual Description:** Pointed all black sunglasses.
 
-1/1 - which appears to be a Squirtle itself.
+**Dominant Colors:** 
 
-- https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/66075445
+**Material Impression:**
 
-032688988859229341194671037535804503065310441849644897976489592487937
+---
 
-**Date created / uploaded:** June 17, 2024
+### Cultural Context
 
-**General Real World Trait History:**
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Tez
+**Era:**
 
-**Archetype (if applicable):** Acidhouse
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
 
-Sources / References
+**Why This Matters:**
 
-- https://discord.com/channels/1133935527855399053/1143683806981800030/11513139372755
+**Notable Figures:**
 
-72377
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** Seen in the OG Bong Bears collection, on Beartull’s 1/1 - which appears to be a Squirtle itself. - https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/66075445 032688988859229341194671037535804503065310441849644897976489592487937
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** Sources / References - https://discord.com/channels/1133935527855399053/1143683806981800030/11513139372755 72377 ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 17, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## snow goggles 2
 
+### Visual Properties
+
 **Name:** snow goggles 2
 
 **Image Files:**
-
 ![Snow Goggles 2](../images/glasses__z140/Snow Goggles 2.webp)
 
-**Brief Visual Description:** white snow-goggles with thin opening in the middle and tribal art.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** white snow-goggles with thin opening in the middle and tribal art.
 
-**Date created / uploaded:** December 10, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:**
+### Cultural Context
 
-**Archetype (if applicable):**
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Sick Sunglasses
 
+### Visual Properties
+
 **Name:** Sick Sunglasses
 
 **Image Files:**
-
 ![Sick Sunglasses](../images/glasses__z140/chicagodetroit_Sick Sunglasses.webp)
 
-**Brief Visual Description:** Rounded glasses with slightly dark glasses and golden framing.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** music culture, and its association with Yung Singh
+**Visual Description:** Rounded glasses with slightly dark glasses and golden framing.
 
-who was known for his underground performance with his Punjabi Garage mix as his main
+**Dominant Colors:** 
 
-niche.
+**Material Impression:**
 
-**Date created / uploaded:** December 10, 2024
+---
 
-**General Real World Trait History:** Yung Singh
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** Yung Singh
 
-**Archetype (if applicable):** Chicago Detroit
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
 
-- https://earthackney.co.uk/performers/yung-singh/
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** music culture, and its association with Yung Singh who was known for his underground performance with his Punjabi Garage mix as his main niche.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** - https://earthackney.co.uk/performers/yung-singh/ ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## colourful
 
+### Visual Properties
+
 **Name:** Colorful
 
 **Image Files:**
-
 ![Colorful](../images/glasses__z140/milady_Colorful.webp)
 
-**Brief Visual Description:** Retro-style visor sunglasses in orange and yellow.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** Retro-style visor sunglasses in orange and yellow.
 
-**Date created / uploaded:** December 10, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Tez
+### Cultural Context
 
-**Archetype (if applicable):** Milady
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
 
-**Source / Reference:**
+**Era:**
 
-- https://discord.com/channels/1133935527855399053/1143683806981800030/11516747625951
+**Scene Association:**
 
-47786
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Swimming Goggles
 
+### Visual Properties
+
 **Name:** Swimming Goggles
 
 **Image Files:**
-
 ![Swimming Goggles](../images/glasses__z140/acidhouse_Swimming Goggles.webp)
 
-**Brief Visual Description:** Blue circular swimming goggles
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** Blue circular swimming goggles
 
-**Date created / uploaded:** June 18, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:** 90s rave culture
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Fedor
+### Cultural Context
 
-**Archetype (if applicable):** Acidhouse
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 90s rave culture
 
-- https://discord.com/channels/1133935527855399053/1143685538075902095/11624257274555
+**Era:**
 
-96646
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143685538075902095/11624257274555 96646 ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## prescription
 
+### Visual Properties
+
 **Name:** prescription
 
 **Image Files:**
-
 ![Prescription](../images/glasses__z140/chicagodetroit_Prescription.webp)
 
-**Brief Visual Description:** oval-shaped glasses with clear lenses and black frames on the top
+**Accessory Type:**
 
-half.
+**Visual Description:** oval-shaped glasses with clear lenses and black frames on the top half.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** 18 June, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Archetype (if applicable):** chicago detroit.
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** chicago detroit.
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** 18 June, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## spy
 
+### Visual Properties
+
 **Name:** spy
 
 **Image Files:**
-
 ![Spy](../images/glasses__z140/milady_Spy.webp)
 
-**Brief Visual Description:** big sunglasses with vibrant green lenses and thick black frames, with
+**Accessory Type:**
 
-a mic attached on one side.
+**Visual Description:** big sunglasses with vibrant green lenses and thick black frames, with a mic attached on one side.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 16, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:** tez / gumi
+**Source Type:**
 
-**Archetype (if applicable):** milady
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 16, 2024
+
+**Introduced By:** tez / gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## 96
 
+### Visual Properties
+
 **Name:** 96
 
 **Image Files:**
-
 ![96](../images/glasses__z140/chicagodetroit_96.webp)
 
-**Brief Visual Description:** square-shaped glasses with black lenses and golden rim, with a
+**Accessory Type:**
 
-bee-shaped visual in the center.
+**Visual Description:** square-shaped glasses with black lenses and golden rim, with a bee-shaped visual in the center.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 17, 2024
+**Material Impression:**
 
-**General Real World Trait History:** Jani’s number / House of 96 of the High Council 任侠団体 of
+---
 
-101 Bears.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** Jani’s number / House of 96 of the High Council 任侠団体 of 101 Bears.
 
-**Archetype (if applicable):** chicago detroit
+**Era:**
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** chicago detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 17, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## snow goggles 1
 
+### Visual Properties
+
 **Name:** snow goggles 1
 
 **Image Files:**
-
 ![Snow Goggles 1](../images/glasses__z140/Snow Goggles 1.webp)
 
-**Brief Visual Description:** white snow goggles with drawings that look like a mask / eye holes.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** white snow goggles with drawings that look like a mask / eye holes.
 
-**Date created / uploaded:** December 10, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:**
+### Cultural Context
 
-**Archetype (if applicable):**
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## scifi
 
+### Visual Properties
+
 **Name:** scifi
 
 **Image Files:**
-
 ![Scifi](../images/glasses__z140/milady_Scifi.webp)
 
-**Brief Visual Description:** hot-pink visor with thick white frames. Circles and lines can be seen
+**Accessory Type:**
 
-on the visor.
+**Visual Description:** hot-pink visor with thick white frames. Circles and lines can be seen on the visor.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** December 10, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Archetype (if applicable):** milady
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## big 80s
 
+### Visual Properties
+
 **Name:** big 80s
 
 **Image Files:**
-
 ![Big 80s](../images/glasses__z140/chicagodetroit_Big 80s.webp)
 
-**Brief Visual Description:** big rounded 80s style glasses with black frames and dark brownish
+**Accessory Type:**
 
-lenses.
+**Visual Description:** big rounded 80s style glasses with black frames and dark brownish lenses.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 18, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Archetype (if applicable):** chicago detroit.
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
 
-- https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049
+**Scene Association:**
 
-85178
+**Geographic Roots:**
 
-- https://www.312soul.com/1984-1990
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** chicago detroit.
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049 85178 - https://www.312soul.com/1984-1990 ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## blue glow
 
+### Visual Properties
+
 **Name:** Blue Glow
 
 **Image Files:**
-
 ![Blue Glow](../images/glasses__z140/chicagodetroit_Blue Glow.webp)
 
-**Brief Visual Description:** Glow glasses mainly in neon blue, with yellow on the center and
+**Accessory Type:**
 
-sides.
+**Visual Description:** Glow glasses mainly in neon blue, with yellow on the center and sides.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 18, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:** Tez
+**Source Type:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.vice.com/en/article/the-ten-weirdest-90s-rave-customs-according-to-slipmatt/
+
+**Summary:** 
 
 ---
 
 ## stars
 
+### Visual Properties
+
 **Name:** Stars
 
 **Image Files:**
-
 ![Stars](../images/glasses__z140/freetekno_Stars.webp)
 
-**Brief Visual Description:** Star-shaped rimless glasses in deep dark pink.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:** One of Bong Bear’s traits.
+**Visual Description:** Star-shaped rimless glasses in deep dark pink.
 
-**Date created / uploaded:** June 17, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
+**Material Impression:**
 
-**Team Anecdotes:**
+---
 
-**Who Introduced the Trait:** Tez
+### Cultural Context
 
-**Archetype (if applicable):** Freetekno
+**Source Type:**
 
-**Trait Conflicts:**
+**Cultural Origin:** 
 
-**Sources / References:**
+**Era:**
 
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** One of Bong Bear’s traits.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 17, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143683806981800030/11513134924444
 
-63195
+**Summary:** 
 
 ---
 
 ## green glow
 
+### Visual Properties
+
 **Name:** Green Glow
 
 **Image Files:**
-
 ![Green Glow](../images/glasses__z140/chicagodetroit_Green Glow.webp)
 
-**Brief Visual Description:** Glow glasses mainly in neon green, with yellow on the center and
+**Accessory Type:**
 
-sides.
+**Visual Description:** Glow glasses mainly in neon green, with yellow on the center and sides.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**Date created / uploaded:** June 18, 2024
+**Material Impression:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Who Introduced the Trait:** Tez
+**Source Type:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 18, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.vice.com/en/article/the-ten-weirdest-90s-rave-customs-according-to-slipmatt/
+
+**Summary:** 
 
 ---
 
 ## d2 edamame
 
+### Visual Properties
+
 **Name:** d2 edamame
 
 **Image Files:**
-
 ![D2 Edamame](../images/glasses__z140/d2 edamame.webp)
 
-**Brief Visual Description:** aviator style glasses with light green framing and black lenses.
+**Accessory Type:**
 
-**Reasoning for Inclusion within Mibera:**
+**Visual Description:** aviator style glasses with light green framing and black lenses.
 
-**Date created / uploaded:** February 28, 2024
+**Dominant Colors:** 
 
-**General Real World Trait History:**
-
-**Team Anecdotes:**
-
-**Who Introduced the Trait:**
-
-**Archetype (if applicable):**
-
-**Trait Conflicts:**
+**Material Impression:**
 
 ---
 
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** February 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
