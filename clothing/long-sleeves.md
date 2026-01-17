@@ -6,2211 +6,4199 @@
 
 ## Blue Velvet Suit
 
+### Visual Properties
+
 **Name:** Blue Velvet Suit
 
 **Image Files:**
-
 ![Blue Velvet Suit](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Blue%20Velvet%20Suit.webp)
 
-SS3_chicagodetroit_Blue Velvet Suit__z85.png
+**Garment Type:**
 
-**Brief Visual Description:** Vibrant blue suit with velvet-y texture. Tie with the same colour as the
+**Fit:**
 
-suit and white shirt underneath.
+**Visual Description:** Vibrant blue suit with velvet-y texture. Tie with the same colour as the suit and white shirt underneath.
 
 **Dominant Colors:** Vibrant blue, white.
 
-**Reasoning for Inclusion within Mibera:** In relation to the Chicago Detroit scene and culture;
+**Material Impression:**
 
-Chicago Detroit is one of the four Mibera’s archetypes.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** The reference was taken directly from an article by
+---
 
-#312Soul about House Music History in Chicago between 1984 - 1990. The era cemented
+### Cultural Context
 
-Chicago as house music’s birthplace, transforming it from a local underground phenomenon into
+**Source Type:**
 
-a cornerstone of electronic dance music.
+**Cultural Origin:** The reference was taken directly from an article by #312Soul about House Music History in Chicago between 1984 - 1990. The era cemented Chicago as house music’s birthplace, transforming it from a local underground phenomenon into a cornerstone of electronic dance music.
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created/Uploaded:** June 26, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:** None.
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Chicago Detroit
+---
 
-**Swag Score ( if applicable):** 3
+### Mibera Integration
 
-**Resources:**
+**Archetype:** Chicago Detroit
 
+**Archetype Alignment:** In relation to the Chicago Detroit scene and culture; Chicago Detroit is one of the four Mibera’s archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 26, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049
-
-85178
-
 - https://www.312soul.com/1984-1990
+
+**Summary:** 
 
 ---
 
 ## Keith Haring Shirt
 
+### Visual Properties
+
 **Name:** Keith Haring Shirt
 
 **Image Files:**
-
 ![Keith Harding Shirt](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Keith%20Harding%20Shirt.webp)
 
-SS3_chicagodetroit_Keith Harding Shirt__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Loose fit clothing in black with orange tribal graphic / patterns.
+**Fit:**
+
+**Visual Description:** Loose fit clothing in black with orange tribal graphic / patterns.
 
 **Dominant Colors:** Black, orange
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Cultural Context
 
-**Who Introduced the Trait:** Jani
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Chicago Detroit
+**Scene Association:**
 
-**Swag Score ( if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152388368865431582/11558232270257
-
-52114
-
 - https://en.wikipedia.org/wiki/Keith_Haring
 
-**Summary:**
-
-Keith Haring was an American artist and social activist who rose to fame in the 1980s New York
-
-art scene. He gained recognition for his bold, colorful subway chalk drawings featuring iconic
-
-motifs, simple yet energetic line-based symbols addressing themes of love, sex, birth, death,
-
-and social issues.
-
-He was also a vocal AIDS activist, creating works raising awareness about the epidemic, safe
-
-sex, and anti-discrimination.
+**Summary:** Keith Haring was an American artist and social activist who rose to fame in the 1980s New York art scene. He gained recognition for his bold, colorful subway chalk drawings featuring iconic motifs, simple yet energetic line-based symbols addressing themes of love, sex, birth, death, and social issues. He was also a vocal AIDS activist, creating works raising awareness about the epidemic, safe sex, and anti-discrimination.
 
 ---
 
 ## Green Baggy Jacket
 
+### Visual Properties
+
 **Name:** Green Baggy Jacket
 
 **Image Files:**
-
 ![Green Baggy Jacket](../images/shirts__z50%20(LONG)/SS3_milady_Green%20Baggy%20Jacket.webp)
 
-SS3_milady_Green Baggy Jacket__z85.png
+**Garment Type:**
 
-**Brief Visual Description:** Loose-fit green checkered shirt with a pocket, and many buttons.
+**Fit:**
+
+**Visual Description:** Loose-fit green checkered shirt with a pocket, and many buttons.
 
 **Dominant Colors:** Green
 
-**Reasoning for Inclusion within Mibera:** In relation to secret rave culture, scene, and fashion.
+**Material Impression:**
 
-**General Real World Trait History:** The piece is a direct reference from a photo in an article by
+**Blacklight Behavior:**
 
-Homegrown about the secret daytime raves that provides space for diasporic South Asians.
+---
 
-Many youths are seen wearing loose / baggy outfits.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** June 29, 2024
+**Cultural Origin:** The piece is a direct reference from a photo in an article by Homegrown about the secret daytime raves that provides space for diasporic South Asians. Many youths are seen wearing loose / baggy outfits.
 
-**Who Introduced the Trait:** Jani
+**Era:** 
 
-**Trait Conflicts:** None.
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Milady
+**Why This Matters:**
 
-**Swag Score ( if applicable):** 3
+**Notable Figures:**
 
-**Resources:**
+---
 
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** In relation to secret rave culture, scene, and fashion.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 29, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1160911774086873089/11609258723715
-
-52316
-
 - https://homegrown.co.in/homegrown-creators/inside-the-secret-daytime-raves-that-provided-spa
 
-ce-for-diasporic-south-asians
+**Summary:** 
 
 ---
 
 ## Heavens Gate
 
+### Visual Properties
+
 **Name:** Heavens Gate
 
 **Image Files:**
-
 ![Heavens Gate](../images/shirts__z50%20(LONG)/SS3_Heavens%20Gate.webp)
 
-**Brief Visual Description:** Plain pink long-sleeves with a button by the neck..
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Plain pink long-sleeves with a button by the neck..
 
 **Dominant Colors:** Brown, light brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** June 28, 2024
+### Cultural Context
 
-**Who Introduced the Trait:** Fedor
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score ( if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 28, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114
 
-563/
-
-**Summary:**
-
-This 2017 Rolling Stone article marks the 20th anniversary of the Heaven's Gate cult's 1997
-
-mass suicide, where 39 members died believing a UFO trailing the Hale-Bopp comet would
-
-take their souls to a higher level.
-
-**It highlights 10 lesser-known facts:**
-
-1. Borrowed sci-fi imagery from Star Trek, Star Wars, and Close Encounters.
-
-2. First gained attention with a 1975 UFO lecture in Oregon.
-
-3. Members endured the Master Cleanse diet for extended periods.
-
-4. Initially taught ascension to heaven without needing to die.
-
-5. The suicides happened in staged waves over three days.
-
-6. Strict uniformity rules applied to everything, including identical meals.
-
-7. Believed the "Next Level" was genderless; several men (including leader) voluntarily
-
-castrated.
-
-8. Final meal was a group dinner at Marie Callender’s restaurant.
-
-9. Surviving ex-members still maintain the cult's original website.
-
-10. Identical Nike Decade sneakers worn by victims were discontinued and became rare
-
-collectibles.
+**Summary:** This 2017 Rolling Stone article marks the 20th anniversary of the Heaven's Gate cult's 1997 mass suicide, where 39 members died believing a UFO trailing the Hale-Bopp comet would take their souls to a higher level. **It highlights 10 lesser-known facts:** 1. Borrowed sci-fi imagery from Star Trek, Star Wars, and Close Encounters. 2. First gained attention with a 1975 UFO lecture in Oregon. 3. Members endured the Master Cleanse diet for extended periods. 4. Initially taught ascension to heaven without needing to die. 5. The suicides happened in staged waves over three days. 6. Strict uniformity rules applied to everything, including identical meals. 7. Believed the "Next Level" was genderless; several men (including leader) voluntarily castrated. 8. Final meal was a group dinner at Marie Callender’s restaurant. 9. Surviving ex-members still maintain the cult's original website. 10. Identical Nike Decade sneakers worn by victims were discontinued and became rare collectibles.
 
 ---
 
 ## Magenta Suit
 
+### Visual Properties
+
 **Name:** Magenta Suit
 
 **Image Files:**
-
 ![Magenta Suit](../images/shirts__z50%20(LONG)/SS3_milady_Magenta%20Suit.webp)
 
-**Brief Visual Description:** Deep magenta suit with a tie with the same colour as the suit and
+**Garment Type:**
 
-white shirt underneath.
+**Fit:**
+
+**Visual Description:** Deep magenta suit with a tie with the same colour as the suit and white shirt underneath.
 
 **Dominant Colors:** Deep magenta, white.
 
-**Reasoning for Inclusion within Mibera:** Suit and tie reflect Milady’s ‘corporation’ vibe
+**Material Impression:**
 
-satirically. Milady being one of our archetypes.
+**Blacklight Behavior:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** June 29, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** None.
+**Era:** 
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score ( if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** Suit and tie reflect Milady’s ‘corporation’ vibe satirically. Milady being one of our archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 29, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Seoul Olympics
 
+### Visual Properties
+
 **Name:** Seoul Olympics
 
 **Image Files:**
-
 ![Seoul Olympics](../images/shirts__z50%20(LONG)/SS3_acidhouse_Seoul%20Olympics.webp)
 
-SS3_acidhouse_Seoul Olympics__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Black cropped long-sleeves with “SEO- OLYMPICS” and the
+**Fit:**
 
-olympics symbol on it (5 conjoined rings in black, yellow, white, green, and red in order from left
-
-to right); as well as the number 19 on the left side and 8 on the right side. Underneath it is a
-
-bright yellow long sleeve.
+**Visual Description:** Black cropped long-sleeves with “SEO- OLYMPICS” and the olympics symbol on it (5 conjoined rings in black, yellow, white, green, and red in order from left to right); as well as the number 19 on the left side and 8 on the right side. Underneath it is a bright yellow long sleeve.
 
 **Dominant Colors:** Black, bright yellow.
 
-**Reasoning for Inclusion within Mibera:** The 1988 Seoul Olympics opened South Korea to
+**Material Impression:**
 
-global influences, sparking its underground rave scene. The rave scene is heavily tied to
+**Blacklight Behavior:**
 
-Mibera’s culture.
+---
 
-**General Real World Trait History:** The most direct link between the Olympics and rave culture
+### Cultural Context
 
-was the KunstDisco Seoul, a temporary “art disco” venue organized by West Germany as a
+**Source Type:**
 
-cultural pavilion during the Games. Running for the full 16 days in a custom-built space near the
+**Cultural Origin:** The most direct link between the Olympics and rave culture was the KunstDisco Seoul, a temporary “art disco” venue organized by West Germany as a cultural pavilion during the Games. Running for the full 16 days in a custom-built space near the Olympic Village, it was a hybrid of gallery, concert hall, and nightclub and essentially became an early prototype for the rave format.
 
-Olympic Village, it was a hybrid of gallery, concert hall, and nightclub and essentially became an
+**Era:** 
 
-early prototype for the rave format.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Trait Conflicts:** None.
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):** Acidhouse
+**Archetype:** Acidhouse
 
-**Swag Score ( if applicable):** 3
+**Archetype Alignment:** The 1988 Seoul Olympics opened South Korea to global influences, sparking its underground rave scene. The rave scene is heavily tied to Mibera’s culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.history.com/news/south-korea-olympics-1988-seoul
-
 - https://daily.redbullmusicacademy.com/2018/08/korea-first-olympics-kunstdisco/
+
+**Summary:** 
 
 ---
 
 ## Aphexkitty
 
+### Visual Properties
+
 **Name:** Aphexkitty
 
 **Image Files:**
-
 ![aphexkitty](../images/shirts__z50%20(LONG)/SS3_aphexkitty.webp)
 
-**Brief Visual Description:** Long sleeves in bone-white with a big hello-kitty graphic wearing pink
+**Garment Type:**
 
-clothing in the middle and red text on one of the sleeves that reads “APHEX TWIN”.
+**Fit:**
+
+**Visual Description:** Long sleeves in bone-white with a big hello-kitty graphic wearing pink clothing in the middle and red text on one of the sleeves that reads “APHEX TWIN”.
 
 **Dominant Colors:** White, pink
 
-**Reasoning for Inclusion within Mibera:** Bootleg that Babybera bought in real life.
+**Material Impression:**
 
-**General Real World Trait History:** Aphex Twin, born Richard David James in 1971 in Limerick,
+**Blacklight Behavior:**
 
-Ireland, is a pioneering electronic musician known for his innovative and genre-defying work in
+---
 
-IDM, techno, ambient, and experimental music. Hello Kitty is a Japanese cartoon character.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** Aphex Twin, born Richard David James in 1971 in Limerick, Ireland, is a pioneering electronic musician known for his innovative and genre-defying work in IDM, techno, ambient, and experimental music. Hello Kitty is a Japanese cartoon character.
 
-**Who Introduced the Trait:**
+**Era:** 
 
-**Trait Conflicts:** None.
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score ( if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Bootleg that Babybera bought in real life.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Aphex_Twin
+
+**Summary:** 
 
 ---
 
 ## Tracksuit 1
 
+### Visual Properties
+
 **Name:** Tracksuit 1
 
 **Image Files:**
-
 ![Tracksuit 1](../images/shirts__z50%20(LONG)/SS3_acidhouse_Tracksuit%201.webp)
 
-**Brief Visual Description:** Purple tracksuit in dark purple with old-school graphic in bright neon
+**Garment Type:**
 
-purple across the middle and soft light purple on each sleeve.
+**Fit:**
+
+**Visual Description:** Purple tracksuit in dark purple with old-school graphic in bright neon purple across the middle and soft light purple on each sleeve.
 
 **Dominant Colors:** Purple, vibrant purple with hue of pink, pale purple.
 
-**Reasoning for Inclusion within Mibera:** In relation to Chicago Detroit scene and culture,
+**Material Impression:**
 
-directly tied to one of Mibera’s archetypes.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** The tracksuit was directly referenced from an article by
+---
 
-Redbull Music Academy about the origins and evolutions of Chicago house and Detroit techno,
+### Cultural Context
 
-two pivotal electronic music genres. The genres spread globally, influencing modern electronic
+**Source Type:**
 
-music, despite initial resistance from mainstream media.
+**Cultural Origin:** The tracksuit was directly referenced from an article by Redbull Music Academy about the origins and evolutions of Chicago house and Detroit techno, two pivotal electronic music genres. The genres spread globally, influencing modern electronic music, despite initial resistance from mainstream media.
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Trait Conflicts:** None.
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score ( if applicable):** 3
+### Mibera Integration
 
-**Resources:**
+**Archetype:** Acidhouse
 
+**Archetype Alignment:** In relation to Chicago Detroit scene and culture, directly tied to one of Mibera’s archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608814206512
-
-12840
-
 - https://daily.redbullmusicacademy.com/2017/08/chicago-house-detroit-techno-feature
+
+**Summary:** 
 
 ---
 
 ## Aum Cult
 
+### Visual Properties
+
 **Name:** Aum Cult
 
 **Image Files:**
-
 ![Aum Cult](../images/shirts__z50%20(LONG)/SS3_Aum%20Cult.webp)
 
-**Brief Visual Description:** Plain white long sleeves with silky complexion.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Plain white long sleeves with silky complexion.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:** Aside from being a literal cult, the Aum cult is heavily
+**Material Impression:**
 
-tied to usage of drugs, especially LSD, which is very Mibera.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** Aum Shinrikyo (now Aleph) is a Japanese doomsday cult
+---
 
-founded in 1987 by Shoko Asahara, blending Buddhism, mysticism, and apocalyptic
+### Cultural Context
 
-prophecies. It orchestrated the 1995 Tokyo subway sarin gas attack, killing 13 and injuring over
+**Source Type:**
 
-5,000, plus earlier incidents like the 1994 Matsumoto sarin attack (8 dead). Asahara and key
+**Cultural Origin:** Aum Shinrikyo (now Aleph) is a Japanese doomsday cult founded in 1987 by Shoko Asahara, blending Buddhism, mysticism, and apocalyptic prophecies. It orchestrated the 1995 Tokyo subway sarin gas attack, killing 13 and injuring over 5,000, plus earlier incidents like the 1994 Matsumoto sarin attack (8 dead). Asahara and key members were executed in 2018; remnants persist under surveillance as a terrorist group.
 
-members were executed in 2018; remnants persist under surveillance as a terrorist group.
+**Era:** 
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** June 25, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:**
+**Why This Matters:**
 
-**Trait Conflicts:** None.
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):**
+### Mibera Integration
 
-**Swag Score ( if applicable):** 3
+**Archetype:** 
+
+**Archetype Alignment:** Aside from being a literal cult, the Aum cult is heavily tied to usage of drugs, especially LSD, which is very Mibera.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.vice.com/en/article/what-is-aum-shinrikyo-sarin-attack/
-
 - https://en.wikipedia.org/wiki/Aum_Shinrikyo
+
+**Summary:** 
 
 ---
 
 ## Cool
 
+### Visual Properties
+
 **Name:** Cool
 
 **Image Files:**
-
 ![Cool](../images/shirts__z50%20(LONG)/SS3_milady_Cool.webp)
 
-**Brief Visual Description:** Yellow shirt with black patch on one side at the top and black triangle
+**Garment Type:**
 
-lines scattered around it as patterns, under it are small white smudges. On top of the black
+**Fit:**
 
-patch are some white doodles / art.
+**Visual Description:** Yellow shirt with black patch on one side at the top and black triangle lines scattered around it as patterns, under it are small white smudges. On top of the black patch are some white doodles / art.
 
 **Dominant Colors:** Yellow, black, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** June 29, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score ( if applicable):** 3
+**Geographic Roots:**
 
-**NOTE:** I SWEAR I SAW THIS SOMEWHERE ON DISCORD BUT LOST IT WILL TAP BACK
+**Why This Matters:**
 
-INTO THIS <3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 29, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Headstrong
 
+### Visual Properties
+
 **Name:** Headstrong
 
 **Image Files:**
-
 ![Headstrong](../images/shirts__z50%20(LONG)/SS3_acidhouse_Headstrong.webp)
 
-**Brief Visual Description:** Red and white long-sleeves with circular graphic in the middle and
+**Garment Type:**
 
-words in between them that reads “-FOR THE -EADSTRONG”.
+**Fit:**
+
+**Visual Description:** Red and white long-sleeves with circular graphic in the middle and words in between them that reads “-FOR THE -EADSTRONG”.
 
 **Dominant Colors:** Red, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Cultural Context
 
-**Who Introduced the Trait:** Tez
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Acidhouse
+**Scene Association:**
 
-**Swag Score ( if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1143684645393797200/11572435689398
 
-68160
+**Summary:** 
 
 ---
 
 ## Shiny Cult
 
+### Visual Properties
+
 **Name:** Shiny Cult
 
 **Image Files:**
-
 ![Shiny cult](../images/shirts__z50%20(LONG)/SS3_freetekno_Shiny%20cult.webp)
 
-**Brief Visual Description:** Plain white long sleeves with shiny complexion.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Plain white long sleeves with shiny complexion.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** June 25, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Freetekno
+**Scene Association:**
 
-**Swag Score ( if applicable):** 3
+**Geographic Roots:**
 
-**NOTE:** Assuming related to Aum but awaiting Gumi’s follow-up for now.
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 25, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Fruits Remilia Hoodie
 
+### Visual Properties
+
 **Name:** Fruits Remilia Hoodie
 
 **Image Files:**
-
 ![Fruits Remilia Hoodie](../images/shirts__z50%20(LONG)/SS3_milady_Fruits%20Remilia%20Hoodie.webp)
 
-SS3_milady_Fruits Remilia Hoodie__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Pale purple hoodie with red graphic of a heart and the text “FRUITS
+**Fit:**
 
-REMILIA” in the middle.
+**Visual Description:** Pale purple hoodie with red graphic of a heart and the text “FRUITS REMILIA” in the middle.
 
 **Dominant Colors:** Pale purple, red
 
-**Reasoning for Inclusion within Mibera:** In relation to Milady, being one of Mibera’s
+**Material Impression:**
 
-archetypes.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** FRUiTS x REMiLiA is a 2024 collaboration between FRUiTS
+---
 
-Magazine, a legendary Japanese street fashion publication founded in 1997 by photographer
+### Cultural Context
 
-Shoichi Aoki, known for documenting Harajuku's avant-garde styles; and Remilia Corporation, a
+**Source Type:**
 
-net art collective behind the Milady Maker NFT project. This project blends physical
+**Cultural Origin:** FRUiTS x REMiLiA is a 2024 collaboration between FRUiTS Magazine, a legendary Japanese street fashion publication founded in 1997 by photographer Shoichi Aoki, known for documenting Harajuku's avant-garde styles; and Remilia Corporation, a net art collective behind the Milady Maker NFT project. This project blends physical merchandise, digital art, and NFTs, celebrating Tokyo's early-2000s street fashion through Remilia's digital characters.
 
-merchandise, digital art, and NFTs, celebrating Tokyo's early-2000s street fashion through
+**Era:** 
 
-Remilia's digital characters.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:** Fedor
+**Notable Figures:**
 
-**Trait Conflicts:** None.
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):** Milady
+**Archetype:** Milady
 
-**Swag Score ( if applicable):** 3
+**Archetype Alignment:** In relation to Milady, being one of Mibera’s archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## William Gibson Jacket
 
+### Visual Properties
+
 **Name:** William Gibson Jacket
 
 **Image Files:**
-
 ![William Gibson Jacket](../images/shirts__z50%20(LONG)/SS4_freetekno_William%20Gibson%20Jacket.webp)
 
-SS4_freetekno_William Gibson Jacket_z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Plain bomber jacket in black, zipper in the middle and a small
+**Fit:**
 
-leather-brown patch.
+**Visual Description:** Plain bomber jacket in black, zipper in the middle and a small leather-brown patch.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** William Gibson is often seen wearing the portrayed
+**Material Impression:**
 
-clothing piece. Willam Gibson is hugely impactful to the roots of the cyberspace / cyberpunk
+**Blacklight Behavior:**
 
-subgenre.
+---
 
-**General Real World Trait History:** Willion Gibson is a speculative fiction writer and essayist
+### Cultural Context
 
-widely credited with pioneering the science fiction subgenre known as cyberpunk.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Willion Gibson is a speculative fiction writer and essayist widely credited with pioneering the science fiction subgenre known as cyberpunk.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:** 
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:** None.
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Freetekno
+**Notable Figures:**
 
-**Swag Score ( if applicable):** 4
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** William Gibson is often seen wearing the portrayed clothing piece. Willam Gibson is hugely impactful to the roots of the cyberspace / cyberpunk subgenre.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/William_Gibson
+
+**Summary:** 
 
 ---
 
 ## Tight Leather Jacket
 
+### Visual Properties
+
 **Name:** Tight Leather Jacket
 
 **Image Files:**
-
 ![Tight Leather Jacket](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Tight%20Leather%20Jacket.webp)
 
-SS3_chicagodetroit_Tight Leather Jacket__z85.png
+**Garment Type:**
 
-**Brief Visual Description:** Plain tight-fitting black jacket with leathery texture and white v-neck
+**Fit:**
 
-underneath.
+**Visual Description:** Plain tight-fitting black jacket with leathery texture and white v-neck underneath.
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:** In relation with Chicago Detroit fashion and scene,
+**Material Impression:**
 
-which is directly related to one of Mibera’s archetypes.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** In Chicago, where house music emerged from Black, urban
+---
 
-communities at venues like the Warehouse, leather jackets were a staple for club-goers,
+### Cultural Context
 
-blending punk’s edge with the city’s harsh winters.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** In Chicago, where house music emerged from Black, urban communities at venues like the Warehouse, leather jackets were a staple for club-goers, blending punk’s edge with the city’s harsh winters.
 
-**Date Created/Uploaded:** June 28, 2024
+**Era:** 
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:** None.
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Notable Figures:**
 
-**Swag Score ( if applicable):** 3
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** In relation with Chicago Detroit fashion and scene, which is directly related to one of Mibera’s archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 28, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Dark Green Suit
 
+### Visual Properties
+
 **Name:** Dark Green Suit
 
 **Image Files:**
-
 ![Dark Green Suit](../images/shirts__z50%20(LONG)/SS2_milady_Dark%20Green%20Suit.webp)
 
-SS2_milady_Dark Green Suit__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Suit in forest green with a tie with the same colour, over a white shirt
+**Fit:**
 
-with a hue of green.
+**Visual Description:** Suit in forest green with a tie with the same colour, over a white shirt with a hue of green.
 
 **Dominant Colors:** Forest green.
 
-**Reasoning for Inclusion within Mibera:** Suit and tie reflect Milady’s ‘corporation’ vibe
+**Material Impression:**
 
-satirically. Milady being one of our archetypes.
+**Blacklight Behavior:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** None.
+**Era:** 
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Milady
+**Geographic Roots:**
 
-**Swag Score ( if applicable):** 2
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** Suit and tie reflect Milady’s ‘corporation’ vibe satirically. Milady being one of our archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Gola
 
+### Visual Properties
+
 **Name:** Gola
 
 **Image Files:**
-
 ![Gola](../images/shirts__z50%20(LONG)/SS3_acidhouse_Gola.webp)
 
-**Brief Visual Description:** Indigo tracksuit with zipper in the middle; teal and red accents going
+**Garment Type:**
 
-pass the shoulders and a small ‘GOLA’ brand graphic.
+**Fit:**
+
+**Visual Description:** Indigo tracksuit with zipper in the middle; teal and red accents going pass the shoulders and a small ‘GOLA’ brand graphic.
 
 **Dominant Colors:** Indigo, teal, red.
 
-**Reasoning for Inclusion within Mibera:** In relation to Irish underground rave / music culture.
+**Material Impression:**
 
-Music and the underground scene are big parts of Mibera culture.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** The GOLA jacket is directly referenced from a header photo
+---
 
-in an article by DJ Mag about Irish acts and underground talents.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** The GOLA jacket is directly referenced from a header photo in an article by DJ Mag about Irish acts and underground talents.
 
-**Who Introduced the Trait:**
+**Era:** 
 
-**Trait Conflicts:** None.
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Acidhouse
+**Why This Matters:**
 
-**Swag Score ( if applicable):** 3
+**Notable Figures:**
 
-**Resources:**
+---
 
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** In relation to Irish underground rave / music culture. Music and the underground scene are big parts of Mibera culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1159213115649560720/115992985891112
-
-1569
-
 - https://djmag.com/content/12-irish-acts-you-need-know-about
+
+**Summary:** 
 
 ---
 
 ## Jani Jacket
 
+### Visual Properties
+
 **Name:** Jani Jacket
 
 **Image Files:**
-
 ![Jani Jacket](../images/shirts__z50%20(LONG)/SS4_chicagodetroit_Jani%20Jacket.webp)
 
-SS4_chicagodetroit_Jani Jacket__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Red tracksuit with white stripes on the sleeves. Underneath it is white
+**Fit:**
 
-t-shirt with a golden chain with a big ‘peace’ symbol as its charm.
+**Visual Description:** Red tracksuit with white stripes on the sleeves. Underneath it is white t-shirt with a golden chain with a big ‘peace’ symbol as its charm.
 
 **Dominant Colors:** Red, white, golden.
 
-**Reasoning for Inclusion within Mibera:** Jani is The Honey Jar founder and one of the big
+**Material Impression:**
 
-brains behind Mibera lore and creation.
+**Blacklight Behavior:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** None.
+**Era:** 
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score ( if applicable):** 4
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** Jani is The Honey Jar founder and one of the big brains behind Mibera lore and creation.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Kraftwerk
 
+### Visual Properties
+
 **Name:** Kraftwerk
 
 **Image Files:**
-
 ![Kraftwerk](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Kraftwerk.webp)
 
-SS3_chicagodetroit_Kraftwerk__z85.png
+**Garment Type:**
 
-**Brief Visual Description:** Blood red shirt with long sleeves and a black tie.
+**Fit:**
+
+**Visual Description:** Blood red shirt with long sleeves and a black tie.
 
 **Dominant Colors:** Red, black.
 
-**Reasoning for Inclusion within Mibera:** Its relation to the Chicago Detroit music scene, which
+**Material Impression:**
 
-is heavily tied to Mibera’s culture.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** Kraftwerk is a German electronic music pioneers,
+---
 
-profoundly influenced the development of house music in Chicago and techno in Detroit during
+### Cultural Context
 
-the 1980s. In Chicago, Kraftwerk’s albums like Trans-Europe Express (1977) and Computer
+**Source Type:**
 
-World (1981) were staples in the DJ sets of early house music innovators like Frankie Knuckles
+**Cultural Origin:** Kraftwerk is a German electronic music pioneers, profoundly influenced the development of house music in Chicago and techno in Detroit during the 1980s. In Chicago, Kraftwerk’s albums like Trans-Europe Express (1977) and Computer World (1981) were staples in the DJ sets of early house music innovators like Frankie Knuckles at the Warehouse. In Detroit, Kraftwerk’s impact was even more direct, shaping the “Detroit techno” sound pioneered by Juan Atkins, Derrick May, and Kevin Saunderson (the Belleville Three). Atkins, inspired by * Autobahn* and Man-Machine, coined the term “techno” after hearing Kraftwerk’s blend of mechanical rhythms and futuristic themes, which mirrored Detroit’s auto industry and post-industrial decay.
 
-at the Warehouse. In Detroit, Kraftwerk’s impact was even more direct, shaping the “Detroit
+**Era:** 
 
-techno” sound pioneered by Juan Atkins, Derrick May, and Kevin Saunderson (the Belleville
+**Scene Association:**
 
-Three). Atkins, inspired by * Autobahn* and Man-Machine, coined the term “techno” after
+**Geographic Roots:**
 
-hearing Kraftwerk’s blend of mechanical rhythms and futuristic themes, which mirrored Detroit’s
+**Why This Matters:**
 
-auto industry and post-industrial decay.
+**Notable Figures:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Mibera Integration
 
-**Who Introduced the Trait:** Jani / Tez
+**Archetype:** Chicago Detroit
 
-**Trait Conflicts:** None.
+**Archetype Alignment:** Its relation to the Chicago Detroit music scene, which is heavily tied to Mibera’s culture.
 
-**Ancestor (if applicable):**
+**Vibe Tags:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Setting:**
 
-**Swag Score ( if applicable):** 3
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani / Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1144445912173789255/11577728062060
-
-17536
-
 - https://discord.com/channels/1133935527855399053/1143684645393797200/11583725715705
 
-16019
+**Summary:** 
 
 ---
 
 ## Black Turtleneck
 
+### Visual Properties
+
 **Name:** Black Turtleneck
 
 **Image Files:**
-
 ![Black Turtleneck](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_Black%20Turtleneck.webp)
 
-SS2_chicagodetroit_Black Turtleneck__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Plain black turtleneck with long sleeves.
+**Fit:**
+
+**Visual Description:** Plain black turtleneck with long sleeves.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** Derrick May is a figure deeply influential in the Detroit
+**Material Impression:**
 
-techno scene, which is tied to Mibera’s culture.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** The clothing piece is directly referenced from a header
+---
 
-photo in an article by CDM about the emergence of Detroit Techno, told by Wax Poetics. The
+### Cultural Context
 
-image used is of Derrick May in the Michigan Theatre parking garage, 1988, taken by Bart
+**Source Type:**
 
-Everly.
+**Cultural Origin:** The clothing piece is directly referenced from a header photo in an article by CDM about the emergence of Detroit Techno, told by Wax Poetics. The image used is of Derrick May in the Michigan Theatre parking garage, 1988, taken by Bart Everly.
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created/Uploaded:** June 25, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:** None.
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Chicago Detroit
+---
 
-**Swag Score ( if applicable):** 2
+### Mibera Integration
 
-**Resources:**
+**Archetype:** Chicago Detroit
 
+**Archetype Alignment:** Derrick May is a figure deeply influential in the Detroit techno scene, which is tied to Mibera’s culture.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 25, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608889862570
-
-68114
-
 - https://cdm.link/2011/06/future-shock-the-emergence-of-detroit-techno-told-by-wax-poetics/
+
+**Summary:** 
 
 ---
 
 ## Dark Suit
 
+### Visual Properties
+
 **Name:** Dark Suit
 
 **Image Files:**
-
 ![Dark Suit](../images/shirts__z50%20(LONG)/SS5_Dark%20Suit.webp)
 
-**Brief Visual Description:** Sleek almost-black suit with a hint of blue. Underneath is a dark navy
+**Garment Type:**
 
-tie and a white shirt.
+**Fit:**
+
+**Visual Description:** Sleek almost-black suit with a hint of blue. Underneath is a dark navy tie and a white shirt.
 
 **Dominant Colors:** Forest green.
 
-**Reasoning for Inclusion within Mibera:** Suit and tie reflect Milady’s ‘corporation’ vibe
+**Material Impression:**
 
-satirically. Milady being one of our archetypes.
+**Blacklight Behavior:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:**
+**Cultural Origin:** 
 
-**Trait Conflicts:** None.
+**Era:** 
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):**
+**Geographic Roots:**
 
-**Swag Score ( if applicable):** 5
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Suit and tie reflect Milady’s ‘corporation’ vibe satirically. Milady being one of our archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Chicago Bears Long
 
+### Visual Properties
+
 **Name:** Chicago Bears Long
 
 **Image Files:**
-
 ![Chicago Bears Long](../images/shirts__z50%20(LONG)/SS4_chicagodetroit_Chicago%20Bears%20Long.webp)
 
-SS4_chicagodetroit_Chicago Bears Long__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Long sleeves in bright orange at the top part and white for the rest of
+**Fit:**
 
-it, with a bear graphic just below the text “CHICAGO BEARS”. White and blue stripes down the
-
-inner part and end of the sleeves.
+**Visual Description:** Long sleeves in bright orange at the top part and white for the rest of it, with a bear graphic just below the text “CHICAGO BEARS”. White and blue stripes down the inner part and end of the sleeves.
 
 **Dominant Colors:** Orange, white, navy blue.
 
-**Reasoning for Inclusion within Mibera:** Purely to acknowledge the club’s existence, as it is
+**Material Impression:**
 
-quite literally named “Chicago Bears”. Literal word-play relates to Chicago Detroit, as one of our
+**Blacklight Behavior:**
 
-archetypes, and Berachain, the ecosystem Mibera was built on.
+---
 
-**General Real World Trait History:** The Chicago Bears are a professional American football
+### Cultural Context
 
-team in the NFL's NFC North, founded in 1920 as the Decatur Staleys in Illinois.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** The Chicago Bears are a professional American football team in the NFL's NFC North, founded in 1920 as the Decatur Staleys in Illinois.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:** 
 
-**Who Introduced the Trait:** Fedor / Tez
+**Scene Association:**
 
-**Trait Conflicts:** None.
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Notable Figures:**
 
-**Swag Score ( if applicable):** 4
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** Purely to acknowledge the club’s existence, as it is quite literally named “Chicago Bears”. Literal word-play relates to Chicago Detroit, as one of our archetypes, and Berachain, the ecosystem Mibera was built on.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Fedor / Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Chicago_Bears
+
+**Summary:** 
 
 ---
 
 ## Bitcoin Jacket
 
+### Visual Properties
+
 **Name:** Bitcoin Jacket
 
 **Image Files:**
-
 ![Bitcoin Jacket](../images/shirts__z50%20(LONG)/SS5_acidhouse_Bitcoin%20Jacket.webp)
 
-SS5_acidhouse_Bitcoin Jacket__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Bomber jacket in black and yellow with multiple words scattered
+**Fit:**
 
-around it. In the center is the number ‘10’ in black inside of a yellow circle. On the sleeves are
-
-bold letters in colorful font.
+**Visual Description:** Bomber jacket in black and yellow with multiple words scattered around it. In the center is the number ‘10’ in black inside of a yellow circle. On the sleeves are bold letters in colorful font.
 
 **Dominant Colors:** Black, yellow
 
-**Reasoning for Inclusion within Mibera:** Ticker $Bitcoin (HarryPotterObamaSonic10Inu) is a
+**Material Impression:**
 
-memecoin project that memes $BTC as the leading token in the web3 space. Their community
+**Blacklight Behavior:**
 
-is very culty which can relate to how Miberas aspired to be, and they are also close to the
+---
 
-Berachain community in general.
+### Cultural Context
 
-**General Real World Trait History:** HarryPotterObamaSonic10Inu (ticker $Bitcoin) is a
+**Source Type:**
 
-community driven meme-coin on the Ethereum blockchain that was launched in late 2023.
+**Cultural Origin:** HarryPotterObamaSonic10Inu (ticker $Bitcoin) is a community driven meme-coin on the Ethereum blockchain that was launched in late 2023.
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Trait Conflicts:** None.
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score ( if applicable):** 5
+### Mibera Integration
 
-**Source:**
+**Archetype:** Acidhouse
 
+**Archetype Alignment:** Ticker $Bitcoin (HarryPotterObamaSonic10Inu) is a memecoin project that memes $BTC as the leading token in the web3 space. Their community is very culty which can relate to how Miberas aspired to be, and they are also close to the Berachain community in general.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
 - https://hpos10i.com/
+
+**Summary:** 
 
 ---
 
 ## Trippy
 
+### Visual Properties
+
 **Name:** Trippy
 
 **Image Files:**
-
 ![Trippy](../images/shirts__z50%20(LONG)/SS5_acidhouse_Trippy.webp)
 
-**Brief Visual Description:** Long sleeves in dark grey / purple with trippy patterns; tiny red dots,
+**Garment Type:**
 
-blue lines and curves, and white almond shapes. All filling the shirt.
+**Fit:**
+
+**Visual Description:** Long sleeves in dark grey / purple with trippy patterns; tiny red dots, blue lines and curves, and white almond shapes. All filling the shirt.
 
 **Dominant Colors:** Dark grey / purple, red, blue, white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Acidhouse
+**Scene Association:**
 
-**Swag Score ( if applicable):** 5
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Henlo Jersey
 
+### Visual Properties
+
 **Name:** Henlo Jersey
 
 **Image Files:**
-
 ![Henlo](../images/shirts__z50%20(LONG)/SS3_Henlo.webp)
 
-**Brief Visual Description:** Muted purple jersey with ‘HENLO’ in gothic font, worn over a white
+**Garment Type:**
 
-t-shirt, topped with 2 thin gold chains.
+**Fit:**
+
+**Visual Description:** Muted purple jersey with ‘HENLO’ in gothic font, worn over a white t-shirt, topped with 2 thin gold chains.
 
 **Dominant Colors:** purple, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score ( if applicable):** 3
+**Geographic Roots:**
 
-**Link to main doc:** Shirt
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## 80s Detroit Jersey
 
+### Visual Properties
+
 **Name:** 80s Detroit Jersey
 
 **Image Files:**
-
 ![80s Detroit Jersey](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_80s%20Detroit%20Jersey.webp)
 
-**Brief Visual Description:** Blue basketball jersey with white lining around the neck and sleeves
+**Garment Type:**
 
-with the word “DETROIT” on it.
+**Fit:**
+
+**Visual Description:** Blue basketball jersey with white lining around the neck and sleeves with the word “DETROIT” on it.
 
 **Dominant Colors:** Blue, white, red.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** In relation with Chicago Detroit as one of Mibera’s
+**Blacklight Behavior:**
 
-archetypes.
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gods
+**Cultural Origin:** In relation with Chicago Detroit as one of Mibera’s archetypes.
 
-**Trait Conflicts:**
+**Era:** 
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Gods
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Chicago Jersey
 
+### Visual Properties
+
 **Name:** Chicago Jersey
 
 **Image Files:**
-
 ![80s Chicago Jersey](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_80s%20Chicago%20Jersey.webp)
 
-**Brief Visual Description:** Vibrant red basketball jersey that reads “Chicago” in cursive lettering
+**Garment Type:**
 
-and the number ‘00’
+**Fit:**
+
+**Visual Description:** Vibrant red basketball jersey that reads “Chicago” in cursive lettering and the number ‘00’
 
 **Dominant Colors:** Vibrant red, black, white
 
-**Reasoning for Inclusion within Mibera:** In relation with Chicago Detroit as one of Mibera’s
+**Material Impression:**
 
-archetypes.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** .
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** June 22, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gods
+**Cultural Origin:** 
 
-**Trait Conflicts:** .
+**Era:** 
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score (if applicable):** 3
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** In relation with Chicago Detroit as one of Mibera’s archetypes.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 22, 2024
+
+**Introduced By:** Gods
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Arc Jersey
 
+### Visual Properties
+
 **Name:** Arc Jersey
 
 **Image Files:**
-
 ![arc jersey](../images/shirts__z50%20(LONG)/SS3_arc%20jersey.webp)
 
-**Brief Visual Description:** Black jersey with short sleeves and the number 69 big in the middle
+**Garment Type:**
 
-under the text “ARC” in purple. On each sleeve are thick stripes in light grey and purple.
+**Fit:**
+
+**Visual Description:** Black jersey with short sleeves and the number 69 big in the middle under the text “ARC” in purple. On each sleeve are thick stripes in light grey and purple.
 
 **Dominant Colors:** Black, purple, lightgrey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** March 22, 2025
+### Cultural Context
 
-**Who Introduced the Trait:** Zergucci
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score ( if applicable):** 3
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 22, 2025
+
+**Introduced By:** Zergucci
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Mibera Spiral Hockey
 
+### Visual Properties
+
 **Name:** Mibera Spiral Hockey
 
 **Image Files:**
-
 ![Mibera Spiral Hockey](../images/shirts__z50%20(LONG)/SS2_Mibera%20Spiral%20Hockey.webp)
 
-**Brief Visual Description:** Hockey jersey in white with thick yellow, green, and blue stripes
+**Garment Type:**
 
-around the neck, end of sleeves, and at the bottom part of the jersey. Mibera logo is seen in the
+**Fit:**
 
-center.
+**Visual Description:** Hockey jersey in white with thick yellow, green, and blue stripes around the neck, end of sleeves, and at the bottom part of the jersey. Mibera logo is seen in the center.
 
 **Dominant Colors:** White, yellow, green, blue.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score ( if applicable):** 2
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Baby Bera Hockey
 
+### Visual Properties
+
 **Name:** Baby Bera Hockey
 
 **Image Files:**
-
 ![Baby Bera Hockey](../images/shirts__z50%20(LONG)/SS4_milady_Baby%20Bera%20Hockey.webp)
 
-SS4_milady_Baby Bera Hockey__z85.png
+**Garment Type:**
 
-**Brief Visual Description:** Hockey jersey mainly in white, bright blue at the top and bright pink at
+**Fit:**
 
-the bottom and near the sleeves. Light grey thick stripes accent around the neck and sleeves. In
-
-the middle is a graphic of a grey baby bear smiling in a relaxed pose.
+**Visual Description:** Hockey jersey mainly in white, bright blue at the top and bright pink at the bottom and near the sleeves. Light grey thick stripes accent around the neck and sleeves. In the middle is a graphic of a grey baby bear smiling in a relaxed pose.
 
 **Dominant Colors:** White, bright blue, bright pink, grey
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:** Baby Bera is an artist with impactful creation amongst the
+**Blacklight Behavior:**
 
-Berachain ecosystem, he also DJ in a few of the real-life events and raves held by Berachain in
+---
 
-the past. His art ranges from music to physical objects.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** Baby Bera is an artist with impactful creation amongst the Berachain ecosystem, he also DJ in a few of the real-life events and raves held by Berachain in the past. His art ranges from music to physical objects.
 
-**Who Introduced the Trait:**
+**Era:** 
 
-**Trait Conflicts:** None.
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Milady
+**Why This Matters:**
 
-**Swag Score ( if applicable):** 4
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Baby Bera Jacket
 
+### Visual Properties
+
 **Name:** Baby Bera Jacket
 
 **Image Files:**
-
 ![Babybera Jacket](../images/shirts__z50%20(LONG)/SS3_Babybera%20Jacket.webp)
 
-**Brief Visual Description:** Soft-looking bomber jacket in soft pink and creamy white. On it can
+**Garment Type:**
 
-be seen the text in cursive of “Her” and “Baby Bera”
+**Fit:**
+
+**Visual Description:** Soft-looking bomber jacket in soft pink and creamy white. On it can be seen the text in cursive of “Her” and “Baby Bera”
 
 **Dominant Colors:** Soft pink, creamy white.
 
-**Reasoning for Inclusion within Mibera:** Baby Bera merch
+**Material Impression:**
 
-**General Real World Trait History:** Baby Bera is an artist with impactful creation amongst the
+**Blacklight Behavior:**
 
-Berachain ecosystem, he also DJ in a few of the real-life events and raves held by Berachain in
+---
 
-the past. His art ranges from music to physical objects.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** Baby Bera is an artist with impactful creation amongst the Berachain ecosystem, he also DJ in a few of the real-life events and raves held by Berachain in the past. His art ranges from music to physical objects.
 
-**Who Introduced the Trait:**
+**Era:** 
 
-**Trait Conflicts:** None.
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score ( if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Baby Bera merch
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/babyberafinance
-
 - https://babybera.finance/
+
+**Summary:** 
 
 ---
 
 ## Sun Kigu
 
+### Visual Properties
+
 **Name:** Sun Kigu
 
 **Image Files:**
-
 ![Sun Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Sun%20Kigu.webp)
 
-**Brief Visual Description:** Bear onesie in dark brown with the hood up and sparkly eyes.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Bear onesie in dark brown with the hood up and sparkly eyes.
 
 **Dominant Colors:** Dark brown, light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** July 31, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score ( if applicable):** 5
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 31, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Polar Kigu
 
+### Visual Properties
+
 **Name:** Polar Kigu
 
 **Image Files:**
-
 ![Polar Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Polar%20Kigu.webp)
 
-**Brief Visual Description:** Polar bear onesie in white with the hood up and sparkly eyes.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Polar bear onesie in white with the hood up and sparkly eyes.
 
 **Dominant Colors:** White
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** July 31, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score ( if applicable):** 5
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 31, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Brown Kigu
 
+### Visual Properties
+
 **Name:** Brown Kigu
 
 **Image Files:**
-
 ![Brown Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Brown%20Kigu.webp)
 
-**Brief Visual Description:** Bear onesie in darker brown with the hood up.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Bear onesie in darker brown with the hood up.
 
 **Dominant Colors:** Brown, light brown
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** July 31, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score ( if applicable):** 5
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 31, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Panda Kigu
 
+### Visual Properties
+
 **Name:** Panda Kigu
 
 **Image Files:**
-
 ![Panda Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Panda%20Kigu.webp)
 
-**Brief Visual Description:** Panda onesie in black and white with the hood up.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Panda onesie in black and white with the hood up.
 
 **Dominant Colors:** Black and white
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** July 31, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score ( if applicable):** 5
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 31, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Cute Kigu
 
+### Visual Properties
+
 **Name:** Cute Kigu
 
 **Image Files:**
-
 ![cute kigu](../images/shirts__z50%20(KIGU)/SS4_milady_cute%20kigu.webp)
 
-**Brief Visual Description:** Bear onesie with the hood up in light beige.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Bear onesie with the hood up in light beige.
 
 **Dominant Colors:** Light beige
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 9, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score ( if applicable):** 4
+**Geographic Roots:**
 
-**Link to main doc:** Shirt
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Fable
 
+### Visual Properties
+
 **Name:** Fable
 
 **Image Files:**
-
 ![Fable](../images/shirts__z50%20(KIGU)/SS5_Fable.webp)
 
-**Brief Visual Description:** Purple onesie with the hood up and brown bear ears and thick brown
+**Garment Type:**
 
-lines across the body part. Multiple graphics of yellow pentagons can also be seen down the
+**Fit:**
 
-front part of the body.
+**Visual Description:** Purple onesie with the hood up and brown bear ears and thick brown lines across the body part. Multiple graphics of yellow pentagons can also be seen down the front part of the body.
 
 **Dominant Colors:** Purple, brown, yellow
 
-**Reasoning for Inclusion within Mibera:** Fable is one of projects building in the Berachain
+**Material Impression:**
 
-ecosystem.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** Fable platform is a decentralized media platform, created to
+---
 
-be the entertainment hub on Berachain. The hub was meant to host games, stories, and other
+### Cultural Context
 
-forms of media.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Fable platform is a decentralized media platform, created to be the entertainment hub on Berachain. The hub was meant to host games, stories, and other forms of media.
 
-**Date Created/Uploaded:** March 11, 2025
+**Era:** 
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:** None.
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score ( if applicable):** 5
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Fable is one of projects building in the Berachain ecosystem.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 11, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://x.com/Fable_Platform
-
 - https://www.fable-hub.com/
+
+**Summary:** 
 
 ---
 
 ## Henlo Racing Jacket
 
+### Visual Properties
+
 **Name:** Henlo Racing Jacket
 
 **Image Files:**
 
-**Brief Visual Description:** Racing jacket in vibrant blue on the half top and black on the half
 
-bottom. Black and white checkered connecting the two color on the sleeves. Henlo logo can be
+**Garment Type:**
 
-seen on the shoulder, and the pad.
+**Fit:**
+
+**Visual Description:** Racing jacket in vibrant blue on the half top and black on the half bottom. Black and white checkered connecting the two color on the sleeves. Henlo logo can be seen on the shoulder, and the pad.
 
 **Dominant Colors:** Vibrant blue, black, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:**
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):**
+**Scene Association:**
 
-**Swag Score ( if applicable):**
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** 
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Chinese
 
+### Visual Properties
+
 **Name:** Chinese
 
 **Image Files:**
-
 ![Chinese](../images/shirts__z50%20(LONG)/SS3_acidhouse_Chinese.webp)
 
-**Brief Visual Description:** Black tang suit (long sleeve shirt with mandarin collar and buttons),
+**Garment Type:**
 
-rolled on one side showing a blue sleeve underneath.
+**Fit:**
+
+**Visual Description:** Black tang suit (long sleeve shirt with mandarin collar and buttons), rolled on one side showing a blue sleeve underneath.
 
 **Dominant Colors:** Black, blue
 
-**Reasoning for Inclusion within Mibera:** It’s a clothing piece that could be seen in the race
+**Material Impression:**
 
-scene, and Chinese is one of Mibera’s ancestor trait options.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** The tang suit, or tangzhuang, is a traditional Chinese jacket
+---
 
-characterized by a stand-up collar and buttoned front, often made of silk or cotton. Popularized
+### Cultural Context
 
-during the Tang dynasty but modernized in the 20th century, it’s often worn for formal occasions,
+**Source Type:**
 
-cultural events, or festivals.
+**Cultural Origin:** The tang suit, or tangzhuang, is a traditional Chinese jacket characterized by a stand-up collar and buttoned front, often made of silk or cotton. Popularized during the Tang dynasty but modernized in the 20th century, it’s often worn for formal occasions, cultural events, or festivals.
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Trait Conflicts:** None.
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score ( if applicable):** 3
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** It’s a clothing piece that could be seen in the race scene, and Chinese is one of Mibera’s ancestor trait options.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Silver Mongolian
 
+### Visual Properties
+
 **Name:** Silver Mongolian
 
 **Image Files:**
-
 ![Silver Mongolian__w6](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Silver%20Mongolian__w6.webp)
 
-SS3_chicagodetroit_Silver Mongolian__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Silver long sleeve shirt with mandarin neck and button, with subtle
+**Fit:**
 
-patterns on its shiny complexion.
+**Visual Description:** Silver long sleeve shirt with mandarin neck and button, with subtle patterns on its shiny complexion.
 
 **Dominant Colors:** Silver
 
-**Reasoning for Inclusion within Mibera:** Mongolian being one of Mibera ancestor traits.
+**Material Impression:**
 
-**General Real World Trait History:** The Mongols are an ethnic group primarily in Mongolia, with
+**Blacklight Behavior:**
 
-significant populations in northern China (Inner Mongolia) and Russia. Numbering about 10
+---
 
-million, they speak the Mongolian language and have a rich history as nomadic pastoralists.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** April 3, 2025
+**Cultural Origin:** The Mongols are an ethnic group primarily in Mongolia, with significant populations in northern China (Inner Mongolia) and Russia. Numbering about 10 million, they speak the Mongolian language and have a rich history as nomadic pastoralists.
 
-**Who Introduced the Trait:**
+**Era:** 
 
-**Trait Conflicts:** None.
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Why This Matters:**
 
-**Swag Score ( if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** Mongolian being one of Mibera ancestor traits.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** April 3, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Mongolia
+
+**Summary:** 
 
 ---
 
 ## Orthodox Robe
 
+### Visual Properties
+
 **Name:** Orthodox Robe
 
 **Image Files:**
-
 ![Orthodox Robe](../images/shirts__z50%20(ROBES)/SS5_Orthodox%20Robe.webp)
 
-**Brief Visual Description:** Black long robe with white accents and lining, mainly of symbolism /
+**Garment Type:**
 
-scripts. Long sleeves, loose hood on.
+**Fit:**
+
+**Visual Description:** Black long robe with white accents and lining, mainly of symbolism / scripts. Long sleeves, loose hood on.
 
 **Dominant Colors:** Black, white
 
-**Reasoning for Inclusion within Mibera:** Its relation to Orthodox beliefs.
+**Material Impression:**
 
-**General Real World Trait History:** The robe is a direct reference from a Youtube video that
+**Blacklight Behavior:**
 
-includes images of Orthodox Schema monks. Orthodox schema monks (or schemamonks) are
+---
 
-advanced Eastern Orthodox monastics who have attained the highest rank, the Great Schema
+### Cultural Context
 
-(Megaloschemos), after progressing through novice, lesser schema (Stavrophore), and other
+**Source Type:**
 
-stages of monastic life. This tonsure signifies a profound spiritual commitment, involving stricter
+**Cultural Origin:** The robe is a direct reference from a Youtube video that includes images of Orthodox Schema monks. Orthodox schema monks (or schemamonks) are advanced Eastern Orthodox monastics who have attained the highest rank, the Great Schema (Megaloschemos), after progressing through novice, lesser schema (Stavrophore), and other stages of monastic life. This tonsure signifies a profound spiritual commitment, involving stricter vows of poverty, chastity, obedience, and seclusion for intense prayer, fasting, and asceticism to achieve union with God.
 
-vows of poverty, chastity, obedience, and seclusion for intense prayer, fasting, and asceticism to
+**Era:** 
 
-achieve union with God.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** January 2, 2025
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Trait Conflicts:** None.
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):**
+**Archetype:** 
 
-**Swag Score ( if applicable):** 5
+**Archetype Alignment:** Its relation to Orthodox beliefs.
 
-**Resources:**
+**Vibe Tags:**
 
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** January 2, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1152388269716295710/11722875911025
-
-50116
-
 - https://www.youtube.com/watch?v=8LIMr9E14iQ
+
+**Summary:** 
 
 ---
 
 ## Peyote Patterned
 
+### Visual Properties
+
 **Name:** Peyote Patterned
 
 **Image Files:**
-
 ![Peyote Patterned](../images/shirts__z50%20(LONG)/SS3_freetekno_Peyote%20Patterned.webp)
 
-SS3_freetekno_Peyote Patterned__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Dark muted brown long-sleeve shirt with unique cutting and tribal
+**Fit:**
 
-design in black, beige, and creamy white in the middle.
+**Visual Description:** Dark muted brown long-sleeve shirt with unique cutting and tribal design in black, beige, and creamy white in the middle.
 
 **Dominant Colors:** Dark grey / muted brown, beige, black, creamy white
 
-**Reasoning for Inclusion within Mibera:** In relation to the drug culture and usage within Mibera
+**Material Impression:**
 
-lore.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** Peyote is a small, spineless cactus (Lophophora williamsii)
+---
 
-native to the southwestern U.S. and Mexico, containing the hallucinogenic alkaloid mescaline,
+### Cultural Context
 
-used for millennia by indigenous peoples in religious and medicinal rituals.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Peyote is a small, spineless cactus (Lophophora williamsii) native to the southwestern U.S. and Mexico, containing the hallucinogenic alkaloid mescaline, used for millennia by indigenous peoples in religious and medicinal rituals.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:** 
 
-**Who Introduced the Trait:** Jani
+**Scene Association:**
 
-**Trait Conflicts:** None.
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Freetekno
+**Notable Figures:**
 
-**Swag Score ( if applicable):** 3
+---
 
-**Resource:**
+### Mibera Integration
 
+**Archetype:** Freetekno
+
+**Archetype Alignment:** In relation to the drug culture and usage within Mibera lore.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1159122178009210890/11591224412395
-
-39722
-
 - https://www.arkanainternational.com/blog/peyote
+
+**Summary:** 
 
 ---
 
 ## Rasta
 
+### Visual Properties
+
 **Name:** Rasta
 
 **Image Files:**
-
 ![Rasta](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Rasta.webp)
 
-**Brief Visual Description:** Tri-color long sleeves in red, yellow, and green, in order from left to
+**Garment Type:**
 
-right.
+**Fit:**
+
+**Visual Description:** Tri-color long sleeves in red, yellow, and green, in order from left to right.
 
 **Dominant Colors:** Red, yellow, green.
 
-**Reasoning for Inclusion within Mibera:** Its relation to Mibera, through its culture, musical
+**Material Impression:**
 
-history influence, and spiritual side of things.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** Rastafari, often called Rasta culture, is a spiritual and
+---
 
-cultural movement that emerged in Jamaica in the 1930s among African descendants.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Cultural Origin:** Rastafari, often called Rasta culture, is a spiritual and cultural movement that emerged in Jamaica in the 1930s among African descendants.
 
-**Who Introduced the Trait:** Jani
+**Era:** 
 
-**Trait Conflicts:** None.
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Why This Matters:**
 
-**Swag Score ( if applicable):** 3
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** Its relation to Mibera, through its culture, musical history influence, and spiritual side of things.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Rastafari
+
+**Summary:** 
 
 ---
 
 ## Black Niqab
 
+### Visual Properties
+
 **Name:** Black Niqab
 
 **Image Files:**
-
 ![Black Niqab](../images/shirts__z50%20(ROBES)/SS5_milady_Black%20Niqab.webp)
 
-**Brief Visual Description:** Plain black niqab. Head and face cover that drapes down the head.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Plain black niqab. Head and face cover that drapes down the head.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** The reference was rooted from a video about Khat,
+**Material Impression:**
 
-Ethiopia’s natural ‘spiritual’ drug; in which a lot of it ties back to Mibera (Ethiopia as one of our
+**Blacklight Behavior:**
 
-ancestor types, drug use, and Khat as one of our drug traits).
+---
 
-**General Real World Trait History:** The niqab is a face-covering veil commonly worn by some
+### Cultural Context
 
-Muslim women, particularly in conservative Islamic communities, to cover the face except for the
+**Source Type:**
 
-eyes, as an expression of modesty or religious devotion.
+**Cultural Origin:** The niqab is a face-covering veil commonly worn by some Muslim women, particularly in conservative Islamic communities, to cover the face except for the eyes, as an expression of modesty or religious devotion.
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created/Uploaded:** July 28, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:** None.
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Milady
+---
 
-**Swag Score ( if applicable):** 5
+### Mibera Integration
 
-**Resources:**
+**Archetype:** Milady
 
+**Archetype Alignment:** The reference was rooted from a video about Khat, Ethiopia’s natural ‘spiritual’ drug; in which a lot of it ties back to Mibera (Ethiopia as one of our ancestor types, drug use, and Khat as one of our drug traits).
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://www.dazeddigital.com/film-tv/article/56406/1/khat-ethopia-natural-psychedelic-drug-faya-
-
-dayi-jessica-beshir-interview
-
 - https://discord.com/channels/1133935527855399053/1158770561560879134/11587749659030
 
-40642
+**Summary:** 
 
 ---
 
 ## Sufi
 
+### Visual Properties
+
 **Name:** Sufi
 
 **Image Files:**
-
 ![Sufi](../images/shirts__z50%20(LONG)/SS4_freetekno_Sufi.webp)
 
-**Brief Visual Description:** Garments and robes in vibrant red and green with cool tone, draping
+**Garment Type:**
 
-over with white stripe / accent by the neck and the end of the visible sleeve.
+**Fit:**
+
+**Visual Description:** Garments and robes in vibrant red and green with cool tone, draping over with white stripe / accent by the neck and the end of the visible sleeve.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:** Sufi is one of Mibera ancestor types.
+**Material Impression:**
 
-**General Real World Trait History:** Sufis are practitioners of Sufism, a mystical Islamic tradition
+**Blacklight Behavior:**
 
-seeking spiritual closeness to God through practices like meditation, chanting (dhikr), poetry,
+---
 
-and music, emphasizing love and inner purification, found worldwide, especially in South Asia,
+### Cultural Context
 
-the Middle East, and North Africa.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Sufis are practitioners of Sufism, a mystical Islamic tradition seeking spiritual closeness to God through practices like meditation, chanting (dhikr), poetry, and music, emphasizing love and inner purification, found worldwide, especially in South Asia, the Middle East, and North Africa.
 
-**Date Created/Uploaded:** July 28, 2024
+**Era:** 
 
-**Who Introduced the Trait:** Jani
+**Scene Association:**
 
-**Trait Conflicts:** None.
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Freetekno
+**Notable Figures:**
 
-**Swag Score ( if applicable):** 4
+---
 
-**Resources:**
+### Mibera Integration
 
+**Archetype:** Freetekno
+
+**Archetype Alignment:** Sufi is one of Mibera ancestor types.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 28, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1160911774086873089/11609192972086
-
-14973
-
 - https://www.theguardian.com/world/gallery/2016/feb/05/the-psychedelic-world-of-sudans-sufis-in
 
--pictures
+**Summary:** 
 
 ---
 
 ## Buddhist Techno
 
+### Visual Properties
+
 **Name:** Buddhist Techno
 
 **Image Files:**
-
 ![buddhist techno](../images/shirts__z50%20(LONG)/SS4_acidhouse_buddhist%20techno.webp)
 
-SS4_acidhouse_buddhist techno__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Black kimono / robe with green scarf with leaves pattern on it.
+**Fit:**
+
+**Visual Description:** Black kimono / robe with green scarf with leaves pattern on it.
 
 **Dominant Colors:** Black, green.
 
-**Reasoning for Inclusion within Mibera:** The clothing piece is a direct reference of the
+**Material Impression:**
 
-“Buddhist Techno Priest”, which is very Mibera.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** Japan's Sacred Techno Buddhist Grounds is an immersive
+---
 
-event blending ancient Buddhist rituals with modern techno music in Tokyo's historic temples.
+### Cultural Context
 
-Scheduled for October 2025, it features DJ sets amid chanting monks, lantern-lit ceremonies,
+**Source Type:**
 
-and electronic soundscapes, celebrating spiritual-tech fusion for 500 attendees.
+**Cultural Origin:** Japan's Sacred Techno Buddhist Grounds is an immersive event blending ancient Buddhist rituals with modern techno music in Tokyo's historic temples. Scheduled for October 2025, it features DJ sets amid chanting monks, lantern-lit ceremonies, and electronic soundscapes, celebrating spiritual-tech fusion for 500 attendees.
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created/Uploaded:** December 10, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Jani
+**Geographic Roots:**
 
-**Trait Conflicts:** None.
+**Why This Matters:**
 
-**Ancestor (if applicable):**
+**Notable Figures:**
 
-**Archetype (if applicable):** Acidhouse
+---
 
-**Swag Score ( if applicable):** 4
+### Mibera Integration
 
-**Resources:**
+**Archetype:** Acidhouse
 
+**Archetype Alignment:** The clothing piece is a direct reference of the “Buddhist Techno Priest”, which is very Mibera.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1159108810561040445/11591156670233
-
-51888
-
 - https://www.hksclydesdales.com/pure-land-japans-sacred-techno-buddhist-grounds/
+
+**Summary:** 
 
 ---
 
 ## Tassles
 
+### Visual Properties
+
 **Name:** Tassles
 
 **Image Files:**
-
 ![tassles](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_tassles.webp)
 
-**Brief Visual Description:** Garment in light beige to blue gradient with tassels dangling over the
+**Garment Type:**
 
-neck part, mainly in red, brown, and a bit of green.
+**Fit:**
+
+**Visual Description:** Garment in light beige to blue gradient with tassels dangling over the neck part, mainly in red, brown, and a bit of green.
 
 **Dominant Colors:** Light beige, red, brown.
 
-**Reasoning for Inclusion within Mibera:** The clothing piece is a direct reference from
+**Material Impression:**
 
-traditional Mongolian attire. Mongolian are one of Mibera ancestor types.
+**Blacklight Behavior:**
 
-**General Real World Trait History:**
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created/Uploaded:** December 10, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Jani
+**Cultural Origin:** 
 
-**Trait Conflicts:** None.
+**Era:** 
 
-**Ancestor (if applicable):**
+**Scene Association:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Geographic Roots:**
 
-**Swag Score ( if applicable):** 2
+**Why This Matters:**
 
-**Resources:**
+**Notable Figures:**
 
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** The clothing piece is a direct reference from traditional Mongolian attire. Mongolian are one of Mibera ancestor types.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
 - https://discord.com/channels/1133935527855399053/1163467995549536397/11634687906679
-
-56345
-
 - https://www.theguardian.com/world/gallery/2018/jun/29/mongolias-shamanic-rituals-in-pictures
+
+**Summary:** 
 
 ---
 
 ## Sadhu
 
+### Visual Properties
+
 **Name:** Sadhu
 
 **Image Files:**
-
 ![Sadhu](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_Sadhu.webp)
 
-**Brief Visual Description:** Plain long sleeve orange sadhu / maxi clothing.
+**Garment Type:**
+
+**Fit:**
+
+**Visual Description:** Plain long sleeve orange sadhu / maxi clothing.
 
 **Dominant Colors:** Orange
 
-**Reasoning for Inclusion within Mibera:** Its relation with Hindu and Buddhism culture; Hindu
+**Material Impression:**
 
-being one of Mibera ancestor types.
+**Blacklight Behavior:**
 
-**General Real World Trait History:** A sadhu is a Hindu ascetic or holy person who renounces
+---
 
-worldly life to pursue spiritual liberation (moksha) through meditation, yoga, and austerity, often
+### Cultural Context
 
-living as a wandering monk or hermit in India.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** A sadhu is a Hindu ascetic or holy person who renounces worldly life to pursue spiritual liberation (moksha) through meditation, yoga, and austerity, often living as a wandering monk or hermit in India.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:** 
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:** None.
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Chicago Detroit
+**Notable Figures:**
 
-**Swag Score ( if applicable):** 2
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** Its relation with Hindu and Buddhism culture; Hindu being one of Mibera ancestor types.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Sadhu
+
+**Summary:** 
 
 ---
 
 ## Modern Sami
 
+### Visual Properties
+
 **Name:** Modern Sami
 
 **Image Files:**
-
 ![Modern Sami](../images/shirts__z50%20(LONG)/SS2_acidhouse_Modern%20Sami.webp)
 
-SS2_acidhouse_Modern Sami__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Full sleeves clothing in dull brown with green lining around the neck
+**Fit:**
 
-and near the sleeve. Red accent in the middle just below the collar. A brown sling-bag is worn.
+**Visual Description:** Full sleeves clothing in dull brown with green lining around the neck and near the sleeve. Red accent in the middle just below the collar. A brown sling-bag is worn.
 
 **Dominant Colors:** Dull brown, green, red.
 
-**Reasoning for Inclusion within Mibera:** Sami being one of Mibera ancestor types.
+**Material Impression:**
 
-**General Real World Trait History:** The Sámi (also Sami or Saami) are the indigenous people
+**Blacklight Behavior:**
 
-of Sápmi, spanning northern Norway, Sweden, Finland, and Russia's Kola Peninsula. They
+---
 
-speak nine related Uralic languages (many bilingual in national languages) and traditionally
+### Cultural Context
 
-lived as semi-nomadic reindeer herders, hunters, and fishers for millennia.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** The Sámi (also Sami or Saami) are the indigenous people of Sápmi, spanning northern Norway, Sweden, Finland, and Russia's Kola Peninsula. They speak nine related Uralic languages (many bilingual in national languages) and traditionally lived as semi-nomadic reindeer herders, hunters, and fishers for millennia.
 
-**Date Created/Uploaded:** December 10, 2024
+**Era:** 
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:** None.
+**Geographic Roots:**
 
-**Ancestor (if applicable):**
+**Why This Matters:**
 
-**Archetype (if applicable):** Acidhouse
+**Notable Figures:**
 
-**Swag Score ( if applicable):** 2
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** Sami being one of Mibera ancestor types.
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/S%C3%A1mi_people
+
+**Summary:** 
 
 ---
 
 ## Light Blue Flowery
 
+### Visual Properties
+
 **Name:** Light Blue Flowery
 
 **Image Files:**
-
 ![Light Blue Flowery](../images/shirts__z50%20(LONG)/SS4_milady_Light%20Blue%20Flowery.webp)
 
-SS4_milady_Light Blue Flowery__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Light blue vintage / lace dress with white flowers on each side of the
+**Fit:**
 
-buttons section in the middle.
+**Visual Description:** Light blue vintage / lace dress with white flowers on each side of the buttons section in the middle.
 
 **Dominant Colors:** Light blue, white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
+**Blacklight Behavior:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** December 10, 2024
+### Cultural Context
 
-**Who Introduced the Trait:**
+**Source Type:**
 
-**Trait Conflicts:** None.
+**Cultural Origin:** 
 
-**Ancestor (if applicable):**
+**Era:** 
 
-**Archetype (if applicable):** Milady
+**Scene Association:**
 
-**Swag Score ( if applicable):** 4
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Dark Blue Flowery
 
+### Visual Properties
+
 **Name:** Dark Blue Flowery
 
 **Image Files:**
-
 ![Dark Blue Flowery](../images/shirts__z50%20(LONG)/SS5_milady_Dark%20Blue%20Flowery.webp)
 
-SS5_milady_Dark Blue Flowery__z85.PNG
+**Garment Type:**
 
-**Brief Visual Description:** Dark navy blue vintage / lace dress with a big bow just below the
+**Fit:**
 
-collar followed with flowers graphic / embroidery in the middle down the ribbon and around the
-
-belt / waist area.
+**Visual Description:** Dark navy blue vintage / lace dress with a big bow just below the collar followed with flowers graphic / embroidery in the middle down the ribbon and around the belt / waist area.
 
 **Dominant Colors:** Dark navy blue, creamy white.
 
-**Reasoning for Inclusion within Mibera:**
+**Material Impression:**
 
-**General Real World Trait History:**
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** December 10, 2024
-
-**Who Introduced the Trait:**
-
-**Trait Conflicts:** None.
-
-**Ancestor (if applicable):**
-
-**Archetype (if applicable):** Milady
-
-**Swag Score ( if applicable):** 5
+**Blacklight Behavior:**
 
 ---
 
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:** 
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 5 ---
+
+**Swag Justification:**
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
