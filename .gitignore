@@ -23,3 +23,6 @@ scripts/link-validation-report.json
 # Logs
 *.log
 npm-debug.log*
+
+# Images
+all-images/
