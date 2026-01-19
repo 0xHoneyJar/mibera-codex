@@ -783,7 +783,7 @@
 
 ---
 
-## Road Side
+## Roadside
 
 ### Visual Properties
 
@@ -1685,7 +1685,7 @@
 
 ---
 
-## Simple Backgrounds
+## Simple Background
 
 ### Visual Properties
 

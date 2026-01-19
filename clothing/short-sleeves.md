@@ -9391,3 +9391,283 @@
 **Summary:** 
 
 ---
+
+## Criminal Records Vest
+
+### Visual Properties
+
+**Name:** Criminal Records Vest
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Overalls
+
+### Visual Properties
+
+**Name:** Overalls
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Mother Shirt
+
+### Visual Properties
+
+**Name:** Mother Shirt
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Babybera Jacket
+
+### Visual Properties
+
+**Name:** Babybera Jacket
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---

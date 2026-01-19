@@ -1335,7 +1335,7 @@ increased appetite, and mitigates anxiety and stress.
 
 ---
 
-## Kwoa Krua
+## Kwao Krua
 
 ### Identity
 
@@ -2615,7 +2615,7 @@ How the molecule appears in nature (physical appearances):
 
 ---
 
-## Tobacoo
+## Tobacco
 
 ### Identity
 
@@ -3158,7 +3158,7 @@ How the molecule appears in nature (physical appearances):
 
 ---
 
-## Psychotaria Viridis
+## Psychotria Viridis
 
 ### Identity
 
@@ -6286,5 +6286,75 @@ earthy bitter odor.
 - https://erowid.org/plants/mandrake/mandrake.shtml
 - https://pubchem.ncbi.nlm.nih.gov/compound/Scopolamine
 - https://en.wikipedia.org/wiki/Mandrake
+
+---
+
+## Sakae Naa
+
+### Visual Properties
+
+**Name:** Sakae Naa
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
 
 ---

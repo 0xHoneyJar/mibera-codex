@@ -18504,3 +18504,1333 @@ SS1_milady_Sudo Chan.png
 **Summary:** 
 
 ---
+
+## Blue Meanie
+
+### Visual Properties
+
+**Name:** Blue Meanie
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Mad Scientists
+
+### Visual Properties
+
+**Name:** Mad Scientists
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Band Bear 1
+
+### Visual Properties
+
+**Name:** Band Bear 1
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Sakae Naa Plant
+
+### Visual Properties
+
+**Name:** Sakae Naa Plant
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Grateful Dead Tarot
+
+### Visual Properties
+
+**Name:** Grateful Dead Tarot
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Weed Nug
+
+### Visual Properties
+
+**Name:** Weed Nug
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Adam Back
+
+### Visual Properties
+
+**Name:** Adam Back
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## David Chaum
+
+### Visual Properties
+
+**Name:** David Chaum
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Hal Finney
+
+### Visual Properties
+
+**Name:** Hal Finney
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Julian Assange
+
+### Visual Properties
+
+**Name:** Julian Assange
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## John Gilmore
+
+### Visual Properties
+
+**Name:** John Gilmore
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Nick Szabo
+
+### Visual Properties
+
+**Name:** Nick Szabo
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Phil Zimmermann
+
+### Visual Properties
+
+**Name:** Phil Zimmermann
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Satoshi Nakamoto
+
+### Visual Properties
+
+**Name:** Satoshi Nakamoto
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Tim C May
+
+### Visual Properties
+
+**Name:** Tim C May
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Wei Dai
+
+### Visual Properties
+
+**Name:** Wei Dai
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Zeus
+
+### Visual Properties
+
+**Name:** Zeus
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Icebeargy
+
+### Visual Properties
+
+**Name:** Icebeargy
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Dcf
+
+### Visual Properties
+
+**Name:** Dcf
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---

@@ -2243,3 +2243,283 @@ SS5_Founders Mask.PNG
 **Summary:** 
 
 ---
+
+## Hiberanation Eye Mask
+
+### Visual Properties
+
+**Name:** Hiberanation Eye Mask
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Chulym Beekeeper Hat
+
+### Visual Properties
+
+**Name:** Chulym Beekeeper Hat
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Singapore Jani 1
+
+### Visual Properties
+
+**Name:** Singapore Jani 1
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Singapore Jani 2
+
+### Visual Properties
+
+**Name:** Singapore Jani 2
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---

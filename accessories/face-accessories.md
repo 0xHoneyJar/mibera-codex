@@ -3093,3 +3093,143 @@
 **Summary:** 
 
 ---
+
+## Hearts
+
+### Visual Properties
+
+**Name:** Hearts
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---
+
+## Milady 5930 Crescent And Dots
+
+### Visual Properties
+
+**Name:** Milady 5930 Crescent And Dots
+
+**Image Files:**
+
+**Trait Category:**
+
+**Visual Description:**
+
+**Dominant Colors:**
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:**
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:**
+
+**Archetype Alignment:**
+
+**Vibe Tags:**
+
+**Swag Score:**
+
+---
+
+### Connections
+
+**Ancestor:**
+
+**Trait Synergies:**
+
+**Trait Conflicts:**
+
+---
+
+### Attribution & Sources
+
+**Date Added:** Auto-generated
+
+**Introduced By:**
+
+**Team Notes:** Entry auto-generated to fix broken anchor
+
+**Sources:**
+
+**Summary:**
+
+---

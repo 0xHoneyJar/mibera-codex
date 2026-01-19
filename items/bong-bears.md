@@ -2699,7 +2699,7 @@ SS5_bongbear_Bong Bear 32.png
 
 ---
 
-## Bon Bear 33
+## Bong Bear 33
 
 ### Visual Properties
 
@@ -4932,7 +4932,7 @@ SS5_bongbear_Bong Bear 61.png
 
 ---
 
-## Bong Bear 62 (Bong Bear
+## Bong Bear 62
 
 ### Visual Properties
 
@@ -7627,7 +7627,7 @@ SS5_bongbear_Bong Bear 96.PNG
 
 ---
 
-## Bong Bera 97
+## Bong Bear 97
 
 ### Visual Properties
 
