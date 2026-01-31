@@ -4,6 +4,48 @@
 
 ---
 
+## Overview
+
+Eyes are generated as a combination of **Type** and **Color**, creating a matrix of possible variations.
+
+### Eye Types
+
+| Type | Description |
+|------|-------------|
+| Normal | Standard open eyes |
+| Heart | Heart-shaped pupils (love/infatuation) |
+| Hypno | Spiral hypnotic pattern |
+| Sleepy | Half-closed, drowsy |
+| Stoned | Red whites, lowered lids (cannabis) |
+| Crossed | Cross-eyed |
+| Bright | Wide open, alert |
+| Crying | Tears streaming |
+| Sparkle | Shimmering/starry effect |
+| Pinhole | Constricted pupils (opiates) |
+| Ecstasy | Dilated pupils, euphoric state (MDMA) |
+
+### Eye Colors
+
+| Color | Hex Reference |
+|-------|---------------|
+| Leaf | Light green |
+| Forest | Dark green |
+| Gold | Golden/amber |
+| Brown | Standard brown |
+| Lilac | Light purple |
+| Ocean | Deep blue |
+| Sky | Light blue |
+| Terracotta | Orange-brown |
+| Grey | Neutral grey |
+
+### Naming Convention
+
+Eye traits are named as: `{type} {color}`
+
+Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
+
+---
+
 ## stoned brown
 
 ### Visual Properties

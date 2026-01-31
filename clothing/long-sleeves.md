@@ -4,6 +4,31 @@
 
 ---
 
+## Overview
+
+Long sleeve garments include suits, jackets, robes, and outerwear that define character silhouettes and contribute to archetype coherence.
+
+### Long Sleeves by Archetype
+
+| Archetype | Examples |
+|-----------|----------|
+| **Freetekno** | Bomber Jacket, RAF, Dark Side, Tonka |
+| **Milady** | Blue Suit 2, Magenta Suit, Dragon, Kigus (Brown, Panda, Polar, Sun) |
+| **Acidhouse** | Orange Buddhist, Straw Farmers, Leaves Of Pythia, Faceless Galaxy |
+| **Chicago Detroit** | [Blue Velvet Suit](#blue-velvet-suit), Tight Leather Jacket, Kraftwerk, Lee Scratch, Sunra |
+
+### Swag Tier Examples
+
+| Tier | Examples |
+|------|----------|
+| SS1 | Blue Suit 2, Cfang Face |
+| SS2 | Green Dungarees, Future Rug Core |
+| SS3 | [Blue Velvet Suit](#blue-velvet-suit), Spiral Tribe, 90s Tracksuit |
+| SS4 | Dark Side, LSD Made Me A Prostitute, Tonka |
+| SS5 | Lee Scratch, Sunra, Dragon, Kigus |
+
+---
+
 ## Blue Velvet Suit
 
 ### Visual Properties

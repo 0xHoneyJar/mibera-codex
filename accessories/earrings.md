@@ -4,6 +4,25 @@
 
 ---
 
+## Overview
+
+Earrings add subtle cultural signifiers and personal expression to Mibera characters.
+
+### Earring Types
+
+| Type | Examples |
+|------|----------|
+| **Hoops** | [Golden Hoop](#golden-hoop), Silver Hoop |
+| **Studs** | Various small earrings |
+| **Cultural** | Traditional designs from various ancestors |
+
+### Cultural Notes
+
+- Golden hoops connect to DiY crew and 90s rave culture
+- Earring styles often reflect ancestor traditions and era-specific fashion
+
+---
+
 ## Golden Hoop
 
 ### Visual Properties

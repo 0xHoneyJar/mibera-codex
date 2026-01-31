@@ -4,6 +4,41 @@
 
 ---
 
+## Overview
+
+Short sleeve shirts are one of the most diverse trait categories, featuring graphic tees, jerseys, and cultural references across all four Archetypes.
+
+### Shirt Categories
+
+| Category | Examples |
+|----------|----------|
+| **Graphic Tees** | [Dark Side](#dark-side) (Pink Floyd), Nirvana, Spiral Tee, Acid Mibera |
+| **Political/Activist** | Future Is Accessible, Jury Nullification, Free Palestine, Gay Liberation Front, Black Is Beautiful, Landback |
+| **Sports** | Chicago Bulls, 80s Chicago Jersey, 80s Detroit Jersey, Arsenal Away Kit |
+| **Cultural** | Aboriginal, Tie Dye, Orange Buddhist, Sari |
+| **Meme/Internet** | K-holed, Legalize Catboys, I Was Mibera, Got Autism, Wikipedia Editor |
+| **Partner/Ecosystem** | Beraland, Beradrome, THJ items, Henlo |
+| **Controversial** | Nazi Pedo Cult, SCUM, Shameless Misandrist, various edgy references |
+
+### Notable Shirts by Archetype
+
+| Archetype | Signature Shirts |
+|-----------|------------------|
+| **Freetekno** | DiY, Future Is Accessible, Nirvana, Tie Dye, Wicked, RAF, SCUM |
+| **Milady** | K-holed, Legalize Catboys, Security, American Union, Sonora |
+| **Acidhouse** | Mr Acid House, Acid Mibera, Spiral Tee, Special K, RAR |
+| **Chicago Detroit** | Chicago Bulls, Motor Detroit, Criminal Records Vest, Music Box Vest |
+
+### Cultural References
+
+Many shirts reference real movements, events, or figures:
+- **DiY** — DIY Collective, UK free party scene
+- **Wicked** — Wicked sound system
+- **RAR** — Rock Against Racism
+- **[Dark Side](#dark-side)** — Pink Floyd's Dark Side of the Moon
+
+---
+
 ## Dark Side
 
 ### Visual Properties
