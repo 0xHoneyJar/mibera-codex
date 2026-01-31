@@ -1,34 +1,34 @@
 # Table of contents
 
 * [The Mibera Codex](README.md)
+* [Glossary](glossary.md)
 
-## Miberas
-* [All Miberas](miberas/index.md)
+## I. The Story
+* [Philosophy & Genesis](core-lore/philosophy.md)
 
-## Birthdays
-* [All Birthdays](birthdays/index.md)
-* [Prehistoric Era](birthdays/prehistoric.md)
-* [Ancient World](birthdays/ancient-bce.md)
-* [Classical Antiquity BCE](birthdays/classical-bce.md)
-* [Late Antiquity](birthdays/late-antiquity.md)
-* [Early Medieval](birthdays/early-medieval.md)
-* [Medieval Period](birthdays/medieval.md)
-* [Early Modern](birthdays/early-modern.md)
-* [19th Century](birthdays/19th-century.md)
-* [20th Century](birthdays/20th-century.md)
-* [21st Century](birthdays/21st-century.md)
-
-## Core Lore & Framework
+## II. The Framework
 * [Archetypes](core-lore/archetypes.md)
 * [Ancestors](core-lore/ancestors.md)
-* [Tarot Cards](core-lore/tarot-cards.md)
 
-## Overlays
-* [Elements](overlays/elements.md)
+## III. The Mysticism
 * [Astrology](overlays/astrology.md)
-* [Ranking System](overlays/ranking.md)
+* [Elements](overlays/elements.md)
+* [The Drug-Tarot System](core-lore/drug-tarot-system.md)
+  * [Tarot Cards](core-lore/tarot-cards.md)
+  * [Drug Pairings](drugs-detailed/drug-pairings.md)
+  * [Modern Drugs](drugs-detailed/modern-drugs.md)
 
-## Character Traits
+## IV. The Art
+* [All Traits Index](traits/index.md)
+* [Visual Traits Overview](traits/overview.md)
+
+### By Archetype
+* [Freetekno Traits](traits/by-archetype/freetekno.md)
+* [Milady Traits](traits/by-archetype/milady.md)
+* [Acidhouse Traits](traits/by-archetype/acidhouse.md)
+* [Chicago Detroit Traits](traits/by-archetype/chicagodetroit.md)
+
+### Character Traits
 * [Body](character-traits/body.md)
 * [Eyes](character-traits/eyes.md)
 * [Eyebrows](character-traits/eyebrows.md)
@@ -36,29 +36,44 @@
 * [Hair](character-traits/hair.md)
 * [Tattoos](character-traits/tattoos.md)
 
-## Accessories
+### Accessories
 * [Hats](accessories/hats.md)
 * [Glasses](accessories/glasses.md)
 * [Masks](accessories/masks.md)
 * [Earrings](accessories/earrings.md)
 * [Face Accessories](accessories/face-accessories.md)
 
-## Clothing
+### Clothing
 * [Long Sleeves](clothing/long-sleeves.md)
 * [Short Sleeves](clothing/short-sleeves.md)
 * [Simple Shirts](clothing/simple-shirts.md)
 
-## Items
+### Items
 * [General Items](items/general-items.md)
 * [Bong Bears](items/bong-bears.md)
 
-## Backgrounds
+### Environments
 * [Backgrounds](backgrounds/backgrounds.md)
 
-## Drugs & Substances
-* [Modern Drugs](drugs/modern-drugs.md)
-* [Drug Pairings](drugs/drug-pairings.md)
+## V. The Collection
+* [All Miberas](miberas/index.md)
+* [Birthdays](birthdays/index.md)
+  * [Prehistoric Era](birthdays/prehistoric.md)
+  * [Ancient World](birthdays/ancient-bce.md)
+  * [Classical Antiquity BCE](birthdays/classical-bce.md)
+  * [Late Antiquity](birthdays/late-antiquity.md)
+  * [Early Medieval](birthdays/early-medieval.md)
+  * [Medieval Period](birthdays/medieval.md)
+  * [Early Modern](birthdays/early-modern.md)
+  * [19th Century](birthdays/19th-century.md)
+  * [20th Century](birthdays/20th-century.md)
+  * [21st Century](birthdays/21st-century.md)
+* [Reveal Stages](mireveals/README.md)
 
-## Special Collections
-* [Featured Projects](special-collections/featured.md)
+## VI. The Mechanics
+* [Ranking & Scoring](overlays/ranking.md)
+* [Contract Architecture](technical/contracts.md)
+
+## VII. The Ecosystem
+* [Featured Projects & Partners](special-collections/featured.md)
 

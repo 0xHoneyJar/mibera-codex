@@ -4,6 +4,32 @@
 
 ---
 
+## Overview
+
+Mouth traits convey emotion and state, from euphoric smiles to drug-induced expressions.
+
+### Mouth Types
+
+| Type | Description |
+|------|-------------|
+| [Queasy](#queasy) | Wavy/squiggly line, uneasy feeling |
+| Smile | Upturned, happy |
+| Frown | Downturned, sad/serious |
+| Open | Surprised or speaking |
+| Grin | Wide, mischievous smile |
+| Grimace | Teeth showing, uncomfortable |
+| Smirk | Asymmetrical, knowing |
+| Drool | Mouth with drool (altered state) |
+
+### State-Based Expressions
+
+Some mouth expressions reference altered states:
+- **[Queasy](#queasy)** — Coming up on substances
+- **Drool** — Deep trance/high state
+- **Grimace** — Intense experience
+
+---
+
 ## queasy
 
 ### Visual Properties

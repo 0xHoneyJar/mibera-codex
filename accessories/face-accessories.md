@@ -4,6 +4,37 @@
 
 ---
 
+## Overview
+
+Face accessories add cultural markers, spiritual symbols, and aesthetic effects directly to the face layer.
+
+### Face Accessories by Archetype
+
+| Archetype | Examples |
+|-----------|----------|
+| **Freetekno** | Fluoro White, Oil, Septum, Aboriginal Orange/Red |
+| **Milady** | Cross, Crescent, [Dots](#dots), Heart, Mibera, [Wartime](#wartime), Tyson, Bindi, Red Forehead |
+| **Acidhouse** | — |
+| **Chicago Detroit** | Ethiopian, Indian (face paint) |
+
+### Categories
+
+| Category | Examples |
+|----------|----------|
+| **Symbols** | Cross, Crescent, Heart, Mibera |
+| **Cultural/Spiritual** | Bindi, Ethiopian, Indian, Aboriginal markings |
+| **Aesthetic Effects** | [Wartime](#wartime) (blood splatter), Oil, Fluoro White |
+| **Piercings** | Septum, Nose Ring With Chain |
+| **Tattoos** | Tyson (face tattoo) |
+
+### Cultural References
+
+- **[Wartime](#wartime)** — "Wartime Milady" 2022 blood-splatter PFP trend
+- **Bindi** — Hindu spiritual mark
+- **Aboriginal** — Indigenous Australian face paint traditions
+
+---
+
 ## Wartime
 
 ### Visual Properties

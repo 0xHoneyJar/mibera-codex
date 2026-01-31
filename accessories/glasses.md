@@ -4,6 +4,26 @@
 
 ---
 
+## Overview
+
+Glasses range from functional eyewear to symbolic accessories, each carrying cultural weight and archetype associations.
+
+### Glasses by Archetype
+
+| Archetype | Examples |
+|-----------|----------|
+| **Freetekno** | [Tekno 2](#tekno-2), Retro Round |
+| **Milady** | Cat Eye, Heart Glasses |
+| **Acidhouse** | [Omega](#omega), Rave Shades |
+| **Chicago Detroit** | Classic Shades, Aviators |
+
+### Special Notes
+
+- Partner collaboration glasses (OlympusDAO, etc.) appear across archetypes
+- Some glasses have cultural or brand references embedded in their design
+
+---
+
 ## Omega
 
 ### Visual Properties

@@ -4,6 +4,29 @@
 
 ---
 
+## Overview
+
+Each Archetype represents a distinct rave movement, era, and aesthetic. Miberas are assigned to an Archetype based on their astrological birth data.
+
+### Archetype-Astrology Mapping
+
+| Archetype | Zodiac Signs | Season | Era |
+|-----------|--------------|--------|-----|
+| **Freetekno** | Cancer, Leo, Virgo | Summer | Early-Late 90s |
+| **Milady** | Capricorn, Aquarius, Pisces | Winter | Current |
+| **Chicago Detroit** | Aries, Taurus, Gemini | Spring | Early 80s |
+| **Acidhouse** | Libra, Scorpio, Sagittarius | Fall | Late 90s / 2000s |
+
+### The Four Tribes
+
+Each tribe carries its own:
+- **Aesthetic** — Fashion, visual style, iconography
+- **Philosophy** — Relationship to rave, drugs, and community
+- **Drug Connections** — Both ancient plant medicines and modern synthetics
+- **Cultural Figures** — Key artists, DJs, and movements
+
+---
+
 ## Freetekno
 
 ### Identity
@@ -284,9 +307,9 @@ Drugs Representations / Associated
 
 ### Drug Connections
 
-**Modern:** Vape bag (volcano bag), NOS,
+**Modern:** Vape bag (volcano bag), NOS, Poppers, Cocaine, MDMA, Crack
 
-**Ancient:** 
+**Ancient:** Cannabis, Khat, Tobacco
 
 ---
 
@@ -376,9 +399,9 @@ Drugs Representations / Associated
 
 ### Drug Connections
 
-**Modern:** 
+**Modern:** MDMA, Ecstasy, LSD, Ketamine, GHB, 2C-B, Mushrooms
 
-**Ancient:** 
+**Ancient:** Cannabis, Psilocybin Mushrooms, Morning Glory Seeds
 
 ---
 

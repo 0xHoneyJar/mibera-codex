@@ -4,6 +4,26 @@
 
 ---
 
+## Overview
+
+Body traits define the base skin tone for each Mibera character. These form the foundation layer upon which all other traits are rendered.
+
+### Available Skin Tones
+
+| Name | Description |
+|------|-------------|
+| [Clay](#clay) | Slightly tanned, warm undertone |
+| Pale | Light, cool undertone |
+| Dark | Deep brown/black |
+| Golden | Warm amber tone |
+| Olive | Mediterranean green undertone |
+
+### Layer Position
+
+Body is the base layer (z40), rendered before all other character elements. It determines how other traits visually interact with the character.
+
+---
+
 ## clay
 
 ### Visual Properties
