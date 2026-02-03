@@ -41,37 +41,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -88,11 +57,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -113,37 +77,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -160,11 +93,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -185,37 +113,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -232,11 +129,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -257,37 +149,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -304,11 +165,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -329,37 +185,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -376,11 +201,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -401,37 +221,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -448,11 +237,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -473,37 +257,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -520,11 +273,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -545,37 +293,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -592,11 +309,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -617,37 +329,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -664,11 +345,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -689,37 +365,6 @@ honey__w2.PNG honey__w2.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -736,11 +381,6 @@ honey__w2.PNG honey__w2.PNG
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -761,37 +401,6 @@ honey__w2.PNG honey__w2.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -808,11 +417,6 @@ honey__w2.PNG honey__w2.PNG
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -833,37 +437,6 @@ honey__w2.PNG honey__w2.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -880,10 +453,5 @@ honey__w2.PNG honey__w2.PNG
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
