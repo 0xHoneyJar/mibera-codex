@@ -2,6 +2,8 @@
 
 *Documentation for Mibera Maker — 10,000 time-travelling Rebased Retard Beras carrying the eternal flame of the Rave.*
 
+**⚠️ This codex is very much under construction. Nothing here should be considered Truth at the current stage.**
+
 ---
 
 > *"Milady has to die, so that Milady may live. Milady lost her way. And in ego death, she finds Mibera."*

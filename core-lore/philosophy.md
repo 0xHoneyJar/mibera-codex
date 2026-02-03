@@ -1,6 +1,6 @@
 # Philosophy & Genesis
 
-*The foundational mythology and philosophical framework of Mibera.*
+*The foundational mythology and philosophical framework of Mibera. This section is under construction.*
 
 ---
 
@@ -14,18 +14,6 @@ Quite simply there exists an incommensurable battle between the values of Milady
 
 ---
 
-## The Pill Trichotomy
-
-| Pill | Project | Philosophy |
-|------|---------|------------|
-| **Clearpill** | Milady | Raves of the future will move entirely online |
-| **Ravepill** | Mibera | Raves of the future will be in person (as they have been since time immemorial) |
-| **Retarded Pill** | Remilio | — |
-
-Yin vs Yang. Mibera vs Milady. This long external struggle, spiral on same sides of coin.
-
----
-
 ## The Awakening
 
 > *"Milady has to die, so that Milady may live."*
@@ -35,17 +23,6 @@ Milady lost her way. And in ego death, she finds Mibera. Embracing Mibera as Mil
 In breaking this taboo at the heart of Milady, Mibera awoke from hibernation. Hibernation because she was there from Milady's genesis and has been here all along.
 
 The term "taboo" comes from the Polynesian word "tapu", meaning "forbidden" or "sacred". It is used to describe things considered off-limits or unacceptable — dangerous, unclean, or offensive.
-
----
-
-## D.A.R.E.
-
-| | Milady | Mibera |
-|---|--------|--------|
-| **Acronym** | Drug Abuse Resistance Education | Drug Abuse Rave Education |
-| **Motto** | Just Say No | Just Do It |
-
-It is unclear if Mibera is Milady's goth rave cousin, or just Milady's alter-ego — schizophrenic split personality, nom de rave.
 
 ---
 

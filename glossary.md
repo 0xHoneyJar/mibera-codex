@@ -17,7 +17,7 @@ One of four primary Rave Tribes that define aesthetic and philosophical foundati
 - **[Acidhouse](traits/by-archetype/acidhouse.md)** — Late 90s/2000s acid house revival (Fall: Libra, Scorpio, Sagittarius)
 
 ### Archetype Coherence
-The percentage of a Mibera's traits that belong to the same Archetype. Higher coherence = higher Swag Score bonus.
+The percentage of a Mibera's traits that belong to the same Archetype.
 
 ---
 
@@ -96,29 +96,6 @@ Full designation of Miberas as time-travelling beings from Berachain.
 
 ---
 
-## S
-
-### Swag Score
-Numerical rating determining a Mibera's rank. Calculated from:
-1. Global trait rarity
-2. Archetype coherence (tribe alignment)
-3. Ancestor trait threshold
-
-See: [Ranking & Scoring](overlays/ranking.md)
-
-### Swag Score Tiers (SS)
-Rarity classification for individual traits:
-
-| Tier | Rarity |
-|------|--------|
-| SS1 | Ultra Rare |
-| SS2 | Very Rare |
-| SS3 | Rare |
-| SS4 | Uncommon |
-| SS5 | Common |
-
----
-
 ## T
 
 ### TAZ (Temporary Autonomous Zone)
@@ -131,7 +108,7 @@ See: Archetype
 
 ## U
 
-### Ungovernable Autonomous Rave Treasury
+### Ungovernable Autonomous Rave Treasury (uART)
 The immutable, admin-less smart contract system governing Mibera economics. No governance, no admin keys — pure autonomous code.
 
 ---
