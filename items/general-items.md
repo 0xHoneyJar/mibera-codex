@@ -4,6 +4,35 @@
 
 ---
 
+## Overview
+
+Items are handheld objects that Miberas carry, ranging from drug paraphernalia to cultural artifacts to partner collaborations.
+
+### Item Categories
+
+| Category | Examples |
+|----------|----------|
+| **Drug Paraphernalia** | Crack Pipe, Blunt, Joint, Normal Bong, Colorful Bong, Chillum, Sherlock Glass Pipe, Vape Pen, Vape Bag, Whippet Cracker |
+| **Rave Gear** | Glowsticks (Blue, Green, Purple), Whistle, Maracas, Watergun |
+| **Cultural/Political** | Anarchist Cookbook, [SCUM Manifesto](#scum-manifesto), Pihkal, Tihkal, Erowid, Gadsden Flag |
+| **Food & Drink** | Club Mate, Special Brew, Shin Ramyun, Onigiri, Pina Colada |
+| **Psychedelics** | Ayahuasca Bowl, Peyote, Sheet Of Acid, Baggie Of Pills, Baggie Of Powder, Cubensis, Golden Teacher, Liberty Caps |
+| **Music Equipment** | Cassette, Walkman, PS1 Controller, 303 Drum Machine, Keyboard Guitar |
+| **Partner Collabs** | THJ items, Honey Jar, Ooga Booga Credit, Henlo items |
+| **Plushies** | Boo Bears 1-4, Bond Bears 1-4, Baby Bears, Maid Fumo, various partner plushies |
+| **Weapons** | AK47, Pitchfork, Handheld Sickle, Remilia Gun |
+
+### Items by Archetype
+
+| Archetype | Signature Items |
+|-----------|-----------------|
+| **Freetekno** | Lighter, Male Tears Mug, Rolling Tobacco Tin, Peyote items, AK47, Pitchfork |
+| **Milady** | Honey Jar, Chrome Hearts Watch, Beads, Remilia items, Plushies |
+| **Acidhouse** | Glowsticks, Mushroom items, Tibetan Singing Bowl, Maracas, Watergun |
+| **Chicago Detroit** | Bongs, Crack Pipe, Cassette, Drum, Lee Scratch Mic, 303 Drum Machine |
+
+---
+
 ## la rave flyers
 
 ### Visual Properties

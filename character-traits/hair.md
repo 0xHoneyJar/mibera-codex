@@ -4,6 +4,39 @@
 
 ---
 
+## Overview
+
+Hair traits define the hairstyle and color for each Mibera. Some hats marked `[no hair]` replace this layer entirely.
+
+### Hair Naming Convention
+
+Hair traits are named as: `{style} {color}`
+
+Examples: [`messy bob blue`](#messy-bob-blue), `long straight pink`, `dreads black`
+
+### Common Styles
+
+| Style | Description |
+|-------|-------------|
+| Messy Bob | Short, tousled cut |
+| Long Straight | Sleek, extended length |
+| Dreads | Dreadlocks |
+| Braids | Various braided styles |
+| Buzzed | Very short/shaved |
+| Mohawk | Central strip style |
+
+### Available Colors
+
+Blue, Pink, Black, Blonde, Brown, Red, Green, Purple, White, Rainbow
+
+### Layer Interactions
+
+- Hair renders at z-index 70, above body but below most accessories
+- Some hats and masks completely replace the hair layer
+- Hair color can complement or contrast with other trait colors
+
+---
+
 ## messy bob blue
 
 ### Visual Properties

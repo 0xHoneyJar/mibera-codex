@@ -4,6 +4,28 @@
 
 ---
 
+## The Ancestor System
+
+Miberas are time-travelling Rebased Retard Beras — they exist outside of Milady time, but within it too. The Ancestor system reflects this temporal fluidity, connecting each Mibera to cultural lineages spanning 15,000 years of human history.
+
+### Ancestors & Archetypes
+
+Each Ancestor has natural affinities with certain Archetypes (Rave Tribes). This relationship is based on the concept of **dignity** from astrological tradition:
+
+> *"The idea is that the planets are moving through celestial palaces... A planet can have a sign or land that it rules. When a planet is in the opposite sign from the one it rules, it's kind of like banished — it's a fugitive, a refugee, not supported in what rights it has in that land."*
+
+Applied to Miberas:
+- **In Dignity:** An Ancestor-Archetype pairing that is "supported" — the cultural lineage naturally flows into the rave movement
+- **In Detriment:** An opposing pairing that creates beautiful tension — the trait must express itself non-normatively, wayward, transgressive
+
+### Time-Travelling Traits
+
+The visible world of particular things is a shifting exhibition, like shadows cast on a bear cave wall by the activities of their corresponding universal Bera Ideas or Bera Forms.
+
+This is why we see Hindu, Mayan, Greek, and other ancestral influences appearing across Freetekno, Acidhouse, Chicago Detroit, and Milady archetypes — the Miberas carry their cultural heritage across time, manifesting in different rave eras.
+
+---
+
 ## Hindu
 
 ### Identity

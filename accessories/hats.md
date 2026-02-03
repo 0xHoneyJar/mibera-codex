@@ -4,6 +4,40 @@
 
 ---
 
+## Overview
+
+Hats are a key trait category that contributes to Archetype coherence and Swag Score. They follow the standard naming convention:
+
+```
+SS{score}_{archetype}_{name}
+```
+
+### Swag Score Tiers
+
+| Tier | Rarity | Examples |
+|------|--------|----------|
+| SS1 | Ultra Rare | Horsey, Monster Ultra |
+| SS2 | Very Rare | Blue Bow Hat, Butterfly Beanie, Wire Cat Ears |
+| SS3 | Rare | [Bera Headband](#bera-headband), Bjork, Cypherpunk, Jake |
+| SS4 | Uncommon | Bera Ski, Cowboy, Fez, MF Doom |
+| SS5 | Common | FBI Hat, Regal Crown |
+
+### Hat Types by Archetype
+
+| Archetype | Example Hats |
+|-----------|--------------|
+| **Freetekno** | DiY, Aboriginal Flag, Bear Mask, MF Doom, Peyote Hat, Silver Mask |
+| **Milady** | [Bera Headband](#bera-headband), Catboy Ears, Maid Head, Alien Head Band, Cowboy, Trucker Mibera |
+| **Acidhouse** | Jake, Kim Jong Mask, Sami Hat, Aum Headwear, Rice Paddy |
+| **Chicago Detroit** | Head Tube, Wide Brim, Rasta, Orthodox Fur, Dread Pirates Bandana |
+
+### Special Notes
+
+- Some hats marked `[no hair]` replace the hair layer entirely
+- Partner collaboration hats (THJ, Beradrome, etc.) appear across multiple archetypes
+
+---
+
 ## Bera Headband
 
 ### Visual Properties

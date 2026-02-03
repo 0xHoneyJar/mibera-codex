@@ -4,6 +4,32 @@
 
 ---
 
+## Overview
+
+Tattoos connect Mibera characters to ancestral traditions and cultural symbolism. Many reference specific Ancestor cultures.
+
+### Tattoos by Ancestor
+
+| Ancestor | Tattoo Examples |
+|----------|-----------------|
+| **Sami** | [Reindeer](#reindeer) |
+| **Japanese** | Various traditional motifs |
+| **Polynesian** | Tribal patterns |
+| **Celtic** | Knotwork, symbols |
+
+### Tattoo Placement
+
+Tattoos render at z-index 125, appearing on visible skin areas above clothing but below some accessories.
+
+### Cultural Significance
+
+Each tattoo carries cultural weight and contributes to the Ancestor dimension of a Mibera's identity. They represent:
+- Traditional cultural practices
+- Spiritual symbolism
+- Scene/subculture affiliations
+
+---
+
 ## Reindeer
 
 ### Visual Properties

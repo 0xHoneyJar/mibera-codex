@@ -4,6 +4,36 @@
 
 ---
 
+## Overview
+
+Eyebrows add emotional expression and personality to Mibera characters. They are named by combining expression and thickness.
+
+### Eyebrow Naming Convention
+
+Eyebrow traits are named as: `{expression} {thickness}`
+
+Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
+
+### Expression Types
+
+| Expression | Description |
+|------------|-------------|
+| Concerned | Tilted upward, worried look |
+| Raised | Lifted, surprised/skeptical |
+| Angry | Furrowed, aggressive |
+| Relaxed | Neutral, calm |
+| Sad | Drooping, melancholy |
+
+### Thickness Variations
+
+| Thickness | Description |
+|-----------|-------------|
+| Thin | Delicate, refined |
+| Thick | Bold, pronounced |
+| Bushy | Full, natural |
+
+---
+
 ## concerned thick
 
 ### Visual Properties

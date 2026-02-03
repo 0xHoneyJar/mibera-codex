@@ -4,6 +4,30 @@
 
 ---
 
+## Overview
+
+Masks range from functional rave gear to cultural/ritual face coverings. Many masks replace the hair layer entirely (marked `[no hair]`).
+
+### Masks by Archetype
+
+| Archetype | Examples |
+|-----------|----------|
+| **Freetekno** | Bear Mask, MF Doom, Silver Mask, Black Mask |
+| **Milady** | Homemade Bee Mask |
+| **Acidhouse** | Kim Jong Mask, Surgical Mask |
+| **Chicago Detroit** | [Hiberanation Eye Mask](#hiberanation-eye-mas), Green Mask, White Mask, White Anonymous, Golden Anonymous, Plastic Bag Mask |
+
+### Mask Types
+
+| Type | Examples |
+|------|----------|
+| **Sleep/Eye Masks** | [Hiberanation Eye Mask](#hiberanation-eye-mas) |
+| **Full Face** | Bear Mask, MF Doom, Anonymous masks |
+| **Cultural/Ritual** | Various ancestor-linked masks |
+| **Rave Functional** | Surgical Mask |
+
+---
+
 ## Hiberanation Eye Mas
 
 ### Visual Properties
