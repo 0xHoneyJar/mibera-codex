@@ -63,37 +63,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -110,11 +79,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -135,37 +99,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -182,11 +115,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Jani
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -207,37 +135,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -254,11 +151,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -279,24 +171,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
 ### Mibera Integration
 
 **Archetype:** 
@@ -326,11 +200,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -351,24 +220,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
 ### Mibera Integration
 
 **Archetype:** 
@@ -398,11 +249,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -423,24 +269,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
 ### Mibera Integration
 
 **Archetype:** 
@@ -470,11 +298,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -495,24 +318,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
 ### Mibera Integration
 
 **Archetype:** 
@@ -542,11 +347,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -567,24 +367,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
 ### Mibera Integration
 
 **Archetype:** 
@@ -614,11 +396,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -639,24 +416,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
 ### Mibera Integration
 
 **Archetype:** 
@@ -686,11 +445,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -711,24 +465,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
 ### Mibera Integration
 
 **Archetype:** 
@@ -759,11 +495,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Team Notes:** 
 
-**Sources:**
-
-
-**Summary:** 
-
 ---
 
 ## heart leaf
@@ -783,37 +514,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -830,11 +530,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -855,37 +550,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -902,11 +566,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -927,37 +586,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -974,11 +602,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -999,37 +622,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1046,11 +638,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1071,37 +658,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1118,11 +674,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1143,37 +694,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1190,11 +710,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1215,37 +730,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1263,11 +747,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Team Notes:** 
 
-**Sources:**
-
-
-**Summary:** 
-
 ---
 
 ## heart grey
@@ -1284,24 +763,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Visual Description:** Eyes with heart-shaped pupils in grey.
 
 **Dominant Colors:** Grey
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
 
 ---
 
@@ -1335,11 +796,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Team Notes:** 
 
-**Sources:**
-
-
-**Summary:** 
-
 ---
 
 ## bright gold
@@ -1359,37 +815,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1406,11 +831,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1431,37 +851,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1478,11 +867,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1503,37 +887,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1550,11 +903,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1575,37 +923,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1622,11 +939,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1647,37 +959,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1694,11 +975,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1719,37 +995,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1766,11 +1011,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1791,37 +1031,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1838,11 +1047,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1863,37 +1067,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1910,11 +1083,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1935,37 +1103,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1982,11 +1119,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2007,37 +1139,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2054,11 +1155,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2079,37 +1175,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2126,11 +1191,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2151,37 +1211,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2198,11 +1227,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2223,37 +1247,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2270,11 +1263,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2295,37 +1283,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2342,11 +1299,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2367,37 +1319,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2414,11 +1335,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2439,37 +1355,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2486,11 +1371,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2511,37 +1391,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2558,11 +1407,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2583,37 +1427,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2630,11 +1443,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2655,37 +1463,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2702,11 +1479,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2727,37 +1499,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2774,11 +1515,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2799,37 +1535,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2846,11 +1551,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2871,37 +1571,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2918,11 +1587,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2943,37 +1607,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2990,11 +1623,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3015,37 +1643,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3062,11 +1659,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3087,37 +1679,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3134,11 +1695,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3159,37 +1715,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3206,11 +1731,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3231,37 +1751,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3278,11 +1767,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3303,37 +1787,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3350,11 +1803,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3375,37 +1823,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3422,11 +1839,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3447,37 +1859,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3494,11 +1875,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3519,37 +1895,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3566,11 +1911,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3591,37 +1931,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3638,11 +1947,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3663,37 +1967,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3710,11 +1983,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3735,37 +2003,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3782,11 +2019,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3807,37 +2039,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3854,11 +2055,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3879,37 +2075,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3926,11 +2091,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3951,37 +2111,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3998,11 +2127,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4023,37 +2147,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4070,11 +2163,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4095,37 +2183,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4142,11 +2199,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4167,37 +2219,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4214,11 +2235,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4239,37 +2255,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4286,11 +2271,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4311,37 +2291,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4358,11 +2307,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4383,37 +2327,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4430,11 +2343,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4455,37 +2363,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4502,11 +2379,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4527,37 +2399,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4574,11 +2415,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4599,37 +2435,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4646,11 +2451,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4671,37 +2471,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4718,11 +2487,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4743,37 +2507,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4790,11 +2523,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4815,37 +2543,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4862,11 +2559,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4887,37 +2579,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4934,11 +2595,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4959,37 +2615,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5006,11 +2631,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5031,37 +2651,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5078,11 +2667,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5103,37 +2687,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5150,11 +2703,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5175,37 +2723,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5222,11 +2739,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5247,37 +2759,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5294,11 +2775,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5319,37 +2795,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5366,11 +2811,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5391,37 +2831,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5438,11 +2847,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5463,37 +2867,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5510,11 +2883,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5535,37 +2903,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5582,11 +2919,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5607,37 +2939,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5654,11 +2955,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5679,37 +2975,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5726,11 +2991,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5751,37 +3011,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5798,11 +3027,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5823,37 +3047,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5870,11 +3063,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5895,37 +3083,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5942,11 +3099,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5967,37 +3119,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6014,11 +3135,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6039,37 +3155,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6086,11 +3171,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6111,37 +3191,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6158,11 +3207,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6183,37 +3227,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6230,11 +3243,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6255,37 +3263,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6302,11 +3279,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6327,37 +3299,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6374,11 +3315,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 

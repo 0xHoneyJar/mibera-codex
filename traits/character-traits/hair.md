@@ -54,37 +54,6 @@ Messy Bob Blue__w17.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -101,11 +70,6 @@ Messy Bob Blue__w17.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -126,37 +90,6 @@ Short Messy Black__w24.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -173,11 +106,6 @@ Short Messy Black__w24.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -198,37 +126,6 @@ Normal Brown__w24.png Normal Brown__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -245,11 +142,6 @@ Normal Brown__w24.png Normal Brown__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -270,37 +162,6 @@ Normal Blue__w22.png Normal Blue__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -317,11 +178,6 @@ Normal Blue__w22.png Normal Blue__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -342,37 +198,6 @@ Short Messy Blonde__w20.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -389,11 +214,6 @@ Short Messy Blonde__w20.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -414,37 +234,6 @@ Messy Bob Brown__w20.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -461,11 +250,6 @@ Messy Bob Brown__w20.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -486,37 +270,6 @@ Cottage Brown__w20.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -533,11 +286,6 @@ Cottage Brown__w20.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -558,37 +306,6 @@ Braided Green__w16.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -605,11 +322,6 @@ Braided Green__w16.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -630,37 +342,6 @@ Normal Blonde__w20.png Normal Blonde__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -677,11 +358,6 @@ Normal Blonde__w20.png Normal Blonde__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -702,37 +378,6 @@ Short Flared Blue__w20.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -749,11 +394,6 @@ Short Flared Blue__w20.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -774,37 +414,6 @@ Classic Brown__w20.PNG Classic Brown__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -821,11 +430,6 @@ Classic Brown__w20.PNG Classic Brown__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -846,37 +450,6 @@ Cottage Blonde__w18.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -893,11 +466,6 @@ Cottage Blonde__w18.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -918,37 +486,6 @@ Cottage Blue__w15.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -965,11 +502,6 @@ Cottage Blue__w15.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -990,37 +522,6 @@ Short Flared Neon Orange__w16.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1037,11 +538,6 @@ Short Flared Neon Orange__w16.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1062,37 +558,6 @@ Long Wavy Brown__w16.png Long Wavy Brown__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1109,11 +574,6 @@ Long Wavy Brown__w16.png Long Wavy Brown__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1134,37 +594,6 @@ Hime Brown__w16.png Hime Brown__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1181,11 +610,6 @@ Hime Brown__w16.png Hime Brown__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1206,37 +630,6 @@ Hime Blonde__w14.png Hime Blonde__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1253,11 +646,6 @@ Hime Blonde__w14.png Hime Blonde__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1278,37 +666,6 @@ Cottage Green__w14.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1325,11 +682,6 @@ Cottage Green__w14.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1350,37 +702,6 @@ Braided Brown__w15.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1397,11 +718,6 @@ Braided Brown__w15.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1422,37 +738,6 @@ Classic Blonde__w14.PNG Classic Blonde__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1469,11 +754,6 @@ Classic Blonde__w14.PNG Classic Blonde__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1494,37 +774,6 @@ Long Wavy Blonde__w14.png Long Wavy Blonde__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1541,11 +790,6 @@ Long Wavy Blonde__w14.png Long Wavy Blonde__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1566,37 +810,6 @@ prepared.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1613,11 +826,6 @@ prepared.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1638,37 +846,6 @@ Long Wavy Black__w14.png Long Wavy Black__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1685,11 +862,6 @@ Long Wavy Black__w14.png Long Wavy Black__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1710,37 +882,6 @@ Messy Bob Blonde__w14.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1757,11 +898,6 @@ Messy Bob Blonde__w14.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1782,37 +918,6 @@ Classic Black__w16.PNG Classic Black__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1829,11 +934,6 @@ Classic Black__w16.PNG Classic Black__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1854,37 +954,6 @@ Classic Blue__w12.PNG Classic Blue__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1901,11 +970,6 @@ Classic Blue__w12.PNG Classic Blue__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1926,37 +990,6 @@ Short Messy Brown__w16.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1973,11 +1006,6 @@ Short Messy Brown__w16.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1998,37 +1026,6 @@ Braided Blonde__w12.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2045,11 +1042,6 @@ Braided Blonde__w12.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2070,37 +1062,6 @@ Short Messy Blue__w14.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2117,11 +1078,6 @@ Short Messy Blue__w14.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2142,37 +1098,6 @@ Braided Black__w11.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2189,11 +1114,6 @@ Braided Black__w11.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2214,37 +1134,6 @@ Dreamy Blonde__w8.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2261,11 +1150,6 @@ Dreamy Blonde__w8.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2286,37 +1170,6 @@ Dreamy Blonde__w8.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2333,11 +1186,6 @@ Dreamy Blonde__w8.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2358,37 +1206,6 @@ Fae Blue__w12.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2405,11 +1222,6 @@ Fae Blue__w12.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2430,37 +1242,6 @@ Short Pale Blonde__w11.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2477,11 +1258,6 @@ Short Pale Blonde__w11.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2502,37 +1278,6 @@ Short Pink__w11.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2549,11 +1294,6 @@ Short Pink__w11.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2574,37 +1314,6 @@ Short Purple__w11.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2621,11 +1330,6 @@ Short Purple__w11.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2646,37 +1350,6 @@ Cottage Magenta__w12.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2693,11 +1366,6 @@ Cottage Magenta__w12.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2718,37 +1386,6 @@ Classic Green__w10.PNG Classic Green__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2765,11 +1402,6 @@ Classic Green__w10.PNG Classic Green__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2790,37 +1422,6 @@ Relaxed Blonde__w12.PNG Relaxed Blonde__z-32.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2837,11 +1438,6 @@ Relaxed Blonde__w12.PNG Relaxed Blonde__z-32.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2862,37 +1458,6 @@ Relaxed Brown__w10.PNG Relaxed Brown__z-32.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2909,11 +1474,6 @@ Relaxed Brown__w10.PNG Relaxed Brown__z-32.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -2934,37 +1494,6 @@ Relaxed Green__w8.PNG Relaxed Green__z-32.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -2981,11 +1510,6 @@ Relaxed Green__w8.PNG Relaxed Green__z-32.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3006,37 +1530,6 @@ Short Green__w11.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3053,11 +1546,6 @@ Short Green__w11.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3078,37 +1566,6 @@ Medium Wavy Brown__w10.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3125,11 +1582,6 @@ Medium Wavy Brown__w10.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3150,37 +1602,6 @@ Hime Blue__w12.png Hime Blue__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3197,11 +1618,6 @@ Hime Blue__w12.png Hime Blue__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3222,37 +1638,6 @@ Normal Black__w11.png Normal Black__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3269,11 +1654,6 @@ Normal Black__w11.png Normal Black__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3294,37 +1674,6 @@ Braided Blue__w9.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3341,11 +1690,6 @@ Braided Blue__w9.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3366,37 +1710,6 @@ Messy Bob Green__w8.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3413,11 +1726,6 @@ Messy Bob Green__w8.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3438,37 +1746,6 @@ Short Blue__w8.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3485,11 +1762,6 @@ Short Blue__w8.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3510,37 +1782,6 @@ Short Blonde__w4.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3557,11 +1798,6 @@ Short Blonde__w4.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3582,37 +1818,6 @@ Medium Wavy Green__w8.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3629,11 +1834,6 @@ Medium Wavy Green__w8.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3654,37 +1854,6 @@ Medium Wavy Blonde__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3701,11 +1870,6 @@ Medium Wavy Blonde__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3726,37 +1890,6 @@ Medium Wavy Blue__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3773,11 +1906,6 @@ Medium Wavy Blue__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3798,37 +1926,6 @@ Medium Wavy Black__w4.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3845,11 +1942,6 @@ Medium Wavy Black__w4.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3870,37 +1962,6 @@ Medium Wavy Orange__w4.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3917,11 +1978,6 @@ Medium Wavy Orange__w4.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -3942,37 +1998,6 @@ Medium Wavy Red__w4.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -3989,11 +2014,6 @@ Medium Wavy Red__w4.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4014,37 +2034,6 @@ Medium Wavy Magenta__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4061,11 +2050,6 @@ Medium Wavy Magenta__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4086,37 +2070,6 @@ Peekaboo Blonde__w8.png Peekaboo Blonde__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4133,11 +2086,6 @@ Peekaboo Blonde__w8.png Peekaboo Blonde__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4158,37 +2106,6 @@ Long Wavy Blue__w8.png Long Wavy Blue__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4205,11 +2122,6 @@ Long Wavy Blue__w8.png Long Wavy Blue__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4230,37 +2142,6 @@ Short Messy Green__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4277,11 +2158,6 @@ Short Messy Green__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4302,37 +2178,6 @@ Long Wavy Green__w6.png Long Wavy Green__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4349,11 +2194,6 @@ Long Wavy Green__w6.png Long Wavy Green__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4374,37 +2214,6 @@ Braided Purple__w6.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4421,11 +2230,6 @@ Braided Purple__w6.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4446,37 +2250,6 @@ Classic Orange__w5.PNG Classic Orange__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4493,11 +2266,6 @@ Classic Orange__w5.PNG Classic Orange__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4518,37 +2286,6 @@ Cottage Orange__w5.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4565,11 +2302,6 @@ Cottage Orange__w5.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4590,37 +2322,6 @@ Normal Orange__w5.png Normal Orange__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4637,11 +2338,6 @@ Normal Orange__w5.png Normal Orange__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4662,37 +2358,6 @@ Dreamy Blue__w4.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4709,11 +2374,6 @@ Dreamy Blue__w4.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4734,37 +2394,6 @@ Fae Green__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4781,11 +2410,6 @@ Fae Green__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4806,37 +2430,6 @@ Hime Orange__w6.png Hime Orange__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4853,11 +2446,6 @@ Hime Orange__w6.png Hime Orange__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4878,37 +2466,6 @@ Braided Red__w5.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4925,11 +2482,6 @@ Braided Red__w5.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -4950,37 +2502,6 @@ Normal Magenta__w6.png Normal Magenta__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -4997,11 +2518,6 @@ Normal Magenta__w6.png Normal Magenta__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5022,37 +2538,6 @@ Cottage Red__w5.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5069,11 +2554,6 @@ Cottage Red__w5.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5094,37 +2574,6 @@ Messy Bob Orange__w4.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5141,11 +2590,6 @@ Messy Bob Orange__w4.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5166,37 +2610,6 @@ Relaxed Orange__w6.PNG Relaxed Orange__z-32.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5213,11 +2626,6 @@ Relaxed Orange__w6.PNG Relaxed Orange__z-32.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5238,37 +2646,6 @@ Classic Pink__w4.PNG Classic Pink__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5285,11 +2662,6 @@ Classic Pink__w4.PNG Classic Pink__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5310,37 +2682,6 @@ Hime Green__w4.png Hime Green__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5357,11 +2698,6 @@ Hime Green__w4.png Hime Green__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5382,37 +2718,6 @@ Cottage Purple__w4.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5429,11 +2734,6 @@ Cottage Purple__w4.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5454,37 +2754,6 @@ Fae Pink__w4.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5501,11 +2770,6 @@ Fae Pink__w4.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5526,37 +2790,6 @@ Braided Orange__w4.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5573,11 +2806,6 @@ Braided Orange__w4.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5598,37 +2826,6 @@ Relaxed Purple__w4.PNG Relaxed Purple__z-32.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5645,11 +2842,6 @@ Relaxed Purple__w4.PNG Relaxed Purple__z-32.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5670,37 +2862,6 @@ Short Messy Magenta__w4.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5718,11 +2879,6 @@ Short Messy Magenta__w4.png
 
 **Team Notes:** 
 
-**Sources:**
-
-
-**Summary:** 
-
 ---
 
 ## normal green
@@ -5739,24 +2895,6 @@ Normal Green__w4.png Normal Green__z-32.png
 **Visual Description:** Short haircut with straight bangs and flat ends, in forest green.
 
 **Dominant Colors:** Forest green.
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
 
 ---
 
@@ -5790,11 +2928,6 @@ Normal Green__w4.png Normal Green__z-32.png
 
 **Team Notes:** 
 
-**Sources:**
-
-
-**Summary:** 
-
 ---
 
 ## hime black
@@ -5814,37 +2947,6 @@ Hime Black__w4.png Hime Black__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5861,11 +2963,6 @@ Hime Black__w4.png Hime Black__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5886,37 +2983,6 @@ Classic Purple__w4.PNG Classic Purple__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -5933,11 +2999,6 @@ Classic Purple__w4.PNG Classic Purple__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -5958,37 +3019,6 @@ Short Messy Orange__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6005,11 +3035,6 @@ Short Messy Orange__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6030,37 +3055,6 @@ Middle Purple__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6077,11 +3071,6 @@ Middle Purple__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6102,37 +3091,6 @@ Middle Green__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6149,11 +3107,6 @@ Middle Green__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6174,37 +3127,6 @@ Middle Orange__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6221,11 +3143,6 @@ Middle Orange__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6246,37 +3163,6 @@ Middle Pink__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6293,11 +3179,6 @@ Middle Pink__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6318,37 +3199,6 @@ Normal Purple__w4.png Normal Purple__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6365,11 +3215,6 @@ Normal Purple__w4.png Normal Purple__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6390,37 +3235,6 @@ Long Wavy Red__w2.png Long Wavy Red__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6437,11 +3251,6 @@ Long Wavy Red__w2.png Long Wavy Red__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6462,37 +3271,6 @@ Braided Oil Spill__w4.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6509,11 +3287,6 @@ Braided Oil Spill__w4.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6534,37 +3307,6 @@ Short Messy Purple__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6581,11 +3323,6 @@ Short Messy Purple__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6606,37 +3343,6 @@ Middle Brown__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6653,11 +3359,6 @@ Middle Brown__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6678,37 +3379,6 @@ Middle Blue__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6725,11 +3395,6 @@ Middle Blue__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6750,37 +3415,6 @@ Middle Blonde__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6797,11 +3431,6 @@ Middle Blonde__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6822,37 +3451,6 @@ Middle Black__w6.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6869,11 +3467,6 @@ Middle Black__w6.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6894,37 +3487,6 @@ Dreamy Green__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -6941,11 +3503,6 @@ Dreamy Green__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -6966,37 +3523,6 @@ Long Wavy Purple__w2.png Long Wavy Purple__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7013,11 +3539,6 @@ Long Wavy Purple__w2.png Long Wavy Purple__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7038,37 +3559,6 @@ Hime Purple__w2.png Hime Purple__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7085,11 +3575,6 @@ Hime Purple__w2.png Hime Purple__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7110,37 +3595,6 @@ Fae Purple__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7157,11 +3611,6 @@ Fae Purple__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7182,37 +3631,6 @@ Hime Experimental__w2.png Hime Experimental__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7229,11 +3647,6 @@ Hime Experimental__w2.png Hime Experimental__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7254,37 +3667,6 @@ Dreamy Purple__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7301,11 +3683,6 @@ Dreamy Purple__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7326,37 +3703,6 @@ Hime Pink__w2.png Hime Pink__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7373,11 +3719,6 @@ Hime Pink__w2.png Hime Pink__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7398,37 +3739,6 @@ Long Wavy Magenta__w2.png Long Wavy Magenta__z-32.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7445,11 +3755,6 @@ Long Wavy Magenta__w2.png Long Wavy Magenta__z-32.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7470,37 +3775,6 @@ Messy Bob Purple__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7517,11 +3791,6 @@ Messy Bob Purple__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7542,37 +3811,6 @@ Rave Green__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7589,11 +3827,6 @@ Rave Green__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7614,37 +3847,6 @@ Relaxed Red__w2.PNG Relaxed Red__z-32.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7661,11 +3863,6 @@ Relaxed Red__w2.PNG Relaxed Red__z-32.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7686,37 +3883,6 @@ Double Green__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7733,11 +3899,6 @@ Double Green__w2.png
 **Introduced By:** Tez
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7758,37 +3919,6 @@ Rave Blonde__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7805,11 +3935,6 @@ Rave Blonde__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7830,37 +3955,6 @@ Double Purple__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7877,11 +3971,6 @@ Double Purple__w2.png
 **Introduced By:** Tez
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7902,37 +3991,6 @@ Double White__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -7949,11 +4007,6 @@ Double White__w2.png
 **Introduced By:** Tez
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -7974,37 +4027,6 @@ Double White__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8021,11 +4043,6 @@ Double White__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8046,37 +4063,6 @@ Fauxhawk Blonde__w2.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8093,11 +4079,6 @@ Fauxhawk Blonde__w2.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8118,37 +4099,6 @@ Rave Pink__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8165,11 +4115,6 @@ Rave Pink__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8190,37 +4135,6 @@ Rave Blue__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8237,11 +4151,6 @@ Rave Blue__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8262,37 +4171,6 @@ Lain__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8309,11 +4187,6 @@ Lain__w2.png
 **Introduced By:** Tez
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8334,37 +4207,6 @@ Double Pink__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8381,11 +4223,6 @@ Double Pink__w2.png
 **Introduced By:** Tez
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8406,37 +4243,6 @@ Rave Purple__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8453,11 +4259,6 @@ Rave Purple__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8478,37 +4279,6 @@ Rave Orange__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8525,11 +4295,6 @@ Rave Orange__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8550,37 +4315,6 @@ Rave Black__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8597,11 +4331,6 @@ Rave Black__w2.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8622,37 +4351,6 @@ Double Blue__w2.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8669,11 +4367,6 @@ Double Blue__w2.png
 **Introduced By:** Tez
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8694,37 +4387,6 @@ Fauxhawk Green__w2.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8741,11 +4403,6 @@ Fauxhawk Green__w2.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8766,37 +4423,6 @@ Fauxhawk Red__w2.PNG
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8813,11 +4439,6 @@ Fauxhawk Red__w2.PNG
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8838,37 +4459,6 @@ stylish.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8885,11 +4475,6 @@ stylish.png
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -8910,37 +4495,6 @@ afro.png
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -8957,11 +4511,6 @@ afro.png
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 

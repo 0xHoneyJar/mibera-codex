@@ -47,37 +47,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -94,11 +63,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Fedor
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -119,37 +83,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -166,11 +99,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -191,37 +119,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -238,11 +135,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -263,37 +155,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -310,11 +171,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -335,37 +191,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -382,11 +207,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -407,37 +227,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -454,11 +243,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -479,37 +263,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -526,11 +279,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -551,37 +299,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -598,11 +315,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -623,37 +335,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -670,11 +351,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Fedor
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -695,37 +371,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -742,11 +387,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -767,37 +407,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -814,11 +423,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -839,37 +443,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -886,11 +459,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -911,37 +479,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -958,11 +495,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -983,37 +515,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1030,11 +531,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1055,37 +551,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1102,11 +567,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1127,37 +587,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1174,11 +603,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Jani
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1199,37 +623,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1246,11 +639,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1271,37 +659,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1318,11 +675,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** 
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1343,37 +695,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1390,11 +711,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Fedor
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -1415,37 +731,6 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -1462,11 +747,6 @@ Some mouth expressions reference altered states:
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 

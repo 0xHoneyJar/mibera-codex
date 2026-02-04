@@ -51,37 +51,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -98,11 +67,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -123,37 +87,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -170,11 +103,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -195,37 +123,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -242,11 +139,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -267,37 +159,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -314,11 +175,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -339,37 +195,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -386,11 +211,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -411,37 +231,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -458,11 +247,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -483,37 +267,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -530,11 +283,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -555,37 +303,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -602,11 +319,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
@@ -627,37 +339,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:** 
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Swag Score:** 
-
-
----
-
 ### Connections
 
 **Ancestor:** 
@@ -674,11 +355,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Introduced By:** Gumi
 
 **Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
 
 ---
 
