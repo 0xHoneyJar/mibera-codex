@@ -12,23 +12,19 @@
 
 **Image Files:**
 
-**Background Type:**
 
 **Visual Description:**
 
 **Dominant Colors:**
 
-**Mood/Atmosphere:**
 
 ---
 
 ### Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
-**Scene Association:**
 
 **Why This Matters:**
 

@@ -44,7 +44,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Wartime](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_wartime.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Blood splattered upwards.
 
@@ -55,19 +54,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -77,9 +72,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** Cultural reference within Milady around 2022, called the ‘wartime’ where a lot of Miladys put blood splatter on top of their Milady PFP.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -91,11 +84,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -122,7 +114,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Dots](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_Dots.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Three small black dots under each eye.
 
@@ -133,19 +124,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -155,9 +142,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** Based on an existing Milady Maker trait. The Milady trait features both a crescent moon on the forehead and four dots on the cheeks.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -169,11 +154,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -197,7 +181,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Crafty](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_freetekno_crafty.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Couple of bandages.
 
@@ -208,19 +191,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -230,9 +209,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -244,11 +221,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -272,7 +248,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Teardrops](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_teardrops.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Three tear / liquid drops.
 
@@ -283,19 +258,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -305,9 +276,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** Teardrop tattoo is one of Milady’s traits.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -319,11 +288,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -347,7 +315,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Cross](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_Cross.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Slightly transparent upside down cross.
 
@@ -358,19 +325,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -380,9 +343,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -394,11 +355,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -422,7 +382,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Fluoro Pink](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_Fluoro Pink.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Three vibrant neon-pink strokes, one bigger than the other two.
 
@@ -433,19 +392,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -455,9 +410,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
@@ -469,11 +422,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -497,7 +449,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Red Forehead](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_modern_nepal_Red Forehead.webp)
 
-**Accessory Type:**
 
 **Visual Description:** vibrant red strokes going upwards.
 
@@ -508,19 +459,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** In Nepali culture, the red forehead mark, or "tika," is a Hindu tradition made from vermilion, rice, and yogurt, applied during ceremonies and festivals like Dashain. It symbolizes purity, devotion, and good fortune, marking the "third eye" for spiritual energy. For married women, it also signifies commitment.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -530,9 +477,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -544,11 +489,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** Nepal
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -572,7 +516,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Bleeding](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_bleeding.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Blood dripping down from a neat cut.
 
@@ -583,19 +526,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -605,9 +544,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -619,11 +556,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -647,7 +583,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Star Face](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_acidhouse_star.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black star.
 
@@ -658,19 +593,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -680,9 +611,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -694,11 +623,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -722,7 +650,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Blush](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_blush.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Very subtle warm pink blush, translucent.
 
@@ -733,19 +660,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -755,9 +678,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -769,11 +690,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -797,7 +717,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Tyson](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_Milady_tyson.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Tribal tattoo; featuring bold, flowing black lines with an asymmetrical abstract design. Incorporating sharp angles, curves, and pointed tips.
 
@@ -808,19 +727,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Mike Tyson
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -830,9 +745,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -844,11 +757,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -872,7 +784,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Fluoro Blue](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_Fluoro Blue.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Three vibrant neon-blue (almost turquoise) strokes, one bigger than the other two.
 
@@ -883,19 +794,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -905,9 +812,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
@@ -919,11 +824,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -947,7 +851,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Fluoro Green](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_Fluoro Green.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Three vibrant-neon green strokes, one bigger than the other two.
 
@@ -958,19 +861,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -980,9 +879,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
@@ -994,11 +891,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1022,7 +918,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Bindi](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_modern_nepal_Bindi.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Red dot
 
@@ -1033,19 +928,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Traditional forehead mark in South Asian cultures, especially India, often a red dot made from vermilion or adorned with decorative stickers. Rooted in Hinduism, it marks the ajna chakra ("third eye"), symbolizing wisdom, protection, and spiritual energy. For married women, a red bindi signifies marital status, while colors vary for unmarried women or men. Worn during rituals, festivals, or daily, its use has evolved into a fashion statement globally
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1055,9 +946,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -1069,11 +958,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** Nepal
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1097,7 +985,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Mibera Smiley](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_mibera smiley.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Smiley face with bear ears made of thin lines.
 
@@ -1108,19 +995,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1130,9 +1013,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** An outline of Mibera’s logo as a rendition of the original remilia / Milady smiley logo. Only natural for it to be included.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1144,11 +1025,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1172,7 +1052,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Star](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_Milady_Star.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Small black star.
 
@@ -1183,19 +1062,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1205,9 +1080,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -1219,11 +1092,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1247,7 +1119,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Hand](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_hand.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Red hand print
 
@@ -1258,19 +1129,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1280,9 +1147,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1294,11 +1159,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1322,7 +1186,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Oil](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_freetekno_Oil.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black smudges, 1 bigger in size and 2 small ones.
 
@@ -1333,19 +1196,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1355,9 +1214,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -1369,11 +1226,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1398,7 +1254,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Heart](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_milady_Heart.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Two tiny hearts in black.
 
@@ -1409,19 +1264,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1431,9 +1282,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -1445,11 +1294,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1473,7 +1321,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Hindu Swastika](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_Hindu swastika.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Hindu Swastika in red; a symmetrical shape with four identical arms bent at right angles, extending clockwise in a pinwheel-like pattern, with dots at the arm intersections.
 
@@ -1484,19 +1331,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Hindu swastika is a 5,000-year-old symbol from the Indus Valley Civilization, means "well-being" in Sanskrit and represents prosperity and the cycle of life, linked to Ganesha. Used in Hindu, Jain, and Buddhist rituals. Its positive meaning was tainted by the Nazis' reversed version, but it remains sacred in these cultures.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1506,9 +1349,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1520,11 +1361,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1549,7 +1389,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Chulym 2](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_chulym 2.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Five small white dots at the top forming a slight arc, two red upward chevrons and a small red stroke.
 
@@ -1560,19 +1399,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Otyken; a Siberian indigenous music group formed in 2015 by Andrey Medonos in Krasnoyarsk, blending traditional folk music with modern pop, rock, and EDM elements. Featuring members from ethnic groups like Chulym, Ket, Khakas, Dolgan, and Selkup. They use native languages and instruments like jaw harps and drums, often crafted themselves, to highlight Siberian culture.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1582,9 +1417,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1596,11 +1429,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1626,7 +1458,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Indian Paint](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_chicagodetroit_ancient_indian_Indian.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Brush strokes and smudges of bright red and yellow stripes with a darker red / maroon stripe in the center.
 
@@ -1637,19 +1468,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Traditional Indian paint includes the use of natural substances like turmeric, sandalwood, vermilion (sindoor), and henna to create decorative markings on the body and face. These paints are applied during festivals (e.g., Holi), weddings, and rituals, symbolizing prosperity, protection, and spiritual connection.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1659,9 +1486,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1673,11 +1498,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** Indian
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1701,7 +1525,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Crescent](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_Crescent.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black crescent moon shape, facing north.
 
@@ -1712,19 +1535,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1734,9 +1553,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1748,11 +1565,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1776,7 +1592,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Chulym](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_chulym.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White strokes with a slight hint of pink / rosy undertones. 1 line in the center with 2 dots symmetrically placed under it.
 
@@ -1787,19 +1602,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1809,9 +1620,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1823,11 +1632,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1853,7 +1661,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Mononoke](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_Mononoke.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Two medium-sized triangles in red, pointed downward.
 
@@ -1864,19 +1671,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Princess Mononoke (1997)
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1886,9 +1689,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1900,11 +1701,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1928,7 +1728,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Pride](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_milady_pride.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Rainbow strokes in a rectangle shape. Symbolizing a pride flag.
 
@@ -1939,19 +1738,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1961,9 +1756,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** The pride flag's history began with the rainbow flag, designed by Gilbert Baker in 1978 for San Francisco's gay community, commissioned by Harvey Milk. Inspired by the rainbow's symbolism of diversity and Judy Garland's "Over the Rainbow,"
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -1975,11 +1768,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2003,7 +1795,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Trans Flag](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_milady_trans flag.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Strokes of bright blue, pink, and white in a rectangle shape. Symbolizing a trans flag.
 
@@ -2014,19 +1805,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The transgender movement's history traces back to ancient cultures, with examples like the Hijra in India and Two-Spirit individuals in Native American societies, recognized for gender diversity. Modern activism began in the 20th century, with pioneers like Magnus Hirschfeld in Germany (1890s) advocating for gender variance. Key milestones include Christine Jorgensen’s 1952 gender confirmation surgery, sparking public awareness, and the 1966 Compton’s Cafeteria riot in San Francisco, an early transgender uprising. The Stonewall Riots (1969) boosted the movement, led by trans figures like Marsha P. Johnson.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2036,9 +1823,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2050,11 +1835,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2078,7 +1862,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Tear Drop](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_Milady_tear drop.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Face tattoo of a symmetrical form with a rounded wider base that tapers gradually to a pointed tip.
 
@@ -2089,19 +1872,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2111,9 +1890,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** Milady has tear drop as one of their traits.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2125,11 +1902,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2153,7 +1929,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Fluoro White](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_freetekno_Fluoro White.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Three white strokes, one bigger than the other two.
 
@@ -2164,19 +1939,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2186,9 +1957,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
@@ -2200,11 +1969,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2228,7 +1996,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Whiskers](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_Whiskers.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Six really thin lines resembling cat whiskers.
 
@@ -2239,19 +2006,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2261,9 +2024,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -2275,11 +2036,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2303,7 +2063,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Small Bandage](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_small bandage.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Small bandage in white.
 
@@ -2314,19 +2073,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2336,9 +2091,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -2350,11 +2103,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2378,7 +2130,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Mibera](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_milady_Mibera.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Writing of ‘MIBERA’ in all capital letters.
 
@@ -2389,19 +2140,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2411,9 +2158,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -2425,11 +2170,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2453,7 +2197,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Bandaid](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_bandaid.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Small band-aid in their stereotypical light-brown color.
 
@@ -2464,19 +2207,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2486,9 +2225,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -2500,11 +2237,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2528,7 +2264,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Clean Bandage](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_chicagodetroit_clean bandage.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Square-shaped bandage in white with a thin line cross on top of it securing the bandage in place.
 
@@ -2539,19 +2274,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2561,9 +2292,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -2575,11 +2304,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2603,7 +2331,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Joker](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_joker.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Roughly circular, white face with smudged outline. On it are: two blue, upward-pointing triangles above the eyes with other two pointing downwards below the eyes. a red, diamond-shaped nose, and a wide red curved smile.
 
@@ -2614,19 +2341,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2636,9 +2359,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5 - https://discord.com/channels/1133935527855399053/1150328747908677654/11869669704159 80575 ---
 
@@ -2650,11 +2371,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 26, 2025
 
@@ -2678,7 +2398,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Septum](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_freetekno_Septum.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Small circular ring resembling a ring..
 
@@ -2689,19 +2408,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2711,9 +2426,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -2725,11 +2438,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2753,7 +2465,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Aboriginal Red](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Red.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Red slightly curved horizontal red paint above (or framed within) a white one, with black stroke underneath.
 
@@ -2764,19 +2475,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The origin of Aboriginal Australian red, black, and white face paint lies in ancient Indigenous cultural practices, dating back tens of thousands of years. These colors, derived from natural ochres (red and yellow from iron oxide, white from kaolin clay, black from charcoal or manganese), are used in ceremonies, storytelling, and rites of passage. Red symbolizes the earth, blood, and life; black represents the people and the night sky; and white signifies peace, spirit, or the ancestors. Applied in intricate patterns during corroborees or body painting, they connect individuals to the Dreamtime, their spiritual creation narrative.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2786,9 +2493,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -2800,11 +2505,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** Aboriginal
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2828,7 +2532,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Ethiopian](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_chicagodetroit_ancient_ethiopian_Ethiopian.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White base with smudged outline, and messy circular-rectangular shape doodles in black on top of it.
 
@@ -2839,19 +2542,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The face paint in the image is associated with the Surma (or Suri) people, an ethnic group in Ethiopia's Omo Valley. The distinctive white base with black geometric patterns, often ovals or circles, is made from a mixture of chalk, ash, or local clay, applied during ceremonies, rites of passage, or adornment. This tradition, dating back centuries, signifies beauty, identity, and social status, with designs varying by individual or occasion. The Surma, including subgroups like the Mursi, also use natural materials like flowers and fruits in their headgear, reflecting their connection to the land.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2861,9 +2560,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -2875,11 +2572,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** Ethiopian
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2904,7 +2600,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Bandage](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_chicagodetroit_bandage.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Square-shaped bandage in white, tiny reddish spot in the middle covered under a thin line cross on top of it.
 
@@ -2915,19 +2610,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2937,9 +2628,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -2951,11 +2640,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2979,7 +2667,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Image Files:**
 ![Aboriginal Orange](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Orange.webp)
 
-**Accessory Type:**
 
 **Visual Description:** An orange, slightly curved, orange thick horizontal stroke, with scattered yellow and black dots on top of it. Under it, a dark black line stroke with fewer yellow spots on it.
 
@@ -2990,19 +2677,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The origin of Aboriginal Australian red, black, and white face paint lies in ancient Indigenous cultural practices, dating back tens of thousands of years. These colors, derived from natural ochres (red and yellow from iron oxide, white from kaolin clay, black from charcoal or manganese), are used in ceremonies, storytelling, and rites of passage. Red symbolizes the earth, blood, and life; black represents the people and the night sky; and white signifies peace, spirit, or the ancestors. Applied in intricate patterns during corroborees or body painting, they connect individuals to the Dreamtime, their spiritual creation narrative.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3012,9 +2695,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -3026,11 +2707,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:** Aboriginal
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3053,7 +2733,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -3063,19 +2742,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3085,7 +2760,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3096,11 +2770,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -3122,7 +2795,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -3132,19 +2804,15 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3154,7 +2822,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3165,11 +2832,10 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

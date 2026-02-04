@@ -12,9 +12,7 @@
 
 **Image Files:**
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:**
 
@@ -24,19 +22,15 @@
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -46,9 +40,7 @@
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:**
 
@@ -58,11 +50,10 @@
 
 **Ancestor:**
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:**
 
@@ -95,7 +86,6 @@
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 
@@ -107,26 +97,6 @@
 ---
 
 # Field Reference Guide
-
-## Vibe Tags Glossary
-
-| Tag | Meaning |
-|-----|---------|
-| underground | DIY, illegal, anti-mainstream |
-| euphoric | peak energy, hands-in-the-air |
-| nostalgic | references past eras, vintage feel |
-| psychedelic | trippy, altered states, visuals |
-| minimal | stripped back, subtle, refined |
-| aggressive | hard, intense, confrontational |
-| dreamy | soft, ethereal, floating |
-| playful | fun, irreverent, humorous |
-| dark | moody, nocturnal, shadowy |
-| spiritual | transcendent, ritualistic, sacred |
-| rebellious | anti-authority, countercultural |
-| chill | laid-back, after-hours, mellow |
-| chaotic | frenetic, unpredictable, wild |
-| introspective | internal, contemplative, deep |
-| celebratory | joyful, communal, festive |
 
 ## Archetype Quick Reference
 

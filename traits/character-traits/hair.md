@@ -46,7 +46,6 @@ Blue, Pink, Black, Blonde, Brown, Red, Green, Purple, White, Rainbow
 **Image Files:**
 Messy Bob Blue__w17.png
 
-**Trait Category:**
 
 **Visual Description:** a messy bob with messy bangs in baby blue.
 
@@ -59,11 +58,10 @@ Messy Bob Blue__w17.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -82,7 +80,6 @@ Messy Bob Blue__w17.png
 **Image Files:**
 Short Messy Black__w24.png
 
-**Trait Category:**
 
 **Visual Description:** a very short messy, voluminous, rounded hairstyle in black with soft outward-curving edges.
 
@@ -95,11 +92,10 @@ Short Messy Black__w24.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -118,7 +114,6 @@ Short Messy Black__w24.png
 **Image Files:**
 Normal Brown__w24.png Normal Brown__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a short haircut with straight bangs and flat ends, in hazel brown.
 
@@ -131,11 +126,10 @@ Normal Brown__w24.png Normal Brown__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -154,7 +148,6 @@ Normal Brown__w24.png Normal Brown__z-32.png
 **Image Files:**
 Normal Blue__w22.png Normal Blue__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a short haircut with straight bangs and flat ends, in a washed / dark pale blue.
 
@@ -167,11 +160,10 @@ Normal Blue__w22.png Normal Blue__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -190,7 +182,6 @@ Normal Blue__w22.png Normal Blue__z-32.png
 **Image Files:**
 Short Messy Blonde__w20.png
 
-**Trait Category:**
 
 **Visual Description:** a very short messy, voluminous, rounded hairstyle in orange-y blonde with soft outward-curving edges.
 
@@ -203,11 +194,10 @@ Short Messy Blonde__w20.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -226,7 +216,6 @@ Short Messy Blonde__w20.png
 **Image Files:**
 Messy Bob Brown__w20.png
 
-**Trait Category:**
 
 **Visual Description:** a messy bob with messy bangs in light brown.
 
@@ -239,11 +228,10 @@ Messy Bob Brown__w20.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -262,7 +250,6 @@ Messy Bob Brown__w20.png
 **Image Files:**
 Cottage Brown__w20.PNG
 
-**Trait Category:**
 
 **Visual Description:** a chocolate-brown hair braided traditionally on one side, with short curtain bangs.
 
@@ -275,11 +262,10 @@ Cottage Brown__w20.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -298,7 +284,6 @@ Cottage Brown__w20.PNG
 **Image Files:**
 Braided Green__w16.PNG
 
-**Trait Category:**
 
 **Visual Description:** dark moss-green hair braided on both sides with white hair ties and flat bangs.
 
@@ -311,11 +296,10 @@ Braided Green__w16.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -334,7 +318,6 @@ Braided Green__w16.PNG
 **Image Files:**
 Normal Blonde__w20.png Normal Blonde__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a short haircut with straight bangs and flat ends, in a dark golden blonde.
 
@@ -347,11 +330,10 @@ Normal Blonde__w20.png Normal Blonde__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -370,7 +352,6 @@ Normal Blonde__w20.png Normal Blonde__z-32.png
 **Image Files:**
 Short Flared Blue__w20.PNG
 
-**Trait Category:**
 
 **Visual Description:** a voluminous, rounded hairstyle in teal, with smooth, layered texture and sharp-flat outward-curving edges at the end.
 
@@ -383,11 +364,10 @@ Short Flared Blue__w20.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -406,7 +386,6 @@ Short Flared Blue__w20.PNG
 **Image Files:**
 Classic Brown__w20.PNG Classic Brown__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length brown hair with short curtain bangs and softly curved-inwards edges.
 
@@ -419,11 +398,10 @@ Classic Brown__w20.PNG Classic Brown__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -442,7 +420,6 @@ Classic Brown__w20.PNG Classic Brown__z-32.png
 **Image Files:**
 Cottage Blonde__w18.PNG
 
-**Trait Category:**
 
 **Visual Description:** a dark golden blonde hair braided traditionally on one side, with short curtain bangs curved inwards.
 
@@ -455,11 +432,10 @@ Cottage Blonde__w18.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -478,7 +454,6 @@ Cottage Blonde__w18.PNG
 **Image Files:**
 Cottage Blue__w15.PNG
 
-**Trait Category:**
 
 **Visual Description:** a deep vibrant blue hair braided traditionally on one side, with short curtain bangs curved inwards.
 
@@ -491,11 +466,10 @@ Cottage Blue__w15.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -514,7 +488,6 @@ Cottage Blue__w15.PNG
 **Image Files:**
 Short Flared Neon Orange__w16.png
 
-**Trait Category:**
 
 **Visual Description:** a voluminous, rounded hairstyle in bright orange gradient, with smooth, layered texture and sharp-flat outward-curving edges at the end.
 
@@ -527,11 +500,10 @@ Short Flared Neon Orange__w16.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -550,7 +522,6 @@ Short Flared Neon Orange__w16.png
 **Image Files:**
 Long Wavy Brown__w16.png Long Wavy Brown__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a long wavy hair in brown, with wavy bangs.
 
@@ -563,11 +534,10 @@ Long Wavy Brown__w16.png Long Wavy Brown__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -586,7 +556,6 @@ Long Wavy Brown__w16.png Long Wavy Brown__z-32.png
 **Image Files:**
 Hime Brown__w16.png Hime Brown__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in soft brown.
 
@@ -599,11 +568,10 @@ Hime Brown__w16.png Hime Brown__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -622,7 +590,6 @@ Hime Brown__w16.png Hime Brown__z-32.png
 **Image Files:**
 Hime Blonde__w14.png Hime Blonde__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in yellow-ish blonde.
 
@@ -635,11 +602,10 @@ Hime Blonde__w14.png Hime Blonde__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -658,7 +624,6 @@ Hime Blonde__w14.png Hime Blonde__z-32.png
 **Image Files:**
 Cottage Green__w14.PNG
 
-**Trait Category:**
 
 **Visual Description:** a deep forest green hair braided traditionally on one side, with short curtain bangs curved inwards.
 
@@ -671,11 +636,10 @@ Cottage Green__w14.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -694,7 +658,6 @@ Cottage Green__w14.PNG
 **Image Files:**
 Braided Brown__w15.PNG
 
-**Trait Category:**
 
 **Visual Description:** deep brown hair braided on both sides with white hair ties and flat bangs.
 
@@ -707,11 +670,10 @@ Braided Brown__w15.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -730,7 +692,6 @@ Braided Brown__w15.PNG
 **Image Files:**
 Classic Blonde__w14.PNG Classic Blonde__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length golden blonde hair with short curtain bangs and softly curved-inwards edges.
 
@@ -743,11 +704,10 @@ Classic Blonde__w14.PNG Classic Blonde__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -766,7 +726,6 @@ Classic Blonde__w14.PNG Classic Blonde__z-32.png
 **Image Files:**
 Long Wavy Blonde__w14.png Long Wavy Blonde__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a long wavy hair in blonde, with wavy bangs.
 
@@ -779,11 +738,10 @@ Long Wavy Blonde__w14.png Long Wavy Blonde__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -802,7 +760,6 @@ Long Wavy Blonde__w14.png Long Wavy Blonde__z-32.png
 **Image Files:**
 prepared.png
 
-**Trait Category:**
 
 **Visual Description:** black coily hair, shaved on the sides and longer at the top with an Afro comb / hair pick still stuck on it.
 
@@ -815,11 +772,10 @@ prepared.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -838,7 +794,6 @@ prepared.png
 **Image Files:**
 Long Wavy Black__w14.png Long Wavy Black__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a long wavy hair in black, with wavy bangs.
 
@@ -851,11 +806,10 @@ Long Wavy Black__w14.png Long Wavy Black__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -874,7 +828,6 @@ Long Wavy Black__w14.png Long Wavy Black__z-32.png
 **Image Files:**
 Messy Bob Blonde__w14.png
 
-**Trait Category:**
 
 **Visual Description:** a messy bob with messy bangs in blonde.
 
@@ -887,11 +840,10 @@ Messy Bob Blonde__w14.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -910,7 +862,6 @@ Messy Bob Blonde__w14.png
 **Image Files:**
 Classic Black__w16.PNG Classic Black__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length black hair with short curtain bangs and softly curved-inwards edges.
 
@@ -923,11 +874,10 @@ Classic Black__w16.PNG Classic Black__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -946,7 +896,6 @@ Classic Black__w16.PNG Classic Black__z-32.png
 **Image Files:**
 Classic Blue__w12.PNG Classic Blue__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length dark pale blue hair with short curtain bangs and softly curved-inwards edges.
 
@@ -959,11 +908,10 @@ Classic Blue__w12.PNG Classic Blue__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -982,7 +930,6 @@ Classic Blue__w12.PNG Classic Blue__z-32.png
 **Image Files:**
 Short Messy Brown__w16.png
 
-**Trait Category:**
 
 **Visual Description:** a very short messy, voluminous, rounded hairstyle in brown with soft outward-curving edges.
 
@@ -995,11 +942,10 @@ Short Messy Brown__w16.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1018,7 +964,6 @@ Short Messy Brown__w16.png
 **Image Files:**
 Braided Blonde__w12.PNG
 
-**Trait Category:**
 
 **Visual Description:** deep blonde hair braided on both sides with white hair ties and flat bangs.
 
@@ -1031,11 +976,10 @@ Braided Blonde__w12.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1054,7 +998,6 @@ Braided Blonde__w12.PNG
 **Image Files:**
 Short Messy Blue__w14.png
 
-**Trait Category:**
 
 **Visual Description:** a very short messy, voluminous, rounded hairstyle in dark blue with soft outward-curving edges.
 
@@ -1067,11 +1010,10 @@ Short Messy Blue__w14.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1090,7 +1032,6 @@ Short Messy Blue__w14.png
 **Image Files:**
 Braided Black__w11.PNG
 
-**Trait Category:**
 
 **Visual Description:** black hair braided on both sides with white hair ties and flat bangs.
 
@@ -1103,11 +1044,10 @@ Braided Black__w11.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1126,7 +1066,6 @@ Braided Black__w11.PNG
 **Image Files:**
 Dreamy Blonde__w8.png
 
-**Trait Category:**
 
 **Visual Description:** very short hazel brown hair with smooth, neat curtain bangs.
 
@@ -1139,11 +1078,10 @@ Dreamy Blonde__w8.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1162,7 +1100,6 @@ Dreamy Blonde__w8.png
 **Image Files:**
 Dreamy Blonde__w8.png
 
-**Trait Category:**
 
 **Visual Description:** very short deep blonde hair with smooth, neat curtain bangs
 
@@ -1175,11 +1112,10 @@ Dreamy Blonde__w8.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1198,7 +1134,6 @@ Dreamy Blonde__w8.png
 **Image Files:**
 Fae Blue__w12.png
 
-**Trait Category:**
 
 **Visual Description:** a voluminous hairstyle in soft pale blue; straight bangs with 2 loose ponytails, hanging down on each side, tied with a black hair-tie each.
 
@@ -1211,11 +1146,10 @@ Fae Blue__w12.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1234,7 +1168,6 @@ Fae Blue__w12.png
 **Image Files:**
 Short Pale Blonde__w11.PNG
 
-**Trait Category:**
 
 **Visual Description:** an oval pixie cut in pale blonde.
 
@@ -1247,11 +1180,10 @@ Short Pale Blonde__w11.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1270,7 +1202,6 @@ Short Pale Blonde__w11.PNG
 **Image Files:**
 Short Pink__w11.PNG
 
-**Trait Category:**
 
 **Visual Description:** an oval pixie cut in pale soft pale pink.
 
@@ -1283,11 +1214,10 @@ Short Pink__w11.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1306,7 +1236,6 @@ Short Pink__w11.PNG
 **Image Files:**
 Short Purple__w11.PNG
 
-**Trait Category:**
 
 **Visual Description:** an oval pixie cut in bright purple.
 
@@ -1319,11 +1248,10 @@ Short Purple__w11.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1342,7 +1270,6 @@ Short Purple__w11.PNG
 **Image Files:**
 Cottage Magenta__w12.PNG
 
-**Trait Category:**
 
 **Visual Description:** a deep magenta hair braided traditionally on one side, with short curtain bangs curved inwards.
 
@@ -1355,11 +1282,10 @@ Cottage Magenta__w12.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1378,7 +1304,6 @@ Cottage Magenta__w12.PNG
 **Image Files:**
 Classic Green__w10.PNG Classic Green__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length deep forest green hair with short curtain bangs and softly curved-inwards edges.
 
@@ -1391,11 +1316,10 @@ Classic Green__w10.PNG Classic Green__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1414,7 +1338,6 @@ Classic Green__w10.PNG Classic Green__z-32.png
 **Image Files:**
 Relaxed Blonde__w12.PNG Relaxed Blonde__z-32.PNG
 
-**Trait Category:**
 
 **Visual Description:** a long straight blonde hair, with straight bangs, slightly curved inwards in shape.
 
@@ -1427,11 +1350,10 @@ Relaxed Blonde__w12.PNG Relaxed Blonde__z-32.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1450,7 +1372,6 @@ Relaxed Blonde__w12.PNG Relaxed Blonde__z-32.PNG
 **Image Files:**
 Relaxed Brown__w10.PNG Relaxed Brown__z-32.PNG
 
-**Trait Category:**
 
 **Visual Description:** a long straight deep brown hair, with straight bangs, slightly curved inwards in shape.
 
@@ -1463,11 +1384,10 @@ Relaxed Brown__w10.PNG Relaxed Brown__z-32.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1486,7 +1406,6 @@ Relaxed Brown__w10.PNG Relaxed Brown__z-32.PNG
 **Image Files:**
 Relaxed Green__w8.PNG Relaxed Green__z-32.PNG
 
-**Trait Category:**
 
 **Visual Description:** a long straight green hair, with straight bangs, slightly curved inwards in shape.
 
@@ -1499,11 +1418,10 @@ Relaxed Green__w8.PNG Relaxed Green__z-32.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1522,7 +1440,6 @@ Relaxed Green__w8.PNG Relaxed Green__z-32.PNG
 **Image Files:**
 Short Green__w11.PNG
 
-**Trait Category:**
 
 **Visual Description:** an oval pixie cut in soft pale green.
 
@@ -1535,11 +1452,10 @@ Short Green__w11.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1558,7 +1474,6 @@ Short Green__w11.PNG
 **Image Files:**
 Medium Wavy Brown__w10.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length wavy hair in mocha brown, with wavy bangs.
 
@@ -1571,11 +1486,10 @@ Medium Wavy Brown__w10.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1594,7 +1508,6 @@ Medium Wavy Brown__w10.png
 **Image Files:**
 Hime Blue__w12.png Hime Blue__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in deep muted blue.
 
@@ -1607,11 +1520,10 @@ Hime Blue__w12.png Hime Blue__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1630,7 +1542,6 @@ Hime Blue__w12.png Hime Blue__z-32.png
 **Image Files:**
 Normal Black__w11.png Normal Black__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a short haircut with straight bangs and flat ends, in black.
 
@@ -1643,11 +1554,10 @@ Normal Black__w11.png Normal Black__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1666,7 +1576,6 @@ Normal Black__w11.png Normal Black__z-32.png
 **Image Files:**
 Braided Blue__w9.PNG
 
-**Trait Category:**
 
 **Visual Description:** deep blue hair braided on both sides with white hair ties and flat bangs.
 
@@ -1679,11 +1588,10 @@ Braided Blue__w9.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1702,7 +1610,6 @@ Braided Blue__w9.PNG
 **Image Files:**
 Messy Bob Green__w8.png
 
-**Trait Category:**
 
 **Visual Description:** a messy bob with messy bangs in neon green.
 
@@ -1715,11 +1622,10 @@ Messy Bob Green__w8.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1738,7 +1644,6 @@ Messy Bob Green__w8.png
 **Image Files:**
 Short Blue__w8.PNG
 
-**Trait Category:**
 
 **Visual Description:** an oval pixie cut in light blue / pale cyan shade.
 
@@ -1751,11 +1656,10 @@ Short Blue__w8.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1774,7 +1678,6 @@ Short Blue__w8.PNG
 **Image Files:**
 Short Blonde__w4.PNG
 
-**Trait Category:**
 
 **Visual Description:** an oval pixie cut in light blonde.
 
@@ -1787,11 +1690,10 @@ Short Blonde__w4.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1810,7 +1712,6 @@ Short Blonde__w4.PNG
 **Image Files:**
 Medium Wavy Green__w8.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length wavy hair in a deep moss green, with wavy bangs.
 
@@ -1823,11 +1724,10 @@ Medium Wavy Green__w8.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1846,7 +1746,6 @@ Medium Wavy Green__w8.png
 **Image Files:**
 Medium Wavy Blonde__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length wavy hair in a golden blonde, with wavy bangs.
 
@@ -1859,11 +1758,10 @@ Medium Wavy Blonde__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1882,7 +1780,6 @@ Medium Wavy Blonde__w6.png
 **Image Files:**
 Medium Wavy Blue__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length wavy hair in a muted deep blue, with wavy bangs.
 
@@ -1895,11 +1792,10 @@ Medium Wavy Blue__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1918,7 +1814,6 @@ Medium Wavy Blue__w2.png
 **Image Files:**
 Medium Wavy Black__w4.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length wavy hair in black, with wavy bangs.
 
@@ -1931,11 +1826,10 @@ Medium Wavy Black__w4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1954,7 +1848,6 @@ Medium Wavy Black__w4.png
 **Image Files:**
 Medium Wavy Orange__w4.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length wavy hair in bright vibrant orange, with wavy bangs.
 
@@ -1967,11 +1860,10 @@ Medium Wavy Orange__w4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1990,7 +1882,6 @@ Medium Wavy Orange__w4.png
 **Image Files:**
 Medium Wavy Red__w4.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length wavy hair in vibrant red, with wavy bangs.
 
@@ -2003,11 +1894,10 @@ Medium Wavy Red__w4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2026,7 +1916,6 @@ Medium Wavy Red__w4.png
 **Image Files:**
 Medium Wavy Magenta__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length wavy hair in a muted deep magenta , with wavy bangs.
 
@@ -2039,11 +1928,10 @@ Medium Wavy Magenta__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2062,7 +1950,6 @@ Medium Wavy Magenta__w2.png
 **Image Files:**
 Peekaboo Blonde__w8.png Peekaboo Blonde__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair slightly curved inwards towards the end, with straight bangs across the forehead. Blonde on the inner part (peeking through) and black on the outer part.
 
@@ -2075,11 +1962,10 @@ Peekaboo Blonde__w8.png Peekaboo Blonde__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2098,7 +1984,6 @@ Peekaboo Blonde__w8.png Peekaboo Blonde__z-32.png
 **Image Files:**
 Long Wavy Blue__w8.png Long Wavy Blue__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a long wavy hair in blue, with wavy bangs.
 
@@ -2111,11 +1996,10 @@ Long Wavy Blue__w8.png Long Wavy Blue__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2134,7 +2018,6 @@ Long Wavy Blue__w8.png Long Wavy Blue__z-32.png
 **Image Files:**
 Short Messy Green__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a very short messy, voluminous, rounded hairstyle in dark moss green with soft outward-curving edges.
 
@@ -2147,11 +2030,10 @@ Short Messy Green__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2170,7 +2052,6 @@ Short Messy Green__w6.png
 **Image Files:**
 Long Wavy Green__w6.png Long Wavy Green__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** long wavy hair in vibrant green, with wavy bangs.
 
@@ -2183,11 +2064,10 @@ Long Wavy Green__w6.png Long Wavy Green__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2206,7 +2086,6 @@ Long Wavy Green__w6.png Long Wavy Green__z-32.png
 **Image Files:**
 Braided Purple__w6.PNG
 
-**Trait Category:**
 
 **Visual Description:** deep purple hair braided on both sides with white hair ties and flat bangs.
 
@@ -2219,11 +2098,10 @@ Braided Purple__w6.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2242,7 +2120,6 @@ Braided Purple__w6.PNG
 **Image Files:**
 Classic Orange__w5.PNG Classic Orange__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length red copper hair with short curtain bangs and softly curved-inwards edges.
 
@@ -2255,11 +2132,10 @@ Classic Orange__w5.PNG Classic Orange__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2278,7 +2154,6 @@ Classic Orange__w5.PNG Classic Orange__z-32.png
 **Image Files:**
 Cottage Orange__w5.PNG
 
-**Trait Category:**
 
 **Visual Description:** a red copper / dark orange hair braided traditionally on one side, with short curtain bangs curved inwards.
 
@@ -2291,11 +2166,10 @@ Cottage Orange__w5.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2314,7 +2188,6 @@ Cottage Orange__w5.PNG
 **Image Files:**
 Normal Orange__w5.png Normal Orange__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a short haircut with straight bangs and flat ends, in red copper / dark ginger / dark orange.
 
@@ -2327,11 +2200,10 @@ Normal Orange__w5.png Normal Orange__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2350,7 +2222,6 @@ Normal Orange__w5.png Normal Orange__z-32.png
 **Image Files:**
 Dreamy Blue__w4.png
 
-**Trait Category:**
 
 **Visual Description:** very short deep muted blue hair with smooth, neat curtain bangs.
 
@@ -2363,11 +2234,10 @@ Dreamy Blue__w4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2386,7 +2256,6 @@ Dreamy Blue__w4.png
 **Image Files:**
 Fae Green__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a voluminous hairstyle in soft pale green; straight bangs with 2 loose ponytails, hanging down on each side, tied with a black hair-tie each.
 
@@ -2399,11 +2268,10 @@ Fae Green__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2422,7 +2290,6 @@ Fae Green__w6.png
 **Image Files:**
 Hime Orange__w6.png Hime Orange__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in red copper / dark ginger / dark orange.
 
@@ -2435,11 +2302,10 @@ Hime Orange__w6.png Hime Orange__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2458,7 +2324,6 @@ Hime Orange__w6.png Hime Orange__z-32.png
 **Image Files:**
 Braided Red__w5.PNG
 
-**Trait Category:**
 
 **Visual Description:** dark vibrant red hair braided on both sides with white hair ties and flat bangs.
 
@@ -2471,11 +2336,10 @@ Braided Red__w5.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2494,7 +2358,6 @@ Braided Red__w5.PNG
 **Image Files:**
 Normal Magenta__w6.png Normal Magenta__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a short haircut with straight bangs and flat ends, in muted dark magenta.
 
@@ -2507,11 +2370,10 @@ Normal Magenta__w6.png Normal Magenta__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2530,7 +2392,6 @@ Normal Magenta__w6.png Normal Magenta__z-32.png
 **Image Files:**
 Cottage Red__w5.PNG
 
-**Trait Category:**
 
 **Visual Description:** a vibrant dark red hair braided traditionally on one side, with short curtain bangs curved inwards.
 
@@ -2543,11 +2404,10 @@ Cottage Red__w5.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2566,7 +2426,6 @@ Cottage Red__w5.PNG
 **Image Files:**
 Messy Bob Orange__w4.png
 
-**Trait Category:**
 
 **Visual Description:** a messy bob with messy bangs in a soft orange.
 
@@ -2579,11 +2438,10 @@ Messy Bob Orange__w4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2602,7 +2460,6 @@ Messy Bob Orange__w4.png
 **Image Files:**
 Relaxed Orange__w6.PNG Relaxed Orange__z-32.PNG
 
-**Trait Category:**
 
 **Visual Description:** a long straight copper / dark ginger / dark orange hair, with straight bangs, slightly curved inwards in shape.
 
@@ -2615,11 +2472,10 @@ Relaxed Orange__w6.PNG Relaxed Orange__z-32.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2638,7 +2494,6 @@ Relaxed Orange__w6.PNG Relaxed Orange__z-32.PNG
 **Image Files:**
 Classic Pink__w4.PNG Classic Pink__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length vibrant light pink hair with short curtain bangs and softly curved-inwards edges.
 
@@ -2651,11 +2506,10 @@ Classic Pink__w4.PNG Classic Pink__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2674,7 +2528,6 @@ Classic Pink__w4.PNG Classic Pink__z-32.png
 **Image Files:**
 Hime Green__w4.png Hime Green__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in dark muted green.
 
@@ -2687,11 +2540,10 @@ Hime Green__w4.png Hime Green__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2710,7 +2562,6 @@ Hime Green__w4.png Hime Green__z-32.png
 **Image Files:**
 Cottage Purple__w4.PNG
 
-**Trait Category:**
 
 **Visual Description:** a vibrant purple hair braided traditionally on one side, with short curtain bangs curved inwards.
 
@@ -2723,11 +2574,10 @@ Cottage Purple__w4.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2746,7 +2596,6 @@ Cottage Purple__w4.PNG
 **Image Files:**
 Fae Pink__w4.png
 
-**Trait Category:**
 
 **Visual Description:** a voluminous hairstyle in soft pale pink; straight bangs with 2 loose ponytails, hanging down on each side, tied with a black hair-tie each.
 
@@ -2759,11 +2608,10 @@ Fae Pink__w4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2782,7 +2630,6 @@ Fae Pink__w4.png
 **Image Files:**
 Braided Orange__w4.PNG
 
-**Trait Category:**
 
 **Visual Description:** dark copper / ginger hair braided on both sides with white hair ties and flat bangs.
 
@@ -2795,11 +2642,10 @@ Braided Orange__w4.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2818,7 +2664,6 @@ Braided Orange__w4.PNG
 **Image Files:**
 Relaxed Purple__w4.PNG Relaxed Purple__z-32.PNG
 
-**Trait Category:**
 
 **Visual Description:** a long straight dark pale purple hair, with straight bangs, slightly curved inwards in shape.
 
@@ -2831,11 +2676,10 @@ Relaxed Purple__w4.PNG Relaxed Purple__z-32.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2854,7 +2698,6 @@ Relaxed Purple__w4.PNG Relaxed Purple__z-32.PNG
 **Image Files:**
 Short Messy Magenta__w4.png
 
-**Trait Category:**
 
 **Visual Description:** a very short messy, voluminous, rounded hairstyle in dark muted magenta with soft outward-curving edges.
 
@@ -2867,11 +2710,10 @@ Short Messy Magenta__w4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2890,7 +2732,6 @@ Short Messy Magenta__w4.png
 **Image Files:**
 Normal Green__w4.png Normal Green__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** Short haircut with straight bangs and flat ends, in forest green.
 
@@ -2904,7 +2745,6 @@ Normal Green__w4.png Normal Green__z-32.png
 
 **Archetype Alignment:** There is green hair within the original milady collection. https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Hair%22,%22values **%22:** %5B%22bowl+green%22%5D%7D%5D
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2916,11 +2756,10 @@ Normal Green__w4.png Normal Green__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2939,7 +2778,6 @@ Normal Green__w4.png Normal Green__z-32.png
 **Image Files:**
 Hime Black__w4.png Hime Black__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in black.
 
@@ -2952,11 +2790,10 @@ Hime Black__w4.png Hime Black__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2975,7 +2812,6 @@ Hime Black__w4.png Hime Black__z-32.png
 **Image Files:**
 Classic Purple__w4.PNG Classic Purple__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a medium-length vibrant purple hair with short curtain bangs and softly curved-inwards edges.
 
@@ -2988,11 +2824,10 @@ Classic Purple__w4.PNG Classic Purple__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3011,7 +2846,6 @@ Classic Purple__w4.PNG Classic Purple__z-32.png
 **Image Files:**
 Short Messy Orange__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a very short messy, voluminous, rounded hairstyle in dark ginger / orange with soft outward-curving edges.
 
@@ -3024,11 +2858,10 @@ Short Messy Orange__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3047,7 +2880,6 @@ Short Messy Orange__w2.png
 **Image Files:**
 Middle Purple__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a slicked back mohawk in bright purple.
 
@@ -3060,11 +2892,10 @@ Middle Purple__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3083,7 +2914,6 @@ Middle Purple__w6.png
 **Image Files:**
 Middle Green__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a slicked back mohawk in bright green.
 
@@ -3096,11 +2926,10 @@ Middle Green__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3119,7 +2948,6 @@ Middle Green__w6.png
 **Image Files:**
 Middle Orange__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a slicked back mohawk in bright orange.
 
@@ -3132,11 +2960,10 @@ Middle Orange__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3155,7 +2982,6 @@ Middle Orange__w6.png
 **Image Files:**
 Middle Pink__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a slicked back mohawk in bright pink.
 
@@ -3168,11 +2994,10 @@ Middle Pink__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3191,7 +3016,6 @@ Middle Pink__w6.png
 **Image Files:**
 Normal Purple__w4.png Normal Purple__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** a short haircut with straight bangs and flat ends, in dark muted purple.
 
@@ -3204,11 +3028,10 @@ Normal Purple__w4.png Normal Purple__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3227,7 +3050,6 @@ Normal Purple__w4.png Normal Purple__z-32.png
 **Image Files:**
 Long Wavy Red__w2.png Long Wavy Red__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** long wavy hair in vibrant red, with wavy bangs.
 
@@ -3240,11 +3062,10 @@ Long Wavy Red__w2.png Long Wavy Red__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3263,7 +3084,6 @@ Long Wavy Red__w2.png Long Wavy Red__z-32.png
 **Image Files:**
 Braided Oil Spill__w4.PNG
 
-**Trait Category:**
 
 **Visual Description:** dark multicolor (purple, yellow, green, magenta) gradient hair braided on both sides with white hair ties and flat bangs.
 
@@ -3276,11 +3096,10 @@ Braided Oil Spill__w4.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3299,7 +3118,6 @@ Braided Oil Spill__w4.PNG
 **Image Files:**
 Short Messy Purple__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a very short messy, voluminous, rounded hairstyle in purple with soft outward-curving edges.
 
@@ -3312,11 +3130,10 @@ Short Messy Purple__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3335,7 +3152,6 @@ Short Messy Purple__w2.png
 **Image Files:**
 Middle Brown__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a slicked back mohawk in brown.
 
@@ -3348,11 +3164,10 @@ Middle Brown__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3371,7 +3186,6 @@ Middle Brown__w6.png
 **Image Files:**
 Middle Blue__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a slicked back mohawk in bright blue.
 
@@ -3384,11 +3198,10 @@ Middle Blue__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3407,7 +3220,6 @@ Middle Blue__w6.png
 **Image Files:**
 Middle Blonde__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a slicked back mohawk in blonde.
 
@@ -3420,11 +3232,10 @@ Middle Blonde__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3443,7 +3254,6 @@ Middle Blonde__w6.png
 **Image Files:**
 Middle Black__w6.png
 
-**Trait Category:**
 
 **Visual Description:** a slicked back mohawk in black.
 
@@ -3456,11 +3266,10 @@ Middle Black__w6.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3479,7 +3288,6 @@ Middle Black__w6.png
 **Image Files:**
 Dreamy Green__w2.png
 
-**Trait Category:**
 
 **Visual Description:** very short deep lime green hair with smooth, neat curtain bangs.
 
@@ -3492,11 +3300,10 @@ Dreamy Green__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3515,7 +3322,6 @@ Dreamy Green__w2.png
 **Image Files:**
 Long Wavy Purple__w2.png Long Wavy Purple__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** long wavy hair in vibrant purple, with wavy bangs.
 
@@ -3528,11 +3334,10 @@ Long Wavy Purple__w2.png Long Wavy Purple__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3551,7 +3356,6 @@ Long Wavy Purple__w2.png Long Wavy Purple__z-32.png
 **Image Files:**
 Hime Purple__w2.png Hime Purple__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in dark muted purple.
 
@@ -3564,11 +3368,10 @@ Hime Purple__w2.png Hime Purple__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3587,7 +3390,6 @@ Hime Purple__w2.png Hime Purple__z-32.png
 **Image Files:**
 Fae Purple__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a voluminous hairstyle in soft pale purple; straight bangs with 2 loose ponytails, hanging down on each side, tied with a black hair-tie each.
 
@@ -3600,11 +3402,10 @@ Fae Purple__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3623,7 +3424,6 @@ Fae Purple__w2.png
 **Image Files:**
 Hime Experimental__w2.png Hime Experimental__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in a blend of soft teal, light teal, and soft pink.
 
@@ -3636,11 +3436,10 @@ Hime Experimental__w2.png Hime Experimental__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3659,7 +3458,6 @@ Hime Experimental__w2.png Hime Experimental__z-32.png
 **Image Files:**
 Dreamy Purple__w2.png
 
-**Trait Category:**
 
 **Visual Description:** very short deep muted purple hair with smooth, neat curtain bangs.
 
@@ -3672,11 +3470,10 @@ Dreamy Purple__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3695,7 +3492,6 @@ Dreamy Purple__w2.png
 **Image Files:**
 Hime Pink__w2.png Hime Pink__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** sleek, straight long hair with straight bangs across the forehead and two symmetrical sections framing the face, in vibrant pink.
 
@@ -3708,11 +3504,10 @@ Hime Pink__w2.png Hime Pink__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3731,7 +3526,6 @@ Hime Pink__w2.png Hime Pink__z-32.png
 **Image Files:**
 Long Wavy Magenta__w2.png Long Wavy Magenta__z-32.png
 
-**Trait Category:**
 
 **Visual Description:** long wavy hair in vibrant magenta, with wavy bangs.
 
@@ -3744,11 +3538,10 @@ Long Wavy Magenta__w2.png Long Wavy Magenta__z-32.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3767,7 +3560,6 @@ Long Wavy Magenta__w2.png Long Wavy Magenta__z-32.png
 **Image Files:**
 Messy Bob Purple__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a messy bob with messy bangs in light purple.
 
@@ -3780,11 +3572,10 @@ Messy Bob Purple__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3803,7 +3594,6 @@ Messy Bob Purple__w2.png
 **Image Files:**
 Rave Green__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a buzz-cut with textures in forest green.
 
@@ -3816,11 +3606,10 @@ Rave Green__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3839,7 +3628,6 @@ Rave Green__w2.png
 **Image Files:**
 Relaxed Red__w2.PNG Relaxed Red__z-32.PNG
 
-**Trait Category:**
 
 **Visual Description:** a long straight vibrant darker red hair, with straight bangs, slightly curved inwards in shape.
 
@@ -3852,11 +3640,10 @@ Relaxed Red__w2.PNG Relaxed Red__z-32.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3875,7 +3662,6 @@ Relaxed Red__w2.PNG Relaxed Red__z-32.PNG
 **Image Files:**
 Double Green__w2.png
 
-**Trait Category:**
 
 **Visual Description:** Two symmetrical, green, wing-like hair on each side.
 
@@ -3888,11 +3674,10 @@ Double Green__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3911,7 +3696,6 @@ Double Green__w2.png
 **Image Files:**
 Rave Blonde__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a buzz-cut with textures in blonde.
 
@@ -3924,11 +3708,10 @@ Rave Blonde__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3947,7 +3730,6 @@ Rave Blonde__w2.png
 **Image Files:**
 Double Purple__w2.png
 
-**Trait Category:**
 
 **Visual Description:** Two symmetrical, purple, wing-like hair on each side.
 
@@ -3960,11 +3742,10 @@ Double Purple__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3983,7 +3764,6 @@ Double Purple__w2.png
 **Image Files:**
 Double White__w2.png
 
-**Trait Category:**
 
 **Visual Description:** Two symmetrical, white, wing-like hair on each side.
 
@@ -3996,11 +3776,10 @@ Double White__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4019,7 +3798,6 @@ Double White__w2.png
 **Image Files:**
 
 
-**Trait Category:**
 
 **Visual Description:** 4 min-buns in golden brown / blonde, tied with black hair-ties. one in the center top, one on the side each, and one at the back.
 
@@ -4032,11 +3810,10 @@ Double White__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4055,7 +3832,6 @@ Double White__w2.png
 **Image Files:**
 Fauxhawk Blonde__w2.PNG
 
-**Trait Category:**
 
 **Visual Description:** a fauxhawk in darker blonde. The hair goes upwards with spiky ends.
 
@@ -4068,11 +3844,10 @@ Fauxhawk Blonde__w2.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4091,7 +3866,6 @@ Fauxhawk Blonde__w2.PNG
 **Image Files:**
 Rave Pink__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a buzz-cut with textures in pastel pink.
 
@@ -4104,11 +3878,10 @@ Rave Pink__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4127,7 +3900,6 @@ Rave Pink__w2.png
 **Image Files:**
 Rave Blue__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a buzz-cut with textures in darker shade of blue.
 
@@ -4140,11 +3912,10 @@ Rave Blue__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4163,7 +3934,6 @@ Rave Blue__w2.png
 **Image Files:**
 Lain__w2.png
 
-**Trait Category:**
 
 **Visual Description:** Straight, shoulder-length brown cut with full bangs across the forehead, accented by 2 hair clips.
 
@@ -4176,11 +3946,10 @@ Lain__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -4199,7 +3968,6 @@ Lain__w2.png
 **Image Files:**
 Double Pink__w2.png
 
-**Trait Category:**
 
 **Visual Description:** Two symmetrical, pink, wing-like hair on each side.
 
@@ -4212,11 +3980,10 @@ Double Pink__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4235,7 +4002,6 @@ Double Pink__w2.png
 **Image Files:**
 Rave Purple__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a buzz-cut with textures in darker shade of purple.
 
@@ -4248,11 +4014,10 @@ Rave Purple__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4271,7 +4036,6 @@ Rave Purple__w2.png
 **Image Files:**
 Rave Orange__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a buzz-cut with textures in a slightly darker shade of orange.
 
@@ -4284,11 +4048,10 @@ Rave Orange__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4307,7 +4070,6 @@ Rave Orange__w2.png
 **Image Files:**
 Rave Black__w2.png
 
-**Trait Category:**
 
 **Visual Description:** a buzz-cut with textures in black.
 
@@ -4320,11 +4082,10 @@ Rave Black__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4343,7 +4104,6 @@ Rave Black__w2.png
 **Image Files:**
 Double Blue__w2.png
 
-**Trait Category:**
 
 **Visual Description:** Two symmetrical, blue, wing-like hair on each side.
 
@@ -4356,11 +4116,10 @@ Double Blue__w2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4379,7 +4138,6 @@ Double Blue__w2.png
 **Image Files:**
 Fauxhawk Green__w2.PNG
 
-**Trait Category:**
 
 **Visual Description:** a fauxhawk in green. The hair goes upwards with spiky ends.
 
@@ -4392,11 +4150,10 @@ Fauxhawk Green__w2.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4415,7 +4172,6 @@ Fauxhawk Green__w2.PNG
 **Image Files:**
 Fauxhawk Red__w2.PNG
 
-**Trait Category:**
 
 **Visual Description:** a fauxhawk in red. The hair goes upwards with spiky ends.
 
@@ -4428,11 +4184,10 @@ Fauxhawk Red__w2.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4451,7 +4206,6 @@ Fauxhawk Red__w2.PNG
 **Image Files:**
 stylish.png
 
-**Trait Category:**
 
 **Visual Description:** black thick dreads wearing a black / dark grey beanie / head cover.
 
@@ -4464,11 +4218,10 @@ stylish.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4487,7 +4240,6 @@ stylish.png
 **Image Files:**
 afro.png
 
-**Trait Category:**
 
 **Visual Description:** black curly hair, shaved on the sides and longer at the top.
 
@@ -4500,11 +4252,10 @@ afro.png
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4522,7 +4273,6 @@ afro.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -4532,19 +4282,15 @@ afro.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4554,7 +4300,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4565,11 +4310,10 @@ afro.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4591,7 +4335,6 @@ afro.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -4601,19 +4344,15 @@ afro.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4623,7 +4362,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4634,11 +4372,10 @@ afro.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4660,7 +4397,6 @@ afro.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -4670,19 +4406,15 @@ afro.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4692,7 +4424,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4703,11 +4434,10 @@ afro.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4729,7 +4459,6 @@ afro.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -4739,19 +4468,15 @@ afro.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4761,7 +4486,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4772,11 +4496,10 @@ afro.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4798,7 +4521,6 @@ afro.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -4808,19 +4530,15 @@ afro.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4830,7 +4548,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4841,11 +4558,10 @@ afro.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

@@ -33,7 +33,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Clay](https://mibera.fsn1.your-objectstorage.com/components/body__z40/clay__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** slightly tanned skin.
 
@@ -46,11 +45,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -69,7 +67,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Umber](https://mibera.fsn1.your-objectstorage.com/components/body__z40/umber__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** a slightly darker tone than a tanned skin.
 
@@ -82,11 +79,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -105,7 +101,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Ivory](https://mibera.fsn1.your-objectstorage.com/components/body__z40/ivory__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** fair skin with slightly warm or neutral undertone.
 
@@ -118,11 +113,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -141,7 +135,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Bronze](https://mibera.fsn1.your-objectstorage.com/components/body__z40/bronze__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** Bronze skin, darker than a tan.
 
@@ -154,11 +147,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -177,7 +169,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Sable](https://mibera.fsn1.your-objectstorage.com/components/body__z40/sable__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** sable skin, rich dark brown with a warm undertone.
 
@@ -190,11 +181,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -213,7 +203,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Mahogany](https://mibera.fsn1.your-objectstorage.com/components/body__z40/mahogany__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** mahogany skin, warm deep brown with reddish / coppery undertone.
 
@@ -226,11 +215,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -249,7 +237,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Beige](https://mibera.fsn1.your-objectstorage.com/components/body__z40/beige__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** beige skin, warm light to medium shade, neutral appearance, and resembling a pale tan or light sand. It has a subtle golden yellowish undertones
 
@@ -262,11 +249,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -285,7 +271,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Pale](https://mibera.fsn1.your-objectstorage.com/components/body__z40/pale__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** pale skin, a very light, fair shade with minimal pigmentation, very porcelain-like.
 
@@ -298,11 +283,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -321,7 +305,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 ![Pink](https://mibera.fsn1.your-objectstorage.com/components/body__z40/pink__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** a very light, fair skin with cool rosy undertones that give it a soft, flushed appearance.
 
@@ -334,11 +317,10 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -357,7 +339,6 @@ Body is the base layer (z40), rendered before all other character elements. It d
 **Image Files:**
 honey__w2.PNG honey__w2.PNG
 
-**Trait Category:**
 
 **Visual Description:** honey skin, a warm medium-light-toned shade with rich, golden undertones. It has a hint of light amber or caramel.
 
@@ -370,11 +351,10 @@ honey__w2.PNG honey__w2.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -393,7 +373,6 @@ honey__w2.PNG honey__w2.PNG
 **Image Files:**
 ![Ebony](https://mibera.fsn1.your-objectstorage.com/components/body__z40/ebony__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** ebony skin, a deep, rich, dark brown to near-black shade. Intense brown with cool / neutral undertones.
 
@@ -406,11 +385,10 @@ honey__w2.PNG honey__w2.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -429,7 +407,6 @@ honey__w2.PNG honey__w2.PNG
 **Image Files:**
 ![Tan](https://mibera.fsn1.your-objectstorage.com/components/body__z40/tan__z80.webp)
 
-**Trait Category:**
 
 **Visual Description:** tan skin, medium brown with warm / neutral undertones..
 
@@ -442,11 +419,10 @@ honey__w2.PNG honey__w2.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 

@@ -55,7 +55,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Stoned Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Stoned%20Brown__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** Brown eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -68,11 +67,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -91,7 +89,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Ecstasy Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Ecstasy%20Sky__w8.webp)
 
-**Trait Category:**
 
 **Visual Description:** sky-blue eyes with heavily dilated pupils.
 
@@ -104,11 +101,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -127,7 +123,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Hypno Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Hypno%20Brown__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** brown eyes with prominent white spirals.
 
@@ -140,11 +135,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -163,7 +157,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 
 
-**Trait Category:**
 
 **Visual Description:** Normal eyes with a purple hue.
 
@@ -177,7 +170,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -189,11 +181,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -212,7 +203,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Normal Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Normal%20Leaf__w25.webp)
 
-**Trait Category:**
 
 **Visual Description:** normal leafy-green eyes
 
@@ -226,7 +216,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -238,11 +227,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -261,7 +249,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Normal Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Normal%20Sky__w25.webp)
 
-**Trait Category:**
 
 **Visual Description:** normal eyes in a sky-blue.
 
@@ -275,7 +262,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -287,11 +273,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -310,7 +295,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Normal Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Normal%20Gold__w25.webp)
 
-**Trait Category:**
 
 **Visual Description:** normal eyes, brighter than brown.
 
@@ -324,7 +308,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -336,11 +319,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -359,7 +341,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Normal Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Normal%20Grey__w25.webp)
 
-**Trait Category:**
 
 **Visual Description:** normal eyes in grey.
 
@@ -373,7 +354,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -385,11 +365,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -408,7 +387,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Normal Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Normal%20Ocean__w25.webp)
 
-**Trait Category:**
 
 **Visual Description:** normal eyes in bright ocean blue.
 
@@ -422,7 +400,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -434,11 +411,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -457,7 +433,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Normal Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Normal%20Ocean__w25.webp)
 
-**Trait Category:**
 
 **Visual Description:** normal eyes in earthy brown.
 
@@ -471,7 +446,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -483,11 +457,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -506,7 +479,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Heart Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Heart%20Leaf__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** eyes with heart-shaped pupils in leafy green.
 
@@ -519,11 +491,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -542,7 +513,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Heart Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Heart%20Brown__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** eyes with heart-shaped pupils in brown.
 
@@ -555,11 +525,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -578,7 +547,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sparkle Forest](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sparkle%20Forest__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** deep-green eyes with three white dots between the iris and pupil.
 
@@ -591,11 +559,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -614,7 +581,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Bright Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Bright%20Brown__w13.webp)
 
-**Trait Category:**
 
 **Visual Description:** brown eyes with a large white four pointed star within the pupil
 
@@ -627,11 +593,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -650,7 +615,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sparkle Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sparkle%20Brown__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** Brown eyes with three white dots between the iris and pupil.
 
@@ -663,11 +627,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -686,7 +649,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Heart Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Heart%20Ocean__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** eyes with heart-shaped pupils in dark teal..
 
@@ -699,11 +661,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -722,7 +683,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sparkle Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sparkle%20Leaf__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** leafy-green eyes with three white dots between the iris and pupil.
 
@@ -735,11 +695,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -758,7 +717,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Heart Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Heart%20Grey__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** Eyes with heart-shaped pupils in grey.
 
@@ -772,7 +730,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** There are grey eyes within the original milady collection. https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Eye+Color%22,%22
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -784,11 +741,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -807,7 +763,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Bright Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Bright%20Gold__w13.webp)
 
-**Trait Category:**
 
 **Visual Description:** golden eyes with a large white four pointed star within the pupil
 
@@ -820,11 +775,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -843,7 +797,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Heart Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Heart%20Lilac__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** eyes with heart-shaped pupils in lilac
 
@@ -856,11 +809,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -879,7 +831,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sparkle Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sparkle%20Lilac__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** lilac eyes with three white dots between the iris and pupil.
 
@@ -892,11 +843,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -915,7 +865,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sparkle Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sparkle%20Gold__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** golden eyes with three white dots between the iris and pupil.
 
@@ -928,11 +877,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -951,7 +899,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Heart Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Heart%20Gold__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** eyes with heart-shaped pupils in matte gold.
 
@@ -964,11 +911,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -987,7 +933,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sparkle Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sparkle%20Sky__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** sky-blue eyes with three white dots between the iris and pupil.
 
@@ -1000,11 +945,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1023,7 +967,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sparkle Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sparkle%20Grey__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** grey eyes with three white dots between the iris and pupil.
 
@@ -1036,11 +979,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1059,7 +1001,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sparkle Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sparkle%20Ocean__w15.webp)
 
-**Trait Category:**
 
 **Visual Description:** teal eyes with three white dots between the iris and pupil.
 
@@ -1072,11 +1013,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1095,7 +1035,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Bright Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Bright%20Lilac__w13.webp)
 
-**Trait Category:**
 
 **Visual Description:** bright purple eyes with a large white four pointed star within the pupil
 
@@ -1108,11 +1047,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1131,7 +1069,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Bright Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Bright%20Leaf__w13.webp)
 
-**Trait Category:**
 
 **Visual Description:** bright leafy green eyes with a large white four pointed star within the pupil
 
@@ -1144,11 +1081,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1167,7 +1103,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Heart Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Heart%20Sky__w14.webp)
 
-**Trait Category:**
 
 **Visual Description:** eyes with heart-shaped pupils in blue.
 
@@ -1180,11 +1115,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1203,7 +1137,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Bright Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Bright%20Sky__w13.webp)
 
-**Trait Category:**
 
 **Visual Description:** blue eyes with a large white four pointed star within the pupil
 
@@ -1216,11 +1149,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1239,7 +1171,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Bright Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Bright%20Grey__w13.webp)
 
-**Trait Category:**
 
 **Visual Description:** grey eyes with a large white four pointed star within the pupil
 
@@ -1252,11 +1183,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1275,7 +1205,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Bright Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Bright%20Ocean__w13.webp)
 
-**Trait Category:**
 
 **Visual Description:** teal eyes with a large white four pointed star within the pupil
 
@@ -1288,11 +1217,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1311,7 +1239,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Stoned Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Stoned%20Gold__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** golden eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -1324,11 +1251,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1347,7 +1273,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sleepy Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sleepy%20Ocean__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** tired eyes with vibrant teal iris
 
@@ -1360,11 +1285,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1383,7 +1307,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Stoned Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Stoned%20Lilac__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** bright-purple eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -1396,11 +1319,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1419,7 +1341,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sleepy Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sleepy%20Gold__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** tired eyes with golden iris.
 
@@ -1432,11 +1353,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1455,7 +1375,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Ecstasy Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Ecstasy%20Ocean__w8.webp)
 
-**Trait Category:**
 
 **Visual Description:** teal eyes with heavily dilated pupils.
 
@@ -1468,11 +1387,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1491,7 +1409,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Stoned Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Stoned%20Grey__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** grey eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -1504,11 +1421,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1527,7 +1443,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sleepy Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sleepy%20Leaf__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** tired eyes with leafy green iris.
 
@@ -1540,11 +1455,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1563,7 +1477,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Stoned Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Stoned%20Sky__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** bright-blue eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -1576,11 +1489,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1599,7 +1511,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sleepy Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sleepy%20Grey__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** tired eyes with grey iris.
 
@@ -1612,11 +1523,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1635,7 +1545,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sleepy Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sleepy%20Grey__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** tired eyes with grey iris
 
@@ -1648,11 +1557,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1671,7 +1579,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Pinhole Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Pinhole%20Ocean__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** teal eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -1684,11 +1591,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1707,7 +1613,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Stoned Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Stoned%20Leaf__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** leafy-green eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -1720,11 +1625,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1743,7 +1647,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sleepy Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sleepy%20Brown__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** tired eyes with brown iris.
 
@@ -1756,11 +1659,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1779,7 +1681,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Hypno Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Hypno%20Leaf__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** leafy green eyes with prominent white spirals.
 
@@ -1792,11 +1693,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1815,7 +1715,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Ecstasy Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Ecstasy%20Grey__w8.webp)
 
-**Trait Category:**
 
 **Visual Description:** grey eyes with heavily dilated pupils.
 
@@ -1828,11 +1727,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1851,7 +1749,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Stoned Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Stoned%20Ocean__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** teal eyes. The whites of the eyes are red, eyelids partially lowered.
 
@@ -1864,11 +1761,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1887,7 +1783,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Sleepy Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sleepy%20Lilac__w9.webp)
 
-**Trait Category:**
 
 **Visual Description:** tired eyes with bright purple iris
 
@@ -1900,11 +1795,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1923,7 +1817,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Ecstasy Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Ecstasy%20Brown__w8.webp)
 
-**Trait Category:**
 
 **Visual Description:** brown eyes with heavily dilated pupils.
 
@@ -1936,11 +1829,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1959,7 +1851,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Ecstasy Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Ecstasy%20Leaf__w8.webp)
 
-**Trait Category:**
 
 **Visual Description:** green eyes with heavily dilated pupils
 
@@ -1972,11 +1863,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1995,7 +1885,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Hypno Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Hypno%20Grey__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** grey eyes with prominent white spirals.
 
@@ -2008,11 +1897,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2031,7 +1919,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Pinhole Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Pinhole%20Lilac__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** lilac eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -2044,11 +1931,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2067,7 +1953,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crossed Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crossed%20Grey__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** crossed eyes with bright grey iris
 
@@ -2080,11 +1965,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2103,7 +1987,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crossed Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crossed%20Leaf__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** crossed eyes with bright green iris.
 
@@ -2116,11 +1999,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2139,7 +2021,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crying Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crying%20Gold__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** golden eyes with tears in the corners.
 
@@ -2152,11 +2033,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2175,7 +2055,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crying Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crying%20Ocean__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** teal eyes with tears in the corners.
 
@@ -2188,11 +2067,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2211,7 +2089,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Pinhole Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Pinhole%20Grey__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** grey eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -2224,11 +2101,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2247,7 +2123,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Ecstasy Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Ecstasy%20Lilac__w8.webp)
 
-**Trait Category:**
 
 **Visual Description:** purple eyes with heavily dilated pupils.
 
@@ -2260,11 +2135,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2283,7 +2157,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crying Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crying%20Sky__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** sky-blue eyes with tears in the corners.
 
@@ -2296,11 +2169,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2319,7 +2191,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Hypno Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Hypno%20Sky__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** blue eyes with prominent white spirals.
 
@@ -2332,11 +2203,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2355,7 +2225,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Ecstasy Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Ecstasy%20Gold__w8.webp)
 
-**Trait Category:**
 
 **Visual Description:** golden eyes with heavily dilated pupils.
 
@@ -2368,11 +2237,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2391,7 +2259,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crying Grey](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crying%20Grey__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** grey eyes with tears in the corners.
 
@@ -2404,11 +2271,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2427,7 +2293,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Hypno Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Hypno%20Ocean__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** teal eyes with prominent white spirals.
 
@@ -2440,11 +2305,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2463,7 +2327,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Pinhole Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Pinhole%20Sky__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** sky-blue eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -2476,11 +2339,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2499,7 +2361,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Pinhole Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Pinhole%20Gold__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** golden eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -2512,11 +2373,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2535,7 +2395,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Hypno Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Hypno%20Gold__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** golden brown eyes with prominent white spirals.
 
@@ -2548,11 +2407,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2571,7 +2429,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crossed Ocean](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crossed%20Ocean__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** crossed eyes with bright teal iris.
 
@@ -2584,11 +2441,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2607,7 +2463,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crying Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crying%20Lilac__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** lilac eyes with tears in the corners.
 
@@ -2620,11 +2475,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2643,7 +2497,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crossed Sky](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crossed%20Sky__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** crossed eyes with sky-blue iris.
 
@@ -2656,11 +2509,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2679,7 +2531,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Pinhole Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Pinhole%20Brown__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** brown eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -2692,11 +2543,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2715,7 +2565,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crossed Gold](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crossed%20Gold__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** crossed eyes with golden iris.
 
@@ -2728,11 +2577,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2751,7 +2599,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Pinhole Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Pinhole%20Leaf__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** leafy green eyes with constricted pupils, or usually known as pinpoint pupils.
 
@@ -2764,11 +2611,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2787,7 +2633,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crying Leaf](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crying%20Leaf__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** green eyes with tears in the corners.
 
@@ -2800,11 +2645,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2823,7 +2667,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crossed Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crossed%20Brown__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** crossed eyes with brown iris.
 
@@ -2836,11 +2679,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2859,7 +2701,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Hypno Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Hypno%20Lilac__w7.webp)
 
-**Trait Category:**
 
 **Visual Description:** purple eyes with prominent white spirals.
 
@@ -2872,11 +2713,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2895,7 +2735,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Blind](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Blind__w4.webp)
 
-**Trait Category:**
 
 **Visual Description:** complete white portraying a pair of blind eyes.
 
@@ -2908,11 +2747,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2931,7 +2769,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Whirlpool](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Whirlpool__w5.webp)
 
-**Trait Category:**
 
 **Visual Description:** bright blue eyes showcasing (or holding) whirlpools inside of them.
 
@@ -2944,11 +2781,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2967,7 +2803,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![True Love](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/True%20Love__w5.webp)
 
-**Trait Category:**
 
 **Visual Description:** pink iris with hearty details showcasing eyes that seem to be in love.
 
@@ -2980,11 +2815,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3003,7 +2837,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crossed Lilac](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crossed%20Lilac__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** crossed eyes with lilac iris.
 
@@ -3016,11 +2849,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3039,7 +2871,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Angelic](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Angelic__w4.webp)
 
-**Trait Category:**
 
 **Visual Description:** iridescent eyes, perhaps showcasing one’s angelic nature.
 
@@ -3052,11 +2883,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3075,7 +2905,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Crying Brown](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crying%20Brown__w6.webp)
 
-**Trait Category:**
 
 **Visual Description:** Brown eyes with tears in the corners.
 
@@ -3088,11 +2917,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3111,7 +2939,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Teddy](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Teddy__w5.webp)
 
-**Trait Category:**
 
 **Visual Description:** eyes in steady teddy’s style
 
@@ -3124,11 +2951,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3147,7 +2973,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Time](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Time__w5.webp)
 
-**Trait Category:**
 
 **Visual Description:** a pair of bright yellow eyes showing a clock from each one of them.
 
@@ -3160,11 +2985,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3183,7 +3007,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Honey Swirl](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Honey%20Swirl__w5.webp)
 
-**Trait Category:**
 
 **Visual Description:** a pair of swirly yellow eyes that look like they’re made up of honey.
 
@@ -3196,11 +3019,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3219,7 +3041,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Demonic](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Demonic__w4.webp)
 
-**Trait Category:**
 
 **Visual Description:** plain red eyes with no visible iris. Somewhat demonic and soulless.
 
@@ -3232,11 +3053,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3255,7 +3075,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![henlo](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/henlo__w1.webp)
 
-**Trait Category:**
 
 **Visual Description:** a pair of ‘henlo’ eyes.
 
@@ -3268,11 +3087,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3291,7 +3109,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Image Files:**
 ![Meta eyes](https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Meta%20eyes__w3.webp)
 
-**Trait Category:**
 
 **Visual Description:** "eyes" written in sloppy black text instead of actual eyes
 
@@ -3304,11 +3121,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3326,7 +3142,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -3336,19 +3151,15 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3358,7 +3169,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3369,11 +3179,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -3395,7 +3204,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -3405,19 +3213,15 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3427,7 +3231,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3438,11 +3241,10 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

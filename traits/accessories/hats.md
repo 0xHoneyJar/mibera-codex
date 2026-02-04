@@ -47,7 +47,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Bera Headband](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Bera%20Headband.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Brown headband of bear ears; curved ears with smaller half circle shapes inside in lighter color.
 
@@ -58,19 +57,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -80,9 +75,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -94,11 +87,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -122,7 +114,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Catboy Ears](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Catboy%20Ears.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black headband of cat ears; pointed triangular shape with soft edges, light pink in color on the inner part.
 
@@ -133,19 +124,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -155,9 +142,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -169,11 +154,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -197,7 +181,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Trucker Mibera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Trucker%20Mibera.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White and yellow cap with Mibera logo in the middle; a yellow smiley face with bear ears.
 
@@ -208,19 +191,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -230,9 +209,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -244,11 +221,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -272,7 +248,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Got Autism](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Got%20Autism.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Navy blue cap with white text on it saying “mibera got autism”.
 
@@ -283,19 +258,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -305,9 +276,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -319,11 +288,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -347,7 +315,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Jake](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Jake.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Yellow hat with earflaps in the shape of Jake the dog from Adventure time. A yellow dog with round white eyes, droopy snout, and red tongue out..
 
@@ -358,19 +325,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** (summary below)
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -380,9 +343,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -394,11 +355,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -423,7 +383,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Green Turban](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Green%20Turban.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Plain green turban (a piece of garment / clothing), tied at the back.
 
@@ -434,19 +393,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -456,9 +411,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -470,11 +423,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -498,7 +450,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Resilient](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_freetekno_Resilient.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black cap with red rectangular shape in the middle and the text “Resilient” in it.
 
@@ -509,19 +460,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Frank Waln, a Sicangu Lakota rapper from the Rosebud Indian Reservation, uses hip-hop to bridge Native and urban communities, sharing experiences of life on the reservation and cultural resilience. Based in Chicago, he sees hip-hop as a platform for cultural exchange, addressing challenges like poverty and historical trauma while fostering connection and understanding
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -531,9 +478,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -545,11 +490,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -574,7 +518,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Alien Head Band](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Alien%20Head%20Band.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Light green alien headband with 3 eye balls, an antenna, and 2 pointy ears.
 
@@ -585,19 +528,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -607,9 +546,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** Part of CFang and Milady trait / lore.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -621,11 +558,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -649,7 +585,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![WAGMI](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_WAGMI.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Dark green cap with white text on it saying “WAGMI” crossed with a line.
 
@@ -660,19 +595,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** WAGMI, short for "We're All Gonna Make It", is a popular phrase in crypto culture, especially on platforms like X. It expresses optimism, camaraderie, and collective confidence in the success of a cryptocurrency project or the broader market, often used to boost morale during volatile times.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -682,9 +613,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -696,11 +625,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -724,7 +652,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 I Have Mibera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_I%20Have%20Mibera.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Navy blue cap with white text on it saying “Please be patient I have Mibera”.
 
@@ -735,19 +662,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -757,9 +680,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** In relation to a meme related to Milady, which is one of Mibera’s archetypes.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -771,11 +692,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -799,7 +719,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Spiral Tribe](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Spiral%20Tribe.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black cap with a tribal Mibera logo in the middle, in white. The logo is in the shape of a bear head with tribal-style design on the inside.
 
@@ -810,19 +729,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -832,9 +747,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -846,11 +759,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -874,7 +786,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Cozy Sonic](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Cozy%20Sonic.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Hat in the shape of Sonic the Hedgehog with the main color being blue and light-beige, two eyes, a little nose, and pointy ears.
 
@@ -885,19 +796,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Inspired by Steady Teddys Sonic hat
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -907,9 +814,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -921,11 +826,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -949,7 +853,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Beret](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Beret.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Small beret in dark army green / dark grey.
 
@@ -960,19 +863,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -982,9 +881,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -996,11 +893,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1024,7 +920,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![ancient irishDruid Midsommar](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_ancient_irishDruid_Midsommar.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Flower crown with soft red, yellow, and white flowers, and a bunch of leaves.
 
@@ -1035,19 +930,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Midsommar (2019), directed by Ari Aster, is a folk horror film following Dani, a grieving American student, who joins her boyfriend and his friends on a trip to a remote Swedish commune for a rare midsummer festival. As the group encounters the cult-like Hårga community, the seemingly idyllic rituals turn increasingly disturbing, blending psychological horror with vibrant, daylight-drenched visuals. The film explores themes of grief, trauma, and toxic relationships, culminating in the main character’s unsettling transformation.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1057,9 +948,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1071,11 +960,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Irish Druid
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1099,7 +987,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Remiliaco](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Remiliaco.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White and black cap with “REMILIA CORPORATION” text in black, surrounded by a lot of little stars in full-black and thin outline.
 
@@ -1110,19 +997,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1132,9 +1015,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1146,11 +1027,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1174,7 +1054,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Tweed Peak Cap](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Tweed%20Peak%20Cap.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Plain tweed cap in dull green.
 
@@ -1185,19 +1064,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1207,9 +1082,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1221,11 +1094,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1250,7 +1122,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Remcon](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Remcon.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White and soft bright pink cap with “REMILIA-CON TOKYO 2023” text in black, under graphic of a pair of wings outlined.
 
@@ -1261,19 +1132,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Inspired by a merch from Remilia-con that was held in Tokyo in 2023.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1283,9 +1150,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1297,11 +1162,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -1327,7 +1191,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Russian](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Russian.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Dark grey ushanka / Russian winter hat with ear flaps and fluffy front framing the face part.
 
@@ -1338,19 +1201,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The hat was
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1360,9 +1219,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1374,11 +1231,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1403,7 +1259,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Baddies Blue](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Baddies%20Blue.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Blue cap with a graphic of a brown bear with red ribbon on one ear holding a white flower.
 
@@ -1414,19 +1269,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1436,9 +1287,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1450,11 +1299,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -1478,7 +1326,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![modern traveller No World As Fucked As Mine](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_modern_traveller_No%20World%20As%20Fucked%20As%20Mine.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White cap with black text in thin font that reads “no world as fucked as mine” with no capitalization.
 
@@ -1489,19 +1336,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Kai Whiston’s upbringing in the New Age Traveller community. Set in Shaftesbury, Dorset, it traces the grassroots, neo-hippy rave scene led by groups like Spiral Tribe in the 1980s and 1990s, against Thatcher’s Britain. It also touches on folkloric traditions inspiring modern “rave mysticism” in electronic music.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1511,9 +1354,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1525,11 +1366,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Traveller
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -1554,7 +1394,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Camo](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Camo.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Mushroom shaped beret with camo patterns with army green color.
 
@@ -1565,19 +1404,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1587,9 +1422,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1601,11 +1434,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1630,7 +1462,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Ethiopian Headdress](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Ethiopian%20Headdress.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Headdress made of different varieties of leaves, white flowers, and yellow fruits.
 
@@ -1641,19 +1472,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Suri tribe in Ethiopia’s Omo Valley is known for their intricate face paint and stunning floral headpieces, using natural materials like clay, mud, and flowers to create artistic designs. These traditions, showcased for tourists, reflect their deep connection to nature amid challenges like regional violence and cattle raiding.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1663,9 +1490,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1677,11 +1502,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1706,7 +1530,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Mcdonalds 2](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Mcdonalds%202.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Cap with stripy colours of a burger, light brown, dark brown, and green. In the middle is a big ‘M’ logo with a small text that reads ‘mibera’.
 
@@ -1717,19 +1540,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1739,9 +1558,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1753,11 +1570,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1781,7 +1597,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![American Union](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_American%20Union.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Fisherman hat in blue with a red star in the middle and white dots.
 
@@ -1792,19 +1607,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Ron Hardy, a pioneering Chicago DJ, shaped house music at The Music Box club in the 1980s. Known for his high-energy, experimental style, he mixed disco, soul, and early house tracks, often playing them at fast tempos or backwards, creating an electrifying atmosphere. His innovative edits and residency at the club, which featured unique amenities like a fruit bar, helped define Chicago's house music scene.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1814,9 +1625,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1828,11 +1637,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1857,7 +1665,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Straw Farmers](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Straw%20Farmers.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Straw hat with thick red stripe around it.
 
@@ -1868,19 +1675,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1890,9 +1693,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1904,11 +1705,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -1932,7 +1732,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![amanita](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_amanita.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Big hat in the shape of a mushroom head in red with white spots.
 
@@ -1943,19 +1742,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Amanita genus is a group of mushrooms in the Agaricales order, known for distinctive features like a veil, white spore print, and often a bulbous stem base. It includes over 600 species, ranging from edible to highly toxic. Notable species include Amanita muscaria (fly agaric), with its iconic red cap and white warts, often toxic and hallucinogenic, and Amanita phalloides (death cap), responsible for most fatal mushroom poisonings due to its potent toxins. They typically grow in forests, forming mycorrhizal relationships with trees.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1965,9 +1760,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1979,11 +1772,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2007,7 +1799,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Sudan Sufi](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Sudan%20Sufi.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Taqiyah cap in patterns of circular shapes and lines. A small rounded cap that fits tightly onto the head.
 
@@ -2018,19 +1809,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2040,9 +1827,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2054,11 +1839,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2082,7 +1866,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 THJ Globe](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_THJ%20Globe.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Bone-white fisherman hat with strings. On it is a graphic of two bears holding a yellow globe on top of a cloud with black text “THJ” on it.
 
@@ -2093,19 +1876,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2115,9 +1894,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2129,11 +1906,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -2157,7 +1933,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Orange](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Orange.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Small orange-shaped and coloured beret with 2 small green leaves standing out in the middle of it.
 
@@ -2168,19 +1943,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2190,9 +1961,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2204,11 +1973,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2232,7 +2000,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![I Eat Ass](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_I%20Eat%20Ass.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Red cap with bold white text that reads “I EAT ASS”.
 
@@ -2243,19 +2010,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2265,9 +2028,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2279,11 +2040,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2307,7 +2067,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Baddies Pink](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Baddies%20Pink.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Soft bright pink cap with a graphic of a brown bear with red ribbon on one ear holding a white flower.
 
@@ -2318,19 +2077,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2340,9 +2095,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2354,11 +2107,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -2382,7 +2134,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Mcdonalds 1](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Mcdonalds%201.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Bright red and yellow newsboy cap with Mcdonalds’ logo on it, a vintage McDonald’s hat.
 
@@ -2393,19 +2144,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2415,9 +2162,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3 - https://www.amazon.com/McDonalds-Vintage-Official-Employee-Uniform/dp/B08GNYS18F ---
 
@@ -2429,11 +2174,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2457,7 +2201,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Remilia Embroidered](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Remilia%20Embroidered.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Light orange with blue embroidery that reads “REMILIA” inside of an oval graphic with a star.
 
@@ -2468,19 +2211,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Inspired by one of Remilia’s official merch on their website. Remilia Corporation is a decentralized autonomous organization (DAO) and digital art collective behind the Milady Maker NFT series, launched in 2021. Inspired by Touhou Project’s Remilia Scarlet, it focuses on provocative digital art and crypto-backed projects, like Bonkler, emphasizing net art and online performance. Members often use pseudonyms and draw from Y2K Japanese street-style aesthetics.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2490,9 +2229,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2504,11 +2241,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -2534,7 +2270,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![ancient mongolian Hat With Feathers](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_ancient_mongolian_Hat%20With%20Feathers.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Big headpiece consisting of a brown base with thin flowy strings on the front part and down framing the face. Multiple feathers that are enormous in size are poking out of the top part of the hat.
 
@@ -2545,19 +2280,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Mongolian shamanic rituals; that were being revived after being banned for 70 years under communist rule. Protected by Mongolia’s constitution since 1992, these ancient practices involve shamans (buu) performing ceremonies, such as a summer solstice ritual near Ulaanbaatar.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2567,9 +2298,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -2581,11 +2310,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Mongolian
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -2610,7 +2338,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![modern orthodoxjew Orthodox Fur Small](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Small.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Round furry hat in black.
 
@@ -2621,19 +2348,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Ultra-Orthodox Jewish groups; like Neturei Karta and Satmar Hasidim, who oppose Zionism and the State of Israel on religious grounds. They view the establishment of Israel as an anti-messianic act, believing Jews are forbidden to return collectively to the Holy Land or establish sovereignty until divine redemption by the Messiah. This stems from a Midrash interpretation that Jews must wait passively for divine intervention rather than pursue human-driven political efforts like Zionism. These groups see Israel’s existence as a violation of Jewish law and anticipate its divine dissolution.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2643,9 +2366,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2657,11 +2378,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Orthodox Jew
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -2686,7 +2406,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Wide Brim](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Wide%20Brim.webp)
 
-**Accessory Type:**
 
 **Visual Description:** All-black hat with wide brim.
 
@@ -2697,19 +2416,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2719,9 +2434,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2733,11 +2446,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2761,7 +2473,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Bitcoin 2](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_Bitcoin%202.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black cap with colourful graphics lined up in order of: sonic, bitcoin, 10, HP (Harry Potter), and Inu- as well as colourful text that reads “Harry Potter Obama” above them.
 
@@ -2772,19 +2483,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a meme-based cryptocurrency on Ethereum (ERC-20) and Binance Smart Chain (BSC), launched around late 2021. The token employs reflection, liquidity pool acquisition, and burn functions in trades.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2794,9 +2501,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -2808,11 +2513,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2836,7 +2540,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![C](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_freetekno_C.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Red cap with big yellow letter ‘C’ in the middle.
 
@@ -2847,19 +2550,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** (NOTE DOWN BELOW)
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2869,9 +2568,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2883,11 +2580,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2912,7 +2608,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Head Tube](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Head%20Tube.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Plain black turban.
 
@@ -2923,19 +2618,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2945,9 +2636,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2959,11 +2648,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -2987,7 +2675,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Sailor](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Sailor.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White sailor hat with a graphic of an anchor and a stripe on top of it in greyish tone.
 
@@ -2998,19 +2685,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3020,9 +2703,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3034,11 +2715,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3062,7 +2742,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Modern Irish](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Modern%20Irish.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Green bucket hat / walking hat with patches of different garments with different colors and patterns on it and a small yellow feather.
 
@@ -3073,19 +2752,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3095,9 +2770,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3109,11 +2782,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3138,7 +2810,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![modern japanese Aum Headwear](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_modern_japanese_Aum%20Headwear.webp)
 
-**Accessory Type:**
 
 **Visual Description:** What looks like white bandages going around the head and tiny wires in yellow, blue, and red in between them.
 
@@ -3149,19 +2820,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Aum Shinrikyo, founded in 1984 by Shoko Asahara in Japan, was a doomsday cult blending Buddhist, Hindu, and Christian apocalyptic beliefs. Initially a spiritual group, it gained legal religious status in 1989, growing to tens of thousands of followers. The cult turned violent after a failed 1990 election bid, engaging in crimes like extortion, murder, and chemical weapons production. Notable attacks include the 1994 Matsumoto sarin gas attack and the 1995 Tokyo subway sarin attack. Asahara and key members were executed in 2018. The group, now called Aleph and Hikari no Wa, remains active but is monitored as a "dangerous religion" in Japan.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3171,9 +2838,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3185,11 +2850,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Japanese
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3213,7 +2877,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Workin Like A Dog](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Workin%20Like%20A%20Dog.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Brown cap with white text that reads “WORKIN’ LIKE A DOG ALL DAY ON” followed by a word in bright blue that says “MILADY”.
 
@@ -3224,19 +2887,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3246,9 +2905,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3260,11 +2917,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3289,7 +2945,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Cute Bera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Cute%20Bera.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Brown hat in the shape of a bear face; a tiny face in the middle, big curved ears, and two paws extending out of the front part resting on the front side of the head.
 
@@ -3300,19 +2955,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3322,9 +2973,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3336,11 +2985,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3364,7 +3012,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Flower Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Flower%20Hat.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Wide round hat with pink ribbon wrapped around it and a few small tulips on the other side. The hat is in the colour of beige / the sand.
 
@@ -3375,19 +3022,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3397,9 +3040,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3411,11 +3052,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3439,7 +3079,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Maid Head](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Maid%20Head.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White mob cap / maid headband, ruffly in shape.
 
@@ -3450,19 +3089,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3472,9 +3107,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3486,11 +3119,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3514,7 +3146,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Peyote Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_Peyote%20Hat.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Wide round hat, flat in shape, with a bunch of grey feathers on top and a red-yellow pompom in the center. On the edge of the hat are dangling ornaments with patterns in blue and orange.
 
@@ -3525,19 +3156,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Peyote is seen as a divine teacher, fostering unity and heart-opening experiences, requiring respect and ethical sourcing due to its slow growth and cultural significance. Peyote ceremony is a sacred, Indigenous ritual using the peyote cactus, a spiritual medicine containing mescaline. Conducted by tribes like the Huichol and Native American Church, it involves all-night ceremonies with prayer, music, and introspection for emotional and spiritual healing.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3547,9 +3174,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3561,11 +3186,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3590,7 +3214,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Bera Bucket](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Bera%20Bucket.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Brown bucket hat with bear face with sparkly eyes and bear ears.
 
@@ -3601,19 +3224,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3623,9 +3242,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3637,11 +3254,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3665,7 +3281,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![ancient Sami Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_ancient_Sami%20Hat.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Red tall, sturdy, hat in almost rectangular shape with green linings on it.
 
@@ -3676,19 +3291,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Sámi are an Indigenous people of northern Europe, primarily in Norway, Sweden, Finland, and Russia’s Kola Peninsula, with a population of about 80,000–100,000. Traditionally nomadic, they’ve historically relied on reindeer herding, fishing, and hunting, with a rich culture featuring unique languages (9–11 dialects), joik singing, and duodji crafts. Facing centuries of forced assimilation, including bans on their language and land dispossession, they’ve maintained their identity through activism since the 1970s, gaining cultural protections and political representation like the Sámi Parliaments.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3698,9 +3309,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3712,11 +3321,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3740,7 +3348,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Stylized Fashion](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Stylized%20Fashion.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Flat, asymmetrical hat in red maroon.
 
@@ -3751,19 +3358,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3773,9 +3376,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3787,11 +3388,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -3815,7 +3415,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![CPAP](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_CPAP.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Head of the CPAP machine with a grey thick tube that goes back.
 
@@ -3826,19 +3425,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** A CPAP (Continuous Positive Airway Pressure) machine is a medical device used to treat sleep apnea by delivering a steady stream of air through a mask worn over the nose or mouth, keeping airways open during sleep to prevent breathing pauses and improve oxygen flow.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3848,9 +3443,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3862,11 +3455,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3890,7 +3482,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Undiagnosed](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Undiagnosed.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black cap with light yellow text that reads “Undiagnosed but I’m pretty sure…”
 
@@ -3901,19 +3492,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3923,9 +3510,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3937,11 +3522,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -3965,7 +3549,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS4 THJ Bees](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_THJ%20Bees.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Light grey bucket hat with a graphic of a white bear wearing a purple hat eating honey out of a big jar surrounded by bees.
 
@@ -3976,19 +3559,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3998,9 +3577,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4012,11 +3589,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -4040,7 +3616,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Forehead Kiss](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Forehead%20Kiss.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Kiss stamp in red.
 
@@ -4051,19 +3626,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4073,9 +3644,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4087,11 +3656,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -4115,7 +3683,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Shoulder Orange](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Shoulder%20Orange.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Orange fruit with a tiny stem and one leaf.
 
@@ -4126,19 +3693,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4148,9 +3711,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4162,11 +3723,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -4190,7 +3750,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 BM2C](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_BM2C.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Soft pink cap with bm2c logo and text in white; a silhouette stickman of someone with curved ears running inside of a square frame.
 
@@ -4201,19 +3760,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** BM2C is an art project on Berachain with a very quirky sense of humour and distinct online persona. Launched an NFT collection that was available for minting on February 11th.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4223,9 +3778,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4237,11 +3790,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 18, 2025
 
@@ -4265,7 +3817,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Peyote Feather](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_Peyote%20Feather.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Headband in bone-white and black with sharp consistent patterns, and a big feather standing in the middle of the headband.
 
@@ -4276,19 +3827,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4298,9 +3845,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4312,11 +3857,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -4340,7 +3884,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 No Cap](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_No%20Cap.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black cap with small text in white that reads “no cap”.
 
@@ -4351,19 +3894,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4373,9 +3912,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4387,11 +3924,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -4415,7 +3951,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Egg on Head](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Egg%20on%20Head.webp)
 
-**Accessory Type:**
 
 **Visual Description:** The inside of an egg, intact, drooping down.
 
@@ -4426,19 +3961,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4448,9 +3979,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4462,11 +3991,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -4490,7 +4018,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Ethiopian Flat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Ethiopian%20Flat.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Tall sturdy hat in black and grey that’s flat in shape.
 
@@ -4501,19 +4028,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4523,9 +4046,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4537,11 +4058,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -4565,7 +4085,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Aboriginal Flag](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_freetekno_Aboriginal%20Flag.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Dark navy cap with an Aboriginal flag on it; top half being black and top bottom being red, with a yellow circle in the center.
 
@@ -4576,19 +4095,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** DJ PGZ; a Gunai/Kurnai and Yorta Yorta artist, is a Naarm-based DJ and producer in techno and EDM. A former drummer and indie band member, he’s passionate about expanding Blak thought through community events like BLK ICE and filmmaking. During NAIDOC Week 2023, he shared his journey into electronic music, inspired by family artistry and global Indigenous cultures
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4598,9 +4113,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4612,11 +4125,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -4641,7 +4153,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Rice Paddy](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_Rice%20Paddy.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Asian farmer’s hat, large in size shaping a wide cone facing downwards with strings dangling down the hat.
 
@@ -4652,19 +4163,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4674,9 +4181,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4688,11 +4193,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -4716,7 +4220,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Raiders](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Raiders.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Cap in grey gradient with white graphic of a face of a man with an eyepatch, two swords crossed behind him, and text that says “RAIDERS”.
 
@@ -4727,19 +4230,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Las Vegas Raiders are an NFL team in the AFC West, founded in 1960 as the Oakland Raiders. They play home games at Allegiant Stadium in Paradise, Nevada.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4749,9 +4248,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4763,11 +4260,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 2, 2024
 
@@ -4791,7 +4287,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Fez](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Fez.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Small fez hat in deep red; a tube-shaped hat with yellow string dangling down the top center part.
 
@@ -4802,19 +4297,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Fez hat; Originating in Morocco in the 17th century, it became a symbol of Ottoman identity and later spread across the Muslim world and beyond, often associated with cultural or religious significance.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4824,9 +4315,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4838,11 +4327,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4866,7 +4354,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Den Hopium](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Den%20Hopium.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Vibrant green cap with the letter “L” inside of a white circle in the middle.
 
@@ -4877,19 +4364,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4899,9 +4382,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4913,11 +4394,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4941,7 +4421,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Bera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_milady_Bera.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Brown cap with bear face, sparkly eyes, and bear ears
 
@@ -4952,19 +4431,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4974,9 +4449,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4988,11 +4461,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5016,7 +4488,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Cowboy](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_milady_Cowboy.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black cowboy hat with red tie / rope around it.
 
@@ -5027,19 +4498,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5049,9 +4516,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5063,11 +4528,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5091,7 +4555,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Lee Scratch 2](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_Lee%20Scratch%202.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Bright cap with white / silver base and dark purple cap. Purple gems wrapped in golden rings are filling the hat’s body.
 
@@ -5102,19 +4565,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Lee "Scratch" Perry (1936–2021) was a Jamaican music producer, singer, and songwriter, renowned for pioneering dub music in the 1970s. His innovative studio techniques, including remixing and sound effects, reshaped reggae, influencing artists like Bob Marley, The Clash, and Beastie Boys. Known for his eccentric persona, Perry won a Grammy in 2003 and continued creating until his death in Jamaica at age 85.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5124,9 +4583,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5138,11 +4595,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5166,7 +4622,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![modern sufi Tight Turban](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_modern_sufi_Tight%20Turban.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Plain black turban that looks tightly wrapped.
 
@@ -5177,19 +4632,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Yung Singh; a British-Punjabi DJ and producer known for blending UK garage, jungle, grime, and Punjabi music. Rising to fame with his 2020 Punjabi Garage Mix, he won DJ Mag’s Breakthrough DJ of 2021. His eclectic sets, featured at festivals like Glastonbury and Boiler Room, fuse dance music with South Asian influences.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5199,9 +4650,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5213,11 +4662,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Sufi
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5242,7 +4690,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Fruits Remilia Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Fruits%20Remilia%20Hat.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Two-toned pink cap with cute graphic of a pair of eyebrows, huge sparkly eyes, and a curved cat-like mouth.
 
@@ -5253,19 +4700,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5275,9 +4718,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5289,11 +4730,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -5317,7 +4757,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![ancient mongolian Face Hat With Feathers](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_ancient_mongolian_Face%20Hat%20With%20Feathers.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Dark green hat with tall and sturdy base with a white doodle of a face on it; coming out of it stands multiple big feathers in dark colour (black / very dark green).
 
@@ -5328,19 +4767,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5350,9 +4785,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5364,11 +4797,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Mongolian
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -5393,7 +4825,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Wire Cat Ears](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Wire%20Cat%20Ears.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Headband made of blinking LED wires shaped in cat ears; in purple / pink.
 
@@ -5404,19 +4835,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Wired cat ears; are popular accessories at raves and music festivals, complementing the vibrant, expressive fashion of the scene.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5426,9 +4853,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5440,11 +4865,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -5468,7 +4892,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Marshas Flowers](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Marshas%20Flowers.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Flower crowns made of different varieties of flowers in white, purple, red, yellow, and green from the leaves.
 
@@ -5479,19 +4902,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Marsha P Johnson; a Black transgender activist and drag performer, pivotal in the gay liberation movement. A key figure at the 1969 Stonewall uprising, she co-founded the Gay Liberation Front and STAR (Street Transvestite Action Revolutionaries) to support homeless queer youth. Known for her vibrant personality and advocacy for transgender rights.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5501,9 +4920,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5515,11 +4932,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5544,7 +4960,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Yayo](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Yayo.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black and white cap with graphic of a shooting star and the text “YAYO the world is yours” in a funky font.
 
@@ -5555,19 +4970,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** YAYO Corporation; a subsidiary of Remilia Corporation, launched its first NFT project, YAYO NFT, on the Canto network on February 11, 2023. The collection features 4,000 digital action figures with real-world vehicles, weapons, and backgrounds, reflecting YAYO’s aggressive business ethos and themes of masculinity, power, and speed.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5577,9 +4988,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5591,11 +5000,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5619,7 +5027,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS4 tez watermelon](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_tez%20watermelon.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Neatly cut watermelon as a hat.
 
@@ -5630,19 +5037,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5652,9 +5055,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** Tez was a big part of Mibera building and creation.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5666,11 +5067,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 11, 2025
 
@@ -5694,7 +5094,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Make Milady Fun Again](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Make%20Milady%20Fun%20Again.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Two-toned cap in navy blue and white and black text that reads “Make Milady Fun Again” followed by a little heart.
 
@@ -5705,19 +5104,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5727,9 +5122,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5741,11 +5134,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5769,7 +5161,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 OBB Lid](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_OBB%20Lid.webp)
 
-**Accessory Type:**
 
 **Visual Description:** What looks like a jar lid, in light yellow.
 
@@ -5780,19 +5171,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Ooga Booga Bears
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5802,9 +5189,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5816,11 +5201,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5844,7 +5228,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![modern satanist Crawley](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_modern_satanist_Crawley.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Triangle-shaped hat in black with white graphic of a triangle radiating
 
@@ -5855,19 +5238,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Aleister Crowley, an English occultist, mystic, and writer, often called the "wickedest man in the world."
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5877,9 +5256,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5891,11 +5268,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Satanist
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5920,7 +5296,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS4 Butterfly Beanie](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_Butterfly%20Beanie.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black beanie with a black butterfly on a silver rectangular.
 
@@ -5931,19 +5306,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5953,9 +5324,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5967,11 +5336,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -5995,7 +5363,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![modern orthodoxjew Orthodox Fur Large](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Large.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Round furry hat in black, large in size.
 
@@ -6006,19 +5373,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Ultra-Orthodox Jewish groups; like Neturei Karta and Satmar Hasidim, who oppose Zionism and the State of Israel on religious grounds. They view the establishment of Israel as an anti-messianic act, believing Jews are forbidden to return collectively to the Holy Land or establish sovereignty until divine redemption by the Messiah. This stems from a Midrash interpretation that Jews must wait passively for divine intervention rather than pursue human-driven political efforts like Zionism. These groups see Israel’s existence as a violation of Jewish law and anticipate its divine dissolution.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6028,9 +5391,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6042,11 +5403,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Orthodox Jew
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -6071,7 +5431,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![ancient pythia Pythia Robe](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_ancient_pythia_Pythia%20Robe.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Red scarf draping down and folded around the bottom part.
 
@@ -6082,19 +5441,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Pythia; the priestess of the Oracle of Apollo at Delphi in ancient Greece, revered as a prophetess who delivered cryptic prophecies while in a trance, often induced by vapors or rituals. Chosen from local women, she served as a divine intermediary, guiding decisions for individuals and city-states from the 8th century BCE until the 4th century CE, when the oracle declined under Roman rule and Christianity.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6104,9 +5459,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6118,11 +5471,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Pythia
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -6148,7 +5500,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Bitcoin 1](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Bitcoin%201.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black cap with colourful graphics of a Sonic the Hedgehog with a Bitcoin logo and the text “Harry Potter OBAMA” framing it.
 
@@ -6159,19 +5510,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a meme-based cryptocurrency on Ethereum (ERC-20) and Binance Smart Chain (BSC), launched around late 2021. The token employs reflection, liquidity pool acquisition, and burn functions in trades.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6181,9 +5528,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6195,11 +5540,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -6223,7 +5567,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Bear Down](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Bear%20Down.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Two-toned orange creamy white cap with big black text that reads “BEAR DOWN”.
 
@@ -6234,19 +5577,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6256,9 +5595,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6270,11 +5607,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -6298,7 +5634,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![duct tape](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_chicagodetroit_duct%20tape.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Silver duct tape
 
@@ -6309,19 +5644,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6331,9 +5662,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -6345,11 +5674,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -6373,7 +5701,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Mibera Pacifier](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_Mibera%20Pacifier.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White pacifier with Mibera logo on it; a yellow smiley with bear ears.
 
@@ -6384,19 +5711,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6406,9 +5729,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6420,11 +5741,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 19, 2024
 
@@ -6448,7 +5768,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![vaneck intern](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_freetekno_vaneck%20intern.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black cap with white text that reads “vaneck intern”.
 
@@ -6459,19 +5778,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6481,9 +5796,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6495,11 +5808,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -6523,7 +5835,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Aitoshi](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Aitoshi.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Beanie in pastel teal with rounded ears and black graphic of a bear and chains.
 
@@ -6534,19 +5845,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6556,9 +5863,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6570,11 +5875,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -6598,7 +5902,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Blue Bow Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Blue%20Bow%20Hat.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Round hat in soft blue, pretty flat in shape, with light blue tie around it and a bow.
 
@@ -6609,19 +5912,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6631,9 +5930,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6645,11 +5942,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -6673,7 +5969,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![mcdonalds 3](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/mcdonalds%203.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Visor hat in red with Mcdonalds logo in the center; a yellow ‘M’.
 
@@ -6684,19 +5979,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6706,9 +5997,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** ---
 
@@ -6720,11 +6009,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** May 4, 2025
 
@@ -6748,7 +6036,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS4 Party Hat Red](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_Party%20Hat%20Red.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Crown-shaped hat in deep red.
 
@@ -6759,19 +6046,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6781,9 +6064,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6795,11 +6076,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -6823,7 +6103,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS5 Party Hat Blue](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Party%20Hat%20Blue.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Crown-shaped hat in vibrant blue.
 
@@ -6834,19 +6113,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6856,9 +6131,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -6870,11 +6143,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -6898,7 +6170,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Backwards](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Backwards.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Back view of a cap light grey / beige, with the clippers and a half-circle hole.
 
@@ -6909,19 +6180,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6931,9 +6198,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6945,11 +6210,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -6974,7 +6238,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Lee Scratch](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_chicagodetroit_Lee%20Scratch.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Red cap with black spikes coming out of it all around the body and along the edge of the cap.
 
@@ -6985,19 +6248,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Lee "Scratch" Perry (1936–2021) was a Jamaican music producer, singer, and songwriter, renowned for pioneering dub music in the 1970s. His innovative studio techniques, including remixing and sound effects, reshaped reggae, influencing artists like Bob Marley, The Clash, and Beastie Boys. Known for his eccentric persona, Perry won a Grammy in 2003 and continued creating until his death in Jamaica at age 85.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7007,9 +6266,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -7021,11 +6278,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7049,7 +6305,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![FBI Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_milady_FBI%20Hat.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black and white cap with blood (red) splatters from one side towards the middle, and the word “FBI” in yellow inside of a navy blue rectangle in the middle.
 
@@ -7060,19 +6315,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7082,9 +6333,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -7096,11 +6345,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -7124,7 +6372,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Kingdomly](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Kingdomly.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Knight helmet with brown bear ears and red fur at the back, the helmet is wide opened.
 
@@ -7135,19 +6382,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** an NFT mint platform on Berachain that recently went multi-chain.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7157,9 +6400,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7171,11 +6412,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7199,7 +6439,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS1 Abusive](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_Abusive.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black and white cap with black text that reads “I could be abusive”.
 
@@ -7210,19 +6449,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7232,9 +6467,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -7246,11 +6479,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7274,7 +6506,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS5 THJ Dark Gray](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_THJ%20Dark%20Gray.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Dark grey wide bucket hat with strings and a graphic of a bear in a relaxed pose on top / behind the text “THJ” in yellow graffiti font.
 
@@ -7285,19 +6516,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7307,9 +6534,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -7321,11 +6546,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7349,7 +6573,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Pink Panels](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_milady_Pink%20Panels.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Cap in black and hot pink color divided per section.
 
@@ -7360,19 +6583,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7382,9 +6601,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -7396,11 +6613,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7424,7 +6640,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![FTX Risk Management](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_acidhouse_FTX%20Risk%20Management.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Soft warm rose-pink cap with blue and white graphic of the logo FTX and the text “RISK MANAGEMENT”.
 
@@ -7435,19 +6650,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** FTX's risk management was a flawed system meant to oversee financial risks at the cryptocurrency exchange FTX, which collapsed in 2022. It was supposed to monitor and mitigate risks like market volatility, liquidity issues, and improper use of customer funds. However, FTX, led by Sam Bankman-Fried, lacked a dedicated risk management team and had no effective controls, allowing the misappropriation of $8 billion in customer funds to its sister firm, Alameda Research, for speculative investments. This absence of oversight, combined with poor governance and no regulatory compliance, led to massive fraud and bankruptcy.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7457,9 +6668,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -7471,11 +6680,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -7499,7 +6707,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![ancient mongolian Wolf Head](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_milady_ancient_mongolian_Wolf%20Head.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a white-grey furry hat with visible snout and mouth that looks like it’s made of a wolf’s head.
 
@@ -7510,19 +6717,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7532,9 +6735,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -7546,11 +6747,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** Mongolian
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7574,7 +6774,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS1 MBGA](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_MBGA.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a deep red cap with white text that reads “MAKE BITCOIN GREAT AGAIN”.
 
@@ -7585,19 +6784,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7607,9 +6802,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -7621,11 +6814,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7649,7 +6841,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS5 OBB Dripping Honey](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_OBB%20Dripping%20Honey.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a lid of a clear jar with a dripping yellow liquid that seems to be honey.
 
@@ -7660,19 +6851,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7682,9 +6869,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -7696,11 +6881,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7724,7 +6908,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS5 Regal Crown](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Regal%20Crown.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a regal crown; red on the inside with gold plating and framing on the outside, adorned with white sparkly gems.
 
@@ -7735,19 +6918,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7757,9 +6936,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -7771,11 +6948,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7799,7 +6975,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Darkfi](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Darkfi.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a black cap with white graphic of an upside down triangle with an eye in the middle of it, and a text in old-school gothic font on the side that reads “Dark-fi”
 
@@ -7810,19 +6985,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7832,9 +7003,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7846,11 +7015,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7874,7 +7042,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 
 
-**Accessory Type:**
 
 **Visual Description:** a biking helmet in baby teal and pink, with black accent underneath.
 
@@ -7885,19 +7052,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7907,9 +7070,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -7921,11 +7082,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -7949,7 +7109,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Aori](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Aori.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a black cap with white graphic in the middle that looks like an ‘S’ and an ‘O’ connected with an ‘I’ inside of it.
 
@@ -7960,19 +7119,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7982,9 +7137,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7996,11 +7149,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8024,7 +7176,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Ramen Finance Bowl](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Ramen%20Finance%20Bowl.webp)
 
-**Accessory Type:**
 
 **Visual Description:** an upside down white bowl with red logo on it that looks like a bowl in front of a flower. A yellow line runs across the edge of the bowl.
 
@@ -8035,19 +7186,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8057,9 +7204,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -8071,11 +7216,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8099,7 +7243,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS4 bozito cave off](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_bozito%20cave%20off.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a big hood in the shape of a dead bear head, seen through the ‘dead eyes’ and patched part in the middle. White bangs poke out of the hood on the front part.
 
@@ -8110,19 +7253,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8132,9 +7271,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8146,11 +7283,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 23, 2025
 
@@ -8174,7 +7310,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![modern satanist Satan](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_modern_satanist_Satan.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a deep red hood with white horn poking out on each side..
 
@@ -8185,19 +7320,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8207,9 +7338,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8221,11 +7350,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -8249,7 +7377,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS4 los bullas](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_los%20bullas.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a black cap with white text in fancy font that reads “Los Bullas”.
 
@@ -8260,19 +7387,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8282,9 +7405,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8296,11 +7417,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 11, 2025
 
@@ -8324,7 +7444,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Devon Head](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_Devon%20Head.webp)
 
-**Accessory Type:**
 
 **Visual Description:** an oversized bear head in the colour of bright beige / light shade of brown.
 
@@ -8335,19 +7454,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8357,9 +7472,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8371,11 +7484,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -8399,7 +7511,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Berahorses Bucket](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Berahorses%20Bucket.webp)
 
-**Accessory Type:**
 
 **Visual Description:** an orange bucket hat with lighter orange text with black outline that reads “Neigh”
 
@@ -8410,19 +7521,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8432,9 +7539,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -8446,11 +7551,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8474,7 +7578,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS3 Yeet Bucket](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Yeet%20Bucket.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a pale yellow bucket hat with the Yeet logo and text in the middle. A graphic of a yellow creature’s head with uneven crossed eyes, ears, and a drooling mouth.
 
@@ -8485,19 +7588,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8507,9 +7606,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -8521,11 +7618,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -8549,7 +7645,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS2 Reimu Syndicate](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Reimu%20Syndicate.webp)
 
-**Accessory Type:**
 
 **Visual Description:** greyish white cap with blue graphic of hearts and the text “REiMU syndicate” on it.
 
@@ -8560,19 +7655,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8582,9 +7673,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8596,11 +7685,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8624,7 +7712,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Dread Pirates Bandana](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Dread%20Pirates%20Bandana.webp)
 
-**Accessory Type:**
 
 **Visual Description:** plain black durag that connects to a black eye mask with big holes around the eyes area.
 
@@ -8635,19 +7722,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8657,9 +7740,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8671,11 +7752,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -8699,7 +7779,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS4  ketamine kneecap up the ra balaclava ](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_%20ketamine%20kneecap%20up%20the%20ra%20balaclava%20.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a balaclava in the Irish flag colour and pattern; green, white, orange.
 
@@ -8710,19 +7789,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8732,9 +7807,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8746,11 +7819,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 14, 2025
 
@@ -8774,7 +7846,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Indian](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Indian.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a plain orange turban / dastar. Garment wrapped around the head.
 
@@ -8785,19 +7856,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8807,9 +7874,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8821,11 +7886,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -8849,7 +7913,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Strawberry](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Strawberry.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a strawberry-shaped hat that covers the entire head but the face.
 
@@ -8860,19 +7923,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8882,9 +7941,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8896,11 +7953,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -8924,7 +7980,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS5 Smokey Durag](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Smokey%20Durag.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a tight black durag with small white text that reads “OOGA BOOGA” with funky font on it.
 
@@ -8935,19 +7990,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8957,9 +8008,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -8971,11 +8020,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 10, 2025
 
@@ -8999,7 +8047,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Baby Bera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Baby%20Bera.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a black cap with babybera graphic in the middle; a dark grey bear in relaxed pose and smiley expression
 
@@ -9010,19 +8057,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9032,9 +8075,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -9046,11 +8087,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -9074,7 +8114,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![Sunra](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_chicagodetroit_Sunra.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a sun ra headdress; a headdress mainly in gold with cover / flap on each side covering the ear in stripy black and gold. Near the center front that frames the face is a carving of the letter ‘A’ in a circle with 2 wings on each side. On top of the headdress is a big circular shape charm.
 
@@ -9085,19 +8124,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9107,9 +8142,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -9121,11 +8154,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -9149,7 +8181,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 ![SS5 Hamas](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Hamas.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a face cover made of red and white scarf showing only the eyes part, with green garment with arabic script written on it going across the forehead.
 
@@ -9160,19 +8191,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9182,9 +8209,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -9196,11 +8221,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -9224,7 +8248,6 @@ SS{score}_{archetype}_{name}
 **Image Files:**
 
 
-**Accessory Type:**
 
 **Visual Description:** a fuzzy earmuffs with white band and a pink ribbon on top of it in the center, and pink ear covers..
 
@@ -9235,19 +8258,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9257,9 +8276,7 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -9271,11 +8288,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -9298,7 +8314,6 @@ SS{score}_{archetype}_{name}
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9308,19 +8323,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9330,7 +8341,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9341,11 +8351,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9367,7 +8376,6 @@ SS{score}_{archetype}_{name}
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9377,19 +8385,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9399,7 +8403,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9410,11 +8413,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9436,7 +8438,6 @@ SS{score}_{archetype}_{name}
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9446,19 +8447,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9468,7 +8465,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9479,11 +8475,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9505,7 +8500,6 @@ SS{score}_{archetype}_{name}
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9515,19 +8509,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9537,7 +8527,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9548,11 +8537,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9574,7 +8562,6 @@ SS{score}_{archetype}_{name}
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9584,19 +8571,15 @@ SS{score}_{archetype}_{name}
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9606,7 +8589,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9617,11 +8599,10 @@ SS{score}_{archetype}_{name}
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

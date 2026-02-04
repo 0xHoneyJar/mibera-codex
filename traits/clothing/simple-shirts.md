@@ -23,7 +23,6 @@ Simple shirts are solid-colored base garments without graphics or patterns. They
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 
@@ -46,7 +45,6 @@ Simple shirts are solid-colored base garments without graphics or patterns. They
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 
@@ -69,7 +67,6 @@ Simple shirts are solid-colored base garments without graphics or patterns. They
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 
@@ -92,7 +89,6 @@ Simple shirts are solid-colored base garments without graphics or patterns. They
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 
@@ -115,7 +111,6 @@ Simple shirts are solid-colored base garments without graphics or patterns. They
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 
@@ -138,7 +133,6 @@ Simple shirts are solid-colored base garments without graphics or patterns. They
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 
@@ -161,7 +155,6 @@ Simple shirts are solid-colored base garments without graphics or patterns. They
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 
@@ -184,7 +177,6 @@ Simple shirts are solid-colored base garments without graphics or patterns. They
 
 **Archetype Affinity:**
 
-**Vibe Tags:**
 
 **Color Symbolism:**
 

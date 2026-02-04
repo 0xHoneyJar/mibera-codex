@@ -32,7 +32,6 @@ Earrings add subtle cultural signifiers and personal expression to Mibera charac
 **Image Files:**
 SS3_golden hoop.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Golden hoop / circular earring
 
@@ -43,19 +42,15 @@ SS3_golden hoop.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** DiY crew; a Nottingham-based collective, co-founded by Harry Harrison, Rick "Digs" Down, Simon "DK" Smith, and Pete "Woosh" Birch in 1989. They hold a big role in bridging hippy free parties and urban club culture, resisting commercialization and police crackdowns, notably during the 1992 Castlemorton rave and the 1994 Criminal Justice Act. The piece notes their utopian yet hedonistic legacy, marked by drug-related challenges and occasional milestone free parties, as detailed in Harrison’s book Dreaming in Yellow.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -65,9 +60,7 @@ SS3_golden hoop.PNG
 
 **Archetype Alignment:** Aligned culture, related to the 90s rave
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -79,11 +72,10 @@ SS3_golden hoop.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -108,7 +100,6 @@ SS3_golden hoop.PNG
 **Image Files:**
 SS3_dopamine.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring in the molecular shape of ‘dopamine’ in silver or rosegold; a hexagonal shape in the center with lines extending out of 2 points ending with a dot-like shape.
 
@@ -119,19 +110,15 @@ SS3_dopamine.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Dopamine is a chemical messenger in the nervous system, primarily produced in the brain's substantia nigra and ventral tegmental area. It plays a key role in the brain's reward system, influencing feelings of pleasure, motivation, and reinforcement learning.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -141,9 +128,7 @@ SS3_dopamine.png
 
 **Archetype Alignment:** “Feel-good” chemical produced by the brain itself that’s more related to driving behavior towards rewards than direct happiness.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -155,11 +140,10 @@ SS3_dopamine.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -183,7 +167,6 @@ SS3_dopamine.png
 **Image Files:**
 SS3_acidhouse_Beramilia.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring in the shape of a smiley face in yellow with curved ears. Radiating a bit of glow.
 
@@ -194,19 +177,15 @@ SS3_acidhouse_Beramilia.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -216,9 +195,7 @@ SS3_acidhouse_Beramilia.png
 
 **Archetype Alignment:** Main iconography for Mibera
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -230,11 +207,10 @@ SS3_acidhouse_Beramilia.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -258,7 +234,6 @@ SS3_acidhouse_Beramilia.png
 **Image Files:**
 SS3_milady_Strawberry.png
 
-**Accessory Type:**
 
 **Visual Description:** Strawberry.
 
@@ -269,19 +244,15 @@ SS3_milady_Strawberry.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Milady Maker is a 2021 Ethereum NFT collection of 10,000 generative neochibi-style PFPs inspired by 2000s Tokyo street fashion, created by pseudonymous Remilia Collective.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -291,9 +262,7 @@ SS3_milady_Strawberry.png
 
 **Archetype Alignment:** Correlation with Milady as part of their traits.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -305,11 +274,10 @@ SS3_milady_Strawberry.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -334,7 +302,6 @@ SS3_milady_Strawberry.png
 **Image Files:**
 SS3_purple lolipop.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a purple lollipop as the charm.
 
@@ -345,19 +312,15 @@ SS3_purple lolipop.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Rave culture is closely tied to drugs like MDMA, but often leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either coated or infused to disguise it as candy for easier transport and consumption at events
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -367,9 +330,7 @@ SS3_purple lolipop.png
 
 **Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -381,11 +342,10 @@ SS3_purple lolipop.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -410,7 +370,6 @@ SS3_purple lolipop.png
 **Image Files:**
 SS1_green lolipop.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a leafy green lollipop as the charm.
 
@@ -421,19 +380,15 @@ SS1_green lolipop.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Rave culture is closely tied to drugs like MDMA, but often leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either coated or infused to disguise it as candy for easier transport and consumption at events
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -443,9 +398,7 @@ SS1_green lolipop.png
 
 **Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -457,11 +410,10 @@ SS1_green lolipop.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -486,7 +438,6 @@ SS1_green lolipop.png
 **Image Files:**
 SS3_green gummy bear.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with green gummy bear as the charm.
 
@@ -497,19 +448,15 @@ SS3_green gummy bear.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Gummy bears are often laced with drugs.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -519,9 +466,7 @@ SS3_green gummy bear.png
 
 **Archetype Alignment:** Relation to drugs and a nod to Gumi’s name.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -533,11 +478,10 @@ SS3_green gummy bear.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -561,7 +505,6 @@ SS3_green gummy bear.png
 **Image Files:**
 SS3_freetekno_Spiral 3.png
 
-**Accessory Type:**
 
 **Visual Description:** Thick swirl / spiral earring in white with black swirly tribal line-art on them.
 
@@ -572,19 +515,15 @@ SS3_freetekno_Spiral 3.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Spiral Tribe is a free party sound system and collective that emerged in the early 1990s in West London. Known for their nomadic lifestyle and anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house and hardcore techno.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -594,9 +533,7 @@ SS3_freetekno_Spiral 3.png
 
 **Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -608,11 +545,10 @@ SS3_freetekno_Spiral 3.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -636,7 +572,6 @@ SS3_freetekno_Spiral 3.png
 **Image Files:**
 SS3_freetekno_modern_aboriginal_Spiral 2.png
 
-**Accessory Type:**
 
 **Visual Description:** Thick swirl / spiral earring in black with white swirly tribal line-art on them.
 
@@ -647,19 +582,15 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Spiral Tribe is a free party sound system and collective that emerged in the early 1990s in West London. Known for their nomadic lifestyle and anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -669,9 +600,7 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -683,11 +612,10 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 **Ancestor:** Aboriginal
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -711,7 +639,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 **Image Files:**
 SS3_freetekno_modern_aboriginal_Spiral 2.png
 
-**Accessory Type:**
 
 **Visual Description:** Thick swirl / spiral earring in black
 
@@ -722,19 +649,15 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Spiral Tribe is a free party sound system and collective that emerged in the early 1990s in West London. Known for their nomadic lifestyle and anti-establishment ethos, they organized unlicensed raves and festivals, blending acid house
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -744,9 +667,7 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -758,11 +679,10 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -786,7 +706,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 **Image Files:**
 SS3_rainbow ring.png
 
-**Accessory Type:**
 
 **Visual Description:** Thin rainbow ring / hoop-earring.
 
@@ -797,19 +716,15 @@ SS3_rainbow ring.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The rainbow flag, designed by Gilbert Baker in 1978, is a global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation, used in pride events and advocacy for LGBTQ+ rights.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -819,9 +734,7 @@ SS3_rainbow ring.png
 
 **Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -833,11 +746,10 @@ SS3_rainbow ring.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -861,7 +773,6 @@ SS3_rainbow ring.png
 **Image Files:**
 SS3_milady_Meta Earrings.png
 
-**Accessory Type:**
 
 **Visual Description:** Writing of the word ‘EARRINGS’ in all capital letters.
 
@@ -872,19 +783,15 @@ SS3_milady_Meta Earrings.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -894,9 +801,7 @@ SS3_milady_Meta Earrings.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -908,11 +813,10 @@ SS3_milady_Meta Earrings.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 19, 2024
 
@@ -936,7 +840,6 @@ SS3_milady_Meta Earrings.png
 **Image Files:**
 SS3_freetekno_Paperclip 2.png
 
-**Accessory Type:**
 
 **Visual Description:** Two paperclips / safety pins in light-grey.
 
@@ -947,19 +850,15 @@ SS3_freetekno_Paperclip 2.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Paper-clip symbolizes resilience, strength, and overcoming challenges while embracing one's unique identity.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -969,9 +868,7 @@ SS3_freetekno_Paperclip 2.png
 
 **Archetype Alignment:** It carries a long-standing history rooted in the punk and counterculture movement. Which is very much aligned with Mibera culture in general.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1167452819809378386/11678043915464 29450 - https://boho-magic.com/blogs/news/safety-pin-earring-symbolism ---
 
@@ -983,11 +880,10 @@ SS3_freetekno_Paperclip 2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -1011,7 +907,6 @@ SS3_freetekno_Paperclip 2.png
 **Image Files:**
 SS3_rainbow.png
 
-**Accessory Type:**
 
 **Visual Description:** Stereotypical rainbow; a curved band of colors consisting of red, orange, yellow, green, blue, indigo, violet.
 
@@ -1022,19 +917,15 @@ SS3_rainbow.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The rainbow flag, designed by Gilbert Baker in 1978, is a global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation, used in pride events and advocacy for LGBTQ+ rights.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1044,9 +935,7 @@ SS3_rainbow.png
 
 **Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1058,11 +947,10 @@ SS3_rainbow.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1086,7 +974,6 @@ SS3_rainbow.png
 **Image Files:**
 SS3_capsule.PNG
 
-**Accessory Type:**
 
 **Visual Description:** White and red capsule.
 
@@ -1097,19 +984,15 @@ SS3_capsule.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** A capsule is a small, enclosed container, often used for medicine, supplements, or space modules, designed to be swallowed or deployed easily.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1119,9 +1002,7 @@ SS3_capsule.PNG
 
 **Archetype Alignment:** Its relation to drugs / medication.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1133,11 +1014,10 @@ SS3_capsule.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1161,7 +1041,6 @@ SS3_capsule.PNG
 **Image Files:**
 SS3_marijuana leaf.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a green marijuana leaf as the charm; pointed leaflets radiating from a central stalk. The leaflets are narrow, elongated, and have jagged edges.
 
@@ -1172,19 +1051,15 @@ SS3_marijuana leaf.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Marijuana leaf is the distinctive, serrated, palmate leaf of the cannabis plant, typically with 5-7 leaflets. Heavily associated with Bong Bear, the genesis project of the Berachain ecosystem.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1194,9 +1069,7 @@ SS3_marijuana leaf.png
 
 **Archetype Alignment:** Bong bear leaning aesthetics.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1208,11 +1081,10 @@ SS3_marijuana leaf.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1238,7 +1110,6 @@ SS3_marijuana leaf.png
 **Image Files:**
 SS3_milady_ancient_mayan_Egyptian.png
 
-**Accessory Type:**
 
 **Visual Description:** Gold rectangular earring with hints of blue and a few stripes inside of a line-frame in darker gold.
 
@@ -1249,19 +1120,15 @@ SS3_milady_ancient_mayan_Egyptian.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Both Mayan and Egyptian civilizations built pyramids as sacred structures, symbolizing their connection to the cosmos, aligned with astronomical events, reflecting advanced mathematical and cosmological knowledge.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1271,9 +1138,7 @@ SS3_milady_ancient_mayan_Egyptian.png
 
 **Archetype Alignment:** In relation / within an aligned aesthetic to ancient Egyptian as one of Mibera’s ancestors, as well as the Mayan tribe.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1285,11 +1150,10 @@ SS3_milady_ancient_mayan_Egyptian.png
 **Ancestor:** Mayan
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -1314,7 +1178,6 @@ SS3_milady_ancient_mayan_Egyptian.png
 **Image Files:**
 SS3_pyramid.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a small pyramid as the charm.
 
@@ -1325,19 +1188,15 @@ SS3_pyramid.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Pyramids, iconic Egyptian structures, symbolize ancient engineering and spiritual beliefs, often linked to the sun god Ra. Sun Ra, the jazz musician, drew inspiration from Egyptian mythology, incorporating pyramid imagery into his Afrofuturist aesthetic to signify cosmic connection and Black empowerment.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1347,9 +1206,7 @@ SS3_pyramid.png
 
 **Archetype Alignment:** In relation / within an aligned aesthetic to ancient Egyptian as one of Mibera’s ancestors. Also in relation to Sun Ra.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1361,11 +1218,10 @@ SS3_pyramid.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1389,7 +1245,6 @@ SS3_pyramid.png
 **Image Files:**
 SS3_serotonin.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring in the molecular shape of ‘serotonin’ in silver / grey, a few lines connecting to each other forming open shapes in the middle.
 
@@ -1400,19 +1255,15 @@ SS3_serotonin.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Serotonin is a neurotransmitter and hormone, primarily found in the brain, gut, and blood platelets, that regulates mood, sleep, appetite, and digestion. Low serotonin levels are linked to depression, anxiety, and sleep disorders.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1422,9 +1273,7 @@ SS3_serotonin.png
 
 **Archetype Alignment:** Chemical that’s found in the brain, gut, and blood platelets. Related to many drugs and drug users behavior in general.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1436,11 +1285,10 @@ SS3_serotonin.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1464,7 +1312,6 @@ SS3_serotonin.png
 **Image Files:**
 SS3_lightning bolt.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring of a lightning bolt in bright yellow, pointed sharp edges.
 
@@ -1475,19 +1322,15 @@ SS3_lightning bolt.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Lightning Bolt shaped accessory was a very common rave accessory.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1497,9 +1340,7 @@ SS3_lightning bolt.png
 
 **Archetype Alignment:** In relation to the rave culture as well as a slight Zeus reference.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1511,11 +1352,10 @@ SS3_lightning bolt.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1539,7 +1379,6 @@ SS3_lightning bolt.png
 **Image Files:**
 SS3_bera heart.png
 
-**Accessory Type:**
 
 **Visual Description:** Small bear in dark brown holding a red heart.
 
@@ -1550,19 +1389,15 @@ SS3_bera heart.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Berachain is an EVM-compatible Layer 1 blockchain launched on February 6, 2025, designed for DeFi with a unique Proof-of-Liquidity (PoL)
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1572,9 +1407,7 @@ SS3_bera heart.png
 
 **Archetype Alignment:** Its relation to the overall theme of the Berachain ecosystem.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1586,11 +1419,10 @@ SS3_bera heart.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1614,7 +1446,6 @@ SS3_bera heart.png
 **Image Files:**
 SS3_red gummy bear.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with red gummy bear as the charm.
 
@@ -1625,19 +1456,15 @@ SS3_red gummy bear.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Gummy bears are often laced with drugs.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1647,9 +1474,7 @@ SS3_red gummy bear.png
 
 **Archetype Alignment:** Relation to drugs and a nod to Gumi’s name.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1661,11 +1486,10 @@ SS3_red gummy bear.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1689,7 +1513,6 @@ SS3_red gummy bear.png
 **Image Files:**
 SS3_dog bone.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Dog bone in milky white, slightly shiny.
 
@@ -1700,19 +1523,15 @@ SS3_dog bone.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Dog Bone Village was made and spread mainly by the Milady Maker NFT community to refer to poverty or people struggling with it. But there has also been a lot of made-up content and lore in regards to the original term.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1722,9 +1541,7 @@ SS3_dog bone.PNG
 
 **Archetype Alignment:** In relation to the “Dog Bone Village” meme within the Milady Maker NFT community around the end of 2024
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1736,11 +1553,10 @@ SS3_dog bone.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1767,7 +1583,6 @@ SS3_dog bone.PNG
 **Image Files:**
 SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
-**Accessory Type:**
 
 **Visual Description:** Two triangles with one upside-down colliding on top of each other forming what’s commonly known as the Star of David, with a blue colored eyeball in the middle.
 
@@ -1778,19 +1593,15 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Lee "Scratch" Perry was a Jamaican reggae and dub music pioneer, renowned for his innovative production techniques and eccentric personality. Born Rainford Hugh Perry, he gained fame in the 1960s and 1970s, producing for The Wailers and creating hits like "Upsetter" with his Upsetters band. Known for his experimental studio work, including remixing and effects, he won a Grammy in 2003 for Jamaican E.T.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1800,9 +1611,7 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
 **Archetype Alignment:** Lee Scratch Perry had an indirect but foundational influence on Chicago house and Detroit techno cultures through his pioneering dub techniques and experimental sound manipulation in the 1970s.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1814,11 +1623,10 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 **Ancestor:** Rastafarian
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1843,7 +1651,6 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 **Image Files:**
 SS3_milady_Chrome Kitty.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a hello kitty outline silver charm
 
@@ -1854,19 +1661,15 @@ SS3_milady_Chrome Kitty.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Baby Bera is an artist and a project based on the Berachain ecosystem creating music, NFTs, physical products, and a community. As for Hello Kitty, it is a globally iconic, mouthless, white cat with a red bow created by Sanrio in 1974 with commercial purpose and no clear backstory.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1876,9 +1679,7 @@ SS3_milady_Chrome Kitty.png
 
 **Archetype Alignment:** Babybera influence, Hello Kitty inspired item.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1890,11 +1691,10 @@ SS3_milady_Chrome Kitty.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -1918,7 +1718,6 @@ SS3_milady_Chrome Kitty.png
 **Image Files:**
 SS4_acidhouse_ancient_greek_Gold Hoop.png
 
-**Accessory Type:**
 
 **Visual Description:** Circular earring with a flat curved shape inside of it and a red gem.
 
@@ -1929,19 +1728,15 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1951,9 +1746,7 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 
 **Archetype Alignment:** Aesthetically in relation / alignment to one of Mibera’s ancestors, the Greek.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1965,11 +1758,10 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 **Ancestor:** Greek
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1993,7 +1785,6 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 **Image Files:**
 SS3_acidhouse_ufo.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a green UFO; a round, disc-like structure, with a dome or protrusion on top and bottom, radiating light that’s facing downwards- as the charm.
 
@@ -2004,19 +1795,15 @@ SS3_acidhouse_ufo.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** UFOs and acidhouse culture is largely anecdotal and tied to the psychedelic, countercultural elements of the late 1980s and early 1990s rave scene. The term “UFO” also happened to be the name of a pioneering acidhouse club in Berlin.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2026,9 +1813,7 @@ SS3_acidhouse_ufo.png
 
 **Archetype Alignment:** In relation to Acidhouse, one of Mibera’s archetypes.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2040,11 +1825,10 @@ SS3_acidhouse_ufo.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2070,7 +1854,6 @@ SS3_acidhouse_ufo.png
 **Image Files:**
 SS3_baddie double gold.png
 
-**Accessory Type:**
 
 **Visual Description:** Two balls (studs) in gold, linear in placement to one another.
 
@@ -2081,19 +1864,15 @@ SS3_baddie double gold.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Bera Baddies is a community-driven project led and focused on providing a supportive and exclusive space for the female in the Berachain ecosystem.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2103,9 +1882,7 @@ SS3_baddie double gold.png
 
 **Archetype Alignment:** Bera Baddies inspired item.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2117,11 +1894,10 @@ SS3_baddie double gold.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2145,7 +1921,6 @@ SS3_baddie double gold.png
 **Image Files:**
 SS1_baddie double blue.png
 
-**Accessory Type:**
 
 **Visual Description:** Two balls (studs) in bright blue linear in placement to one another.
 
@@ -2156,19 +1931,15 @@ SS1_baddie double blue.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Bera Baddies is a community-driven project led and focused on providing a supportive and exclusive space for the female in the Berachain ecosystem.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2178,9 +1949,7 @@ SS1_baddie double blue.png
 
 **Archetype Alignment:** Bera Baddies inspired item.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -2192,11 +1961,10 @@ SS1_baddie double blue.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2220,7 +1988,6 @@ SS1_baddie double blue.png
 **Image Files:**
 SS3_spiky pink.png
 
-**Accessory Type:**
 
 **Visual Description:** Spiky pink small ring-shaped earring
 
@@ -2231,19 +1998,15 @@ SS3_spiky pink.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** In the 2000s, cute spiky earrings were a staple in rave culture, reflecting its bold, rebellious aesthetic. Popularized in the late '90s and early 2000s club scenes, these edgy accessories are often seen in the DIY nature of fashion of the ravers.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2253,9 +2016,7 @@ SS3_spiky pink.png
 
 **Archetype Alignment:** In relation to the rave culture, especially in the 2000s, which is very much aligned with Mibera.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2267,11 +2028,10 @@ SS3_spiky pink.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2295,7 +2055,6 @@ SS3_spiky pink.png
 **Image Files:**
 SS3_milady_orange slice.png
 
-**Accessory Type:**
 
 **Visual Description:** Slice of an orange facing down.
 
@@ -2306,19 +2065,15 @@ SS3_milady_orange slice.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2328,9 +2083,7 @@ SS3_milady_orange slice.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2342,11 +2095,10 @@ SS3_milady_orange slice.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2370,7 +2122,6 @@ SS3_milady_orange slice.png
 **Image Files:**
 SS2_purple blossom.png
 
-**Accessory Type:**
 
 **Visual Description:** Purple flower with 5 petals
 
@@ -2381,19 +2132,15 @@ SS2_purple blossom.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2403,9 +2150,7 @@ SS2_purple blossom.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2417,11 +2162,10 @@ SS2_purple blossom.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2445,7 +2189,6 @@ SS2_purple blossom.png
 **Image Files:**
 SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
-**Accessory Type:**
 
 **Visual Description:** Dangling feather in red, black, and white, with tiny black dots at the end.
 
@@ -2456,19 +2199,15 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Feather earrings hold deep cultural significance in Native American traditions, symbolizing honor, wisdom, strength, trust, power, and freedom as gifts from the sky or Creator, often linked to eagles representing spiritual connection and bravery.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2478,9 +2217,7 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
 **Archetype Alignment:** Its relation to Native American culture and fashion having it being one of Mibera’s ancestor types.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -2492,11 +2229,10 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 **Ancestor:** Native American
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -2521,7 +2257,6 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 **Image Files:**
 SS2_grateful dead forest green.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring of a dancing / walking bear in forest green.
 
@@ -2532,19 +2267,15 @@ SS2_grateful dead forest green.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2554,9 +2285,7 @@ SS2_grateful dead forest green.png
 
 **Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2568,11 +2297,10 @@ SS2_grateful dead forest green.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2596,7 +2324,6 @@ SS2_grateful dead forest green.png
 **Image Files:**
 SS3_Gumball.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Circular shape in purple and blue with ‘GB’ on it and a liquidy texture dripping down from one side.
 
@@ -2607,19 +2334,15 @@ SS3_Gumball.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** GumBall Protocol is a Berachaain ecosystem project powering multiple dApps.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2629,9 +2352,7 @@ SS3_Gumball.PNG
 
 **Archetype Alignment:** Fellow bera brojekt
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2643,11 +2364,10 @@ SS3_Gumball.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2672,7 +2392,6 @@ SS3_Gumball.PNG
 **Image Files:**
 SS2_red lolipop.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a vibrant red lollipop as the charm.
 
@@ -2683,19 +2402,15 @@ SS2_red lolipop.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Rave culture is closely tied to drugs like MDMA, but often leads to involuntary jaw tension and grinding; to mitigate this discomfort and potential dental damage, ravers commonly suck on lollipops, chew gum, or use pacifiers, items that provide oral stimulation and reduce strain. Additionally, some illicit MDMA is distributed as lollipops, either coated or infused to disguise it as candy for easier transport and consumption at events
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2705,9 +2420,7 @@ SS2_red lolipop.png
 
 **Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2719,11 +2432,10 @@ SS2_red lolipop.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2748,7 +2460,6 @@ SS2_red lolipop.png
 **Image Files:**
 SS2_bera flower.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a white flower with pointed petals and 2 leaves.
 
@@ -2759,19 +2470,15 @@ SS2_bera flower.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2781,9 +2488,7 @@ SS2_bera flower.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2795,11 +2500,10 @@ SS2_bera flower.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2823,7 +2527,6 @@ SS2_bera flower.png
 **Image Files:**
 SS4_acidhouse_Triskelion.png
 
-**Accessory Type:**
 
 **Visual Description:** Silver triskelion; 3 spirals connected into one in the middle.
 
@@ -2834,19 +2537,15 @@ SS4_acidhouse_Triskelion.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Derived from the Greek "triskelḗs" (meaning "three-legged"), Triskelion represents concepts like progress, cycles, or the trinity, appearing in cultures from Neolithic Malta to Celtic Ireland.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2856,9 +2555,7 @@ SS4_acidhouse_Triskelion.png
 
 **Archetype Alignment:** The triskelion’s dynamic, swirling design resonates with rave culture’s emphasis on movement, energy, and unity. It appears in rave art, jewelry, and tattoos, symbolizing the cyclical nature of music and dance, personal growth, and interconnectedness among ravers. While not a core symbol, its aesthetic aligns with the subculture’s vibrant, spiritual vibe.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -2870,11 +2567,10 @@ SS4_acidhouse_Triskelion.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2900,7 +2596,6 @@ SS4_acidhouse_Triskelion.png
 **Image Files:**
 SS2_milady_lemon slice.png
 
-**Accessory Type:**
 
 **Visual Description:** Slice of lemon facing down
 
@@ -2911,19 +2606,15 @@ SS2_milady_lemon slice.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2933,9 +2624,7 @@ SS2_milady_lemon slice.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2947,11 +2636,10 @@ SS2_milady_lemon slice.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2975,7 +2663,6 @@ SS2_milady_lemon slice.png
 **Image Files:**
 SS4_industrial.png
 
-**Accessory Type:**
 
 **Visual Description:** Thin bar with two spiky studs, one on each end.
 
@@ -2986,19 +2673,15 @@ SS4_industrial.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Industrial piercings gained popularity in the late 20th century within punk and alternative subcultures, which share roots with rave culture’s emphasis on nonconformity and self-expression. In rave culture, body modifications like industrial piercings align with the scene’s DIY ethos and visual rebellion against mainstream norms.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3008,9 +2691,7 @@ SS4_industrial.png
 
 **Archetype Alignment:** Its relation to rave culture, which aligns with Mibera.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3022,11 +2703,10 @@ SS4_industrial.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3050,7 +2730,6 @@ SS4_industrial.png
 **Image Files:**
 SS2_freetekno_modern_nativeAmerican_White Thick.png
 
-**Accessory Type:**
 
 **Visual Description:** Thick white ring shaped earring
 
@@ -3061,19 +2740,15 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** White buffalo hoop earrings are a style of Native American jewelry usually featuring white buffalo stone, a rare white stone. Often set in sterling silver, these hoops showcase bold, creamy white cabochons or inlays, symbolizing purity, spirituality, and connection to Native American heritage, particularly among Plains tribes where the white buffalo is sacred.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3083,9 +2758,7 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 
 **Archetype Alignment:** In relation to modern culture of the Native American, which is one of Mibera’s ancestor traits.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3097,11 +2770,10 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 **Ancestor:** Native American
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -3125,7 +2797,6 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 **Image Files:**
 SS4_grateful dead magenta.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring of a dancing / walking bear in deep magenta.
 
@@ -3136,19 +2807,15 @@ SS4_grateful dead magenta.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3158,9 +2825,7 @@ SS4_grateful dead magenta.png
 
 **Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3172,11 +2837,10 @@ SS4_grateful dead magenta.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3200,7 +2864,6 @@ SS4_grateful dead magenta.png
 **Image Files:**
 SS4_freetekno_stars.png
 
-**Accessory Type:**
 
 **Visual Description:** Three small star shapes in linear placement, in black.
 
@@ -3211,19 +2874,15 @@ SS4_freetekno_stars.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** In rave culture, star-shaped accessories like necklaces, earrings, hair clips, and glowing pendants symbolize light, energy, and cosmic connection, reflecting the subculture’s vibrant, transcendent ethos. Stars evoke a sense of wonder, aligning with the PLUR (Peace, Love, Unity, Respect) philosophy and the euphoric, otherworldly vibe of raves.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3233,9 +2892,7 @@ SS4_freetekno_stars.png
 
 **Archetype Alignment:** Its relation with rave culture which ties back to Mibera.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3247,11 +2904,10 @@ SS4_freetekno_stars.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3275,7 +2931,6 @@ SS4_freetekno_stars.png
 **Image Files:**
 SS2_golden cuff.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Long golden cuff, cylindrical in shape.
 
@@ -3286,19 +2941,15 @@ SS2_golden cuff.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3308,9 +2959,7 @@ SS2_golden cuff.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3322,11 +2971,10 @@ SS2_golden cuff.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3350,7 +2998,6 @@ SS2_golden cuff.PNG
 **Image Files:**
 SS2_smol ring.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Small thin round black ring earring.
 
@@ -3361,19 +3008,15 @@ SS2_smol ring.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3383,9 +3026,7 @@ SS2_smol ring.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3397,11 +3038,10 @@ SS2_smol ring.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3425,7 +3065,6 @@ SS2_smol ring.PNG
 **Image Files:**
 SS2_Black Ring.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Thicker round black ring earring.
 
@@ -3436,19 +3075,15 @@ SS2_Black Ring.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3458,9 +3093,7 @@ SS2_Black Ring.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3472,11 +3105,10 @@ SS2_Black Ring.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3500,7 +3132,6 @@ SS2_Black Ring.PNG
 **Image Files:**
 SS4_grateful dead yellow.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring of a dancing / walking bear in yellow, with a pink scarf.
 
@@ -3511,19 +3142,15 @@ SS4_grateful dead yellow.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3533,9 +3160,7 @@ SS4_grateful dead yellow.png
 
 **Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3547,11 +3172,10 @@ SS4_grateful dead yellow.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3575,7 +3199,6 @@ SS4_grateful dead yellow.png
 **Image Files:**
 SS4_chicagodetroit_Multiple Silver Rings.png
 
-**Accessory Type:**
 
 **Visual Description:** Three thin silver ring-style earrings.
 
@@ -3586,19 +3209,15 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3608,9 +3227,7 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3622,11 +3239,10 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3650,7 +3266,6 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 **Image Files:**
 SS4_adderall.png
 
-**Accessory Type:**
 
 **Visual Description:** Two small soft-blue circular tablets, one with ‘AD’ and one with ‘10’ on them.
 
@@ -3661,19 +3276,15 @@ SS4_adderall.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Adderall is a prescription medication containing amphetamine and dextroamphetamine, used to treat ADHD and narcolepsy. It stimulates the central nervous system, improving focus, attention, and impulse control, but can cause side effects like insomnia, anxiety, or addiction with misuse. In rave culture Adderall is often taken for its stimulant effects, enhancing energy and focus during long dance events.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3683,9 +3294,7 @@ SS4_adderall.png
 
 **Archetype Alignment:** Drugs being a big part of Mibera’s culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3697,11 +3306,10 @@ SS4_adderall.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3725,7 +3333,6 @@ SS4_adderall.png
 **Image Files:**
 SS4_toothy.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a piece of a molar tooth.
 
@@ -3736,19 +3343,15 @@ SS4_toothy.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** In relation to Milady Maker figures in their community and culture.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3758,9 +3361,7 @@ SS4_toothy.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3772,11 +3373,10 @@ SS4_toothy.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3800,7 +3400,6 @@ SS4_toothy.png
 **Image Files:**
 SS2_pearl.png
 
-**Accessory Type:**
 
 **Visual Description:** White pearl.
 
@@ -3811,19 +3410,15 @@ SS2_pearl.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3833,9 +3428,7 @@ SS2_pearl.png
 
 **Archetype Alignment:** Inspired by Ron Hardy’s look in an article with Redbull Music Academy, making it related to Chicago Detroit culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3847,11 +3440,10 @@ SS2_pearl.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3876,7 +3468,6 @@ SS2_pearl.png
 **Image Files:**
 SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
-**Accessory Type:**
 
 **Visual Description:** Dangling tassel in gold; a bigger abstract shape with three dangling smaller shapes.
 
@@ -3887,19 +3478,15 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Though it was rooted in Harlem, the ballroom culture expanded to major U.S. cities including Chicago and Detroit, creating vibrant regional scenes. Chicago is often credited as “birthplace of the ball”, with the House of Avant Garde making itself a pioneer. As Detroit emerged as a Black and Latino/a queer space for performance, gender expression, and HIV/AIDS prevention. Both cities share a history of Black and queer resilience, using balls to create safe spaces and challenge societal norms.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3909,9 +3496,7 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
 **Archetype Alignment:** Its relation to one of Mibera’s archetypes: Chicago Detroit, as it is heavily tied to the ballroom scene / culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3923,11 +3508,10 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 **Ancestor:** Ballroom
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -3952,7 +3536,6 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 **Image Files:**
 SS2_alien.png
 
-**Accessory Type:**
 
 **Visual Description:** Alien head in green; round with a pointed end at the bottom, with two big black eyes.
 
@@ -3963,19 +3546,15 @@ SS2_alien.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3985,9 +3564,7 @@ SS2_alien.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3999,11 +3576,10 @@ SS2_alien.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4027,7 +3603,6 @@ SS2_alien.png
 **Image Files:**
 SS5_freetekno_Paperclip 1.png
 
-**Accessory Type:**
 
 **Visual Description:** Set consisting of 1 stud in dark grey, 2 safety pins / paper clips, and 2 shiny smaller studs.
 
@@ -4038,19 +3613,15 @@ SS5_freetekno_Paperclip 1.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4060,9 +3631,7 @@ SS5_freetekno_Paperclip 1.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4074,11 +3643,10 @@ SS5_freetekno_Paperclip 1.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -4102,7 +3670,6 @@ SS5_freetekno_Paperclip 1.png
 **Image Files:**
 SS5_freetekno_multiple.png
 
-**Accessory Type:**
 
 **Visual Description:** Set consisting of 2 industrial piercings (a bar with spiky stud on each end), and 3 studs with balls on one side and spikes on the other side.
 
@@ -4113,19 +3680,15 @@ SS5_freetekno_multiple.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4135,9 +3698,7 @@ SS5_freetekno_multiple.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4149,11 +3710,10 @@ SS5_freetekno_multiple.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4177,7 +3737,6 @@ SS5_freetekno_multiple.png
 **Image Files:**
 SS5_tribal bera.png
 
-**Accessory Type:**
 
 **Visual Description:** Black bear wearing a colorful regalia.
 
@@ -4188,19 +3747,15 @@ SS5_tribal bera.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4210,9 +3765,7 @@ SS5_tribal bera.png
 
 **Archetype Alignment:** Its alignment in theme with the Berachain ecosystem and partially Mibera’s tribal aesthetic.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4224,11 +3777,10 @@ SS5_tribal bera.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4252,7 +3804,6 @@ SS5_tribal bera.png
 **Image Files:**
 SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
-**Accessory Type:**
 
 **Visual Description:** Gold chain dangling off what looks like a pearl.
 
@@ -4263,19 +3814,15 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4285,9 +3832,7 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4299,11 +3844,10 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 **Ancestor:** Aboriginal
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -4327,7 +3871,6 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 **Image Files:**
 SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
-**Accessory Type:**
 
 **Visual Description:** Tiny blue beads with a few in magenta and darker teal, dangling off of a silver plating / charm.
 
@@ -4338,19 +3881,15 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Mongolian culture, rooted in nomadic traditions, shamanism, and vibrant art, has a subtle but growing influence on rave culture, particularly through festivals that blend traditional elements with modern electronic music. The nomadic lifestyle’s emphasis on freedom and connection to nature resonates with rave culture’s PLUR (Peace, Love, Unity, Respect) ethos. Traditional Mongolian throat singing (khoomii) and instruments like the morin khuur also occasionally appear in EDM tracks, adding spiritual and cultural depth to rave performances. Events like the Kharkhorum Visual Art & Music Festival and Nomadic Beats Festival in Mongolia fuse electronic dance music with cultural elements like horseback raves, where participants enter venues on horses, evoking Mongolia’s equestrian heritage.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4360,9 +3899,7 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
 **Archetype Alignment:** Its alignment to one of Mibera’s ancestors: Mongolian.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4374,11 +3911,10 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 **Ancestor:** Mongolian
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -4405,7 +3941,6 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 **Image Files:**
 SS1_acidhouse_Day Glowstick.png
 
-**Accessory Type:**
 
 **Visual Description:** Glowstick in neon yellow.
 
@@ -4416,19 +3951,15 @@ SS1_acidhouse_Day Glowstick.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Glowstick earring, especially vibrant neon or “day glow” styles are iconic accessories in rave culture popularized since the 1990s. Their bright, dynamic glow aligns with the subculture’s focus on creating immersive, communal experiences at events like Electric Daisy Carnival or underground raves.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4438,9 +3969,7 @@ SS1_acidhouse_Day Glowstick.png
 
 **Archetype Alignment:** Big part of the rave culture as accessories, which is aligned with Mibera culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -4452,11 +3981,10 @@ SS1_acidhouse_Day Glowstick.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -4480,7 +4008,6 @@ SS1_acidhouse_Day Glowstick.png
 **Image Files:**
 SS1_peace heart.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with the universal ‘peace’ symbol in a heart as a charm, very thin in frame; a line goes through the middle part of the heart with shorter lines symmetrically aligned diagonally mirroring each other at the bottom.
 
@@ -4491,19 +4018,15 @@ SS1_peace heart.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The peace heart, , a symbol combining a heart with a peace sign, represents love, unity, and harmony in rave culture, directly embodying the PLUR ethos (Peace, Love, Unity, Respect). The peace heart’s prominence reflects rave culture’s roots in creating safe, inclusive spaces for self-expression through dance and music.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4513,9 +4036,7 @@ SS1_peace heart.png
 
 **Archetype Alignment:** Its relation to the rave culture as an iconic symbolism and accessories.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -4527,11 +4048,10 @@ SS1_peace heart.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -4555,7 +4075,6 @@ SS1_peace heart.png
 **Image Files:**
 SS5_rainbow spiky ball.png
 
-**Accessory Type:**
 
 **Visual Description:** Rainbow-colored spiky ball.
 
@@ -4566,19 +4085,15 @@ SS5_rainbow spiky ball.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The rainbow flag, designed by Gilbert Baker in 1978, is a global symbol of LGBTQ+ pride and diversity. Its colors represent inclusivity, hope, and liberation, used in pride events and advocacy for LGBTQ+ rights.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4588,9 +4103,7 @@ SS5_rainbow spiky ball.png
 
 **Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4602,11 +4115,10 @@ SS5_rainbow spiky ball.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4630,7 +4142,6 @@ SS5_rainbow spiky ball.png
 **Image Files:**
 SS3_experimental.png
 
-**Accessory Type:**
 
 **Visual Description:** Earring with a laboratory flask with green liquid inside of it as a charm; the flask is thin by the neck and wide at the bottom.
 
@@ -4641,19 +4152,15 @@ SS3_experimental.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4663,9 +4170,7 @@ SS3_experimental.png
 
 **Archetype Alignment:** Symbolizing the general process of drug creation. Drugs are a big part of Mibera culture in general.
 
-**Vibe Tags:**
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4677,11 +4182,10 @@ SS3_experimental.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4704,7 +4208,6 @@ SS3_experimental.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -4714,19 +4217,15 @@ SS3_experimental.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4736,7 +4235,6 @@ SS3_experimental.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4747,11 +4245,10 @@ SS3_experimental.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4773,7 +4270,6 @@ SS3_experimental.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -4783,19 +4279,15 @@ SS3_experimental.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4805,7 +4297,6 @@ SS3_experimental.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4816,11 +4307,10 @@ SS3_experimental.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
