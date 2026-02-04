@@ -12,9 +12,7 @@
 
 **Image Files:**
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:**
 
@@ -24,19 +22,15 @@
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -47,7 +41,6 @@
 **Archetype Alignment:**
 
 
-**Setting:**
 
 **Swag Score:**
 
@@ -57,7 +50,6 @@
 
 **Ancestor:**
 
-**Trait Conflicts:**
 
 ---
 

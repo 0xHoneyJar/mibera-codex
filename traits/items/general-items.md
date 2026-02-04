@@ -42,7 +42,6 @@ Items are handheld objects that Miberas carry, ranging from drug paraphernalia t
 **Image Files:**
 SS3_freetekno_LA Rave Flyers.PNG
 
-**Item Type:**
 
 **Visual Description:** A thin, neon yellow booklet that says “LOS ANGELES RAVE FLYERS 1991-1994” in black text.
 
@@ -53,19 +52,15 @@ SS3_freetekno_LA Rave Flyers.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -76,7 +71,6 @@ SS3_freetekno_LA Rave Flyers.PNG
 **Archetype Alignment:** Rave flyers are an important aesthetic influence on Mibera.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -88,7 +82,6 @@ SS3_freetekno_LA Rave Flyers.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -116,7 +109,6 @@ SS3_freetekno_LA Rave Flyers.PNG
 **Image Files:**
 SS3_freetekno_Scum Manifesto.png
 
-**Item Type:**
 
 **Visual Description:** a red book titled “Scum Manifesto” by Valerie Solanas, 1968
 
@@ -127,19 +119,15 @@ SS3_freetekno_Scum Manifesto.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -150,7 +138,6 @@ SS3_freetekno_Scum Manifesto.png
 **Archetype Alignment:** its correlation with a Tribe Called Red (?)
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -162,7 +149,6 @@ SS3_freetekno_Scum Manifesto.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -190,7 +176,6 @@ SS3_freetekno_Scum Manifesto.png
 **Image Files:**
 SS2_freetekno_Mighty Hulk Toy.png
 
-**Item Type:**
 
 **Visual Description:** a Hulk toy / figurine, raising its left arm.
 
@@ -201,19 +186,15 @@ SS2_freetekno_Mighty Hulk Toy.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Tribe Called Red
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -224,7 +205,6 @@ SS2_freetekno_Mighty Hulk Toy.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -236,7 +216,6 @@ SS2_freetekno_Mighty Hulk Toy.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -265,7 +244,6 @@ SS2_freetekno_Mighty Hulk Toy.png
 **Image Files:**
 SS3_milady_ancient_chinese_japanese_Tea.PNG
 
-**Item Type:**
 
 **Visual Description:** two pieces of green leaves.
 
@@ -276,19 +254,15 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -299,7 +273,6 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -311,7 +284,6 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 **Ancestor:** chinese / japanese
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -339,7 +311,6 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 **Image Files:**
 SS3_acidhouse_Flying Saucer.png
 
-**Item Type:**
 
 **Visual Description:** a brown mushroom in the shape of an opened umbrella.
 
@@ -350,19 +321,15 @@ SS3_acidhouse_Flying Saucer.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -373,7 +340,6 @@ SS3_acidhouse_Flying Saucer.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -385,7 +351,6 @@ SS3_acidhouse_Flying Saucer.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -413,7 +378,6 @@ SS3_acidhouse_Flying Saucer.png
 **Image Files:**
 SS3_freetekno_Peyote Rattle.png
 
-**Item Type:**
 
 **Visual Description:** ‘Peyote Rattle’ by Nishkû´ntu; blue thin handle bar with stripes in darker blue and white, brown yellow dry coconut coloured and shaped head, and yellow tassels at the bottom with a little bell.
 
@@ -424,19 +388,15 @@ SS3_freetekno_Peyote Rattle.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -447,7 +407,6 @@ SS3_freetekno_Peyote Rattle.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -459,7 +418,6 @@ SS3_freetekno_Peyote Rattle.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -488,7 +446,6 @@ SS3_freetekno_Peyote Rattle.png
 **Image Files:**
 SS3_acidhouse_Tibetan Singing Bowl.png
 
-**Item Type:**
 
 **Visual Description:** a golden singing bowl.
 
@@ -499,19 +456,15 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -522,7 +475,6 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -534,7 +486,6 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -564,7 +515,6 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 **Image Files:**
 SS3_Sacred Mirrors.png
 
-**Item Type:**
 
 **Visual Description:** a black book with bright orange graphics of a human head and nerves, in front of a shiny circle, the book is titled “Sacred Mirrors”.
 
@@ -575,19 +525,15 @@ SS3_Sacred Mirrors.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -598,7 +544,6 @@ SS3_Sacred Mirrors.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -610,7 +555,6 @@ SS3_Sacred Mirrors.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -638,7 +582,6 @@ SS3_Sacred Mirrors.png
 **Image Files:**
 SS3_Bhang.PNG
 
-**Item Type:**
 
 **Visual Description:** a grey cup with bright clear liquid.
 
@@ -649,19 +592,15 @@ SS3_Bhang.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -672,7 +611,6 @@ SS3_Bhang.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -684,7 +622,6 @@ SS3_Bhang.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -712,7 +649,6 @@ SS3_Bhang.PNG
 **Image Files:**
 SS3_milady_Remilia Cig Pack.png
 
-**Item Type:**
 
 **Visual Description:** a cigarette pack in white and vibrant blue with yellow accent in the top middle.
 
@@ -723,19 +659,15 @@ SS3_milady_Remilia Cig Pack.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -746,7 +678,6 @@ SS3_milady_Remilia Cig Pack.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -758,7 +689,6 @@ SS3_milady_Remilia Cig Pack.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -786,7 +716,6 @@ SS3_milady_Remilia Cig Pack.png
 **Image Files:**
 SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 
-**Item Type:**
 
 **Visual Description:** a handful of sprigs, the flower buds are in red.
 
@@ -797,19 +726,15 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -820,7 +745,6 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -832,7 +756,6 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 **Ancestor:** chinese / palestinian
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -860,7 +783,6 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 **Image Files:**
 SS3_Anarchist Cookbook.png
 
-**Item Type:**
 
 **Visual Description:** a black book with white text that reads “ANARCHIST COOKBOOK”, and significantly smaller red text under it.
 
@@ -871,19 +793,15 @@ SS3_Anarchist Cookbook.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -894,7 +812,6 @@ SS3_Anarchist Cookbook.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -906,7 +823,6 @@ SS3_Anarchist Cookbook.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -934,7 +850,6 @@ SS3_Anarchist Cookbook.png
 **Image Files:**
 SS3_milady_Boo Bear 2.png
 
-**Item Type:**
 
 **Visual Description:** a doll of a bear with dark brown fur wrapped in mummy’s bandages / costume.
 
@@ -945,19 +860,15 @@ SS3_milady_Boo Bear 2.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -968,7 +879,6 @@ SS3_milady_Boo Bear 2.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -980,7 +890,6 @@ SS3_milady_Boo Bear 2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1008,7 +917,6 @@ SS3_milady_Boo Bear 2.png
 **Image Files:**
 SS3_milady_Boo Bear 1.png
 
-**Item Type:**
 
 **Visual Description:** a doll of a bear with pale green fur that looks almost rotten with 2 nails on its face and stitches around the body; one on its mouth, one above an eye, one next to an eye, one on the arm, and one on the leg.
 
@@ -1019,19 +927,15 @@ SS3_milady_Boo Bear 1.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1042,7 +946,6 @@ SS3_milady_Boo Bear 1.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1054,7 +957,6 @@ SS3_milady_Boo Bear 1.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1082,7 +984,6 @@ SS3_milady_Boo Bear 1.png
 **Image Files:**
 SS3_milady_Boo Bear 3.png
 
-**Item Type:**
 
 **Visual Description:** a doll of a bear with a stereotypical red and white christmas hat, wearing stripy red and white long sleeves, and a spectacle.
 
@@ -1093,19 +994,15 @@ SS3_milady_Boo Bear 3.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1116,7 +1013,6 @@ SS3_milady_Boo Bear 3.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1128,7 +1024,6 @@ SS3_milady_Boo Bear 3.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1156,7 +1051,6 @@ SS3_milady_Boo Bear 3.png
 **Image Files:**
 SS3_milady_Boo Bear 4.png
 
-**Item Type:**
 
 **Visual Description:** a doll of a bear wearing a stereotypical nun’s clothing in dominantly black with white accent; wearing an upside down cross necklace and black smudges under the eyes.
 
@@ -1167,19 +1061,15 @@ SS3_milady_Boo Bear 4.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1190,7 +1080,6 @@ SS3_milady_Boo Bear 4.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1202,7 +1091,6 @@ SS3_milady_Boo Bear 4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1230,7 +1118,6 @@ SS3_milady_Boo Bear 4.png
 **Image Files:**
 SS3_acidhouse_Watergun 1.png
 
-**Item Type:**
 
 **Visual Description:** a watergun in orange and bright green
 
@@ -1241,19 +1128,15 @@ SS3_acidhouse_Watergun 1.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1264,7 +1147,6 @@ SS3_acidhouse_Watergun 1.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1276,7 +1158,6 @@ SS3_acidhouse_Watergun 1.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1304,7 +1185,6 @@ SS3_acidhouse_Watergun 1.png
 **Image Files:**
 SS3_acidhouse_Watergun 2.png
 
-**Item Type:**
 
 **Visual Description:** a watergun in orange, bright magenta, purple, and lime green.
 
@@ -1315,19 +1195,15 @@ SS3_acidhouse_Watergun 2.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1338,7 +1214,6 @@ SS3_acidhouse_Watergun 2.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1350,7 +1225,6 @@ SS3_acidhouse_Watergun 2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1378,7 +1252,6 @@ SS3_acidhouse_Watergun 2.png
 **Image Files:**
 SS3_Yohimbe Bark.PNG
 
-**Item Type:**
 
 **Visual Description:** a piece of bark in light brown.
 
@@ -1389,19 +1262,15 @@ SS3_Yohimbe Bark.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1412,7 +1281,6 @@ SS3_Yohimbe Bark.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1424,7 +1292,6 @@ SS3_Yohimbe Bark.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1452,7 +1319,6 @@ SS3_Yohimbe Bark.PNG
 **Image Files:**
 SS3_freetekno_Mibera Psyops Manual.png
 
-**Item Type:**
 
 **Visual Description:** a book in light pale orange with a red graphic of a scary smiling face and the title “THE MIBERA’S PSYOP MANUAL”.
 
@@ -1463,19 +1329,15 @@ SS3_freetekno_Mibera Psyops Manual.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1486,7 +1348,6 @@ SS3_freetekno_Mibera Psyops Manual.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1498,7 +1359,6 @@ SS3_freetekno_Mibera Psyops Manual.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1526,7 +1386,6 @@ SS3_freetekno_Mibera Psyops Manual.png
 **Image Files:**
 SS3_freetekno_thai_Kratom.PNG
 
-**Item Type:**
 
 **Visual Description:** a white cup with leafy green liquid inside.
 
@@ -1537,19 +1396,15 @@ SS3_freetekno_thai_Kratom.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1560,7 +1415,6 @@ SS3_freetekno_thai_Kratom.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1572,7 +1426,6 @@ SS3_freetekno_thai_Kratom.PNG
 **Ancestor:** Thai
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1600,7 +1453,6 @@ SS3_freetekno_thai_Kratom.PNG
 **Image Files:**
 SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
 
-**Item Type:**
 
 **Visual Description:** a big piece of leaf.
 
@@ -1611,19 +1463,15 @@ SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1634,7 +1482,6 @@ SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1646,7 +1493,6 @@ SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
 **Ancestor:** polynesian / aboriginal
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1674,7 +1520,6 @@ SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
 **Image Files:**
 SS3_freetekno_Club Mate.png
 
-**Item Type:**
 
 **Visual Description:** a glass bottle of beverage with light orange liquid that appears fizzy, and a blue bottle lid. The beverage is labeled “CLUB-MATE”.
 
@@ -1685,19 +1530,15 @@ SS3_freetekno_Club Mate.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1708,7 +1549,6 @@ SS3_freetekno_Club Mate.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1720,7 +1560,6 @@ SS3_freetekno_Club Mate.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1748,7 +1587,6 @@ SS3_freetekno_Club Mate.png
 **Image Files:**
 SS3_Triskelion Ring.png
 
-**Item Type:**
 
 **Visual Description:** a silver ring with yellow carvings of a triskelon; 3 spirals connected in the center.
 
@@ -1759,19 +1597,15 @@ SS3_Triskelion Ring.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1782,7 +1616,6 @@ SS3_Triskelion Ring.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1794,7 +1627,6 @@ SS3_Triskelion Ring.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1823,7 +1655,6 @@ SS3_Triskelion Ring.png
 **Image Files:**
 SS3_Rape Sourcebook.PNG
 
-**Item Type:**
 
 **Visual Description:** a black book with with big title that reads “Rape” followed with smaller subtitle that reads “THE FIRST SOURCEBOOK FOR WOMEN”- underneath is red text that reads “BY NEW YORK RADICAL FEMINIST”. At the far end of the book cover are details on the editors.
 
@@ -1834,19 +1665,15 @@ SS3_Rape Sourcebook.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1857,7 +1684,6 @@ SS3_Rape Sourcebook.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1869,7 +1695,6 @@ SS3_Rape Sourcebook.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1897,7 +1722,6 @@ SS3_Rape Sourcebook.PNG
 **Image Files:**
 SS3_freetekno_ancient_greek_henbane.PNG
 
-**Item Type:**
 
 **Visual Description:** a handful of sprigs, the flowers aren’t fully bloomed yet in the colour of very light yellow, nearly white.
 
@@ -1908,19 +1732,15 @@ SS3_freetekno_ancient_greek_henbane.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1931,7 +1751,6 @@ SS3_freetekno_ancient_greek_henbane.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1943,7 +1762,6 @@ SS3_freetekno_ancient_greek_henbane.PNG
 **Ancestor:** greek
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1971,7 +1789,6 @@ SS3_freetekno_ancient_greek_henbane.PNG
 **Image Files:**
 SS3_milady_Beads.png
 
-**Item Type:**
 
 **Visual Description:** prayer beads in brown with red string.
 
@@ -1982,19 +1799,15 @@ SS3_milady_Beads.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2005,7 +1818,6 @@ SS3_milady_Beads.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2017,7 +1829,6 @@ SS3_milady_Beads.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2046,7 +1857,6 @@ SS3_milady_Beads.png
 **Image Files:**
 SS3_freetekno_Spiral Tribe.png
 
-**Item Type:**
 
 **Visual Description:** a black book with white graphic and text that reads "SPIRAL TRIBE SOUND SYSTEM”.
 
@@ -2057,19 +1867,15 @@ SS3_freetekno_Spiral Tribe.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2080,7 +1886,6 @@ SS3_freetekno_Spiral Tribe.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2092,7 +1897,6 @@ SS3_freetekno_Spiral Tribe.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2120,7 +1924,6 @@ SS3_freetekno_Spiral Tribe.png
 **Image Files:**
 SS3_milady_ancient_nepal_turkey_Mad Honey.png
 
-**Item Type:**
 
 **Visual Description:** a raw chunk of bee hive.
 
@@ -2131,19 +1934,15 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2154,7 +1953,6 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2166,7 +1964,6 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 **Ancestor:** nepal / turkey
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2196,7 +1993,6 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 **Image Files:**
 SS3_freetekno_ancient_sufi_syrian rue.PNG
 
-**Item Type:**
 
 **Visual Description:** a handful of pinnately compound leaves.
 
@@ -2207,19 +2003,15 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2230,7 +2022,6 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2242,7 +2033,6 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 **Ancestor:** sufi / syrian
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2270,7 +2060,6 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 **Image Files:**
 SS3_chicagodetroit_Normal Bong.PNG
 
-**Item Type:**
 
 **Visual Description:** a big glassy bong.
 
@@ -2281,19 +2070,15 @@ SS3_chicagodetroit_Normal Bong.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2304,7 +2089,6 @@ SS3_chicagodetroit_Normal Bong.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2316,7 +2100,6 @@ SS3_chicagodetroit_Normal Bong.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2344,7 +2127,6 @@ SS3_chicagodetroit_Normal Bong.PNG
 **Image Files:**
 SS3_pythenians oracle.png
 
-**Item Type:**
 
 **Visual Description:** a purple 8-ball oracle ball; a purple glass ball with gold plating.
 
@@ -2355,19 +2137,15 @@ SS3_pythenians oracle.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2378,7 +2156,6 @@ SS3_pythenians oracle.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2390,7 +2167,6 @@ SS3_pythenians oracle.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2418,7 +2194,6 @@ SS3_pythenians oracle.png
 **Image Files:**
 SS3_Clandestine Labs.png
 
-**Item Type:**
 
 **Visual Description:** a soft blue book with black text that reads “The Construction and Operation of CLANDESTINE DRUG LABORATORIES”.
 
@@ -2429,19 +2204,15 @@ SS3_Clandestine Labs.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2452,7 +2223,6 @@ SS3_Clandestine Labs.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2464,7 +2234,6 @@ SS3_Clandestine Labs.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2492,7 +2261,6 @@ SS3_Clandestine Labs.png
 **Image Files:**
 SS3_bera pudgy plushie.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a penguin wearing a pink sweater and a brown bear hat.
 
@@ -2503,19 +2271,15 @@ SS3_bera pudgy plushie.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2526,7 +2290,6 @@ SS3_bera pudgy plushie.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2538,7 +2301,6 @@ SS3_bera pudgy plushie.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2566,7 +2328,6 @@ SS3_bera pudgy plushie.png
 **Image Files:**
 SS3_milady_Maid Fumo.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a character with blonde hair and big eyes wearing maid dress and headdress in navy blue and white, with red ribbon down the neck.
 
@@ -2577,19 +2338,15 @@ SS3_milady_Maid Fumo.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2600,7 +2357,6 @@ SS3_milady_Maid Fumo.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2612,7 +2368,6 @@ SS3_milady_Maid Fumo.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2640,7 +2395,6 @@ SS3_milady_Maid Fumo.png
 **Image Files:**
 SS3_Honey Comb.png
 
-**Item Type:**
 
 **Visual Description:** an artifact in the shape of honeycombs in rose-gold with white doodly patterns on its surface.
 
@@ -2651,19 +2405,15 @@ SS3_Honey Comb.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2674,7 +2424,6 @@ SS3_Honey Comb.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2686,7 +2435,6 @@ SS3_Honey Comb.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2714,7 +2462,6 @@ SS3_Honey Comb.png
 **Image Files:**
 SS3_acidhouse_Blue Meanie.png
 
-**Item Type:**
 
 **Visual Description:** a small plain mushroom in pale grey / blueish colour.
 
@@ -2725,19 +2472,15 @@ SS3_acidhouse_Blue Meanie.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2748,7 +2491,6 @@ SS3_acidhouse_Blue Meanie.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2760,7 +2502,6 @@ SS3_acidhouse_Blue Meanie.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2788,7 +2529,6 @@ SS3_acidhouse_Blue Meanie.png
 **Image Files:**
 SS3_mad scientists.png
 
-**Item Type:**
 
 **Visual Description:** a clear flask with wooden lid-blocker and green liquid inside of it.
 
@@ -2799,19 +2539,15 @@ SS3_mad scientists.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2822,7 +2558,6 @@ SS3_mad scientists.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2834,7 +2569,6 @@ SS3_mad scientists.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2862,7 +2596,6 @@ SS3_mad scientists.png
 **Image Files:**
 SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 
-**Item Type:**
 
 **Visual Description:** a full stem with a bunch of coffee fruits and a few coffee leaves on it.
 
@@ -2873,19 +2606,15 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2896,7 +2625,6 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2908,7 +2636,6 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 **Ancestor:** ethiopian / arab
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2936,7 +2663,6 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 **Image Files:**
 SS3_berachain mentioned.PNG
 
-**Item Type:**
 
 **Visual Description:** a stereoptypoical champagne bottle in green with gold sealing; on it are black silhouettes of a bear and chains.
 
@@ -2947,19 +2673,15 @@ SS3_berachain mentioned.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2970,7 +2692,6 @@ SS3_berachain mentioned.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2982,7 +2703,6 @@ SS3_berachain mentioned.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3010,7 +2730,6 @@ SS3_berachain mentioned.PNG
 **Image Files:**
 SS2_The Rose of Paracelsus.png
 
-**Item Type:**
 
 **Visual Description:** a black book with gradient of purple and blue, and graphic of geomatrical lines on the top part of the book and white text that reads “THE ROSE OF PARACELSUS”.
 
@@ -3021,19 +2740,15 @@ SS2_The Rose of Paracelsus.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3044,7 +2759,6 @@ SS2_The Rose of Paracelsus.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3056,7 +2770,6 @@ SS2_The Rose of Paracelsus.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3085,7 +2798,6 @@ SS2_The Rose of Paracelsus.png
 **Image Files:**
 SS3_milady_satanists_clear pill.PNG
 
-**Item Type:**
 
 **Visual Description:** a barely visible capsule, nearly fully transparent.
 
@@ -3096,19 +2808,15 @@ SS3_milady_satanists_clear pill.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3119,7 +2827,6 @@ SS3_milady_satanists_clear pill.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3131,7 +2838,6 @@ SS3_milady_satanists_clear pill.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3159,7 +2865,6 @@ SS3_milady_satanists_clear pill.PNG
 **Image Files:**
 SS3_acidhouse_Sherlock Glass Pipe.png
 
-**Item Type:**
 
 **Visual Description:** a barely visible glass pipe, medium to big in size.
 
@@ -3170,19 +2875,15 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3193,7 +2894,6 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3205,7 +2905,6 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3233,7 +2932,6 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 **Image Files:**
 SS3_milady_Buy Bitcoin.png
 
-**Item Type:**
 
 **Visual Description:** a beige colored striped paper with writing that says “Buy Bitcoin”.
 
@@ -3244,19 +2942,15 @@ SS3_milady_Buy Bitcoin.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3267,7 +2961,6 @@ SS3_milady_Buy Bitcoin.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3279,7 +2972,6 @@ SS3_milady_Buy Bitcoin.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3307,7 +2999,6 @@ SS3_milady_Buy Bitcoin.png
 **Image Files:**
 SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 
-**Item Type:**
 
 **Visual Description:** a piece of leaf with 3 curved fingers.
 
@@ -3318,19 +3009,15 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3341,7 +3028,6 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3353,7 +3039,6 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 **Ancestor:** native american
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3381,7 +3066,6 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 **Image Files:**
 SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 
-**Item Type:**
 
 **Visual Description:** a pipe with unique shapes in dark greyish colour.
 
@@ -3392,19 +3076,15 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3415,7 +3095,6 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3427,7 +3106,6 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 **Ancestor:** ethiopian
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3456,7 +3134,6 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 **Image Files:**
 SS3_milady_Handheld Sickle.png
 
-**Item Type:**
 
 **Visual Description:** a small sickle.
 
@@ -3467,19 +3144,15 @@ SS3_milady_Handheld Sickle.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3490,7 +3163,6 @@ SS3_milady_Handheld Sickle.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3502,7 +3174,6 @@ SS3_milady_Handheld Sickle.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3531,7 +3202,6 @@ SS3_milady_Handheld Sickle.png
 **Image Files:**
 SS3_milady_hindu_ashwagandha.PNG
 
-**Item Type:**
 
 **Visual Description:** a sprig full of leaves and rounded fruits in red and yellow.
 
@@ -3542,19 +3212,15 @@ SS3_milady_hindu_ashwagandha.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3565,7 +3231,6 @@ SS3_milady_hindu_ashwagandha.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3577,7 +3242,6 @@ SS3_milady_hindu_ashwagandha.PNG
 **Ancestor:** hindu
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3605,7 +3269,6 @@ SS3_milady_hindu_ashwagandha.PNG
 **Image Files:**
 SS3_milady_Band Bear 1.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a black bear wearing a yellow dress and a blonde wig.
 
@@ -3616,19 +3279,15 @@ SS3_milady_Band Bear 1.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3639,7 +3298,6 @@ SS3_milady_Band Bear 1.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3651,7 +3309,6 @@ SS3_milady_Band Bear 1.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3679,7 +3336,6 @@ SS3_milady_Band Bear 1.png
 **Image Files:**
 SS3_Ooga Booga Bera.png
 
-**Item Type:**
 
 **Visual Description:** a figurine of an Ooga Booga bear; a yellow bear with a head that ends with a jar lid, wearing a rainbow coloured top with a marijuana leaf on it.
 
@@ -3690,19 +3346,15 @@ SS3_Ooga Booga Bera.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3713,7 +3365,6 @@ SS3_Ooga Booga Bera.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3725,7 +3376,6 @@ SS3_Ooga Booga Bera.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3753,7 +3403,6 @@ SS3_Ooga Booga Bera.png
 **Image Files:**
 SS3_Mascot Jani Bera.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of Jani’s mascot; a brown bear wearing purple durag and red jacket with white inner t-shirt and a golden necklace.
 
@@ -3764,19 +3413,15 @@ SS3_Mascot Jani Bera.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3787,7 +3432,6 @@ SS3_Mascot Jani Bera.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3799,7 +3443,6 @@ SS3_Mascot Jani Bera.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3827,7 +3470,6 @@ SS3_Mascot Jani Bera.png
 **Image Files:**
 SS3_milady_Honey Stick.png
 
-**Item Type:**
 
 **Visual Description:** a brown honey dipper glazed with what appears to be honey, light yellow sticky liquid.
 
@@ -3838,19 +3480,15 @@ SS3_milady_Honey Stick.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3861,7 +3499,6 @@ SS3_milady_Honey Stick.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3873,7 +3510,6 @@ SS3_milady_Honey Stick.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3901,7 +3537,6 @@ SS3_milady_Honey Stick.png
 **Image Files:**
 SS3_modern_irish_Buckfast Bottle.png
 
-**Item Type:**
 
 **Visual Description:** a green bottle with yellow label and the text “buckfast” in red, and a picture of grapes.
 
@@ -3912,19 +3547,15 @@ SS3_modern_irish_Buckfast Bottle.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3935,7 +3566,6 @@ SS3_modern_irish_Buckfast Bottle.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -3947,7 +3577,6 @@ SS3_modern_irish_Buckfast Bottle.png
 **Ancestor:** irish
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3975,7 +3604,6 @@ SS3_modern_irish_Buckfast Bottle.png
 **Image Files:**
 SS3_luca pudgy plushie.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a yellow penguin wearing an orange-y shirt with white triangles scattered and a headband in red, white, and blue.
 
@@ -3986,19 +3614,15 @@ SS3_luca pudgy plushie.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4009,7 +3633,6 @@ SS3_luca pudgy plushie.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4021,7 +3644,6 @@ SS3_luca pudgy plushie.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4049,7 +3671,6 @@ SS3_luca pudgy plushie.png
 **Image Files:**
 SS3_THC Bear.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of a dark brown bear wearing an oversized tee in black, colourful flowers necklace, and sunnies with white frames. The hands are pointed outwards in a unique manner.
 
@@ -4060,19 +3681,15 @@ SS3_THC Bear.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4083,7 +3700,6 @@ SS3_THC Bear.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4095,7 +3711,6 @@ SS3_THC Bear.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4123,7 +3738,6 @@ SS3_THC Bear.PNG
 **Image Files:**
 SS3_milady_Remilia Quarterly.png
 
-**Item Type:**
 
 **Visual Description:** a book in bright green with an outline drawing of a female angelic figure and huge title in yellow that reads “REMILIA QUARTERLY”.
 
@@ -4134,19 +3748,15 @@ SS3_milady_Remilia Quarterly.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4157,7 +3767,6 @@ SS3_milady_Remilia Quarterly.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4169,7 +3778,6 @@ SS3_milady_Remilia Quarterly.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4197,7 +3805,6 @@ SS3_milady_Remilia Quarterly.png
 **Image Files:**
 SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 
-**Item Type:**
 
 **Visual Description:** a chunk of root with a bunch of leaves and rounded green fruits extending from the top of it..
 
@@ -4208,19 +3815,15 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4231,7 +3834,6 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4243,7 +3845,6 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 **Ancestor:** greek / arabs
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4271,7 +3872,6 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 **Image Files:**
 SS3_TechGnosis.png
 
-**Item Type:**
 
 **Visual Description:** a book in bright blue with black title with yellow outline as the title that reads “TechGnosis”..
 
@@ -4282,19 +3882,15 @@ SS3_TechGnosis.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4305,7 +3901,6 @@ SS3_TechGnosis.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4317,7 +3912,6 @@ SS3_TechGnosis.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4345,7 +3939,6 @@ SS3_TechGnosis.png
 **Image Files:**
 SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 
-**Item Type:**
 
 **Visual Description:** a small stem of blue flower, pompom shaped.
 
@@ -4356,19 +3949,15 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4379,7 +3968,6 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4391,7 +3979,6 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 **Ancestor:** greek
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4419,7 +4006,6 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 **Image Files:**
 SS4_milady_Baby Polar Bear.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of white polar bear, medium to big in size.
 
@@ -4430,19 +4016,15 @@ SS4_milady_Baby Polar Bear.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4453,7 +4035,6 @@ SS4_milady_Baby Polar Bear.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4465,7 +4046,6 @@ SS4_milady_Baby Polar Bear.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4493,7 +4073,6 @@ SS4_milady_Baby Polar Bear.png
 **Image Files:**
 SS2_milady_Pina Colada.png
 
-**Item Type:**
 
 **Visual Description:** a glass of creamy white beverage with decorative mini umbrella, a slice of pineapple, and a cherry. .
 
@@ -4504,19 +4083,15 @@ SS2_milady_Pina Colada.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4527,7 +4102,6 @@ SS2_milady_Pina Colada.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4539,7 +4113,6 @@ SS2_milady_Pina Colada.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4567,7 +4140,6 @@ SS2_milady_Pina Colada.png
 **Image Files:**
 SS4_milady_ancient_nativeAmerican_datura.PNG
 
-**Item Type:**
 
 **Visual Description:** a small stem of leaves and white flowers, one is half bloomed and one is still a bud.
 
@@ -4578,19 +4150,15 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4601,7 +4169,6 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4613,7 +4180,6 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 **Ancestor:** native american
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4641,7 +4207,6 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 **Image Files:**
 SS3_freetekno_Peyote Feather Fan.png
 
-**Item Type:**
 
 **Visual Description:** a fan that’s made of a big feather in a beautiful combination of colour; the base is white and brown, with lines of colour in red, turquoise, black, yellow, and red, and a big stripe down vertically in blue with a yellow spot.
 
@@ -4652,19 +4217,15 @@ SS3_freetekno_Peyote Feather Fan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4675,7 +4236,6 @@ SS3_freetekno_Peyote Feather Fan.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4687,7 +4247,6 @@ SS3_freetekno_Peyote Feather Fan.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4716,7 +4275,6 @@ SS3_freetekno_Peyote Feather Fan.png
 **Image Files:**
 SS1_chicagodetroit_Vape Pen.png
 
-**Item Type:**
 
 **Visual Description:** a thin cylindrical yellow vape pen.
 
@@ -4727,19 +4285,15 @@ SS1_chicagodetroit_Vape Pen.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4750,7 +4304,6 @@ SS1_chicagodetroit_Vape Pen.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -4762,7 +4315,6 @@ SS1_chicagodetroit_Vape Pen.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4790,7 +4342,6 @@ SS1_chicagodetroit_Vape Pen.png
 **Image Files:**
 SS4_chicagodetroit_Lee Scratch Mic.png
 
-**Item Type:**
 
 **Visual Description:** a microphone that’s in the shape of 2 circles and a wire that goes down.
 
@@ -4801,19 +4352,15 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4824,7 +4371,6 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4836,7 +4382,6 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4864,7 +4409,6 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 **Image Files:**
 SS2_acidhouse_Chillum.png
 
-**Item Type:**
 
 **Visual Description:** a chillum; a dark brown smoking pipe, smoke coming out of it.
 
@@ -4875,19 +4419,15 @@ SS2_acidhouse_Chillum.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4898,7 +4438,6 @@ SS2_acidhouse_Chillum.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4910,7 +4449,6 @@ SS2_acidhouse_Chillum.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4938,7 +4476,6 @@ SS2_acidhouse_Chillum.png
 **Image Files:**
 SS3_chicagodetroit_New York Rave Flyers.PNG
 
-**Item Type:**
 
 **Visual Description:** A thin, neon green booklet that says “NEW YORK RAVE FLYERS 1991-1995” in black text.
 
@@ -4949,19 +4486,15 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4972,7 +4505,6 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 **Archetype Alignment:** Rave flyers are an important aesthetic influence on Mibera. It also examines
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4984,7 +4516,6 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5012,7 +4543,6 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 **Image Files:**
 SS4_milady_Bond Bear 3.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a panda wearing black hat and navy suit with an inner white shirt.
 
@@ -5023,19 +4553,15 @@ SS4_milady_Bond Bear 3.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5046,7 +4572,6 @@ SS4_milady_Bond Bear 3.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5058,7 +4583,6 @@ SS4_milady_Bond Bear 3.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5086,7 +4610,6 @@ SS4_milady_Bond Bear 3.png
 **Image Files:**
 SS4_milady_Bond Bear 2.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a dark brown bear wearing glasses and a black suit with white inner shirt and blue tie with white stripes.
 
@@ -5097,19 +4620,15 @@ SS4_milady_Bond Bear 2.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5120,7 +4639,6 @@ SS4_milady_Bond Bear 2.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5132,7 +4650,6 @@ SS4_milady_Bond Bear 2.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5160,7 +4677,6 @@ SS4_milady_Bond Bear 2.png
 **Image Files:**
 SS4_milady_Bond Bear 4.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a panda with a grey hat and a dirty white long coat.
 
@@ -5171,19 +4687,15 @@ SS4_milady_Bond Bear 4.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5194,7 +4706,6 @@ SS4_milady_Bond Bear 4.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5206,7 +4717,6 @@ SS4_milady_Bond Bear 4.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5234,7 +4744,6 @@ SS4_milady_Bond Bear 4.png
 **Image Files:**
 SS4_milady_Bond Bear 1.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a brown bear wearing a black hat, glasses with white frames, a light grey suit with inner white shirt, and a black bowtie.
 
@@ -5245,19 +4754,15 @@ SS4_milady_Bond Bear 1.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5268,7 +4773,6 @@ SS4_milady_Bond Bear 1.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5280,7 +4784,6 @@ SS4_milady_Bond Bear 1.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5308,7 +4811,6 @@ SS4_milady_Bond Bear 1.png
 **Image Files:**
 SS2_acidhouse_Penis Envy.png
 
-**Item Type:**
 
 **Visual Description:** a thick mushroom with creamy white body and light brown head.
 
@@ -5319,19 +4821,15 @@ SS2_acidhouse_Penis Envy.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5342,7 +4840,6 @@ SS2_acidhouse_Penis Envy.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5354,7 +4851,6 @@ SS2_acidhouse_Penis Envy.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5382,7 +4878,6 @@ SS2_acidhouse_Penis Envy.png
 **Image Files:**
 SS2_ancient_arabs_nutmeg.PNG
 
-**Item Type:**
 
 **Visual Description:** a cracked open nutmeg showing its inside.
 
@@ -5393,19 +4888,15 @@ SS2_ancient_arabs_nutmeg.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5416,7 +4907,6 @@ SS2_ancient_arabs_nutmeg.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5428,7 +4918,6 @@ SS2_ancient_arabs_nutmeg.PNG
 **Ancestor:** arab
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5456,7 +4945,6 @@ SS2_ancient_arabs_nutmeg.PNG
 **Image Files:**
 SS4_milady_Chrome Hearts Watch.png
 
-**Item Type:**
 
 **Visual Description:** a silver analog watch.
 
@@ -5467,19 +4955,15 @@ SS4_milady_Chrome Hearts Watch.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5490,7 +4974,6 @@ SS4_milady_Chrome Hearts Watch.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5502,7 +4985,6 @@ SS4_milady_Chrome Hearts Watch.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5530,7 +5012,6 @@ SS4_milady_Chrome Hearts Watch.png
 **Image Files:**
 SS4_freetekno_Spiral Fossil.png
 
-**Item Type:**
 
 **Visual Description:** a dirty light brown spiral shell.
 
@@ -5541,19 +5022,15 @@ SS4_freetekno_Spiral Fossil.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5564,7 +5041,6 @@ SS4_freetekno_Spiral Fossil.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5576,7 +5052,6 @@ SS4_freetekno_Spiral Fossil.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5605,7 +5080,6 @@ SS4_freetekno_Spiral Fossil.png
 **Image Files:**
 SS3_chicagodetroit_Fan.png
 
-**Item Type:**
 
 **Visual Description:** a white fan with black bones and handle.
 
@@ -5616,19 +5090,15 @@ SS3_chicagodetroit_Fan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5639,7 +5109,6 @@ SS3_chicagodetroit_Fan.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5651,7 +5120,6 @@ SS3_chicagodetroit_Fan.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5679,7 +5147,6 @@ SS3_chicagodetroit_Fan.png
 **Image Files:**
 SS3_acidhouse_Green Glowstick.png
 
-**Item Type:**
 
 **Visual Description:** a bright neon green glowstick.
 
@@ -5690,19 +5157,15 @@ SS3_acidhouse_Green Glowstick.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5713,7 +5176,6 @@ SS3_acidhouse_Green Glowstick.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5725,7 +5187,6 @@ SS3_acidhouse_Green Glowstick.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5753,7 +5214,6 @@ SS3_acidhouse_Green Glowstick.png
 **Image Files:**
 SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 
-**Item Type:**
 
 **Visual Description:** a small stem of white flowers and buds, radiant in color
 
@@ -5764,19 +5224,15 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5787,7 +5243,6 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5799,7 +5254,6 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 **Ancestor:** gabon
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5827,7 +5281,6 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 **Image Files:**
 SS2_milady_Radio.png
 
-**Item Type:**
 
 **Visual Description:** a small hand-held radio with an antenna.
 
@@ -5838,19 +5291,15 @@ SS2_milady_Radio.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5861,7 +5310,6 @@ SS2_milady_Radio.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5873,7 +5321,6 @@ SS2_milady_Radio.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5901,7 +5348,6 @@ SS2_milady_Radio.png
 **Image Files:**
 Ss4_milady_ancient_thai_sakae naa.PNG
 
-**Item Type:**
 
 **Visual Description:** a small stem of tiny branches and rounded buds / fruits / seeds, in purple.
 
@@ -5912,19 +5358,15 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5935,7 +5377,6 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5947,7 +5388,6 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 **Ancestor:** thai
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5975,7 +5415,6 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 **Image Files:**
 SS2_freetekno_Male Tears Mug.png
 
-**Item Type:**
 
 **Visual Description:** a white mug with the text “MALE TEARS” in black on it.
 
@@ -5986,19 +5425,15 @@ SS2_freetekno_Male Tears Mug.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6009,7 +5444,6 @@ SS2_freetekno_Male Tears Mug.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6021,7 +5455,6 @@ SS2_freetekno_Male Tears Mug.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6049,7 +5482,6 @@ SS2_freetekno_Male Tears Mug.png
 **Image Files:**
 SS4_acidhouse_Jewelry.png
 
-**Item Type:**
 
 **Visual Description:** a hand accessory made of black and teal beads with a round teal jewel. Worn on the wrist connected to one finger.
 
@@ -6060,19 +5492,15 @@ SS4_acidhouse_Jewelry.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6083,7 +5511,6 @@ SS4_acidhouse_Jewelry.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6095,7 +5522,6 @@ SS4_acidhouse_Jewelry.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6123,7 +5549,6 @@ SS4_acidhouse_Jewelry.png
 **Image Files:**
 SS4_milady_Baby Panda Bear.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a panda bear, medium to big in size.
 
@@ -6134,19 +5559,15 @@ SS4_milady_Baby Panda Bear.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6157,7 +5578,6 @@ SS4_milady_Baby Panda Bear.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6169,7 +5589,6 @@ SS4_milady_Baby Panda Bear.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6197,7 +5616,6 @@ SS4_milady_Baby Panda Bear.png
 **Image Files:**
 SS4_milady_Baby Bear.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a brown bear, medium to big in size.
 
@@ -6208,19 +5626,15 @@ SS4_milady_Baby Bear.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6231,7 +5645,6 @@ SS4_milady_Baby Bear.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6243,7 +5656,6 @@ SS4_milady_Baby Bear.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6271,7 +5683,6 @@ SS4_milady_Baby Bear.png
 **Image Files:**
 SS2_Come and Take It.png
 
-**Item Type:**
 
 **Visual Description:** a black book with some graphic and white text in thin font that reads “COME AND TAKE IT”.
 
@@ -6282,19 +5693,15 @@ SS2_Come and Take It.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6305,7 +5712,6 @@ SS2_Come and Take It.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6317,7 +5723,6 @@ SS2_Come and Take It.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6345,7 +5750,6 @@ SS2_Come and Take It.png
 **Image Files:**
 SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 
-**Item Type:**
 
 **Visual Description:** a small stem of leaves and one small flower that’s most likely not fully bloomed yet.
 
@@ -6356,19 +5760,15 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6379,7 +5779,6 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6391,7 +5790,6 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 **Ancestor:** hindu
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6419,7 +5817,6 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 **Image Files:**
 SS3_galactic gecko tarot.png
 
-**Item Type:**
 
 **Visual Description:** a black tarot card that reads “The Gecko” with a white graphic of a gecko-like character on a black background.
 
@@ -6430,19 +5827,15 @@ SS3_galactic gecko tarot.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6453,7 +5846,6 @@ SS3_galactic gecko tarot.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6465,7 +5857,6 @@ SS3_galactic gecko tarot.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6493,7 +5884,6 @@ SS3_galactic gecko tarot.png
 **Image Files:**
 SS2_freetekno_Peyote.png
 
-**Item Type:**
 
 **Visual Description:** a peyote plant; a round-shaped fat plant in green.
 
@@ -6504,19 +5894,15 @@ SS2_freetekno_Peyote.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6527,7 +5913,6 @@ SS2_freetekno_Peyote.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6539,7 +5924,6 @@ SS2_freetekno_Peyote.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6568,7 +5952,6 @@ SS2_freetekno_Peyote.png
 **Image Files:**
 SS2_acidhouse_Maracas.png
 
-**Item Type:**
 
 **Visual Description:** a terracotta coloured maracas.
 
@@ -6579,19 +5962,15 @@ SS2_acidhouse_Maracas.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6602,7 +5981,6 @@ SS2_acidhouse_Maracas.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6614,7 +5992,6 @@ SS2_acidhouse_Maracas.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6642,7 +6019,6 @@ SS2_acidhouse_Maracas.png
 **Image Files:**
 SS2_Capitalist Realism.png
 
-**Item Type:**
 
 **Visual Description:** a book with tall buildings as the main graphic of its cover in monochromatic black and white, red semi-transparent text box with the text “CAPITALIST REALISM is there no alternative?” on it.
 
@@ -6653,19 +6029,15 @@ SS2_Capitalist Realism.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6676,7 +6048,6 @@ SS2_Capitalist Realism.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6688,7 +6059,6 @@ SS2_Capitalist Realism.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6716,7 +6086,6 @@ SS2_Capitalist Realism.png
 **Image Files:**
 SS4_acidhouse_Glove.png
 
-**Item Type:**
 
 **Visual Description:** a Mickey’s glove; a thick white glove with 3 black strokes.
 
@@ -6727,19 +6096,15 @@ SS4_acidhouse_Glove.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6750,7 +6115,6 @@ SS4_acidhouse_Glove.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6762,7 +6126,6 @@ SS4_acidhouse_Glove.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6790,7 +6153,6 @@ SS4_acidhouse_Glove.png
 **Image Files:**
 SS2_acidhouse_Grateful Dead Tarot Book.PNG
 
-**Item Type:**
 
 **Visual Description:** a dark navy book with light yellow graphic and text that reads “GRATEFUL DEAD TAROT, GUIDEBOOK”.
 
@@ -6801,19 +6163,15 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6824,7 +6182,6 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6836,7 +6193,6 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6864,7 +6220,6 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 **Image Files:**
 SS4_milady_Otyken Honey.png
 
-**Item Type:**
 
 **Visual Description:** a wooden jar made of light coloured / shaved wood, with some carvings on it.
 
@@ -6875,19 +6230,15 @@ SS4_milady_Otyken Honey.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6898,7 +6249,6 @@ SS4_milady_Otyken Honey.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6910,7 +6260,6 @@ SS4_milady_Otyken Honey.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6939,7 +6288,6 @@ SS4_milady_Otyken Honey.png
 **Image Files:**
 SS2_acidhouse_Golden Teacher.png
 
-**Item Type:**
 
 **Visual Description:** a big mushroom; light creamy white body and a light brown head.
 
@@ -6950,19 +6298,15 @@ SS2_acidhouse_Golden Teacher.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6973,7 +6317,6 @@ SS2_acidhouse_Golden Teacher.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -6985,7 +6328,6 @@ SS2_acidhouse_Golden Teacher.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7013,7 +6355,6 @@ SS2_acidhouse_Golden Teacher.png
 **Image Files:**
 SS2_acidhouse_Cubensis.png
 
-**Item Type:**
 
 **Visual Description:** a small white mushroom with tiny stem; hue of brown on the top center.
 
@@ -7024,19 +6365,15 @@ SS2_acidhouse_Cubensis.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7047,7 +6384,6 @@ SS2_acidhouse_Cubensis.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7059,7 +6395,6 @@ SS2_acidhouse_Cubensis.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7087,7 +6422,6 @@ SS2_acidhouse_Cubensis.png
 **Image Files:**
 SS4_milady_Mog Hand.png
 
-**Item Type:**
 
 **Visual Description:** a cutout of a hand with blue visors with graffiti on it.
 
@@ -7098,19 +6432,15 @@ SS4_milady_Mog Hand.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7121,7 +6451,6 @@ SS4_milady_Mog Hand.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -7133,7 +6462,6 @@ SS4_milady_Mog Hand.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7161,7 +6489,6 @@ SS4_milady_Mog Hand.png
 **Image Files:**
 SS2_tomato.PNG
 
-**Item Type:**
 
 **Visual Description:** a tomato.
 
@@ -7172,19 +6499,15 @@ SS2_tomato.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7195,7 +6518,6 @@ SS2_tomato.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7207,7 +6529,6 @@ SS2_tomato.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7235,7 +6556,6 @@ SS2_tomato.PNG
 **Image Files:**
 SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 
-**Item Type:**
 
 **Visual Description:** two leaves with a tiny red bud.
 
@@ -7246,19 +6566,15 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7269,7 +6585,6 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7281,7 +6596,6 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7309,7 +6623,6 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 **Image Files:**
 SS4_milady_Radbro Plushie.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a character with big eyes wearing a frog suit.
 
@@ -7320,19 +6633,15 @@ SS4_milady_Radbro Plushie.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7343,7 +6652,6 @@ SS4_milady_Radbro Plushie.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -7355,7 +6663,6 @@ SS4_milady_Radbro Plushie.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7383,7 +6690,6 @@ SS4_milady_Radbro Plushie.png
 **Image Files:**
 SS4_LSD My Problem Child.png
 
-**Item Type:**
 
 **Visual Description:** a book with black cover and big text in gold that reads “LSD - MY PROBLEM CHILD” by Albert Hoffman, and his portrait in the middle.
 
@@ -7394,19 +6700,15 @@ SS4_LSD My Problem Child.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7417,7 +6719,6 @@ SS4_LSD My Problem Child.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -7429,7 +6730,6 @@ SS4_LSD My Problem Child.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7457,7 +6757,6 @@ SS4_LSD My Problem Child.png
 **Image Files:**
 SS2_milady_Remilia Case.png
 
-**Item Type:**
 
 **Visual Description:** a black case with stickers on it including a blue textbook with white text that reads “RemiliaCo” on the top part.
 
@@ -7468,19 +6767,15 @@ SS2_milady_Remilia Case.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7491,7 +6786,6 @@ SS2_milady_Remilia Case.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7503,7 +6797,6 @@ SS2_milady_Remilia Case.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7531,7 +6824,6 @@ SS2_milady_Remilia Case.png
 **Image Files:**
 SS4_Ccru.png
 
-**Item Type:**
 
 **Visual Description:** a book with green cover, graphic and text in white that says “Ccru 1997 - 2003”
 
@@ -7542,19 +6834,15 @@ SS4_Ccru.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7565,7 +6853,6 @@ SS4_Ccru.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -7577,7 +6864,6 @@ SS4_Ccru.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7605,7 +6891,6 @@ SS4_Ccru.png
 **Image Files:**
 SS4_milady_BERAVE Fan.png
 
-**Item Type:**
 
 **Visual Description:** White hand-fan with pink graphic of a female character wearing sunnies with her tongue out. Black fan handle and bones.
 
@@ -7616,19 +6901,15 @@ SS4_milady_BERAVE Fan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7639,7 +6920,6 @@ SS4_milady_BERAVE Fan.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -7651,7 +6931,6 @@ SS4_milady_BERAVE Fan.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7679,7 +6958,6 @@ SS4_milady_BERAVE Fan.png
 **Image Files:**
 SS3_freetekno_UK Rave Flyers.PNG
 
-**Item Type:**
 
 **Visual Description:** A thin, yellow booklet that says “LOS ANGELES RAVE FLYERS 1991-1996” in black text.
 
@@ -7690,19 +6968,15 @@ SS3_freetekno_UK Rave Flyers.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7713,7 +6987,6 @@ SS3_freetekno_UK Rave Flyers.PNG
 **Archetype Alignment:** Rave flyers are an important aesthetic influence on Mibera. It also examines
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7725,7 +6998,6 @@ SS3_freetekno_UK Rave Flyers.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7753,7 +7025,6 @@ SS3_freetekno_UK Rave Flyers.PNG
 **Image Files:**
 SS4_acidhouse_Grateful Dead Tarot.PNG
 
-**Item Type:**
 
 **Visual Description:** a tarot card with a graphic of a blue bear with red collar walking away from a path leading to a building, sun blazing behind the character. The surface appears metallic.
 
@@ -7764,19 +7035,15 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7787,7 +7054,6 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -7799,7 +7065,6 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7827,7 +7092,6 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 **Image Files:**
 SS4_freetekno_90s Brick Phone.png
 
-**Item Type:**
 
 **Visual Description:** an old-school phone; big in size with an antenna and buttons.
 
@@ -7838,19 +7102,15 @@ SS4_freetekno_90s Brick Phone.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7861,7 +7121,6 @@ SS4_freetekno_90s Brick Phone.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -7873,7 +7132,6 @@ SS4_freetekno_90s Brick Phone.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7901,7 +7159,6 @@ SS4_freetekno_90s Brick Phone.png
 **Image Files:**
 SS2_acidhouse_Whistle.png
 
-**Item Type:**
 
 **Visual Description:** a white whistle blower with red strings dangling down off of it.
 
@@ -7912,19 +7169,15 @@ SS2_acidhouse_Whistle.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7935,7 +7188,6 @@ SS2_acidhouse_Whistle.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7947,7 +7199,6 @@ SS2_acidhouse_Whistle.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7975,7 +7226,6 @@ SS2_acidhouse_Whistle.png
 **Image Files:**
 SS4_acidhouse_Whippet Cracker.png
 
-**Item Type:**
 
 **Visual Description:** a device in black and light grey, and a clear straw looking piece.
 
@@ -7986,19 +7236,15 @@ SS4_acidhouse_Whippet Cracker.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8009,7 +7255,6 @@ SS4_acidhouse_Whippet Cracker.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8021,7 +7266,6 @@ SS4_acidhouse_Whippet Cracker.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8049,7 +7293,6 @@ SS4_acidhouse_Whippet Cracker.png
 **Image Files:**
 SS2_freetekno_Rolling Tobacco Tin.png
 
-**Item Type:**
 
 **Visual Description:** a tin in yellowish colour, with little text that reads “HAND ROLLING TOBACCO”.
 
@@ -8060,19 +7303,15 @@ SS2_freetekno_Rolling Tobacco Tin.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8083,7 +7322,6 @@ SS2_freetekno_Rolling Tobacco Tin.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8095,7 +7333,6 @@ SS2_freetekno_Rolling Tobacco Tin.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8123,7 +7360,6 @@ SS2_freetekno_Rolling Tobacco Tin.png
 **Image Files:**
 SS4_Gold Apollo AR942.PNG
 
-**Item Type:**
 
 **Visual Description:** a small black device with a screen and some buttons.
 
@@ -8134,19 +7370,15 @@ SS4_Gold Apollo AR942.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8157,7 +7389,6 @@ SS4_Gold Apollo AR942.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8169,7 +7400,6 @@ SS4_Gold Apollo AR942.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8197,7 +7427,6 @@ SS4_Gold Apollo AR942.PNG
 **Image Files:**
 SS3_chicagodetroit_Weed Nug.png
 
-**Item Type:**
 
 **Visual Description:** a handful of leaves.
 
@@ -8208,19 +7437,15 @@ SS3_chicagodetroit_Weed Nug.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8231,7 +7456,6 @@ SS3_chicagodetroit_Weed Nug.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -8243,7 +7467,6 @@ SS3_chicagodetroit_Weed Nug.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8271,7 +7494,6 @@ SS3_chicagodetroit_Weed Nug.png
 **Image Files:**
 SS4_hotdog.PNG
 
-**Item Type:**
 
 **Visual Description:** a hot dog with mustard / yellow sauce.
 
@@ -8282,19 +7504,15 @@ SS4_hotdog.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8305,7 +7523,6 @@ SS4_hotdog.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8317,7 +7534,6 @@ SS4_hotdog.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8345,7 +7561,6 @@ SS4_hotdog.PNG
 **Image Files:**
 SS4_freetekno_Pihkal.png
 
-**Item Type:**
 
 **Visual Description:** a book with black and blue cover, with its title in red that reads “PiHKAL”, and smaller text in white below it that reads “A CHEMICAL LOVE STORY”.
 
@@ -8356,19 +7571,15 @@ SS4_freetekno_Pihkal.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8379,7 +7590,6 @@ SS4_freetekno_Pihkal.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8391,7 +7601,6 @@ SS4_freetekno_Pihkal.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8420,7 +7629,6 @@ SS4_freetekno_Pihkal.png
 **Image Files:**
 SS2_freetekno_ancient_mayan_Ayahuasca.png
 
-**Item Type:**
 
 **Visual Description:** a piece of leaf in dark green facing down.
 
@@ -8431,19 +7639,15 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8454,7 +7658,6 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8466,7 +7669,6 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 **Ancestor:** mayan
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8495,7 +7697,6 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 **Image Files:**
 SS4_milady_acidhouse_MDMA Handbook.png
 
-**Item Type:**
 
 **Visual Description:** a white book with a big outline of a smiley face and text in black that reads “ECSTASY / MDMA - A USERS GUIDE”.
 
@@ -8506,19 +7707,15 @@ SS4_milady_acidhouse_MDMA Handbook.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8529,7 +7726,6 @@ SS4_milady_acidhouse_MDMA Handbook.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8541,7 +7737,6 @@ SS4_milady_acidhouse_MDMA Handbook.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8569,7 +7764,6 @@ SS4_milady_acidhouse_MDMA Handbook.png
 **Image Files:**
 SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 
-**Item Type:**
 
 **Visual Description:** a sugarcane stick.
 
@@ -8580,19 +7774,15 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8603,7 +7793,6 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -8615,7 +7804,6 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 **Ancestor:** hindu
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8643,7 +7831,6 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 **Image Files:**
 SS2_chicagodetroit_glass of whiskey.PNG
 
-**Item Type:**
 
 **Visual Description:** a clear glass of whiskey; brownish liquid inside
 
@@ -8654,19 +7841,15 @@ SS2_chicagodetroit_glass of whiskey.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8677,7 +7860,6 @@ SS2_chicagodetroit_glass of whiskey.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8689,7 +7871,6 @@ SS2_chicagodetroit_glass of whiskey.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8717,7 +7898,6 @@ SS2_chicagodetroit_glass of whiskey.PNG
 **Image Files:**
 SS4_freetekno_Sheet Of Acid.png
 
-**Item Type:**
 
 **Visual Description:** a sheet of acid; a sheet of small patches that can be torn apart individually.
 
@@ -8728,19 +7908,15 @@ SS4_freetekno_Sheet Of Acid.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8751,7 +7927,6 @@ SS4_freetekno_Sheet Of Acid.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8763,7 +7938,6 @@ SS4_freetekno_Sheet Of Acid.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8791,7 +7965,6 @@ SS4_freetekno_Sheet Of Acid.png
 **Image Files:**
 SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 
-**Item Type:**
 
 **Visual Description:** a block of mineral / crystal in dirty white color.
 
@@ -8802,19 +7975,15 @@ SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8825,7 +7994,6 @@ SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8837,7 +8005,6 @@ SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 **Ancestor:** irish druids
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8865,7 +8032,6 @@ SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 **Image Files:**
 SS2_acidhouse_Subaeruginosa.png
 
-**Item Type:**
 
 **Visual Description:** a mushroom with light brown head and darker brown stem / body.
 
@@ -8876,19 +8042,15 @@ SS2_acidhouse_Subaeruginosa.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8899,7 +8061,6 @@ SS2_acidhouse_Subaeruginosa.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8911,7 +8072,6 @@ SS2_acidhouse_Subaeruginosa.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8939,7 +8099,6 @@ SS2_acidhouse_Subaeruginosa.png
 **Image Files:**
 SS4_chicagodetroit_Drum.png
 
-**Item Type:**
 
 **Visual Description:** a hand-drum.
 
@@ -8950,19 +8109,15 @@ SS4_chicagodetroit_Drum.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8973,7 +8128,6 @@ SS4_chicagodetroit_Drum.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -8985,7 +8139,6 @@ SS4_chicagodetroit_Drum.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9013,7 +8166,6 @@ SS4_chicagodetroit_Drum.png
 **Image Files:**
 SS3_chicagodetroit_Blunt.png
 
-**Item Type:**
 
 **Visual Description:** a smoking blunt in dark brown.
 
@@ -9024,19 +8176,15 @@ SS3_chicagodetroit_Blunt.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9047,7 +8195,6 @@ SS3_chicagodetroit_Blunt.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -9059,7 +8206,6 @@ SS3_chicagodetroit_Blunt.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9087,7 +8233,6 @@ SS3_chicagodetroit_Blunt.png
 **Image Files:**
 SS2_milady_Plum Onigiri.png
 
-**Item Type:**
 
 **Visual Description:** an onigiri with a dark red dot in the middle of it.
 
@@ -9098,19 +8243,15 @@ SS2_milady_Plum Onigiri.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9121,7 +8262,6 @@ SS2_milady_Plum Onigiri.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -9133,7 +8273,6 @@ SS2_milady_Plum Onigiri.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9161,7 +8300,6 @@ SS2_milady_Plum Onigiri.png
 **Image Files:**
 SS4_milady_Baby Sun Bear.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a black bear, medium to big in size.
 
@@ -9172,19 +8310,15 @@ SS4_milady_Baby Sun Bear.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9195,7 +8329,6 @@ SS4_milady_Baby Sun Bear.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -9207,7 +8340,6 @@ SS4_milady_Baby Sun Bear.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9235,7 +8367,6 @@ SS4_milady_Baby Sun Bear.png
 **Image Files:**
 SS3_Cypherpunk.png
 
-**Item Type:**
 
 **Visual Description:** a white sheet full of short straight vertical strokes in shades of black, with different sizes and lengths.
 
@@ -9246,19 +8377,15 @@ SS3_Cypherpunk.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9269,7 +8396,6 @@ SS3_Cypherpunk.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -9281,7 +8407,6 @@ SS3_Cypherpunk.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9309,7 +8434,6 @@ SS3_Cypherpunk.png
 **Image Files:**
 SS4_freetekno_Tihkal.png
 
-**Item Type:**
 
 **Visual Description:** a book with black and blue cover, with its title in red that reads “TiHKAL”, and smaller text in white below it that reads “THE CONTINUATION”.
 
@@ -9320,19 +8444,15 @@ SS4_freetekno_Tihkal.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9343,7 +8463,6 @@ SS4_freetekno_Tihkal.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -9355,7 +8474,6 @@ SS4_freetekno_Tihkal.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9384,7 +8502,6 @@ SS4_freetekno_Tihkal.png
 **Image Files:**
 SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 
-**Item Type:**
 
 **Visual Description:** a small plant with thin stem, small leaves, and a small white flower
 
@@ -9395,19 +8512,15 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9418,7 +8531,6 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -9430,7 +8542,6 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 **Ancestor:** aboriginal
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9458,7 +8569,6 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 **Image Files:**
 SS2_milady_ancient_thai_kwao krua.PNG
 
-**Item Type:**
 
 **Visual Description:** a sliced fruit with white meat and brown skin.
 
@@ -9469,19 +8579,15 @@ SS2_milady_ancient_thai_kwao krua.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9492,7 +8598,6 @@ SS2_milady_ancient_thai_kwao krua.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -9504,7 +8609,6 @@ SS2_milady_ancient_thai_kwao krua.PNG
 **Ancestor:** thai
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9532,7 +8636,6 @@ SS2_milady_ancient_thai_kwao krua.PNG
 **Image Files:**
 SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 
-**Item Type:**
 
 **Visual Description:** a white large cup with purple drink spilling on one side and a few ice cubes in it.
 
@@ -9543,19 +8646,15 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9566,7 +8665,6 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -9578,7 +8676,6 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9606,7 +8703,6 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 **Image Files:**
 SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 
-**Item Type:**
 
 **Visual Description:** a stern stem with leaves on it.
 
@@ -9617,19 +8713,15 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9640,7 +8732,6 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -9652,7 +8743,6 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 **Ancestor:** pythia
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9680,7 +8770,6 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 **Image Files:**
 SS2_freetekno_mayan_Ayahuasca Bowl.png
 
-**Item Type:**
 
 **Visual Description:** a dark brown bowl of light brown liquid.
 
@@ -9691,19 +8780,15 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9714,7 +8799,6 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -9726,7 +8810,6 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 **Ancestor:** mayan
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9754,7 +8837,6 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 **Image Files:**
 SS2_milady_Gumiberas.png
 
-**Item Type:**
 
 **Visual Description:** a golden pack of gummy bears called “gumiberas”, as seen on the package.
 
@@ -9765,19 +8847,15 @@ SS2_milady_Gumiberas.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9788,7 +8866,6 @@ SS2_milady_Gumiberas.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -9800,7 +8877,6 @@ SS2_milady_Gumiberas.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9828,7 +8904,6 @@ SS2_milady_Gumiberas.png
 **Image Files:**
 SS2_acidhouse_Fidget.png
 
-**Item Type:**
 
 **Visual Description:** a red and grey fidget spinner.
 
@@ -9839,19 +8914,15 @@ SS2_acidhouse_Fidget.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9862,7 +8933,6 @@ SS2_acidhouse_Fidget.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -9874,7 +8944,6 @@ SS2_acidhouse_Fidget.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9902,7 +8971,6 @@ SS2_acidhouse_Fidget.png
 **Image Files:**
 SS2_acidhouse_Liberty Caps.png
 
-**Item Type:**
 
 **Visual Description:** a small umbrella-shaped mushroom in dark pale brown.
 
@@ -9913,19 +8981,15 @@ SS2_acidhouse_Liberty Caps.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9936,7 +9000,6 @@ SS2_acidhouse_Liberty Caps.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -9948,7 +9011,6 @@ SS2_acidhouse_Liberty Caps.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9976,7 +9038,6 @@ SS2_acidhouse_Liberty Caps.png
 **Image Files:**
 SS2_milady_sober water.PNG
 
-**Item Type:**
 
 **Visual Description:** a bottle of beverage with blue label and clear white liquid.
 
@@ -9987,19 +9048,15 @@ SS2_milady_sober water.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10010,7 +9067,6 @@ SS2_milady_sober water.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10022,7 +9078,6 @@ SS2_milady_sober water.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10050,7 +9105,6 @@ SS2_milady_sober water.PNG
 **Image Files:**
 SS2_milady_Onigiri.png
 
-**Item Type:**
 
 **Visual Description:** an onigiri.
 
@@ -10061,19 +9115,15 @@ SS2_milady_Onigiri.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10084,7 +9134,6 @@ SS2_milady_Onigiri.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10096,7 +9145,6 @@ SS2_milady_Onigiri.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10124,7 +9172,6 @@ SS2_milady_Onigiri.png
 **Image Files:**
 SS4_chicagodetroit_Teal Bong.PNG
 
-**Item Type:**
 
 **Visual Description:** a big glassy bong with gradients of teal and green.
 
@@ -10135,19 +9182,15 @@ SS4_chicagodetroit_Teal Bong.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10158,7 +9201,6 @@ SS4_chicagodetroit_Teal Bong.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -10170,7 +9212,6 @@ SS4_chicagodetroit_Teal Bong.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10198,7 +9239,6 @@ SS4_chicagodetroit_Teal Bong.PNG
 **Image Files:**
 SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 
-**Item Type:**
 
 **Visual Description:** a small bunch of leaves and a strip of beans with yellow skin.
 
@@ -10209,19 +9249,15 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10232,7 +9268,6 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10244,7 +9279,6 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 **Ancestor:** hindu
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10272,7 +9306,6 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 **Image Files:**
 SS2_milady_Mibera Mate.png
 
-**Item Type:**
 
 **Visual Description:** a yellow box with black text that reads “Mibera Mate BLOCK”.
 
@@ -10283,19 +9316,15 @@ SS2_milady_Mibera Mate.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10306,7 +9335,6 @@ SS2_milady_Mibera Mate.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10318,7 +9346,6 @@ SS2_milady_Mibera Mate.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10346,7 +9373,6 @@ SS2_milady_Mibera Mate.png
 **Image Files:**
 SS2_chicagodetroit_Cassette.png
 
-**Item Type:**
 
 **Visual Description:** a black cassette tape.
 
@@ -10357,19 +9383,15 @@ SS2_chicagodetroit_Cassette.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10380,7 +9402,6 @@ SS2_chicagodetroit_Cassette.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10392,7 +9413,6 @@ SS2_chicagodetroit_Cassette.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10420,7 +9440,6 @@ SS2_chicagodetroit_Cassette.png
 **Image Files:**
 SS4_freetekno_PS1 Controller.png
 
-**Item Type:**
 
 **Visual Description:** a grey PS1 controller with a black wire.
 
@@ -10431,19 +9450,15 @@ SS4_freetekno_PS1 Controller.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10454,7 +9469,6 @@ SS4_freetekno_PS1 Controller.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -10466,7 +9480,6 @@ SS4_freetekno_PS1 Controller.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10494,7 +9507,6 @@ SS4_freetekno_PS1 Controller.png
 **Image Files:**
 SS2_acidhouse_Mexicana.png
 
-**Item Type:**
 
 **Visual Description:** a mushroom in light brown, thin stem / body, slightly pointy head.
 
@@ -10505,19 +9517,15 @@ SS2_acidhouse_Mexicana.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10528,7 +9536,6 @@ SS2_acidhouse_Mexicana.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10540,7 +9547,6 @@ SS2_acidhouse_Mexicana.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10568,7 +9574,6 @@ SS2_acidhouse_Mexicana.png
 **Image Files:**
 SS3_Fanged Noumena.png
 
-**Item Type:**
 
 **Visual Description:** a book with colourful cover and white part at the top with black text that reads “NICK LAND - Fanged Noumena - collected writings 1987-2007”.
 
@@ -10579,19 +9584,15 @@ SS3_Fanged Noumena.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10602,7 +9603,6 @@ SS3_Fanged Noumena.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -10614,7 +9614,6 @@ SS3_Fanged Noumena.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10642,7 +9641,6 @@ SS3_Fanged Noumena.png
 **Image Files:**
 SS3_chicagodetroit_ancient_gabon_iboga.PNG
 
-**Item Type:**
 
 **Visual Description:** a bright yellow small chilli-shaped fruit.
 
@@ -10653,19 +9651,15 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10676,7 +9670,6 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -10688,7 +9681,6 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 **Ancestor:** gabon
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10716,7 +9708,6 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 **Image Files:**
 SS2_chicagodetroit_Porridge.png
 
-**Item Type:**
 
 **Visual Description:** a full purple bowl of creamy coloured porridge.
 
@@ -10727,19 +9718,15 @@ SS2_chicagodetroit_Porridge.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10750,7 +9737,6 @@ SS2_chicagodetroit_Porridge.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10762,7 +9748,6 @@ SS2_chicagodetroit_Porridge.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10790,7 +9775,6 @@ SS2_chicagodetroit_Porridge.png
 **Image Files:**
 SS2_acidhouse_ancient_aboriginal_acacia.PNG
 
-**Item Type:**
 
 **Visual Description:** a sprig of dark green leaves and yellow buds / flowers.
 
@@ -10801,19 +9785,15 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10824,7 +9804,6 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10836,7 +9815,6 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 **Ancestor:** aboriginal
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10864,7 +9842,6 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 **Image Files:**
 SS2_freetekno_Walkman.png
 
-**Item Type:**
 
 **Visual Description:** a walkman in navy blue and an accent of light grey on its design; a round device with a few buttons
 
@@ -10875,19 +9852,15 @@ SS2_freetekno_Walkman.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10898,7 +9871,6 @@ SS2_freetekno_Walkman.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -10910,7 +9882,6 @@ SS2_freetekno_Walkman.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -10939,7 +9910,6 @@ SS2_freetekno_Walkman.png
 **Image Files:**
 SS2_chicagodetroit_Colorful Bong.PNG
 
-**Item Type:**
 
 **Visual Description:** a big glassy bong with gradients of warm pastel pink and yellow
 
@@ -10950,19 +9920,15 @@ SS2_chicagodetroit_Colorful Bong.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -10973,7 +9939,6 @@ SS2_chicagodetroit_Colorful Bong.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -10985,7 +9950,6 @@ SS2_chicagodetroit_Colorful Bong.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11013,7 +9977,6 @@ SS2_chicagodetroit_Colorful Bong.PNG
 **Image Files:**
 SS4_milady_modern_japanese_Aum Doomsday Sign.png
 
-**Item Type:**
 
 **Visual Description:** a big white sign with japanese scripture in black, held by the wooden stick attached to it.
 
@@ -11024,19 +9987,15 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11047,7 +10006,6 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -11059,7 +10017,6 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 **Ancestor:** japanese
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11087,7 +10044,6 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 **Image Files:**
 SS4_acidhouse_Spiral Bera Balloon.png
 
-**Item Type:**
 
 **Visual Description:** a yellow balloon with mibera logo on it in orange.
 
@@ -11098,19 +10054,15 @@ SS4_acidhouse_Spiral Bera Balloon.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11121,7 +10073,6 @@ SS4_acidhouse_Spiral Bera Balloon.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -11133,7 +10084,6 @@ SS4_acidhouse_Spiral Bera Balloon.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11161,7 +10111,6 @@ SS4_acidhouse_Spiral Bera Balloon.png
 **Image Files:**
 SS5_acidhouse_modern_sami_Sami Pouch.png
 
-**Item Type:**
 
 **Visual Description:** a pouch in light reddish brown colour, red, and blue, and a string.
 
@@ -11172,19 +10121,15 @@ SS5_acidhouse_modern_sami_Sami Pouch.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11195,7 +10140,6 @@ SS5_acidhouse_modern_sami_Sami Pouch.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -11207,7 +10151,6 @@ SS5_acidhouse_modern_sami_Sami Pouch.png
 **Ancestor:** sami
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11235,7 +10178,6 @@ SS5_acidhouse_modern_sami_Sami Pouch.png
 **Image Files:**
 SS1_chicagodetroit_Cotton Candy Bong.PNG
 
-**Item Type:**
 
 **Visual Description:** a big glassy bong with gradients of vibrant blue and magenta / purple
 
@@ -11246,19 +10188,15 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11269,7 +10207,6 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -11281,7 +10218,6 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11309,7 +10245,6 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 **Image Files:**
 SS3_acidhouse_Fly Agaric.png
 
-**Item Type:**
 
 **Visual Description:** a mushroom, medium in size, with white stem and red head with white dots on it.
 
@@ -11320,19 +10255,15 @@ SS3_acidhouse_Fly Agaric.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11343,7 +10274,6 @@ SS3_acidhouse_Fly Agaric.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -11355,7 +10285,6 @@ SS3_acidhouse_Fly Agaric.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11383,7 +10312,6 @@ SS3_acidhouse_Fly Agaric.png
 **Image Files:**
 SS2_milady_Golden Flower.PNG
 
-**Item Type:**
 
 **Visual Description:** a golden book with delicate graphics of flowers and a text box in light yellow in the middle, titled “THE SECRET OF THE GOLDENFLOWER”.
 
@@ -11394,19 +10322,15 @@ SS2_milady_Golden Flower.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11417,7 +10341,6 @@ SS2_milady_Golden Flower.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -11429,7 +10352,6 @@ SS2_milady_Golden Flower.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11457,7 +10379,6 @@ SS2_milady_Golden Flower.PNG
 **Image Files:**
 SS3_chicagodetroit_Syringe.png
 
-**Item Type:**
 
 **Visual Description:** a syringe.
 
@@ -11468,19 +10389,15 @@ SS3_chicagodetroit_Syringe.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11491,7 +10408,6 @@ SS3_chicagodetroit_Syringe.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -11503,7 +10419,6 @@ SS3_chicagodetroit_Syringe.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11531,7 +10446,6 @@ SS3_chicagodetroit_Syringe.png
 **Image Files:**
 SS5_bitcoin popcorn.PNG
 
-**Item Type:**
 
 **Visual Description:** a pack of cheetos popcorn; red and orange package with a graphic of a cheetah eating a handful of red popcorn.
 
@@ -11542,19 +10456,15 @@ SS5_bitcoin popcorn.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11565,7 +10475,6 @@ SS5_bitcoin popcorn.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -11577,7 +10486,6 @@ SS5_bitcoin popcorn.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11605,7 +10513,6 @@ SS5_bitcoin popcorn.PNG
 **Image Files:**
 SS1_milady_How to stay in hell.PNG
 
-**Item Type:**
 
 **Visual Description:** a black book with red and dark greyish graphic in the middle, and white title that reads “How to Stay in Hell”.
 
@@ -11616,19 +10523,15 @@ SS1_milady_How to stay in hell.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11639,7 +10542,6 @@ SS1_milady_How to stay in hell.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -11651,7 +10553,6 @@ SS1_milady_How to stay in hell.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11679,7 +10580,6 @@ SS1_milady_How to stay in hell.PNG
 **Image Files:**
 SS5_milady_Remilia Gun.png
 
-**Item Type:**
 
 **Visual Description:** Black rifle with a bunch of stickers on it, including a smiley face and 3 stars.
 
@@ -11690,19 +10590,15 @@ SS5_milady_Remilia Gun.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11713,7 +10609,6 @@ SS5_milady_Remilia Gun.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -11725,7 +10620,6 @@ SS5_milady_Remilia Gun.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11753,7 +10647,6 @@ SS5_milady_Remilia Gun.png
 **Image Files:**
 SS5_milady_Mad Hani Buttplug.png
 
-**Item Type:**
 
 **Visual Description:** a yellow buttplug with bee sting shaped attachment; black stripes and a silver sting.
 
@@ -11764,19 +10657,15 @@ SS5_milady_Mad Hani Buttplug.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11787,7 +10676,6 @@ SS5_milady_Mad Hani Buttplug.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -11799,7 +10687,6 @@ SS5_milady_Mad Hani Buttplug.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11827,7 +10714,6 @@ SS5_milady_Mad Hani Buttplug.png
 **Image Files:**
 SS1_freetekno_Lighter.png
 
-**Item Type:**
 
 **Visual Description:** a lighter in navy blue
 
@@ -11838,19 +10724,15 @@ SS1_freetekno_Lighter.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11861,7 +10743,6 @@ SS1_freetekno_Lighter.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -11873,7 +10754,6 @@ SS1_freetekno_Lighter.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11901,7 +10781,6 @@ SS1_freetekno_Lighter.png
 **Image Files:**
 SS3_freetekno_Fishing Rod.png
 
-**Item Type:**
 
 **Visual Description:** a fishing rod with yellow strings and brown handle.
 
@@ -11912,19 +10791,15 @@ SS3_freetekno_Fishing Rod.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -11935,7 +10810,6 @@ SS3_freetekno_Fishing Rod.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -11947,7 +10821,6 @@ SS3_freetekno_Fishing Rod.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -11975,7 +10848,6 @@ SS3_freetekno_Fishing Rod.png
 **Image Files:**
 SS1_milady_Mibera Sweat.png
 
-**Item Type:**
 
 **Visual Description:** a bottle of clear white beverage with blue label and the brand “MIBERA SWEAT”.
 
@@ -11986,19 +10858,15 @@ SS1_milady_Mibera Sweat.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12009,7 +10877,6 @@ SS1_milady_Mibera Sweat.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -12021,7 +10888,6 @@ SS1_milady_Mibera Sweat.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12049,7 +10915,6 @@ SS1_milady_Mibera Sweat.png
 **Image Files:**
 SS2_freetekno_Special Brew.png
 
-**Item Type:**
 
 **Visual Description:** a brown can of beverage branded “SPECIAL BREW” in brown text and a small crown graphic at the bottom.
 
@@ -12060,19 +10925,15 @@ SS2_freetekno_Special Brew.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12083,7 +10944,6 @@ SS2_freetekno_Special Brew.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -12095,7 +10955,6 @@ SS2_freetekno_Special Brew.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12123,7 +10982,6 @@ SS2_freetekno_Special Brew.png
 **Image Files:**
 SS5_Controlled Substances.png
 
-**Item Type:**
 
 **Visual Description:** a book in light muted blue with big title in black in the middle that reads “CONTROLLED SUBSTANCES”.
 
@@ -12134,19 +10992,15 @@ SS5_Controlled Substances.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12157,7 +11011,6 @@ SS5_Controlled Substances.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -12169,7 +11022,6 @@ SS5_Controlled Substances.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12197,7 +11049,6 @@ SS5_Controlled Substances.png
 **Image Files:**
 SS5_apDAO Ring 2.PNG
 
-**Item Type:**
 
 **Visual Description:** a silver ring with a square magenta / pink gem.
 
@@ -12208,19 +11059,15 @@ SS5_apDAO Ring 2.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12231,7 +11078,6 @@ SS5_apDAO Ring 2.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -12243,7 +11089,6 @@ SS5_apDAO Ring 2.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12271,7 +11116,6 @@ SS5_apDAO Ring 2.PNG
 **Image Files:**
 SS5_chicagodetroit_Chrome Nails.png
 
-**Item Type:**
 
 **Visual Description:** a silver nail attachment in the shape of flames with sharp pointy ends.
 
@@ -12282,19 +11126,15 @@ SS5_chicagodetroit_Chrome Nails.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12305,7 +11145,6 @@ SS5_chicagodetroit_Chrome Nails.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -12317,7 +11156,6 @@ SS5_chicagodetroit_Chrome Nails.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12345,7 +11183,6 @@ SS5_chicagodetroit_Chrome Nails.png
 **Image Files:**
 
 
-**Item Type:**
 
 **Visual Description:** a black cassette recorder with accents of red and white.
 
@@ -12356,19 +11193,15 @@ SS5_chicagodetroit_Chrome Nails.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12379,7 +11212,6 @@ SS5_chicagodetroit_Chrome Nails.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** ---
 
@@ -12391,7 +11223,6 @@ SS5_chicagodetroit_Chrome Nails.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12419,7 +11250,6 @@ SS5_chicagodetroit_Chrome Nails.png
 **Image Files:**
 SS5_apDAO Ring 1.PNG
 
-**Item Type:**
 
 **Visual Description:** a golden ring with rounded shape and no charm.
 
@@ -12430,19 +11260,15 @@ SS5_apDAO Ring 1.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12453,7 +11279,6 @@ SS5_apDAO Ring 1.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -12465,7 +11290,6 @@ SS5_apDAO Ring 1.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12493,7 +11317,6 @@ SS5_apDAO Ring 1.PNG
 **Image Files:**
 SS5_freetekno_AK47.png
 
-**Item Type:**
 
 **Visual Description:** an AK47 rifle, in plain black.
 
@@ -12504,19 +11327,15 @@ SS5_freetekno_AK47.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12527,7 +11346,6 @@ SS5_freetekno_AK47.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -12539,7 +11357,6 @@ SS5_freetekno_AK47.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12567,7 +11384,6 @@ SS5_freetekno_AK47.png
 **Image Files:**
 SS1_Monster Ultra.png
 
-**Item Type:**
 
 **Visual Description:** a white can of Monster energy drink.
 
@@ -12578,19 +11394,15 @@ SS1_Monster Ultra.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12601,7 +11413,6 @@ SS1_Monster Ultra.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -12613,7 +11424,6 @@ SS1_Monster Ultra.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12641,7 +11451,6 @@ SS1_Monster Ultra.png
 **Image Files:**
 SS1_acidhouse_Blue Glowstick.png
 
-**Item Type:**
 
 **Visual Description:** a soft light blue glowstick.
 
@@ -12652,19 +11461,15 @@ SS1_acidhouse_Blue Glowstick.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12675,7 +11480,6 @@ SS1_acidhouse_Blue Glowstick.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -12687,7 +11491,6 @@ SS1_acidhouse_Blue Glowstick.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12715,7 +11518,6 @@ SS1_acidhouse_Blue Glowstick.png
 **Image Files:**
 SS5_freetekno_Baggie Of Pills.png
 
-**Item Type:**
 
 **Visual Description:** a white bag of pale teal pills; the bag has a big yellow smiley face with bear ears on it.
 
@@ -12726,19 +11528,15 @@ SS5_freetekno_Baggie Of Pills.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12749,7 +11547,6 @@ SS5_freetekno_Baggie Of Pills.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -12761,7 +11558,6 @@ SS5_freetekno_Baggie Of Pills.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12789,7 +11585,6 @@ SS5_freetekno_Baggie Of Pills.png
 **Image Files:**
 SS3_acidhouse_Apple Bag.png
 
-**Item Type:**
 
 **Visual Description:** a bag in the realistic shape of apple with a brown sling.
 
@@ -12800,19 +11595,15 @@ SS3_acidhouse_Apple Bag.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12823,7 +11614,6 @@ SS3_acidhouse_Apple Bag.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -12835,7 +11625,6 @@ SS3_acidhouse_Apple Bag.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12863,7 +11652,6 @@ SS3_acidhouse_Apple Bag.png
 **Image Files:**
 SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 
-**Item Type:**
 
 **Visual Description:** a clear white bag of dark brown seeds.
 
@@ -12874,19 +11662,15 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12897,7 +11681,6 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -12909,7 +11692,6 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 **Ancestor:** mayan
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -12937,7 +11719,6 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 **Image Files:**
 SS3_chicagodetroit_Vape Bag.png
 
-**Item Type:**
 
 **Visual Description:** a bag / tube of white gas.
 
@@ -12948,19 +11729,15 @@ SS3_chicagodetroit_Vape Bag.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -12971,7 +11748,6 @@ SS3_chicagodetroit_Vape Bag.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -12983,7 +11759,6 @@ SS3_chicagodetroit_Vape Bag.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13011,7 +11786,6 @@ SS3_chicagodetroit_Vape Bag.png
 **Image Files:**
 SS1_milady_sex health and long life.PNG
 
-**Item Type:**
 
 **Visual Description:** a red book called “Sex, Health, and Long Life”
 
@@ -13022,19 +11796,15 @@ SS1_milady_sex health and long life.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Thomas Cleary
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13045,7 +11815,6 @@ SS1_milady_sex health and long life.PNG
 **Archetype Alignment:** its correlation with Milady community (need to look into this more) Was in Cfang’s blog - I think an arena blog. Will
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -13057,7 +11826,6 @@ SS1_milady_sex health and long life.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13085,7 +11853,6 @@ SS1_milady_sex health and long life.PNG
 **Image Files:**
 SS5_acidhouse_ancient_greek_Ancient Mead.png
 
-**Item Type:**
 
 **Visual Description:** a vintage jug with caveman drawing style graphic; in a very dark green and light lime green.
 
@@ -13096,19 +11863,15 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13119,7 +11882,6 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -13131,7 +11893,6 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 **Ancestor:** greek
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13160,7 +11921,6 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 **Image Files:**
 SS5_chicagodetroit_303 Drum Machine.png
 
-**Item Type:**
 
 **Visual Description:** a 303 drum machine in light grey; a technical device with a bunch of small buttons, switches, and rotators.
 
@@ -13171,19 +11931,15 @@ SS5_chicagodetroit_303 Drum Machine.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13194,7 +11950,6 @@ SS5_chicagodetroit_303 Drum Machine.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -13206,7 +11961,6 @@ SS5_chicagodetroit_303 Drum Machine.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13234,7 +11988,6 @@ SS5_chicagodetroit_303 Drum Machine.png
 **Image Files:**
 SS5_chicagodetroit_Keyboard Guitar.png
 
-**Item Type:**
 
 **Visual Description:** a keyboard guitar, in light grey, held by the top handle.
 
@@ -13245,19 +11998,15 @@ SS5_chicagodetroit_Keyboard Guitar.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13268,7 +12017,6 @@ SS5_chicagodetroit_Keyboard Guitar.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -13280,7 +12028,6 @@ SS5_chicagodetroit_Keyboard Guitar.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13308,7 +12055,6 @@ SS5_chicagodetroit_Keyboard Guitar.png
 **Image Files:**
 SS1_acidhouse_Purple Glowstick.png
 
-**Item Type:**
 
 **Visual Description:** a bright light purple glowstick.
 
@@ -13319,19 +12065,15 @@ SS1_acidhouse_Purple Glowstick.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13342,7 +12084,6 @@ SS1_acidhouse_Purple Glowstick.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -13354,7 +12095,6 @@ SS1_acidhouse_Purple Glowstick.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13382,7 +12122,6 @@ SS1_acidhouse_Purple Glowstick.png
 **Image Files:**
 SS5_freetekno_Pepperoni Pizza.png
 
-**Item Type:**
 
 **Visual Description:** a slice of pizza with dripping melty cheese and pepperoni toppings.
 
@@ -13393,19 +12132,15 @@ SS5_freetekno_Pepperoni Pizza.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13416,7 +12151,6 @@ SS5_freetekno_Pepperoni Pizza.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -13428,7 +12162,6 @@ SS5_freetekno_Pepperoni Pizza.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13456,7 +12189,6 @@ SS5_freetekno_Pepperoni Pizza.png
 **Image Files:**
 SS5_leaf erickson.PNG
 
-**Item Type:**
 
 **Visual Description:** a small white pot of plant; the plant has long curved leaves that go down.
 
@@ -13467,19 +12199,15 @@ SS5_leaf erickson.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13490,7 +12218,6 @@ SS5_leaf erickson.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -13502,7 +12229,6 @@ SS5_leaf erickson.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13530,7 +12256,6 @@ SS5_leaf erickson.PNG
 **Image Files:**
 SS1_milady_Lawsuit.png
 
-**Item Type:**
 
 **Visual Description:** a paperwork
 
@@ -13541,19 +12266,15 @@ SS1_milady_Lawsuit.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13564,7 +12285,6 @@ SS1_milady_Lawsuit.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -13576,7 +12296,6 @@ SS1_milady_Lawsuit.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13604,7 +12323,6 @@ SS1_milady_Lawsuit.png
 **Image Files:**
 SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 
-**Item Type:**
 
 **Visual Description:** a glowing ball in shades of yellow, radiating an aura of heat or some sort.
 
@@ -13615,19 +12333,15 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13638,7 +12352,6 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -13650,7 +12363,6 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 **Ancestor:** mongolian
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13678,7 +12390,6 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 **Image Files:**
 SS3_milady_banana.PNG
 
-**Item Type:**
 
 **Visual Description:** a Cavendish banana
 
@@ -13689,19 +12400,15 @@ SS3_milady_banana.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13712,7 +12419,6 @@ SS3_milady_banana.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -13724,7 +12430,6 @@ SS3_milady_banana.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13752,7 +12457,6 @@ SS3_milady_banana.PNG
 **Image Files:**
 SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 
-**Item Type:**
 
 **Visual Description:** a stem of leaves and tiny circular buds.
 
@@ -13763,19 +12467,15 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13786,7 +12486,6 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -13798,7 +12497,6 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 **Ancestor:** native american / mayan
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13826,7 +12524,6 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 **Image Files:**
 SS1_acidhouse_Bear Alchemist Tool.png
 
-**Item Type:**
 
 **Visual Description:** a glass lab flask, medium to big in size with what looks like rust in red copper color.
 
@@ -13837,19 +12534,15 @@ SS1_acidhouse_Bear Alchemist Tool.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13860,7 +12553,6 @@ SS1_acidhouse_Bear Alchemist Tool.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -13872,7 +12564,6 @@ SS1_acidhouse_Bear Alchemist Tool.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13900,7 +12591,6 @@ SS1_acidhouse_Bear Alchemist Tool.png
 **Image Files:**
 SS1_freetekno_Phone.png
 
-**Item Type:**
 
 **Visual Description:** an old-school thick phone in black, green LED screen with black text that says “mibera” on it, and light grey buttons.
 
@@ -13911,19 +12601,15 @@ SS1_freetekno_Phone.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -13934,7 +12620,6 @@ SS1_freetekno_Phone.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -13946,7 +12631,6 @@ SS1_freetekno_Phone.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -13974,7 +12658,6 @@ SS1_freetekno_Phone.png
 **Image Files:**
 SS1_freetekno_Pitchfork.png
 
-**Item Type:**
 
 **Visual Description:** a pitchfork with brown handle.
 
@@ -13985,19 +12668,15 @@ SS1_freetekno_Pitchfork.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14008,7 +12687,6 @@ SS1_freetekno_Pitchfork.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -14020,7 +12698,6 @@ SS1_freetekno_Pitchfork.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14048,7 +12725,6 @@ SS1_freetekno_Pitchfork.png
 **Image Files:**
 SS1_chicagodetroit_joint.png
 
-**Item Type:**
 
 **Visual Description:** a smoking white joint.
 
@@ -14059,19 +12735,15 @@ SS1_chicagodetroit_joint.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14082,7 +12754,6 @@ SS1_chicagodetroit_joint.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -14094,7 +12765,6 @@ SS1_chicagodetroit_joint.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14122,7 +12792,6 @@ SS1_chicagodetroit_joint.png
 **Image Files:**
 SS5_Cody Wilson AR-15.png
 
-**Item Type:**
 
 **Visual Description:** a black ar-15 rifle with white accent near the handle.
 
@@ -14133,19 +12802,15 @@ SS5_Cody Wilson AR-15.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14156,7 +12821,6 @@ SS5_Cody Wilson AR-15.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -14168,7 +12832,6 @@ SS5_Cody Wilson AR-15.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14196,7 +12859,6 @@ SS5_Cody Wilson AR-15.png
 **Image Files:**
 SS1_chicagodetroit_Crack Pipe.png
 
-**Item Type:**
 
 **Visual Description:** a white glass pipe.
 
@@ -14207,19 +12869,15 @@ SS1_chicagodetroit_Crack Pipe.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14230,7 +12888,6 @@ SS1_chicagodetroit_Crack Pipe.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -14242,7 +12899,6 @@ SS1_chicagodetroit_Crack Pipe.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14270,7 +12926,6 @@ SS1_chicagodetroit_Crack Pipe.png
 **Image Files:**
 SS5_The Liberator.png
 
-**Item Type:**
 
 **Visual Description:** a small white and black gun, simple and rectangular design.
 
@@ -14281,19 +12936,15 @@ SS5_The Liberator.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14304,7 +12955,6 @@ SS5_The Liberator.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -14316,7 +12966,6 @@ SS5_The Liberator.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14344,7 +12993,6 @@ SS5_The Liberator.png
 **Image Files:**
 SS5_Henlo Cash.PNG
 
-**Item Type:**
 
 **Visual Description:** a stack of cash in green with yellow and white binding.
 
@@ -14355,19 +13003,15 @@ SS5_Henlo Cash.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14378,7 +13022,6 @@ SS5_Henlo Cash.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -14390,7 +13033,6 @@ SS5_Henlo Cash.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14418,7 +13060,6 @@ SS5_Henlo Cash.PNG
 **Image Files:**
 SS5_milady_Diamond Paws.png
 
-**Item Type:**
 
 **Visual Description:** a shiny rose-gold / light gold paw adorned with blue crystals.
 
@@ -14429,19 +13070,15 @@ SS5_milady_Diamond Paws.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14452,7 +13089,6 @@ SS5_milady_Diamond Paws.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -14464,7 +13100,6 @@ SS5_milady_Diamond Paws.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14492,7 +13127,6 @@ SS5_milady_Diamond Paws.png
 **Image Files:**
 SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 
-**Item Type:**
 
 **Visual Description:** a short chunk of bark in pale terracotta.
 
@@ -14503,19 +13137,15 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14526,7 +13156,6 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -14538,7 +13167,6 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 **Ancestor:** mayan
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14566,7 +13194,6 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 **Image Files:**
 SS1_milady_Honey Jar.png
 
-**Item Type:**
 
 **Visual Description:** a jar of honey / yellow liquid; closed with brown paper tied with white string to secure it.
 
@@ -14577,19 +13204,15 @@ SS1_milady_Honey Jar.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14600,7 +13223,6 @@ SS1_milady_Honey Jar.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -14612,7 +13234,6 @@ SS1_milady_Honey Jar.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14640,7 +13261,6 @@ SS1_milady_Honey Jar.png
 **Image Files:**
 SS3_Honey Baddie.PNG
 
-**Item Type:**
 
 **Visual Description:** Baddie’s mask in honey color; a female bear face with feminine eyes, red lips, heart nose, and a ribbon on one ear.
 
@@ -14651,19 +13271,15 @@ SS3_Honey Baddie.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14674,7 +13290,6 @@ SS3_Honey Baddie.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -14686,7 +13301,6 @@ SS3_Honey Baddie.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14714,7 +13328,6 @@ SS3_Honey Baddie.PNG
 **Image Files:**
 SS3_Babybera Recorder.PNG
 
-**Item Type:**
 
 **Visual Description:** a tape recorder in bone-white, dark grey, and buttons in black except for one being in baby pink.
 
@@ -14725,19 +13338,15 @@ SS3_Babybera Recorder.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14748,7 +13357,6 @@ SS3_Babybera Recorder.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -14760,7 +13368,6 @@ SS3_Babybera Recorder.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14788,7 +13395,6 @@ SS3_Babybera Recorder.PNG
 **Image Files:**
 SS3_sprodcast.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of a blue creature with a funny face; sleepy eyes and a tongue out, wearing yellow long sleeves with comically long curvy fingers.
 
@@ -14799,19 +13405,15 @@ SS3_sprodcast.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14822,7 +13424,6 @@ SS3_sprodcast.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -14834,7 +13435,6 @@ SS3_sprodcast.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14862,7 +13462,6 @@ SS3_sprodcast.PNG
 **Image Files:**
 SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 
-**Item Type:**
 
 **Visual Description:** a handful of brittly sprig / plant
 
@@ -14873,19 +13472,15 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14896,7 +13491,6 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -14908,7 +13502,6 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 **Ancestor:** native american
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -14936,7 +13529,6 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 **Image Files:**
 SS3_Babybera Yeet Pipe.PNG
 
-**Item Type:**
 
 **Visual Description:** a white glass pipe with a thin body with accents of blue and red on the body and a ball-shaped end.
 
@@ -14947,19 +13539,15 @@ SS3_Babybera Yeet Pipe.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -14970,7 +13558,6 @@ SS3_Babybera Yeet Pipe.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -14982,7 +13569,6 @@ SS3_Babybera Yeet Pipe.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15010,7 +13596,6 @@ SS3_Babybera Yeet Pipe.PNG
 **Image Files:**
 
 
-**Item Type:**
 
 **Visual Description:** a vortex / spiral of forces that seems to be sucking you in leading to a deep black hole, in blue and white.
 
@@ -15021,19 +13606,15 @@ SS3_Babybera Yeet Pipe.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15044,7 +13625,6 @@ SS3_Babybera Yeet Pipe.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -15056,7 +13636,6 @@ SS3_Babybera Yeet Pipe.PNG
 **Ancestor:** orthodox jews, aboriginial, haitians
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15084,7 +13663,6 @@ SS3_Babybera Yeet Pipe.PNG
 **Image Files:**
 SS2_milady_Sudoswap Owen Plushie.png
 
-**Item Type:**
 
 **Visual Description:** Green plushie of a sewn green octopus with a smiley face and a few white lines on the head and body.
 
@@ -15095,19 +13673,15 @@ SS2_milady_Sudoswap Owen Plushie.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15118,7 +13692,6 @@ SS2_milady_Sudoswap Owen Plushie.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -15130,7 +13703,6 @@ SS2_milady_Sudoswap Owen Plushie.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15158,7 +13730,6 @@ SS2_milady_Sudoswap Owen Plushie.png
 **Image Files:**
 SS3_freetekno_Shin Ramyun.png
 
-**Item Type:**
 
 **Visual Description:** a red pack of instant ramen / noodle.
 
@@ -15169,19 +13740,15 @@ SS3_freetekno_Shin Ramyun.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15192,7 +13759,6 @@ SS3_freetekno_Shin Ramyun.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -15204,7 +13770,6 @@ SS3_freetekno_Shin Ramyun.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15232,7 +13797,6 @@ SS3_freetekno_Shin Ramyun.png
 **Image Files:**
 
 
-**Item Type:**
 
 **Visual Description:** a ‘Kodiak’ disposable camera in red and yellow with black base.
 
@@ -15243,19 +13807,15 @@ SS3_freetekno_Shin Ramyun.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15266,7 +13826,6 @@ SS3_freetekno_Shin Ramyun.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** ---
 
@@ -15278,7 +13837,6 @@ SS3_freetekno_Shin Ramyun.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15306,7 +13864,6 @@ SS3_freetekno_Shin Ramyun.png
 **Image Files:**
 SS1_chicagodetroit_Cigar.png
 
-**Item Type:**
 
 **Visual Description:** a brown lighted-up cigar.
 
@@ -15317,19 +13874,15 @@ SS1_chicagodetroit_Cigar.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15340,7 +13893,6 @@ SS1_chicagodetroit_Cigar.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -15352,7 +13904,6 @@ SS1_chicagodetroit_Cigar.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15381,7 +13932,6 @@ SS1_chicagodetroit_Cigar.png
 **Image Files:**
 SS2_Beramarket Big Brain.PNG
 
-**Item Type:**
 
 **Visual Description:** a grey bear with cheeky expression and extremely large brain that can be seen stretching beyond its skull, wearing purple long-sleeves with white graphic.
 
@@ -15392,19 +13942,15 @@ SS2_Beramarket Big Brain.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15415,7 +13961,6 @@ SS2_Beramarket Big Brain.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -15427,7 +13972,6 @@ SS2_Beramarket Big Brain.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15455,7 +13999,6 @@ SS2_Beramarket Big Brain.PNG
 **Image Files:**
 SS4_milady_THC iPod.png
 
-**Item Type:**
 
 **Visual Description:** a white ipod; a device with a round area for buttons and a screen that shows “The Honey Cast” playing.
 
@@ -15466,19 +14009,15 @@ SS4_milady_THC iPod.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15489,7 +14028,6 @@ SS4_milady_THC iPod.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -15501,7 +14039,6 @@ SS4_milady_THC iPod.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15529,7 +14066,6 @@ SS4_milady_THC iPod.png
 **Image Files:**
 SS3_milady_The Pencil.PNG
 
-**Item Type:**
 
 **Visual Description:** a black mechanical pencil.
 
@@ -15540,19 +14076,15 @@ SS3_milady_The Pencil.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15563,7 +14095,6 @@ SS3_milady_The Pencil.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -15575,7 +14106,6 @@ SS3_milady_The Pencil.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15603,7 +14133,6 @@ SS3_milady_The Pencil.PNG
 **Image Files:**
 SS3_Puffpaw Smokey.PNG
 
-**Item Type:**
 
 **Visual Description:** a dark navy blue vaping device that’s branded “PUFFPAW” with a sticker of a man with a bear head on it.
 
@@ -15614,19 +14143,15 @@ SS3_Puffpaw Smokey.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15637,7 +14162,6 @@ SS3_Puffpaw Smokey.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -15649,7 +14173,6 @@ SS3_Puffpaw Smokey.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15677,7 +14200,6 @@ SS3_Puffpaw Smokey.PNG
 **Image Files:**
 SS3_Berapunk.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of a brown bear wearing big spectacles and a short orange beanie.
 
@@ -15688,19 +14210,15 @@ SS3_Berapunk.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15711,7 +14229,6 @@ SS3_Berapunk.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -15723,7 +14240,6 @@ SS3_Berapunk.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15751,7 +14267,6 @@ SS3_Berapunk.PNG
 **Image Files:**
 SS4_milady_Beradoge.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a shiba inu’s head with its mouth open aggressively but with a bear body.
 
@@ -15762,19 +14277,15 @@ SS4_milady_Beradoge.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15785,7 +14296,6 @@ SS4_milady_Beradoge.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -15797,7 +14307,6 @@ SS4_milady_Beradoge.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15825,7 +14334,6 @@ SS4_milady_Beradoge.png
 **Image Files:**
 SS4_freetekno_ancient_greek_st. john's wort.PNG
 
-**Item Type:**
 
 **Visual Description:** a handful of plant with thin stems and small yellow flowers
 
@@ -15836,19 +14344,15 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15859,7 +14363,6 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -15871,7 +14374,6 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 **Ancestor:** greek
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15899,7 +14401,6 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 **Image Files:**
 SS3_Yuzu.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of a rectangular-shaped red fox with black ears and legs, white tummy and end of tail, sitting on a cloud.
 
@@ -15910,19 +14411,15 @@ SS3_Yuzu.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -15933,7 +14430,6 @@ SS3_Yuzu.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -15945,7 +14441,6 @@ SS3_Yuzu.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -15973,7 +14468,6 @@ SS3_Yuzu.PNG
 **Image Files:**
 SS4_milady_THC Mic.png
 
-**Item Type:**
 
 **Visual Description:** a “podcast microphone” in black, with small stickers on the bottom part of a bear and a mic.
 
@@ -15984,19 +14478,15 @@ SS4_milady_THC Mic.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16007,7 +14497,6 @@ SS4_milady_THC Mic.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -16019,7 +14508,6 @@ SS4_milady_THC Mic.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16047,7 +14535,6 @@ SS4_milady_THC Mic.png
 **Image Files:**
 SS3_Smilee.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of manic looking bear / animal, in different shades of pink, wearing a strap on and rainbow-coloured dildo as its ears.
 
@@ -16058,19 +14545,15 @@ SS3_Smilee.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16081,7 +14564,6 @@ SS3_Smilee.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16093,7 +14575,6 @@ SS3_Smilee.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16121,7 +14602,6 @@ SS3_Smilee.PNG
 **Image Files:**
 SS3_Puffpaw THJ.PNG
 
-**Item Type:**
 
 **Visual Description:** a yellow vaping device that’s branded “PUFFPAW” with a sticker of a black globe with text “The Honey Jar” on it.
 
@@ -16132,19 +14612,15 @@ SS3_Puffpaw THJ.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16155,7 +14631,6 @@ SS3_Puffpaw THJ.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16167,7 +14642,6 @@ SS3_Puffpaw THJ.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16195,7 +14669,6 @@ SS3_Puffpaw THJ.PNG
 **Image Files:**
 SS5_chicagodetroit_cocaine baggie.png
 
-**Item Type:**
 
 **Visual Description:** a bag of white powder, the bag has a big yellow smiley face with bear ears on it.
 
@@ -16206,19 +14679,15 @@ SS5_chicagodetroit_cocaine baggie.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16229,7 +14698,6 @@ SS5_chicagodetroit_cocaine baggie.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -16241,7 +14709,6 @@ SS5_chicagodetroit_cocaine baggie.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16269,7 +14736,6 @@ SS5_chicagodetroit_cocaine baggie.png
 **Image Files:**
 SS3_Beratone Bera.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of a standing bear character.
 
@@ -16280,19 +14746,15 @@ SS3_Beratone Bera.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16303,7 +14765,6 @@ SS3_Beratone Bera.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16315,7 +14776,6 @@ SS3_Beratone Bera.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16343,7 +14803,6 @@ SS3_Beratone Bera.PNG
 **Image Files:**
 SS3_Yeeted.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a patched up yellow bear wearing a red cropped top with a drooly mouth, and crossed eyes.
 
@@ -16354,19 +14813,15 @@ SS3_Yeeted.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16377,7 +14832,6 @@ SS3_Yeeted.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16389,7 +14843,6 @@ SS3_Yeeted.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16417,7 +14870,6 @@ SS3_Yeeted.png
 **Image Files:**
 SS3_milady_Scatter Cat.PNG
 
-**Item Type:**
 
 **Visual Description:** a box with cartoonish looking black cat in it with light yellow eyes.
 
@@ -16428,19 +14880,15 @@ SS3_milady_Scatter Cat.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16451,7 +14899,6 @@ SS3_milady_Scatter Cat.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16463,7 +14910,6 @@ SS3_milady_Scatter Cat.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16491,7 +14937,6 @@ SS3_milady_Scatter Cat.PNG
 **Image Files:**
 SS3_Pink Baddie.PNG
 
-**Item Type:**
 
 **Visual Description:** a baddie’s head plushie in warm pink color; a female bear face with feminine eyes, red lips, heart nose, and a ribbon on one ear.
 
@@ -16502,19 +14947,15 @@ SS3_Pink Baddie.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16525,7 +14966,6 @@ SS3_Pink Baddie.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16537,7 +14977,6 @@ SS3_Pink Baddie.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16565,7 +15004,6 @@ SS3_Pink Baddie.PNG
 **Image Files:**
 SS3_Bullas Plush.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of a smiling bull with a big head in light brown, wearing a muted teal tee and blue jeans / pants.
 
@@ -16576,19 +15014,15 @@ SS3_Bullas Plush.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16599,7 +15033,6 @@ SS3_Bullas Plush.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16611,7 +15044,6 @@ SS3_Bullas Plush.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16639,7 +15071,6 @@ SS3_Bullas Plush.PNG
 **Image Files:**
 SS3_chicagodetroit_Swisher Sweets.PNG
 
-**Item Type:**
 
 **Visual Description:** a red pack of cigars that’s branded “SWISHER SWEETS”, with a visible promotional tag in yellow of 99 cents for 2 cigars.
 
@@ -16650,19 +15081,15 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16673,7 +15100,6 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16685,7 +15111,6 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16713,7 +15138,6 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 **Image Files:**
 SS3_Steady.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of a bear character wearing a red balaclava with small devil horns, white long sleeves with green text that says “OOGA”, blue trousers, and red sneakers.
 
@@ -16724,19 +15148,15 @@ SS3_Steady.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16747,7 +15167,6 @@ SS3_Steady.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16759,7 +15178,6 @@ SS3_Steady.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16787,7 +15205,6 @@ SS3_Steady.PNG
 **Image Files:**
 SS3_Berakin.PNG
 
-**Item Type:**
 
 **Visual Description:** a hot pink hand-bag with 2 bear-ear shapes on each corner and a hole in the middle.
 
@@ -16798,19 +15215,15 @@ SS3_Berakin.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16821,7 +15234,6 @@ SS3_Berakin.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16833,7 +15245,6 @@ SS3_Berakin.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16861,7 +15272,6 @@ SS3_Berakin.PNG
 **Image Files:**
 SS3_babybera plush.PNG
 
-**Item Type:**
 
 **Visual Description:** a plushie of a grey bear with content expression, small pink round blushes, with no clothes.
 
@@ -16872,19 +15282,15 @@ SS3_babybera plush.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16895,7 +15301,6 @@ SS3_babybera plush.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16907,7 +15312,6 @@ SS3_babybera plush.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -16935,7 +15339,6 @@ SS3_babybera plush.PNG
 **Image Files:**
 SS3_freetekno_Babybera Janny Pack.PNG
 
-**Item Type:**
 
 **Visual Description:** a light grey fanny pack, with some graphics in a white rectangular shape on it and a black sling.
 
@@ -16946,19 +15349,15 @@ SS3_freetekno_Babybera Janny Pack.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -16969,7 +15368,6 @@ SS3_freetekno_Babybera Janny Pack.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -16981,7 +15379,6 @@ SS3_freetekno_Babybera Janny Pack.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17009,7 +15406,6 @@ SS3_freetekno_Babybera Janny Pack.PNG
 **Image Files:**
 SS2_milady_Ursadom Plush.png
 
-**Item Type:**
 
 **Visual Description:** a plain white plushie in the shape of a bear sitting down, with ‘O’ as one eye and ‘X’ as another.
 
@@ -17020,19 +15416,15 @@ SS2_milady_Ursadom Plush.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17043,7 +15435,6 @@ SS2_milady_Ursadom Plush.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -17055,7 +15446,6 @@ SS2_milady_Ursadom Plush.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17083,7 +15473,6 @@ SS2_milady_Ursadom Plush.png
 **Image Files:**
 SS4_Ooga Booga Credit.png
 
-**Item Type:**
 
 **Visual Description:** a silver metallic credit card with black text “OOGA BOOGA EXPRESS”.
 
@@ -17094,19 +15483,15 @@ SS4_Ooga Booga Credit.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17117,7 +15502,6 @@ SS4_Ooga Booga Credit.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -17129,7 +15513,6 @@ SS4_Ooga Booga Credit.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17157,7 +15540,6 @@ SS4_Ooga Booga Credit.png
 **Image Files:**
 SS3_milady_Beratone Plushie.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a bear with mustache, dark brown long hair, small spectacles, wearing a yellow tee, stripy blue pants, and a headband in green, yellow, red.
 
@@ -17168,19 +15550,15 @@ SS3_milady_Beratone Plushie.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17191,7 +15569,6 @@ SS3_milady_Beratone Plushie.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -17203,7 +15580,6 @@ SS3_milady_Beratone Plushie.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17231,7 +15607,6 @@ SS3_milady_Beratone Plushie.png
 **Image Files:**
 SS3_Beramonium.PNG
 
-**Item Type:**
 
 **Visual Description:** a figurine of a big buff bear in light brown orangish colour, wearing wooden armour and wielding a wooden shield.
 
@@ -17242,19 +15617,15 @@ SS3_Beramonium.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17265,7 +15636,6 @@ SS3_Beramonium.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -17277,7 +15647,6 @@ SS3_Beramonium.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17305,7 +15674,6 @@ SS3_Beramonium.PNG
 **Image Files:**
 SS3_Beraborrow.PNG
 
-**Item Type:**
 
 **Visual Description:** a figurine / plushie of of a big fat bear sitting down with closed eyes and content expression
 
@@ -17316,19 +15684,15 @@ SS3_Beraborrow.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17339,7 +15703,6 @@ SS3_Beraborrow.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -17351,7 +15714,6 @@ SS3_Beraborrow.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17379,7 +15741,6 @@ SS3_Beraborrow.PNG
 **Image Files:**
 SS3_Vase.PNG
 
-**Item Type:**
 
 **Visual Description:** an asymmetrical plain vase in the gradient of navy blue and black
 
@@ -17390,19 +15751,15 @@ SS3_Vase.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17413,7 +15770,6 @@ SS3_Vase.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -17425,7 +15781,6 @@ SS3_Vase.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17453,7 +15808,6 @@ SS3_Vase.PNG
 **Image Files:**
 SS3_Puffpaw Mibera.PNG
 
-**Item Type:**
 
 **Visual Description:** a vaping device in gradient of black, blue, and dusky pink that’s branded “PUFFPAW” with images of 3 female characters on it.
 
@@ -17464,19 +15818,15 @@ SS3_Puffpaw Mibera.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17487,7 +15837,6 @@ SS3_Puffpaw Mibera.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -17499,7 +15848,6 @@ SS3_Puffpaw Mibera.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17527,7 +15875,6 @@ SS3_Puffpaw Mibera.PNG
 **Image Files:**
 SS3_chicagodetroit_babybera cloud99 tape.PNG
 
-**Item Type:**
 
 **Visual Description:** a cassette tape in baby pink with white text that reads “BABYBERA” on it.
 
@@ -17538,19 +15885,15 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17561,7 +15904,6 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -17573,7 +15915,6 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17601,7 +15942,6 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 **Image Files:**
 SS4_milady_Kittykaki Plushie.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a pale female character with big blue eyes, cat-like mouth, short blue hair with bangs and cat-like ears; wearing black / very dark green clothing with white fur / accent.
 
@@ -17612,19 +15952,15 @@ SS4_milady_Kittykaki Plushie.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17635,7 +15971,6 @@ SS4_milady_Kittykaki Plushie.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -17647,7 +15982,6 @@ SS4_milady_Kittykaki Plushie.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17675,7 +16009,6 @@ SS4_milady_Kittykaki Plushie.png
 **Image Files:**
 SS3_Bullas Whip.PNG
 
-**Item Type:**
 
 **Visual Description:** a plain black long folded whip
 
@@ -17686,19 +16019,15 @@ SS3_Bullas Whip.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17709,7 +16038,6 @@ SS3_Bullas Whip.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -17721,7 +16049,6 @@ SS3_Bullas Whip.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17749,7 +16076,6 @@ SS3_Bullas Whip.PNG
 **Image Files:**
 SS1_milady_Sudo Chan.png
 
-**Item Type:**
 
 **Visual Description:** a plushie of a fair-skinned female face, smiling with eyes closed, soft purple hair with a small space bun, yellow stars and white balls on the hair as decoration.
 
@@ -17760,19 +16086,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17783,7 +16105,6 @@ SS1_milady_Sudo Chan.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -17795,7 +16116,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -17822,7 +16142,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -17832,19 +16151,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17864,7 +16179,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -17890,7 +16204,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -17900,19 +16213,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -17932,7 +16241,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -17958,7 +16266,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -17968,19 +16275,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18000,7 +16303,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18026,7 +16328,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18036,19 +16337,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18068,7 +16365,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18094,7 +16390,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18104,19 +16399,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18136,7 +16427,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18162,7 +16452,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18172,19 +16461,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18204,7 +16489,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18230,7 +16514,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18240,19 +16523,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18272,7 +16551,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18298,7 +16576,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18308,19 +16585,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18340,7 +16613,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18366,7 +16638,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18376,19 +16647,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18408,7 +16675,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18434,7 +16700,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18444,19 +16709,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18476,7 +16737,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18502,7 +16762,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18512,19 +16771,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18544,7 +16799,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18570,7 +16824,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18580,19 +16833,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18612,7 +16861,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18638,7 +16886,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18648,19 +16895,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18680,7 +16923,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18706,7 +16948,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18716,19 +16957,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18748,7 +16985,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18774,7 +17010,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18784,19 +17019,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18816,7 +17047,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18842,7 +17072,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18852,19 +17081,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18884,7 +17109,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18910,7 +17134,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18920,19 +17143,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -18952,7 +17171,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -18978,7 +17196,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -18988,19 +17205,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -19020,7 +17233,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -19046,7 +17258,6 @@ SS1_milady_Sudo Chan.png
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -19056,19 +17267,15 @@ SS1_milady_Sudo Chan.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -19088,7 +17295,6 @@ SS1_milady_Sudo Chan.png
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 

@@ -43,7 +43,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Concerned Thick](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Concerned%20Thick.webp)
 
-**Trait Category:**
 
 **Visual Description:** thicker pair of tilted eyebrows slightly curved downwards
 
@@ -70,7 +69,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Intense](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Intense.webp)
 
-**Trait Category:**
 
 **Visual Description:** thick pair of eyebrows, almost straight in shape and slightly arched upwards at the outer ends.
 
@@ -97,7 +95,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Anxious Thick](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Anxious%20Thick.webp)
 
-**Trait Category:**
 
 **Visual Description:** thicker pair of eyebrows, arched with a slight upward tilt at the inner ends.
 
@@ -124,7 +121,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Concerned](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Concerned.webp)
 
-**Trait Category:**
 
 **Visual Description:** thinner pair of tilted eyebrows slightly curved downwards
 
@@ -151,7 +147,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Short](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Short.webp)
 
-**Trait Category:**
 
 **Visual Description:** short thick eyebrows that’s thicker at the inner side and grows thinner towards the end. Slightly arched upwards on the outer ends..
 
@@ -178,7 +173,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Normal](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Normal.webp)
 
-**Trait Category:**
 
 **Visual Description:** thin eyebrows, slightly curved with no arch..
 
@@ -205,7 +199,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Normal Thick](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Normal%20Thick.webp)
 
-**Trait Category:**
 
 **Visual Description:** thicker eyebrows, slightly curved with no arch..
 
@@ -232,7 +225,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Anxious](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Anxious.webp)
 
-**Trait Category:**
 
 **Visual Description:** Thin pair of eyebrows, arched with a slight upward tilt at the inner ends.
 
@@ -259,7 +251,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 ![Stern](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Stern.webp)
 
-**Trait Category:**
 
 **Visual Description:** a pair of straight, slightly angled downward eyebrows. Shape is flat and rigid.
 
@@ -285,7 +276,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -295,19 +285,15 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 

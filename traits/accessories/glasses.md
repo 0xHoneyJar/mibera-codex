@@ -33,7 +33,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Omega](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Omega.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glasses with a hint of dark teal with Omega logos on them; a horseshoe shape or an upside down ‘U’ with a flat top and two vertical legs going outwards at the bottom.
 
@@ -44,19 +43,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -67,7 +62,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** OlympusDAO in Berachain history. One of Bong Bear’s traits.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -79,7 +73,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -107,7 +100,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Tekno 2](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Tekno 2.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black retro round glasses, with pure black shades and rusty looking frames in a very dark brown, framing half top part of the glasses..
 
@@ -118,19 +110,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -141,7 +129,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -153,7 +140,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -181,7 +167,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Cyber Punk 1](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Cyber Punk 1.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Round glasses with a unique framing of a straight line only at the top part acting as the bridge, and its temples. Both the framing and the shades are in similar shade of dark grey.
 
@@ -192,19 +177,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -215,7 +196,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -227,7 +207,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -255,7 +234,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Rayban](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Rayban.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Rectangular-shaped glasses with clear lenses and thick black frames.
 
@@ -266,19 +244,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Ron Hardy
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -289,7 +263,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -301,7 +274,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -331,7 +303,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Magenta Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Magenta Glow.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glow glasses mainly in magenta, with yellow parts on its bridge and temples.
 
@@ -342,19 +313,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -365,7 +332,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** Glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -377,7 +343,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -405,7 +370,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Mottega Blue](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Mottega Blue.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glasses with light blue lenses and thick blue frames.
 
@@ -416,19 +380,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -439,7 +399,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** This is an existing trait within Milady Maker.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -451,7 +410,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -479,7 +437,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Harajuku](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Harajuku.webp)
 
-**Accessory Type:**
 
 **Visual Description:** red frames with orange lenses.
 
@@ -490,19 +447,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -513,7 +466,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** This is an existing Milady Maker trait.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -525,7 +477,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -553,7 +504,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Red Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Red Glow.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glow glasses mainly in red, with yellow on the center and sides.
 
@@ -564,19 +514,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -587,7 +533,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** Glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -599,7 +544,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -627,7 +571,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Black Scifi](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Black Scifi.webp)
 
-**Accessory Type:**
 
 **Visual Description:** all-black glasses with slightly curved top-framing and triangular cut at the middle bottom part.
 
@@ -638,19 +581,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Chosen Few DJs, Lori Branch.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -661,7 +600,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** Its relation to the house music history in Chicago, highlighting the birth of the first female DJ in Chicago’s house scene.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -673,7 +611,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049 85178 - https://www.312soul.com/1984-1990
 
 ---
 
@@ -701,7 +638,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Red Sunglasses](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Red Sunglasses.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Round transparent sunglasses with a thin red framing.
 
@@ -712,19 +648,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -735,7 +667,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -747,7 +678,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608841784270 56219 - https://ra.co/features/1597
 
 ---
 
@@ -775,7 +705,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Sunnies](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Sunnies.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Triangle-shaped glasses with grey lenses and grey frames
 
@@ -786,19 +715,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -809,7 +734,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -821,7 +745,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1139903294219759730/11404782576245 26909 (not sure if it’s the same sunnies, but i’m assuming it is for now) ---
 
 ---
 
@@ -849,7 +772,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Cyber Punk 2](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Cyber Punk 2.webp)
 
-**Accessory Type:**
 
 **Visual Description:** All-black cyberpunk style glasses
 
@@ -860,19 +782,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -883,7 +801,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -895,7 +812,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -923,7 +839,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Round](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Round.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Silver, circular framed glasses with clear lenses.
 
@@ -934,19 +849,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -957,7 +868,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -969,7 +879,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -997,7 +906,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Purple Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Purple Glow.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glow glasses mainly in purple, with yellow on the center and sides.
 
@@ -1008,19 +916,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1031,7 +935,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1043,7 +946,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1071,7 +973,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![YY](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_YY.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Dark shades of purple glasses with dark grey framing.
 
@@ -1082,19 +983,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1105,7 +1002,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1117,7 +1013,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -1145,7 +1040,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Reflections](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Reflections.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Classic aviator with black and white reflections on its lenses and thin black frames.
 
@@ -1156,19 +1050,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1179,7 +1069,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1191,7 +1080,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -1219,7 +1107,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Star Goggles](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Star Goggles.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black goggles with a white star on one side.
 
@@ -1230,19 +1117,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1253,7 +1136,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1265,7 +1147,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1293,7 +1174,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Black White Sunglasses](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Black White Sunglasses.webp)
 
-**Accessory Type:**
 
 **Visual Description:** a pair of sleek black sunglasses with a hint of white on the top frame.
 
@@ -1304,19 +1184,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1327,7 +1203,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1339,7 +1214,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -1367,7 +1241,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Tactical](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Tactical.webp)
 
-**Accessory Type:**
 
 **Visual Description:** big turquoise visor with stats / readings on it, in black framing.
 
@@ -1378,19 +1251,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1401,7 +1270,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** Based on a Bong Bear’s trait / art tactical glasses.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1413,7 +1281,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1441,7 +1308,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Tekno 1](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Tekno 1.webp)
 
-**Accessory Type:**
 
 **Visual Description:** all-black round glasses.
 
@@ -1452,19 +1318,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1475,7 +1337,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1487,7 +1348,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -1515,7 +1375,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Mottega Yellow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Mottega Yellow.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glasses with dark lenses and thick yellow frames.
 
@@ -1526,19 +1385,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Inspired trait from the Milady Maker NFT collection.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1549,7 +1404,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** This trait is “invisible” in the original Milady collection. https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Glasses%22,%22val
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1561,7 +1415,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1589,7 +1442,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![3D](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicacodetroit_3D.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Flimsy glasses with white frames. Left frame is blue and right frame is red.
 
@@ -1600,19 +1452,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1623,7 +1471,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** One of Bong Bear traits.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1635,7 +1482,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1663,7 +1509,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Squad](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Squad.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Pointed all black sunglasses.
 
@@ -1674,19 +1519,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1697,7 +1538,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** Seen in the OG Bong Bears collection, on Beartull’s 1/1 - which appears to be a Squirtle itself. - https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/66075445 032688988859229341194671037535804503065310441849644897976489592487937
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1709,7 +1549,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** Sources / References - https://discord.com/channels/1133935527855399053/1143683806981800030/11513139372755 72377 ---
 
 ---
 
@@ -1737,7 +1576,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Snow Goggles 2](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/Snow Goggles 2.webp)
 
-**Accessory Type:**
 
 **Visual Description:** white snow-goggles with thin opening in the middle and tribal art.
 
@@ -1748,19 +1586,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1771,7 +1605,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1783,7 +1616,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -1811,7 +1643,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Sick Sunglasses](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Sick Sunglasses.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Rounded glasses with slightly dark glasses and golden framing.
 
@@ -1822,19 +1653,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Yung Singh
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1845,7 +1672,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** music culture, and its association with Yung Singh who was known for his underground performance with his Punjabi Garage mix as his main niche.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1857,7 +1683,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** - https://earthackney.co.uk/performers/yung-singh/ ---
 
 ---
 
@@ -1885,7 +1710,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Colorful](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Colorful.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Retro-style visor sunglasses in orange and yellow.
 
@@ -1896,19 +1720,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1919,7 +1739,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -1931,7 +1750,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1959,7 +1777,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Swimming Goggles](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Swimming Goggles.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Blue circular swimming goggles
 
@@ -1970,19 +1787,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 90s rave culture
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1993,7 +1806,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2005,7 +1817,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143685538075902095/11624257274555 96646 ---
 
 ---
 
@@ -2033,7 +1844,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Prescription](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Prescription.webp)
 
-**Accessory Type:**
 
 **Visual Description:** oval-shaped glasses with clear lenses and black frames on the top half.
 
@@ -2044,19 +1854,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2067,7 +1873,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2079,7 +1884,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2107,7 +1911,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Spy](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Spy.webp)
 
-**Accessory Type:**
 
 **Visual Description:** big sunglasses with vibrant green lenses and thick black frames, with a mic attached on one side.
 
@@ -2118,19 +1921,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2141,7 +1940,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2153,7 +1951,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2181,7 +1978,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![96](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_96.webp)
 
-**Accessory Type:**
 
 **Visual Description:** square-shaped glasses with black lenses and golden rim, with a bee-shaped visual in the center.
 
@@ -2192,19 +1988,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Jani’s number / House of 96 of the High Council 任侠団体 of 101 Bears.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2215,7 +2007,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2227,7 +2018,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2255,7 +2045,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Snow Goggles 1](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/Snow Goggles 1.webp)
 
-**Accessory Type:**
 
 **Visual Description:** white snow goggles with drawings that look like a mask / eye holes.
 
@@ -2266,19 +2055,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2289,7 +2074,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2301,7 +2085,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2329,7 +2112,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Scifi](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Scifi.webp)
 
-**Accessory Type:**
 
 **Visual Description:** hot-pink visor with thick white frames. Circles and lines can be seen on the visor.
 
@@ -2340,19 +2122,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2363,7 +2141,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2375,7 +2152,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2403,7 +2179,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Big 80s](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Big 80s.webp)
 
-**Accessory Type:**
 
 **Visual Description:** big rounded 80s style glasses with black frames and dark brownish lenses.
 
@@ -2414,19 +2189,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2437,7 +2208,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2449,7 +2219,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049 85178 - https://www.312soul.com/1984-1990 ---
 
 ---
 
@@ -2477,7 +2246,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Blue Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Blue Glow.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glow glasses mainly in neon blue, with yellow on the center and sides.
 
@@ -2488,19 +2256,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2511,7 +2275,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2523,7 +2286,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2551,7 +2313,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Stars](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Stars.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Star-shaped rimless glasses in deep dark pink.
 
@@ -2562,19 +2323,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2585,7 +2342,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** One of Bong Bear’s traits.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2597,7 +2353,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2625,7 +2380,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![Green Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Green Glow.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glow glasses mainly in neon green, with yellow on the center and sides.
 
@@ -2636,19 +2390,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2659,7 +2409,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2671,7 +2420,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2699,7 +2447,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Image Files:**
 ![D2 Edamame](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/d2 edamame.webp)
 
-**Accessory Type:**
 
 **Visual Description:** aviator style glasses with light green framing and black lenses.
 
@@ -2710,19 +2457,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2733,7 +2476,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -2745,7 +2487,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:** 
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2772,7 +2513,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -2782,19 +2522,15 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2814,7 +2550,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 

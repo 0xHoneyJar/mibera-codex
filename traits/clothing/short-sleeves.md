@@ -48,9 +48,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Dark Side](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_freetekno_Dark%20Side.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** a black t-shirt with white outline of a triangle and a rainbow stroke.
 
@@ -62,19 +60,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -85,7 +79,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** This is also a shirt that is included in the OG Bong Bears collection.
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -97,7 +90,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -125,9 +117,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Grateful Dead 2](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_acidhouse_Grateful%20Dead%202.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Tie-dye t-shirt with graphic of a yellow bear bigger in size in front and a pink bear that appears smaller at the back. Both bears are wearing some sort of electronic device on what looks like the surface of a planet in the color of orange. Around them are red roses with vibrant green stems and leaves. The background is space-like and on top of them, within the frame, are the words “Grateful Dead” in capital and colorful font in yellow, red, and green with white outlines.
 
@@ -139,19 +129,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Grateful Dead, an American Rock Band.
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -162,7 +148,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Alignment with Mibera art and drugs culture (rock music and psychedelic).
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -174,7 +159,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -202,9 +186,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Egg Brain](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Egg%20Brain.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Bone-white t-shirt with a simple illustration of a sunny-side up egg and a writing that says “this is my brain… any questions?”.
 
@@ -216,19 +198,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -239,7 +217,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -251,7 +228,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -279,9 +255,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Have a Nice Jay](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Have%20a%20Nice%20Jay.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Bone-white t-shirt with a simple illustration of a yellow smiley figure with curved ears, smoking a blunt / cigarette with a writing “Have a Nice JAY”, with the ‘JAY’ in capital red.
 
@@ -293,19 +267,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -316,7 +286,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation to drugs, Jay=Joint, Joint=Weed.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -328,7 +297,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -356,9 +324,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Erowid](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Erowid.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with Erowid-themed print on it, in navy blue and orange. On the print is written ‘KNOWLEDGE’ in light orange, and a quote in navy blue that reads ”Know your Body, Know your Mind, Know your Substance, Know your Source”.
 
@@ -370,19 +336,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -393,7 +355,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -405,7 +366,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -433,9 +393,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![HTRK Night Faces](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_HTRK%20Night%20Faces.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Charcoal grey t-shirt with line doodles of faces and a screaming man with his mouth wide open.
 
@@ -447,19 +405,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** HTRK (an Australian rock band)
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -470,7 +424,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -482,7 +435,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -511,9 +463,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Ruggy](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Ruggy.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a print of a cartoon-style bear head in soft orange.
 
@@ -525,19 +475,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -548,7 +494,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -560,7 +505,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -588,9 +532,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Special K](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_acidhouse_Special%20K.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with white text that reads “special K.” with the ‘K’ being a big letter in red and curvy-shaped lettering.
 
@@ -602,19 +544,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -625,7 +563,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -637,7 +574,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -665,9 +601,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![modern_stonewall_Gay Guns Marijuana](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_chicagodetroit_modern_stonewall_Gay%20Guns%20Marijuana.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with graphic in green, showing 2 guys in a circle with 1 holding a gun and another one holding a pot of plant. Outside of the circle is a text saying “- couples to be able to protect their marijuana plants with guns”.
 
@@ -679,19 +613,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -702,7 +632,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** LGBTQ+ and weed culture
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -714,7 +643,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** Stonewall
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -745,9 +673,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Ibiza](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Ibiza.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Creamy white t-shirt with a colourful graphic of a character in the middle and the writing “IBIZA KETAMINE CLUB” in blue and “Relaaax” underneath them in red.
 
@@ -759,19 +685,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -782,7 +704,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Drug and party relevance.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -794,7 +715,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -822,9 +742,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![microdose](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_acidhouse_microdose.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with red graphic of a smiley face with bear ears and text that says “THAT WASN’T A MICRODOSE”.
 
@@ -836,19 +754,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -859,7 +773,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Relation with drugs, but especially psychedelic and especially shrooms.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -871,7 +784,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -901,9 +813,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![RAF](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_freetekno_RAF.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with “RAF” in bold white written in the middle, in front of a graphic of a gun, on top of a bright red star.
 
@@ -915,19 +825,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Red Army Faction / Rote Armee Fraktion
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -938,7 +844,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** RAF’s cultural intersections with techno music, a genre born in 1980s Detroit but exploding in Berlin post-1989 amid the city’s reunification and underground scene.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -950,7 +855,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -980,9 +884,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Owsley Stanley Foundation](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Owsley%20Stanley%20Foundation.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with a red-and-blue graphic with white outlines in the middle, of what looks like the combination of cassette rolls and a yin yang symbol.
 
@@ -994,19 +896,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1017,7 +915,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1029,7 +926,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1058,9 +954,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Eth Waterloo](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Eth%20Waterloo.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with graphics of 2 bears and a bull, along with text that reads “ETH WATERLOO” at the top, and “WE’RE SO FKN BACK” at the bottom.
 
@@ -1072,19 +966,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1095,7 +985,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1107,7 +996,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1135,9 +1023,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Shameless Misandrist](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_freetekno_Shameless%20Misandrist.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Pink t-shirt with blood-red writing that reads “SHAMELESS MISANDRIST” inside of a heart outline with a cross on top.
 
@@ -1149,19 +1035,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1172,7 +1054,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Power dynamic, LGBTQ+ community, female vs. male / yin vs. yang.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1184,7 +1065,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1212,9 +1092,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Spiral Tee](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_acidhouse_Spiral%20Tee.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white spiral leading to Mibera logo in the center.
 
@@ -1226,19 +1104,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1249,7 +1123,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Spiral takes a big role in Mibera’s symbolism in general.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1261,7 +1134,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1289,9 +1161,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Acid Mibera](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_acidhouse_Acid%20Mibera.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with black text that reads ‘ACID’ and a big yellow smiley with bear ears (mibera).
 
@@ -1303,19 +1173,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1326,7 +1192,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Relation to rave culture and drugs.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1338,7 +1203,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1366,9 +1230,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Differently](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Differently.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black tee with rainbow-colored mushroom that’s bitten on one side and the text “Think Differently” under it.
 
@@ -1380,19 +1242,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1403,7 +1261,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1415,7 +1272,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1443,9 +1299,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![modern_nativeAmerican_Landback](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_freetekno_modern_nativeAmerican_Landback.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Bright orange t-shirt with graphic of the word “landback” lined up vertically.
 
@@ -1457,19 +1311,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Original Landlords
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1480,7 +1330,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** It’s an Indigenous / Native American based brand.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1492,7 +1341,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** Native American
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1520,9 +1368,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Bear Down Bears](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_chicagodetroit_Bear%20Down%20Bears.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Dark navy t-shirt with old-school graphic text that reads “Bear Down Chicago Bears” in white and orange.
 
@@ -1534,19 +1380,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Chicago Bears NFL team, Al Hoffman.
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1557,7 +1399,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1569,7 +1410,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1598,9 +1438,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Gadsden Flag](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_freetekno_Gadsden%20Flag.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Yellow t-shirt of the Gadsden Flag. a graphic of a coiled rattlesnake on a green grass with the text “DONT TREAD ON ME” under it.
 
@@ -1612,19 +1450,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Gadsden Flag, Metallica.
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1635,7 +1469,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** The art of rebellion, vigilance, and deadly self-defense.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -1647,7 +1480,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1677,9 +1509,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Honey Road](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Honey%20Road.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with neon green Honeyroad graphic.
 
@@ -1691,19 +1521,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Silk Road, Ross Ulbricht.
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1714,7 +1540,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** The official website for Mibera under The Honey Jar.
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1726,7 +1551,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1754,9 +1578,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Aboriginal](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_freetekno_Aboriginal.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with a graphic of an aboriginal flag; black and red flag with yellow circle in the middle.
 
@@ -1768,19 +1590,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Australian Aboriginal Flag
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1791,7 +1609,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Aboriginal is one of Mibera’s ancestors.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -1803,7 +1620,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1831,9 +1647,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![modern_stonewall_Gay Liberation Front](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_chicagodetroit_modern_stonewall_Gay%20Liberation%20Front.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with white text that reads “-IBERATION FRONT text rounding a graphic of female-male symbols connected to each other, all in red.
 
@@ -1845,19 +1659,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1868,7 +1678,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** In relation to LGBTQ+ community, liberation, love, and power.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -1880,7 +1689,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1908,9 +1716,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Hugs Not Drugs](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Hugs%20Not%20Drugs.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Red t-shirt with a graphic of 3 bears hugging each other and text under it that reads “HUGS NOT DRUGS” inside of a slightly curved-upwards banner frame.
 
@@ -1922,19 +1728,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Grateful Dead
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1945,7 +1747,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** In relation to drugs, music, and Grateful Dead character graphic reference. Which heavily ties back to drugs and music culture.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -1957,7 +1758,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1985,9 +1785,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Chicago Bulls](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_chicagodetroit_Chicago%20Bulls.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** a black t-shirt with a bull logo and the text “CHICAGO BULLS” on top of it, both in red.
 
@@ -1999,19 +1797,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2022,7 +1816,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2034,7 +1827,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2063,9 +1855,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Remilia Sprite VN](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_Remilia%20Sprite%20VN.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a black line graphic of a young lady with huge sparkly eyes and text below it that reads “Remilia Corporation Ltd”.
 
@@ -2077,19 +1867,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Remilia Scarlet (Touhou)
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2100,7 +1886,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** In relation to Milady Maker as part of our archetypes.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2112,7 +1897,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2140,9 +1924,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Tie Dye](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_freetekno_Tie%20Dye.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Tie dye t-shirt in rainbow colour (from center going outwards), with a Mibera logo in the center, of a smiley face with curved ears.
 
@@ -2154,19 +1936,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2177,7 +1955,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2189,7 +1966,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2218,9 +1994,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Xiaoyun](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Xiaoyun.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a thin table with a variety of combinations of letters and numbers in it.
 
@@ -2232,19 +2006,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2255,7 +2025,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2267,7 +2036,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2295,9 +2063,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Drugs Not Hugs](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Drugs%20Not%20Hugs.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with text in green that reads “Drugs not Hugs” in a playful font and a marijuana leaf in between the words.
 
@@ -2309,19 +2075,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2332,7 +2094,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation with drugs, especially weed as shown by the graphics.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2344,7 +2105,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2372,9 +2132,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Mt Gox](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Mt%20Gox.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Creamy white t-shirt with a graphic text that reads “MT.GOX in orange and light grey.
 
@@ -2386,19 +2144,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2409,7 +2163,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its cultural relevance in web3
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2421,7 +2174,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2449,9 +2201,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Mother Shirt](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Mother%20Shirt.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a semi-realism graphic of a koala and its baby in the center and text in black that reads “I SAVED A KOALA FROM CHLAMYDIA”.
 
@@ -2463,19 +2213,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2486,7 +2232,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation to Iggi Azalea $MOTHER merch and its cultural relevance in the web3 industry
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2498,7 +2243,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2526,9 +2270,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Ohabera Jani](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Ohabera%20Jani.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Milky white t-shirt with a cute bear wearing a purple durag and red jacket and Japanese text in a red text-bubble.
 
@@ -2540,19 +2282,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2563,7 +2301,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -2575,7 +2312,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2603,9 +2339,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Yiqun Lisa Yin](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Yiqun%20Lisa%20Yin.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a thin graphic made of circles and lines connected to one another forming some sort of a pyramid / scheme.
 
@@ -2617,19 +2351,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2640,7 +2370,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2652,7 +2381,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2680,9 +2408,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Tonka](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_freetekno_Tonka.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Creamy white t-shirt with red lining on the neck and sleeves, and a graphic lettering of the word “Tonka” in the middle.
 
@@ -2694,19 +2420,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2717,7 +2439,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -2729,7 +2450,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2758,9 +2478,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Honey Road](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Honey%20Road.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with neon green silkroad logo as the graphic. The logo is of a man riding a camel.
 
@@ -2772,19 +2490,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Silk Road, Ross Ulbricht.
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2795,7 +2509,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its symbolism in freeing Ross, referring to Ross Ulbricht and The Silk Road which were huge inspirations for Mibera’s website and culture.
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -2807,7 +2520,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2835,9 +2547,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Techno Table](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Techno%20Table.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Bone-white t-shirt with a blue graphic of periodic tables of Tellurium, Carbon, Hydrogen, and Nobelium, spelling out the word “techno”.
 
@@ -2849,19 +2559,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Periodic Table of Elements used to spell the word ‘Techno’
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2872,7 +2578,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -2884,7 +2589,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2912,9 +2616,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Mr Acid House](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_acidhouse_Mr%20Acid%20House.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Washed red t-shirt with a big graphic of a yellow smiley man with his hand on his mouth, and the text “MR. ACID HOUSE” below it.
 
@@ -2926,19 +2628,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2949,7 +2647,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -2961,7 +2658,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2989,9 +2685,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Unclench](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Unclench.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with graphic text that reads “UNCLENCH YOUR JAW” in a flowy shape, stars around the text, and a Mibera logo under it.
 
@@ -3003,19 +2697,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3026,7 +2716,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3038,7 +2727,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3066,9 +2754,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Grateful Dead 1](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_acidhouse_Grateful%20Dead%201.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with multiple bears in each of the rainbow’s colors, holding a magician hat and a cane, lined up at the bottom part of the t-shirt.
 
@@ -3080,19 +2766,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Grateful Dead, an American Rock Band.
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3103,7 +2785,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Alignment with Mibera art and drugs culture (rock music and psychedelic).
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3115,7 +2796,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3143,9 +2823,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Tornado Cash](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Tornado%20Cash.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with simple spiral symbolism and text in soft light green, that reads “I helped violate international sanctions and all I got was this lousy t-shirt”.
 
@@ -3157,19 +2835,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3180,7 +2854,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3192,7 +2865,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3220,9 +2892,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Nazi Pedo Cult](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Nazi%20Pedo%20Cult.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with a bright red rectangle in the middle. In it is a lady with green hair wearing black outfit- swastika in between her eyes and big text in white next to her that reads “NAZI PEDO CULT”.
 
@@ -3234,19 +2904,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3257,7 +2923,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation to Milady culture / community and lore
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3269,7 +2934,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3298,9 +2962,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![modern_palestine_Free Palestine](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_modern_palestine_Free%20Palestine.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt a graphic of a fist up in the colour of Palestine’s flag (green, red, white) and white text that reads “FREE PALESTINE”.
 
@@ -3312,19 +2974,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3335,7 +2993,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3347,7 +3004,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** Palestine
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3375,9 +3031,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Nirvana](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_freetekno_Nirvana.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with a yellow outline of a smiley face with bear ears, “dead eyes”, and the tongue out.
 
@@ -3389,19 +3043,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Nirvana
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3412,7 +3062,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation to music and drugs.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3424,7 +3073,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3452,9 +3100,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Mascot Jani](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Mascot%20Jani.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Vibrant red t-shirt with a big graphic of a cute bear head wearing a purple durag.
 
@@ -3466,19 +3112,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3489,7 +3131,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3501,7 +3142,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3529,9 +3169,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![LSD Made Me A Prostitute](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_freetekno_LSD%20Made%20Me%20A%20Prostitute.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with old-school graphic that focuses on the text “LSD MADE ME A PROSTITUTE”.
 
@@ -3543,19 +3181,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3566,7 +3200,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3578,7 +3211,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3606,9 +3238,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![RAR](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_acidhouse_RAR.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a black star in the middle. On top of it is the word RAR and a flying pigeon. Under it is a text that reads “RAR IS Rave Age Records”.
 
@@ -3620,19 +3250,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3643,7 +3269,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** It’s a parody of RAF about French ravers, which is very much Mibera.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3655,7 +3280,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3683,9 +3307,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Ai Weiwei Assange](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Ai%20Weiwei%20Assange.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Hot fuschia t-shirt with a semi-realism graphic of 2 guys with their middle fingers up, and the text “FREE ASSANGE” under it..
 
@@ -3697,19 +3319,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3720,7 +3338,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation to movement, freedom, and art.
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3732,7 +3349,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3760,9 +3376,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Legalize Catboys](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_Legalize%20Catboys.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Light grey t-shirt with a graphic of 2 male figures as cats with cat ears and cat tails. Above the graphic is written “LEGALIZE CATBOYS”.
 
@@ -3774,19 +3388,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3797,7 +3407,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation to one of Milady’s meme culture.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -3809,7 +3418,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3837,9 +3445,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Nyan Cat](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Nyan%20Cat.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Dark blue t-shirt with a big nyan cat on it. A grey cat with a biscuit body with pink sprinkles and a rainbow trail.
 
@@ -3851,19 +3457,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3874,7 +3476,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its cultural relevance, internet culture, and very rave-coded based on its rainbow based color.
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -3886,7 +3487,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3914,9 +3514,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Dark blue t-shirt with a big nyan bera on it. A brown bear with a biscuit body with white sprinkles and a honey-colored trail.
 
@@ -3928,19 +3526,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3951,7 +3545,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Bera version of Nyan Cat, cultural relevance and impact in the space.
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -3963,7 +3556,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3991,9 +3583,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Dragon](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS5_milady_Dragon.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black short-sleeved shirt with silky texture and vibrant graphic of golden dragon with fire in the background.
 
@@ -4005,19 +3595,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4028,7 +3614,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation to Charlie Fang, the founder of Milady Maker
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4040,7 +3625,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4069,9 +3653,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Suzuha](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_milady_Suzuha.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with a big graphic in a rectangular frame of a lady wearing black glasses with a little smile and white text underneath it that reads “I have your IP address”.
 
@@ -4083,19 +3665,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4106,7 +3684,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation to Milady Maker
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -4118,7 +3695,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4146,9 +3722,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![munitions](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS5_freetekno_munitions.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text with the head text being “WARNING”, followed with what looks like a barcode on the bottom part.
 
@@ -4160,19 +3734,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4183,7 +3753,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its relation with privacy, freedom, and political movement.
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4195,7 +3764,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4224,9 +3792,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Motor Detroit](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_chicagodetroit_Motor%20Detroit.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with a graphic and text that says “MOTOR Detroit” in the middle.
 
@@ -4238,19 +3804,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4261,7 +3823,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -4273,7 +3834,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4302,9 +3862,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![IMGNAI Catgirl](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_IMGNAI%20Catgirl.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with pink graphic of a girl with cat ears on a laptop / computer, japanese / chinese script, and text that reads “ACCELERATE IMGNAI CATGIRL RESEARCH”
 
@@ -4316,19 +3874,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4339,7 +3893,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its indirect ties to Milady Maker as well as its unconventional and provocative nature.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4351,7 +3904,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4379,9 +3931,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![horsey](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_horsey.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a colourful doodle of a brown horse running on a green grass under yellow sun with colourful text that reads “ketamine” above it.
 
@@ -4393,19 +3943,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4416,7 +3962,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Direct drug references.
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -4428,7 +3973,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4456,9 +4000,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Green Dungarees](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_acidhouse_Green%20Dungarees.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a tint of green with a leafy green dungarees over it.
 
@@ -4470,19 +4012,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4493,7 +4031,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4505,7 +4042,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4533,9 +4069,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Overalls](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Overalls.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Jeans-blue overall over a grey t-shirt with short sleeves.
 
@@ -4547,19 +4081,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4570,7 +4100,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4582,7 +4111,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4610,9 +4138,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Red Dungarees](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_acidhouse_Red%20Dungarees.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a red dungarees over it..
 
@@ -4624,19 +4150,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4647,7 +4169,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4659,7 +4180,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4687,9 +4207,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![smokey the bera shirt](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS5_chicagodetroit_smokey%20the%20bera%20shirt.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Graphic shirt full of illustrations and writings mainly in black, white, and brown. Focusing on a bear figure wearing an adventure hat.
 
@@ -4701,19 +4219,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4724,7 +4238,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -4736,7 +4249,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4764,9 +4276,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Babybera](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Babybera.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with a graphic of a grey figure with an eerie smile and animal-like nose / mouth / snout, and the words “BABY BERA” framing it.
 
@@ -4778,19 +4288,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4801,7 +4307,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -4813,7 +4318,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4841,9 +4345,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Beraland](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Beraland.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Pale purple t-shirt with a big graphic of Beraland logo, a white bear head in the shape of a globe.
 
@@ -4855,19 +4357,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4878,7 +4376,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -4890,7 +4387,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4918,9 +4414,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Beradrome 1](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_milady_Beradrome%201.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with a beraland logo on it. A bear head with sparkly almond eyes wearing a purple-green bike helmet..
 
@@ -4932,19 +4426,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -4955,7 +4445,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -4967,7 +4456,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -4995,9 +4483,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Shogun Baddie](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_Shogun%20Baddie.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with a magenta graphic of a pretty female bear head with a ribbon, some Chinese characters on the side followed by the word “SHOGUN”.
 
@@ -5009,19 +4495,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5032,7 +4514,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -5044,7 +4525,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5072,9 +4552,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Beradrome 2](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_milady_Beradrome%202.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Vibrant dark purple t-shirt with graphic of a bear head wearing bike helmet slowly fading from right to left and white text under it that reads “FAHRRADFAHRERANZUG”
 
@@ -5086,19 +4564,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5109,7 +4583,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5121,7 +4594,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5149,9 +4621,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![IVX](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_IVX.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Vibrant indigo tee with white logo of what looks like a ‘v’ and an upside down ‘v’ next to it.
 
@@ -5163,19 +4633,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5186,7 +4652,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5198,7 +4663,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5226,9 +4690,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Baddies Crop](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Baddies%20Crop.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White cropped tank top with v-neck and a small graphic of a bear with a ribbon. Paired with a dark brown skirt.
 
@@ -5240,19 +4702,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5263,7 +4721,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5275,7 +4732,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5303,9 +4759,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Vibrant blue tee with a “HENLO” logo in the middle in front of a circular shape with grids made of thin lines in the middle.
 
@@ -5317,19 +4771,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5340,7 +4790,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -5352,7 +4801,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5380,9 +4828,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Bullas](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Bullas.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Deep teal t-shirt with the “Bullas” logo and lettering. A triangle with bull horns extending out of it with an open eyeball.
 
@@ -5394,19 +4840,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5417,7 +4859,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5429,7 +4870,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5457,9 +4897,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![_w1](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Sunrise__w1.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black / nearly-black navy t-shirt with a graphic of a small circle in the middle inside of an outline of a larger circular outline, both in white.
 
@@ -5471,19 +4909,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5494,7 +4928,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5506,7 +4939,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5534,9 +4966,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Tedism](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Tedism.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black T-shirt with white text that reads “TEDISM”.
 
@@ -5548,19 +4978,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5571,7 +4997,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5583,7 +5008,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5611,9 +5035,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Henlo](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Henlo.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Muted purple jersey with ‘HENLO’ in gothic font, worn over a white t-shirt, topped with 2 thin gold chains.
 
@@ -5625,19 +5047,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5648,7 +5066,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5660,7 +5077,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5688,9 +5104,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Henlo with Chain](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_Henlo%20with%20Chain.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Vibrant purple t-shirt with white “HENLO” text in the middle and a big golden chain with a huge charm in the shape of a honeycomb.
 
@@ -5702,19 +5116,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5725,7 +5135,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -5737,7 +5146,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5765,9 +5173,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Sari](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_milady_Sari.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Traditional female Indian attire in green. A green garment wrapped around one shoulder over a green t-shirt.
 
@@ -5779,19 +5185,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Sari / Saree
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5802,7 +5204,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Cultural relevance with one of Mibera’s archetypes (Hindu) and several culture inspirations.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5814,7 +5215,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5842,9 +5242,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Orange Buddhist](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_acidhouse_Orange%20Buddhist.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Orange monk attire. Orange garment wrapped around the body and thrown over one shoulder.
 
@@ -5856,19 +5254,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Kasaya, Buddhism / Buddhist
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5879,7 +5273,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Cultural relevance with one of Mibera’s archetypes (Buddhism) and several culture inspirations.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5891,7 +5284,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5919,9 +5311,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![ancient_pythia_Skirt Of Pythia](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_acidhouse_ancient_pythia_Skirt%20Of%20Pythia.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Piece of brown sleeveless flowy garment, hooked only on one shoulder.
 
@@ -5933,19 +5323,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Pythia
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -5956,7 +5342,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Lore / historical relevance with Pythia
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -5968,7 +5353,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** Pythia
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -5996,9 +5380,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Star Moon Kaftan](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_chicagodetroit_Star%20Moon%20Kaftan.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black kaftan with moon and star at the bottom and zigzag linings in silvery coloured fabric.
 
@@ -6010,19 +5392,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6033,7 +5411,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6045,7 +5422,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6074,9 +5450,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Palestinian Jacket](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS4_freetekno_Palestinian%20Jacket.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Red Tasqireh / Palestinian short-sleeves jacket in bright red, with funky patterns in yellow, orange, and green.
 
@@ -6088,19 +5462,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6111,7 +5481,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -6123,7 +5492,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6153,9 +5521,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Maid](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS5_milady_Maid.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** “Maid dress” in black and white. A dress with puffy shoulders and ribbons around the waist. Low neck cutting.
 
@@ -6167,19 +5533,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6190,7 +5552,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -6202,7 +5563,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6230,9 +5590,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Rape](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_milady_Rape.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black shirt with white text that reads “RAPE”.
 
@@ -6244,19 +5602,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Boyd Rice
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6267,7 +5621,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Alignment with the Milady spirit.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6279,7 +5632,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6308,9 +5660,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Men Illegal](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_freetekno_Men%20Illegal.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with black lining on the neck and both ends of sleeves, and a writing that says “-on’t wait until -men are illegal”.
 
@@ -6322,19 +5672,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6345,7 +5691,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6357,7 +5702,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6385,9 +5729,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![SCUM](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_freetekno_SCUM.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with black text that reads “SCUM”.
 
@@ -6399,19 +5741,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6422,7 +5760,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6434,7 +5771,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6462,9 +5798,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Criminal Records Vest](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_chicagodetroit_Criminal%20Records%20Vest.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black vest with white text that reads “CRIMINAL RECORDS” in bold font.
 
@@ -6476,19 +5810,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6499,7 +5829,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6511,7 +5840,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6540,9 +5868,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![I Met God](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_milady_I%20Met%20God.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black shirt with white text that reads “I MET GOD AT THE MILADY RAVE”.
 
@@ -6554,19 +5880,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6577,7 +5899,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Alignment with the Milady spirit.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6589,7 +5910,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6617,9 +5937,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Fuck Work](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Fuck%20Work.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black shirt with white text that reads “FUCK WORK”.
 
@@ -6631,19 +5949,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6654,7 +5968,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6666,7 +5979,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6694,9 +6006,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Old School](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_chicagodetroit_Old%20School.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black tank top with multiple writings in white, with the biggest one being an underlined ‘Old School’.
 
@@ -6708,19 +6018,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6731,7 +6037,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6743,7 +6048,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6771,9 +6075,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Bjork](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Bjork.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Red t-shirt with white text that reads “Enjoy COCK”.
 
@@ -6785,19 +6087,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6808,7 +6106,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6820,7 +6117,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6848,9 +6144,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Wikipedia Editor](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Wikipedia%20Editor.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with big blue text that reads “Wikipedia Editor”.
 
@@ -6862,19 +6156,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6885,7 +6175,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6897,7 +6186,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -6925,9 +6213,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![DARE Rave](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_DARE%20Rave.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with “D.A.R.E” in red written in the upper middle section. Below it is white text that spells “DRUG ABUSE RAVES ETHEREUM”.
 
@@ -6939,19 +6225,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -6962,7 +6244,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -6974,7 +6255,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7002,9 +6282,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![ DARE Memecoins](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_%20DARE%20Memecoins.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with “D.A.R.E” in magenta written in the upper middle section. Below it is white text that reads “KEEPING KIDS OFF MEMECOINS”.
 
@@ -7016,19 +6294,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7039,7 +6313,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7051,7 +6324,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7079,9 +6351,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Rug Core](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_freetekno_Rug%20Core.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with text in red in the middle that says “rug core” in a playful font.
 
@@ -7093,19 +6363,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7116,7 +6382,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7128,7 +6393,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7156,9 +6420,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Virgin](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_Virgin.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that reads “CRYPTO IS FOR VIRGINS” in bold font.
 
@@ -7170,19 +6432,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7193,7 +6451,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7205,7 +6462,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7233,9 +6489,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Black Is Beautiful](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS3_freetekno_Black%20Is%20Beautiful.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with text in white that says “BLACK IS BEAUTIFUL”.
 
@@ -7247,19 +6501,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7270,7 +6520,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -7282,7 +6531,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7311,9 +6559,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Music Box Vest](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_chicagodetroit_Music%20Box%20Vest.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White tank / vest with text in black that reads “MUSIC BOX”.
 
@@ -7325,19 +6571,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Jani
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7348,7 +6590,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7360,7 +6601,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7389,9 +6629,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![modern_palestine_Palestinians For Black Power](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_acidhouse_modern_palestine_Palestinians%20For%20Black%20Power.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** a black t-shirt with white text that reads “PALESTINIANS for BLACK POWER” and an Arabic script under it.
 
@@ -7403,19 +6641,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7426,7 +6660,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7438,7 +6671,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** Palestine
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7466,9 +6698,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Reborn](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_Reborn.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that reads “I WAS REBORN AT THE MILADY RAVE” on it .
 
@@ -7480,19 +6710,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7503,7 +6729,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its way of poking / referencing Milady Maker 333.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7515,7 +6740,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7543,9 +6767,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![True Love](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_True%20Love.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that reads “I FOUND TRUE LOVE AT THE MILADY RAVE” on it .
 
@@ -7557,19 +6779,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7580,7 +6798,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its way of poking / referencing Milady Maker 333.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7592,7 +6809,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7620,9 +6836,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![K-holed](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_K-holed.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that reads “I K-HOLED AT THE MILADY RAVE” on it .
 
@@ -7634,19 +6848,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7657,7 +6867,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its way of poking / referencing Milady Maker 333.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7669,7 +6878,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7697,9 +6905,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![I Was Mibera](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_I%20Was%20Mibera.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that reads “I WAS MIBERA AT THE MILADY RAVE” on it .
 
@@ -7711,19 +6917,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7734,7 +6936,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its way of poking / referencing Milady Maker 333.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7746,7 +6947,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7774,9 +6974,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Future Rug Core](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_freetekno_Future%20Rug%20Core.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with red text that says “THE FUTURE IS RUGCORE” in thin font.
 
@@ -7788,19 +6986,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7811,7 +7005,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7823,7 +7016,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7851,9 +7043,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Sonora](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_Sonora.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that reads “I HELD HANDS WITH MILADY SONORA AT THE MILADY RAVE” on it .
 
@@ -7865,19 +7055,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7888,7 +7074,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7900,7 +7085,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -7928,9 +7112,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Future Ladyboy](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_milady_Future%20Ladyboy.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with red text that says “THE FUTURE IS LADYBOY” in thin font.
 
@@ -7942,19 +7124,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -7965,7 +7143,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Its cultural relevance to love and acceptance towards the LGBTQ+ community, which is very much aligned with Mibera’s values.
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -7977,7 +7154,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8005,9 +7181,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![modern_arabs_Arabs For Black Power](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_acidhouse_modern_arabs_Arabs%20For%20Black%20Power.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that reads “ARABS for BLACK POWER” and an Arabic script under it.
 
@@ -8019,19 +7193,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8042,7 +7212,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8054,7 +7223,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** Arab
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8082,9 +7250,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Jury Nullification](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_freetekno_Jury%20Nullification.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with black text that reads “GOOGLE JURY NULLIFICATION” on a lime green rectangular shape.
 
@@ -8096,19 +7262,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8119,7 +7281,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** Moral / political alignment with Mibera’s messages / vibe as a whole community with it not having a side (left / right).
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8131,7 +7292,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8159,9 +7319,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![School Sucks](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_School%20Sucks.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that says “SCHOOL SUCKS” in bold font.
 
@@ -8173,19 +7331,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8196,7 +7350,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8208,7 +7361,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8236,9 +7388,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Wicked](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS2_freetekno_Wicked.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that says “WICKED” in graffiti style.
 
@@ -8250,19 +7400,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8273,7 +7419,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -8285,7 +7430,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8313,9 +7457,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Future Is Accessible](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_freetekno_Future%20Is%20Accessible.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that says “THE FUTURE IS ACCESSIBLE”.
 
@@ -8327,19 +7469,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8350,7 +7488,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -8362,7 +7499,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8390,9 +7526,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Dark purple t-shirt with white text that reads “I AM AFRAID OF WOMEN”.
 
@@ -8404,19 +7538,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8427,7 +7557,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -8439,7 +7568,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8467,9 +7595,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![top signal](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_milady_top%20signal.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that reads ”APY 1,420,690,808,000%”.
 
@@ -8481,19 +7607,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8504,7 +7626,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -8516,7 +7637,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8544,9 +7664,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![DiY](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_freetekno_DiY.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with big white text that says “DiY” in bold font.
 
@@ -8558,19 +7676,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8581,7 +7695,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -8593,7 +7706,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8622,9 +7734,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Crypto Anarchist](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_Crypto%20Anarchist.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with barely visible lines or paragraphs, with the title that reads “The Crypto Anarchist Manifesto”.
 
@@ -8636,19 +7746,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8659,7 +7765,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -8671,7 +7776,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8699,9 +7803,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Autistic Fuck](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS5_Autistic%20Fuck.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that says “AUTISTIC AND READY TO FUCK” in thin font.
 
@@ -8713,19 +7815,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8736,7 +7834,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -8748,7 +7845,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8776,9 +7872,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Not Gay](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_Not%20Gay.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that says “I’M NOT GAY BUT WHEN I LOOK AT NAKED DUDES I GET HORNY AND JACK OFF” in thin font.
 
@@ -8790,19 +7884,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8813,7 +7903,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -8825,7 +7914,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8853,9 +7941,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Black t-shirt with white text that says “AUTISM POWERED FUCK MACHINE”.
 
@@ -8867,19 +7953,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8890,7 +7972,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 
 
@@ -8902,7 +7983,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -8930,9 +8010,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Autism and a Gun](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_Autism%20and%20a%20Gun.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** White t-shirt with black text that says “PLEASE BE PATIENT I HAVE AUTISM AND A GUN IN MY POCKET”.
 
@@ -8944,19 +8022,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -8967,7 +8041,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -8979,7 +8052,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9007,9 +8079,7 @@ Many shirts reference real movements, events, or figures:
 **Image Files:**
 ![Pink Vest](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT)/SS1_chicagodetroit_Pink%20Vest.webp)
 
-**Garment Type:**
 
-**Fit:**
 
 **Visual Description:** Plain pink vest / tank top.
 
@@ -9021,19 +8091,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9044,7 +8110,6 @@ Many shirts reference real movements, events, or figures:
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -9056,7 +8121,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -9084,7 +8148,6 @@ Many shirts reference real movements, events, or figures:
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9094,19 +8157,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9126,7 +8185,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -9152,7 +8210,6 @@ Many shirts reference real movements, events, or figures:
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9162,19 +8219,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9194,7 +8247,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -9220,7 +8272,6 @@ Many shirts reference real movements, events, or figures:
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9230,19 +8281,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9262,7 +8309,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -9288,7 +8334,6 @@ Many shirts reference real movements, events, or figures:
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -9298,19 +8343,15 @@ Many shirts reference real movements, events, or figures:
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -9330,7 +8371,6 @@ Many shirts reference real movements, events, or figures:
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 

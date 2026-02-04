@@ -37,7 +37,6 @@ Masks range from functional rave gear to cultural/ritual face coverings. Many ma
 **Image Files:**
 SS3_chicagodetroit_Hiberanation Eye Mask.png
 
-**Accessory Type:**
 
 **Visual Description:** Sleeping mask that looks like a sleeping bear; in brown, with two closed eyes, two curved ears, and a snout. ‘zzz’ going upwards from the nose part of the mask.
 
@@ -48,19 +47,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -71,7 +66,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -83,7 +77,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -113,7 +106,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Nose Ring with Chain](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_milady_Nose Ring With Chain.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Two golden slim chains connected to a ring on one end..
 
@@ -124,19 +116,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Grime, hip-hop, Punjabi garage party scene.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -147,7 +135,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** Rave culture as well as relevance to one of our ancestors and archetypes.
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -159,7 +146,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -187,7 +173,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Black Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS2_freetekno_Black Mask.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black mask covering just the mouth and nose part..
 
@@ -198,19 +183,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -221,7 +202,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -233,7 +213,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -261,7 +240,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Cypherpunk 3](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_Cypherpunk 3.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White mask with ‘10D7C7’ written on the forehead.
 
@@ -272,19 +250,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Cypherpunk; a movement of activists, technologists, and cryptographers, originating in the late 1980s and formalized with the 1992 Cypherpunks mailing list, who advocate for privacy and freedom through strong encryption and decentralized technologies.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -295,7 +269,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -307,7 +280,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -335,7 +307,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Velvet](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_Velvet.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Black full-face mask with velvet-y texture / complexion.
 
@@ -346,19 +317,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Cyberphunk, Tim May (?).
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -369,7 +336,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -381,7 +347,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -409,7 +374,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Golden Anonymous](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_Golden Anonymous.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Golden ‘anonymous’ mask, with 2 eyeholes, defined nose, thin eyebrows, and thin mustache.
 
@@ -420,19 +384,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Illegal Covid Rave
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -443,7 +403,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -455,7 +414,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -484,7 +442,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Venetian Black](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_Venetian Black.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Rounded black mask with much bigger eyeholes compared to usual masks.
 
@@ -495,19 +452,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Moretta mask, is a traditional Venetian mask historically reserved for women, popular in 18th-century Venice. Made of black velvet and round in shape, also known as the "muta," it fully conceals the wearer’s face, symbolizing seduction and mystery. Held in place by a button bitten by the teeth, it silenced the wearer, adding to its enigmatic allure, and is showcased by Ca’ Macana as an authentic paper-mâché carnival mask.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -518,7 +471,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -530,7 +482,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -558,7 +509,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Green Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_Green Mask.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Full-face green mask with a shape of a face and deep eye-sockets..
 
@@ -569,19 +519,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Illegal Covid Raves
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -592,7 +538,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -604,7 +549,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -632,7 +576,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Homemade Bee Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_milady_Homemade Bee Mask.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Bee mask, portrayed by thick net in brown and transparent milky white cover over it.
 
@@ -643,19 +586,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -666,7 +605,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -678,7 +616,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -706,7 +643,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 ![Plastic Bag Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_modern_irish_Plastic Bag Mask.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Plain white semi-transparent plastic bag mask.
 
@@ -717,19 +653,15 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Rubberbandits is an Irish comedy hip-hop duo from Limerick, consisting of Blindboy Boatclub (Dave Chambers) and Mr Chrome (Bob McGlynn), who perform with plastic bag masks to conceal their identities. Their work critiques Irish urban youth issues like drug abuse and republicanism.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -740,7 +672,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -752,7 +683,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Ancestor:** Irish
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -781,7 +711,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Image Files:**
 SS4_Bera Ski.png
 
-**Accessory Type:**
 
 **Visual Description:** Ski mask in darker shades of brown with curved ears and holes across the eyes-part.
 
@@ -792,19 +721,15 @@ SS4_Bera Ski.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -815,7 +740,6 @@ SS4_Bera Ski.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -827,7 +751,6 @@ SS4_Bera Ski.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -855,7 +778,6 @@ SS4_Bera Ski.png
 **Image Files:**
 SS3_Teddy Ski Mask.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Ski mask in vibrant red with tiny horn-shaped ears and wide holes across the eyes-part.
 
@@ -866,19 +788,15 @@ SS3_Teddy Ski Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -889,7 +807,6 @@ SS3_Teddy Ski Mask.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -901,7 +818,6 @@ SS3_Teddy Ski Mask.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -929,7 +845,6 @@ SS3_Teddy Ski Mask.PNG
 **Image Files:**
 SS4_pink bera ski.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Ski mask in a very light soft pink with curved ears and holes across the eyes-part.
 
@@ -940,19 +855,15 @@ SS4_pink bera ski.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -963,7 +874,6 @@ SS4_pink bera ski.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -975,7 +885,6 @@ SS4_pink bera ski.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1003,7 +912,6 @@ SS4_pink bera ski.PNG
 **Image Files:**
 ![White Anonymous](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_White Anonymous.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Classic white ‘Anonymous’ mask, with a smiling face with blushing cheeks, a thin mustache, and pointed beard
 
@@ -1014,19 +922,15 @@ SS4_pink bera ski.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The "Anonymous mask," commonly known as the Guy Fawkes mask, originated from the 1605 Gunpowder Plot, where Guy Fawkes planned to blow up the British Parliament. Its modern iconic design was created by illustrator David Lloyd for the 1982–1989 graphic novel V for Vendetta by Alan Moore.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1037,7 +941,6 @@ SS4_pink bera ski.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1049,7 +952,6 @@ SS4_pink bera ski.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1077,7 +979,6 @@ SS4_pink bera ski.PNG
 **Image Files:**
 SS4_acidhouse_Kim Jong Mask.png
 
-**Accessory Type:**
 
 **Visual Description:** Pale face of an Asian man (Kim Jong Un) with yellow undertone and an ‘ambition hairstyle’.
 
@@ -1088,19 +989,15 @@ SS4_acidhouse_Kim Jong Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** DJ Bus Replacement Service, aka Doris Woo, a retired DJ known for her eclectic, genre-blending sets and playful persona.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1111,7 +1008,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1123,7 +1019,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1153,7 +1048,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Image Files:**
 ![Silver Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_freetekno_Silver Mask.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Rounded-shaped full-face silver mask with a shape of a face and metallic complexion.
 
@@ -1164,19 +1058,15 @@ SS4_acidhouse_Kim Jong Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1187,7 +1077,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -1199,7 +1088,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1228,7 +1116,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Image Files:**
 ![Surgical Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_acidhouse_Surgical Mask.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Stereotypical green surgical mask, with lighter colored lining.
 
@@ -1239,19 +1126,15 @@ SS4_acidhouse_Kim Jong Mask.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1262,7 +1145,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -1274,7 +1156,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1302,7 +1183,6 @@ SS4_acidhouse_Kim Jong Mask.png
 **Image Files:**
 SS4_freetekno_modern_irish_Plastic Bag Red.png
 
-**Accessory Type:**
 
 **Visual Description:** White bag covering the entire face with holes on the eyes and mouth, on it are strokes in vibrant red.
 
@@ -1313,19 +1193,15 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Blindboy Podcast, hosted by Blindboy Boatclub (Dave Chambers) of the Rubberbandits, is an eclectic Irish podcast launched in 2017. It blends short fiction, interviews, and comedy, exploring topics like mental health, politics, culture, and history, often with personal stories and absurdist commentary. It has since then gained a cult-following.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1336,7 +1212,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1348,7 +1223,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Ancestor:** Irish
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1376,7 +1250,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Image Files:**
 ![Cypherpunk 1](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_Cypherpunk 1.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White mask with ‘197’ on one eye, and ‘FB5’ on the other eye.
 
@@ -1387,19 +1260,15 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Cypherpunk.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1410,7 +1279,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1422,7 +1290,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1450,7 +1317,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Image Files:**
 ![Cypherpunk 2](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_Cypherpunk 2.webp)
 
-**Accessory Type:**
 
 **Visual Description:** White mask with a few short lines that look like a barcode on the forehead.
 
@@ -1461,19 +1327,15 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Cypherpunk.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1484,7 +1346,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -1496,7 +1357,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1524,7 +1384,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Image Files:**
 ![MF Doom](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_freetekno_MF doom.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Silver mask with a lot of defined edges, depths, and unique shape. Covering half the face with big eye holes and a rectangular shape on each side extending towards inner-downwards.
 
@@ -1535,19 +1394,15 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** MF doom
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1558,7 +1413,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Archetype Alignment:** Music and cultural relevance to Mibera’s lore and identity.
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1570,7 +1424,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1598,7 +1451,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Image Files:**
 ![Venetian Gold](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS5_Venetian Gold.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Rounded golden mask with much bigger eyeholes compared to usual masks.
 
@@ -1609,19 +1461,15 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The Moretta mask, is a traditional Venetian mask historically reserved for women, popular in 18th-century Venice. Made of black velvet and round in shape, also known as the "muta," it fully conceals the wearer’s face, symbolizing seduction and mystery. Held in place by a button bitten by the teeth, it silenced the wearer, adding to its enigmatic allure, and is showcased by Ca’ Macana as an authentic paper-mâché carnival mask.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1632,7 +1480,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -1644,7 +1491,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1672,7 +1518,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Image Files:**
 SS4_freetekno_Bear Mask.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Huge face mask in the shape of a bear head.
 
@@ -1683,19 +1528,15 @@ SS4_freetekno_Bear Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Smokey, the founder of Berachain, and Berachain.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1706,7 +1547,6 @@ SS4_freetekno_Bear Mask.PNG
 **Archetype Alignment:** Smokey The Bera head
 
 
-**Setting:**
 
 **Swag Score:** 4
 
@@ -1718,7 +1558,6 @@ SS4_freetekno_Bear Mask.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1746,7 +1585,6 @@ SS4_freetekno_Bear Mask.PNG
 **Image Files:**
 ![CFang Face](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_milady_Cfang Face.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Circular milky white mist, solid in color.
 
@@ -1757,19 +1595,15 @@ SS4_freetekno_Bear Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Charlotte Fang’s Mirror’s profile picture.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1780,7 +1614,6 @@ SS4_freetekno_Bear Mask.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 1
 
@@ -1792,7 +1625,6 @@ SS4_freetekno_Bear Mask.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1820,7 +1652,6 @@ SS4_freetekno_Bear Mask.PNG
 **Image Files:**
 SS5_henlo mask.PNG
 
-**Accessory Type:**
 
 **Visual Description:** An army green balaclava with two curved ears, thin silver chains and the word ‘HENLO’ dangling on one of the chains as charms. two rings above the eye hole, and four rings on one of the ears.
 
@@ -1831,19 +1662,15 @@ SS5_henlo mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Was created for an irl Mibera rave. [look up context gumi]
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1854,7 +1681,6 @@ SS5_henlo mask.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -1866,7 +1692,6 @@ SS5_henlo mask.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1894,7 +1719,6 @@ SS5_henlo mask.PNG
 **Image Files:**
 ![White Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS2_chicagodetroit_White Mask.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Round white mask with 2 eye-holes and stripy holes on the mouth side.
 
@@ -1905,19 +1729,15 @@ SS5_henlo mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1928,7 +1748,6 @@ SS5_henlo mask.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 2
 
@@ -1940,7 +1759,6 @@ SS5_henlo mask.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1968,7 +1786,6 @@ SS5_henlo mask.PNG
 **Image Files:**
 ![Chulym Beekeeper Hat](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_Chulym Beekeeper Hat.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Big pale army green hood with black transparent draping down the hood, semi-transparent with net-like texture.
 
@@ -1979,19 +1796,15 @@ SS5_henlo mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Otyken is a Russian Siberian indigenous music group formed in 2015 by Andrey 'Medonos' Chernetsov, blending local folk music with modern pop using traditional instruments like the komuz and igil. Featuring members from Chulym, Ket, Khakas, Dolgan, and Selkup ethnicities, they promote the history and traditions of multinational Russia through eye-catching homemade costumes.
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2002,7 +1815,6 @@ SS5_henlo mask.PNG
 **Archetype Alignment:** Otyken influence OTYKEN - LORD OF HONEY (ВЕРТИКАЛЬНЫЙ КЛИП)
 
 
-**Setting:**
 
 **Swag Score:** 3
 
@@ -2014,7 +1826,6 @@ SS5_henlo mask.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2042,7 +1853,6 @@ SS5_henlo mask.PNG
 **Image Files:**
 SS5_Founders Mask.PNG
 
-**Accessory Type:**
 
 **Visual Description:** Large rounded mask with a pattern constructed of simple diamond shapes, going outwards from the center, in the color of black.
 
@@ -2053,19 +1863,15 @@ SS5_Founders Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2076,7 +1882,6 @@ SS5_Founders Mask.PNG
 **Archetype Alignment:** Jani’s mask from Singapore (Token 2024)
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -2088,7 +1893,6 @@ SS5_Founders Mask.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2116,7 +1920,6 @@ SS5_Founders Mask.PNG
 **Image Files:**
 ![Faceless Galaxy](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS5_acidhouse_Faceless Galaxy.webp)
 
-**Accessory Type:**
 
 **Visual Description:** Glimpse of a galaxy with stars portrayed by the color of dark blue and magenta merging together in a circular shape with smudged edges.
 
@@ -2127,19 +1930,15 @@ SS5_Founders Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2150,7 +1949,6 @@ SS5_Founders Mask.PNG
 **Archetype Alignment:** 
 
 
-**Setting:**
 
 **Swag Score:** 5
 
@@ -2162,7 +1960,6 @@ SS5_Founders Mask.PNG
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2189,7 +1986,6 @@ SS5_Founders Mask.PNG
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -2199,19 +1995,15 @@ SS5_Founders Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2231,7 +2023,6 @@ SS5_Founders Mask.PNG
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2257,7 +2048,6 @@ SS5_Founders Mask.PNG
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -2267,19 +2057,15 @@ SS5_Founders Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2299,7 +2085,6 @@ SS5_Founders Mask.PNG
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2325,7 +2110,6 @@ SS5_Founders Mask.PNG
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -2335,19 +2119,15 @@ SS5_Founders Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2367,7 +2147,6 @@ SS5_Founders Mask.PNG
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -2393,7 +2172,6 @@ SS5_Founders Mask.PNG
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -2403,19 +2181,15 @@ SS5_Founders Mask.PNG
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2435,7 +2209,6 @@ SS5_Founders Mask.PNG
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 

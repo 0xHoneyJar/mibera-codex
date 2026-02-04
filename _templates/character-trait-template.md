@@ -12,7 +12,6 @@
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -22,19 +21,15 @@
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -54,7 +49,6 @@
 
 **Ancestor:**
 
-**Trait Conflicts:**
 
 ---
 

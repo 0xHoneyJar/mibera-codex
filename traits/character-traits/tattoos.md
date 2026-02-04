@@ -39,7 +39,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Reindeer](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_sami_Reindeer.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line doodle of a reindeer, small in size.
 
@@ -49,19 +48,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Sami Reindeer Herders of Lapland
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -82,7 +77,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Sami
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -110,7 +104,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Sharaku](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_japanese_Sharaku.webp)
 
-**Trait Category:**
 
 **Visual Description:** Outline of a figure of a Japanese man, specifically Sharaku.
 
@@ -120,19 +113,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Toshusai Sharaku, description below.
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -153,7 +142,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Japanese
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -181,7 +169,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Oracle](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_pythia_Oracle.webp)
 
-**Trait Category:**
 
 **Visual Description:** Magic-8-ball drawn in blue, with 3 small sparks on it and short lines depicting the ball radiating some sort of light / shine from it.
 
@@ -191,19 +178,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** description below
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -224,7 +207,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Pythia
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -252,7 +234,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Rilakkuma](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_japanese_Rilakkuma.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line drawing of a bear with a big head lying on its side with the hand (paw) supporting its head.
 
@@ -262,19 +243,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Rilakkuma (a Japanese fictional character)
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -295,7 +272,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Japanese
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -323,7 +299,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Nepalese Flag](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_nepal_Nepalese%20Flag.webp)
 
-**Trait Category:**
 
 **Visual Description:** Nepalese flag, shaped in 2 connected triangles with red as the base color and 2 white symbols on it.
 
@@ -333,19 +308,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** The national flag of Nepal
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -366,7 +337,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Nepal
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -394,7 +364,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Star and Crescent Hand](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_turkey_Star%20and%20Crescent%20Hand.webp)
 
-**Trait Category:**
 
 **Visual Description:** The star and crescent of Turkey’s flag, directly on top of Mibera’s hand. It is entirely red.
 
@@ -404,19 +373,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern ---
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -437,7 +402,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Turkey
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -465,7 +429,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Caria Tyche](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_greek_Caria%20Tyche.webp)
 
-**Trait Category:**
 
 **Visual Description:** an intricate line drawing of Tyche, Greek Goddess of Fame and Fortune.
 
@@ -475,19 +438,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Tyche is the Greek Goddess of Fortune and Fame, as ‘caria’ means "graceful" or "she who flows like water"
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -508,7 +467,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Greek
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -536,7 +494,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![uwu baphomet](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_satanist_uwu%20baphomet.webp)
 
-**Trait Category:**
 
 **Visual Description:** Linework of a goat with long horns in a very cute style.
 
@@ -546,19 +503,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -579,7 +532,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Satanist
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -608,7 +560,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Milady Eyes Hand](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Milady%20Eyes%20Hand.webp)
 
-**Trait Category:**
 
 **Visual Description:** Pair of big (milady) eyes with 2 eyebrows tilting upwards from the inside, and a tiny mouth.
 
@@ -618,19 +569,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -651,7 +598,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -681,7 +627,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Inverted Pentagram](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_Satanist_Inverted%20Pentagram.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line work of an upside down star inside of a circle.
 
@@ -691,19 +636,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -724,7 +665,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Satanist
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -752,7 +692,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Cursed Milady](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Cursed%20Milady.webp)
 
-**Trait Category:**
 
 **Visual Description:** Rough linework in red of a short-haired woman wearing a French beret.
 
@@ -762,19 +701,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -795,7 +730,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -823,7 +757,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Beloved](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_greek_Beloved.webp)
 
-**Trait Category:**
 
 **Visual Description:** Simple straight writing of ‘beloved’ in Greek language and alphabet ‘αγαπητός’.
 
@@ -833,19 +766,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern ---
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -866,7 +795,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Greek
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -894,7 +822,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Stupa](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_nepal_Stupa.webp)
 
-**Trait Category:**
 
 **Visual Description:** Black and white drawing of a shrine with shading.
 
@@ -904,19 +831,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -937,7 +860,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Nepal
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -965,7 +887,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Filipino Tribal](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Filipino%20Tribal.webp)
 
-**Trait Category:**
 
 **Visual Description:** Filipino tribal line-work.
 
@@ -975,19 +896,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1008,7 +925,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1036,7 +952,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Enso](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_buddhist_Enso.webp)
 
-**Trait Category:**
 
 **Visual Description:** Thick brush stroke that goes in nearly full circle.
 
@@ -1046,19 +961,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1079,7 +990,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Buddhist
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1107,7 +1017,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Straight Edge](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Straight%20Edge.webp)
 
-**Trait Category:**
 
 **Visual Description:** Two thick rectangular lines with clean edges crossing one another.
 
@@ -1117,19 +1026,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1150,7 +1055,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1180,7 +1084,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Whirling Dervish](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_sufi_Whirling%20Dervish.webp)
 
-**Trait Category:**
 
 **Visual Description:** Simple line-work of a dancing woman in a long dress.
 
@@ -1190,19 +1093,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient - https://discord.com/channels/1133935527855399053/1160911774086873089/11609192972086 14973 - https://www.theguardian.com/world/gallery/2016/feb/05/the-psychedelic-world-of-sudans-sufis-in -pictures
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1223,7 +1122,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Sufi
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1251,7 +1149,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Sugar Skull](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Sugar%20Skull.webp)
 
-**Trait Category:**
 
 **Visual Description:** Intricate line art of a skull with insane amounts of details and flowers on the eye-sockets.
 
@@ -1261,19 +1158,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1294,7 +1187,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1322,7 +1214,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Lineart Lotus](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_hindu_Lineart%20Lotus.webp)
 
-**Trait Category:**
 
 **Visual Description:** Simple line-art connecting a few curves, a lotus, and a few dots.
 
@@ -1332,19 +1223,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1365,7 +1252,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Hindu
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1393,7 +1279,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Ottoman Tughra](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_turkey_Ottoman%20Tughra.webp)
 
-**Trait Category:**
 
 **Visual Description:** Lines forming a monograph.
 
@@ -1403,19 +1288,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Ottoman / Tughra
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1436,7 +1317,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Turkey
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1464,7 +1344,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Heart with Wings](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_sufi_Heart%20with%20Wings.webp)
 
-**Trait Category:**
 
 **Visual Description:** Heart with a crescent moon facing upwards and a star on top of it, and a pair of wings extending out of the heart.
 
@@ -1474,19 +1353,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1507,7 +1382,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Sufi
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1535,7 +1409,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Ber Tsetseg](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_mongolian_Ber%20Tsetseg.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line work of 3 flowers with leaves, portraying Mongolia’s national
 
@@ -1545,19 +1418,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Mongolia’s national flower, Ber Tsetseg (Scabiosa comosa), declared in October 2014, symbolizes resilience and tolerance. Known as the Pincushion Flower, its lavender-blue blooms thrive in Mongolia’s harsh climate, reflecting the nation’s enduring spirit. It’s culturally significant, used in equestrian traditions like saddle decorations, and plays an ecological role by attracting pollinators.
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1578,7 +1447,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Mongolian
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1606,7 +1474,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Sicanje](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_sicanje_Sicanje.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line work that’s a combination of circular shapes, lines, and dots.
 
@@ -1616,19 +1483,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Sicanje tattoo; a traditional tattooing practice among Catholic Croats in Bosnia and Herzegovina, particularly in the Rama region, believed to protect against forced marriages, abductions, or conversions to Islam. Performed mainly on girls aged 10-15, the tattoos were made off of a mixture of soot, honey, and milk, often on hands or chests.
 
 **Era:** Modern - https://balkandiskurs.com/en/2022/10/21/the-tradition-of-sicanje/ - https://engagedscholarship.csuohio.edu/sicanje/ - https://www.atlasobscura.com/articles/sicanje-traditional-balkan-tattoo - https://discord.com/channels/1133935527855399053/1143685538075902095/11679201144699 78142 ---
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1649,7 +1512,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Sicanje
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1677,7 +1539,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Stylized Dragon](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_chinese_Stylized%20Dragon.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line work of a dragon’s face, front-view.
 
@@ -1687,19 +1548,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1720,7 +1577,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Chinese
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1748,7 +1604,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Indus Valley Civilization Oxen](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_punjabi_Indus%20Valley%20Civilization%20Oxen.webp)
 
-**Trait Category:**
 
 **Visual Description:** Simple shape made of lines, irregular outline resembling an Ox, with a slight curve, a small circular dot near the top center, and a jagged edge on the right side..
 
@@ -1758,19 +1613,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1791,7 +1642,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Punjabi
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1819,7 +1669,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Stylized Quetzalcoatl](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_mayan_Stylized%20Quetzalcoatl.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line work of a flying entity Quetzalcōātl/Kukulkan’s face, front-view, clouds can be seen indicating the figure being in the sky.
 
@@ -1829,19 +1678,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Quetzalcoatl, a prominent deity in Mesoamerican mythology, particularly among the Aztecs, revered as the god of wind, air, learning, and priesthood. Also known as Kukulkan.
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1862,7 +1707,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Mayan
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1890,7 +1734,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Om](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_hindu_Om.webp)
 
-**Trait Category:**
 
 **Visual Description:** An ‘om’ symbol in black.
 
@@ -1900,19 +1743,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** “Om” symbol (or Aum); a sacred sound and spiritual icon in Hinduism, Buddhism, and Jainism, representing the essence of the universe and the vibration of creation. Written as ॐ in Sanskrit, it combines the sounds "A," "U," and "M," symbolizing the waking, dreaming, and deep sleep states, with silence afterward representing transcendence. Used in meditation, mantras, and rituals, it signifies unity, peace, and the connection to the divine, often depicted in art and tattoos for its spiritual depth.
 
 **Era:** Ancient ---
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -1933,7 +1772,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Hindu
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -1961,7 +1799,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Pythia Bust](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_pythia_Pythia%20Bust.webp)
 
-**Trait Category:**
 
 **Visual Description:** A vague drawing mainly consisting of shading in the shape of a woman’s side profile.
 
@@ -1971,19 +1808,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Pythia
 
 **Era:** Ancient - https://en.wikipedia.org/wiki/Pythia
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2004,7 +1837,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2032,7 +1864,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Jaguar](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_mayan_Jaguar.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line drawing of what looks like an upside down cat-like animal in a distinct style.
 
@@ -2042,19 +1873,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Mayan Tribe; a Mayan jaguar tattoo generally symbolizes strength, power, and transformation, reflecting the jaguar's revered status in Mayan culture as a sacred animal and guardian of the spirit world. Associated with courage, protection, and rebirth, it was often linked to warriors and nobles who wore jaguar skins for battle prowess.
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2075,7 +1902,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2104,7 +1930,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Dragon](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_chinese_Dragon.webp)
 
-**Trait Category:**
 
 **Visual Description:** The traditional hanzi alphabet of the word ‘lóng’ in red.(龍)
 
@@ -2114,19 +1939,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient ---
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2147,7 +1968,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Chinese
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2175,7 +1995,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Barbed Wire](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Barbed%20Wire.webp)
 
-**Trait Category:**
 
 **Visual Description:** A barbed wire
 
@@ -2185,19 +2004,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2218,7 +2033,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2246,7 +2060,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![modern_native american_From the Full Moon fell Nokomis](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_native%20american_From%20the%20Full%20Moon%20fell%20Nokomis.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line work of a woman looking up with her hair floating and vines.
 
@@ -2256,19 +2069,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** "From the Full Moon Fell Nokomis" is a segment from Henry Wadsworth Longfellow's epic poem The Song of Hiawatha (1855). It describes how Nokomis, a woman born from the moon, falls to earth after a rival cuts her grapevine swing out of jealousy. On the meadow, she gives birth to her daughter Wenonah. Despite Nokomis' warnings, Wenonah is seduced by the West Wind (Mudjekeewis), leading to the birth of Hiawatha. Wenonah dies in childbirth, and Nokomis raises Hiawatha, nurturing him with wisdom and care by the shores of Gitche Gumee (Lake Superior). The story highlights themes of ancestry, nature, and matriarchal influence.
 
 **Era:** Modern ---
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2289,7 +2098,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2317,7 +2125,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![ancient_native american_Picture Cave](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_native%20american_Picture%20Cave.webp)
 
-**Trait Category:**
 
 **Visual Description:** Line work of a naked prehistoric man with what looks like arrows.
 
@@ -2327,19 +2134,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2360,7 +2163,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Native American
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2388,7 +2190,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Time](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_mongolian_Time.webp)
 
-**Trait Category:**
 
 **Visual Description:** (would like to take a bit more time thinking of a desc for this one).
 
@@ -2398,19 +2199,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2431,7 +2228,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Mongolian
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2459,7 +2255,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![ez love](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_ethiopian_ge_ez%20love.webp)
 
-**Trait Category:**
 
 **Visual Description:** What looks like a script; It is read: “ge’ez” meaning ‘love’ in ancient Semitic language of Ethiopia and Eritrea.
 
@@ -2469,19 +2264,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Ancient ---
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2502,7 +2293,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2530,7 +2320,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Grateful Dead Mushroom](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Grateful%20Dead%20Mushroom.webp)
 
-**Trait Category:**
 
 **Visual Description:** Pink bear posing in front of stereotypical cartoon-ish mushrooms in red and white.
 
@@ -2540,19 +2329,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Grateful Dead Mushroom, formed in 1965 in Palo Alto, California, was a pioneering psychedelic rock band led by Jerry Garcia, Bob Weir, and Phil Lesh. Known for their improvisational live performances, eclectic style blending rock, folk, and jazz, and a devoted fanbase ("Deadheads"), they released 13 studio albums, with hits like "Truckin'" and "Touch of Grey."
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2573,7 +2358,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2601,7 +2385,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Semilunar](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_arabic_Semilunar.webp)
 
-**Trait Category:**
 
 **Visual Description:** Semilunar moon made of flowy lines and circular shapes.
 
@@ -2611,19 +2394,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2644,7 +2423,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Arabic
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2672,7 +2450,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![ancient_irish druids_Triskele Hand](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_irish%20druids_Triskele%20Hand.webp)
 
-**Trait Category:**
 
 **Visual Description:** Motif consisting of 3 lines of spirals connected in the center, forming an almost-triangular shape of spirals.
 
@@ -2682,19 +2459,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Irish druids / Celtic culture
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2715,7 +2488,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Irish
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2743,7 +2515,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Stylized Dharma Wheel](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_buddhist_Stylized%20Dharma%20Wheel.webp)
 
-**Trait Category:**
 
 **Visual Description:** Dharmachakra; looks like a sailing wheel, in light brown.
 
@@ -2753,19 +2524,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Dharma Wheel (Dharmachakra), a key Buddhist symbol representing the Buddha’s teachings and the path to enlightenment. With eight spokes symbolizing the Noble Eightfold Path (right view, intention, speech, action, livelihood, effort, mindfulness, and concentration), it signifies the "Wheel of Law" turning to spread wisdom.
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2786,7 +2553,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Buddhist
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2814,7 +2580,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Sami Flag](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_sami_Sami%20Flag.webp)
 
-**Trait Category:**
 
 **Visual Description:** Sami flag with airbrush texture. Red on the left, blue on the right, 2 stripes in the middle- one green, one yellow, and topped with a circle- half in blue (left) and half in red (right).
 
@@ -2824,19 +2589,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Indigenous peoples of the Nordic countries and the Kola Peninsula of the Russian Federation.
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2857,7 +2618,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Sami
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2885,7 +2645,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Without Fear Without Hate](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_punjabi_Without%20Fear%20Without%20Hate.webp)
 
-**Trait Category:**
 
 **Visual Description:** Script written in Gurmukhi, “Nirbhau-Nirvair” ( ) meaning ਿਨਰਭਉਿਨਰਵੈਰੁ ‘without fear, without hate’ in black.
 
@@ -2895,19 +2654,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** Sikhism / the Punjabis
 
 **Era:** Modern
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2928,7 +2683,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Punjabi
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -2956,7 +2710,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![Minimal Temple of Obodas](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_arabic_Minimal%20Temple%20of%20Obodas.webp)
 
-**Trait Category:**
 
 **Visual Description:** Simple line art of buildings, resembling a city.
 
@@ -2966,19 +2719,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** King Obodas
 
 **Era:** Ancient
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -2999,7 +2748,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** Arabic
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3027,7 +2775,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Image Files:**
 ![No Tattoos](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/No%20tattoos.webp)
 
-**Trait Category:**
 
 **Visual Description:** Represents the absence of tattoos on a Mibera character.
 
@@ -3037,19 +2784,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:** 
 
 **Era:** 
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3070,7 +2813,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:** 
 
 
-**Trait Conflicts:** 
 
 ---
 
@@ -3097,7 +2839,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -3107,19 +2848,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3139,7 +2876,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -3165,7 +2901,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -3175,19 +2910,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3207,7 +2938,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
@@ -3233,7 +2963,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Image Files:**
 
-**Trait Category:**
 
 **Visual Description:**
 
@@ -3243,19 +2972,15 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Cultural Context
 
-**Source Type:**
 
 **Cultural Origin:**
 
 **Era:**
 
-**Scene Association:**
 
-**Geographic Roots:**
 
 **Why This Matters:**
 
-**Notable Figures:**
 
 ---
 
@@ -3275,7 +3000,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 **Ancestor:**
 
 
-**Trait Conflicts:**
 
 ---
 
