@@ -11,19 +11,15 @@ Mibera artwork is composed of layered traits rendered in a specific order from b
 ```
 Background (bottom)
     ↓
-Molecules Background
-    ↓
 Hair Back
     ↓
 Shirt Behind
-    ↓
-Mibera's Shadow
     ↓
 Body
     ↓
 Shirt/Long Sleeve Bottom
     ↓
-Face Tattoo
+Face Accessories
     ↓
 Hair Front
     ↓
@@ -31,25 +27,17 @@ Eyes
     ↓
 Mouth
     ↓
-Nose
-    ↓
 Eyebrows
     ↓
 Arms
     ↓
 Shirt Top Layer
     ↓
-Item
-    ↓
 Glasses
     ↓
 Hat
     ↓
-Icon
-    ↓
-Bar
-    ↓
-Rating (top)
+Item (top)
 ```
 
 ---
@@ -102,22 +90,6 @@ The world behind each Mibera.
 | Category | Description | Link |
 |----------|-------------|------|
 | **Backgrounds** | Environmental backdrops and settings | [→ Backgrounds](../backgrounds/backgrounds.md) |
-
----
-
-## Tribe-Specific Traits
-
-Certain trait categories are strongly associated with specific Archetypes and factor into the Swag Score calculation:
-
-| Tribe-Aligned Category | Scoring Impact |
-|------------------------|----------------|
-| Icon | High |
-| Hat | High |
-| Item | High |
-| Shirt | High |
-| Molecules Background | High |
-
-A Mibera with multiple traits from the same Archetype achieves higher **coherence** and a better Swag Score.
 
 ---
 

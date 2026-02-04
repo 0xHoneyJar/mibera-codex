@@ -52,20 +52,10 @@ Non-linear, spiral time with no beginning, middle, or end. The temporal mode of 
 
 ---
 
-## L
-
-### Liquid Backing
-The treasury value backing each Mibera NFT. Holders can sell back to treasury or use as loan collateral.
-
----
-
 ## M
 
 ### Mibera
 A time-travelling Rebased Retard Bera. The shadow side of Milady, embodying the Ravepill philosophy.
-
-### Mireveal
-The progressive reveal system showing Miberas in stages (1.1 through 8.8), from shadow silhouette to full artwork.
 
 ---
 

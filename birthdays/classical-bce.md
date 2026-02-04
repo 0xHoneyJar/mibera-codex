@@ -10,8 +10,6 @@
 
 **Era:** Axial Age (985 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -23,11 +21,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -37,8 +31,6 @@
 
 **Era:** Axial Age (975 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -50,11 +42,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -64,8 +52,6 @@
 
 **Era:** Axial Age (970 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -77,11 +63,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -91,8 +73,6 @@
 
 **Era:** Axial Age (942 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -104,11 +84,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:48 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -118,8 +94,6 @@
 
 **Era:** Axial Age (917 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -131,11 +105,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -145,8 +115,6 @@
 
 **Era:** Axial Age (916 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -158,11 +126,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -172,8 +136,6 @@
 
 **Era:** Axial Age (913 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -185,11 +147,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:58 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -199,8 +157,6 @@
 
 **Era:** Axial Age (911 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -212,11 +168,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:32 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -226,8 +178,6 @@
 
 **Era:** Axial Age (908 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -239,11 +189,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -253,8 +199,6 @@
 
 **Era:** Axial Age (906 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -266,11 +210,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -280,8 +220,6 @@
 
 **Era:** Axial Age (905 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -293,11 +231,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -307,8 +241,6 @@
 
 **Era:** Axial Age (904 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -320,11 +252,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:24 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -334,8 +262,6 @@
 
 **Era:** Axial Age (892 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -347,11 +273,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -361,8 +283,6 @@
 
 **Era:** Axial Age (890 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -374,11 +294,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -388,8 +304,6 @@
 
 **Era:** Axial Age (881 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -401,11 +315,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -415,8 +325,6 @@
 
 **Era:** Axial Age (881 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -428,11 +336,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -442,8 +346,6 @@
 
 **Era:** Axial Age (859 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -455,11 +357,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -469,8 +367,6 @@
 
 **Era:** Axial Age (857 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -482,11 +378,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -496,8 +388,6 @@
 
 **Era:** Axial Age (852 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -509,11 +399,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:25 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -523,8 +409,6 @@
 
 **Era:** Axial Age (851 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -536,11 +420,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -550,8 +430,6 @@
 
 **Era:** Axial Age (837 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -563,11 +441,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -577,8 +451,6 @@
 
 **Era:** Axial Age (833 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -590,11 +462,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -604,8 +472,6 @@
 
 **Era:** Axial Age (824 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -617,11 +483,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -631,8 +493,6 @@
 
 **Era:** Axial Age (809 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -644,11 +504,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -658,8 +514,6 @@
 
 **Era:** Axial Age (808 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -671,11 +525,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -685,8 +535,6 @@
 
 **Era:** Axial Age (805 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -698,11 +546,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -712,8 +556,6 @@
 
 **Era:** Axial Age (800 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -725,11 +567,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -739,8 +577,6 @@
 
 **Era:** Axial Age (798 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -752,11 +588,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:53 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -766,8 +598,6 @@
 
 **Era:** Axial Age (796 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -779,11 +609,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -793,8 +619,6 @@
 
 **Era:** Axial Age (795 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -806,11 +630,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:29 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -820,8 +640,6 @@
 
 **Era:** Axial Age (794 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -833,11 +651,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -847,8 +661,6 @@
 
 **Era:** Axial Age (783 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -860,11 +672,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -874,8 +682,6 @@
 
 **Era:** Axial Age (780 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -887,11 +693,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -901,8 +703,6 @@
 
 **Era:** Axial Age (777 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -914,11 +714,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -928,8 +724,6 @@
 
 **Era:** Axial Age (776 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -941,11 +735,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -955,8 +745,6 @@
 
 **Era:** Axial Age (774 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -968,11 +756,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -982,8 +766,6 @@
 
 **Era:** Axial Age (774 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -995,11 +777,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1009,8 +787,6 @@
 
 **Era:** Axial Age (773 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1022,11 +798,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1036,8 +808,6 @@
 
 **Era:** Axial Age (770 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1049,11 +819,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1063,8 +829,6 @@
 
 **Era:** Axial Age (769 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1076,11 +840,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:42 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1090,8 +850,6 @@
 
 **Era:** Axial Age (768 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1103,11 +861,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1117,8 +871,6 @@
 
 **Era:** Axial Age (767 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1130,11 +882,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1144,8 +892,6 @@
 
 **Era:** Axial Age (765 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1157,11 +903,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1171,8 +913,6 @@
 
 **Era:** Axial Age (764 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1184,11 +924,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1198,8 +934,6 @@
 
 **Era:** Axial Age (762 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1211,11 +945,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1225,8 +955,6 @@
 
 **Era:** Axial Age (759 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1238,11 +966,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1252,8 +976,6 @@
 
 **Era:** Axial Age (757 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1265,11 +987,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1279,8 +997,6 @@
 
 **Era:** Axial Age (756 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1292,11 +1008,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1306,8 +1018,6 @@
 
 **Era:** Axial Age (750 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1319,11 +1029,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1333,8 +1039,6 @@
 
 **Era:** Axial Age (749 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1346,11 +1050,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:41 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1360,8 +1060,6 @@
 
 **Era:** Axial Age (744 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1373,11 +1071,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1387,8 +1081,6 @@
 
 **Era:** Axial Age (742 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1400,11 +1092,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1414,8 +1102,6 @@
 
 **Era:** Axial Age (741 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1427,11 +1113,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1441,8 +1123,6 @@
 
 **Era:** Axial Age (741 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1454,11 +1134,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1468,8 +1144,6 @@
 
 **Era:** Axial Age (740 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1481,11 +1155,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1495,8 +1165,6 @@
 
 **Era:** Axial Age (738 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1508,11 +1176,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1522,8 +1186,6 @@
 
 **Era:** Axial Age (736 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1535,11 +1197,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1549,8 +1207,6 @@
 
 **Era:** Axial Age (735 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1562,11 +1218,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1576,8 +1228,6 @@
 
 **Era:** Axial Age (734 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1589,11 +1239,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1603,8 +1249,6 @@
 
 **Era:** Axial Age (733 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1616,11 +1260,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1630,8 +1270,6 @@
 
 **Era:** Axial Age (725 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1643,11 +1281,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1657,8 +1291,6 @@
 
 **Era:** Axial Age (719 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1670,11 +1302,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1684,8 +1312,6 @@
 
 **Era:** Axial Age (718 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1697,11 +1323,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1711,8 +1333,6 @@
 
 **Era:** Axial Age (717 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1724,11 +1344,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1738,8 +1354,6 @@
 
 **Era:** Axial Age (716 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1751,11 +1365,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1765,8 +1375,6 @@
 
 **Era:** Axial Age (714 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1778,11 +1386,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1792,8 +1396,6 @@
 
 **Era:** Axial Age (714 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1805,11 +1407,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1819,8 +1417,6 @@
 
 **Era:** Axial Age (713 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1832,11 +1428,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1846,8 +1438,6 @@
 
 **Era:** Axial Age (709 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1859,11 +1449,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:48 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1873,8 +1459,6 @@
 
 **Era:** Axial Age (707 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1886,11 +1470,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1900,8 +1480,6 @@
 
 **Era:** Axial Age (706 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1913,11 +1491,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1927,8 +1501,6 @@
 
 **Era:** Axial Age (699 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1940,11 +1512,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1954,8 +1522,6 @@
 
 **Era:** Axial Age (689 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1967,11 +1533,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1981,8 +1543,6 @@
 
 **Era:** Axial Age (689 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1994,11 +1554,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 07:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2008,8 +1564,6 @@
 
 **Era:** Axial Age (689 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2021,11 +1575,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2035,8 +1585,6 @@
 
 **Era:** Axial Age (685 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2048,11 +1596,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2062,8 +1606,6 @@
 
 **Era:** Axial Age (682 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2075,11 +1617,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2089,8 +1627,6 @@
 
 **Era:** Axial Age (682 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2102,11 +1638,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:05 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2116,8 +1648,6 @@
 
 **Era:** Axial Age (679 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2129,11 +1659,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2143,8 +1669,6 @@
 
 **Era:** Axial Age (675 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2156,11 +1680,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2170,8 +1690,6 @@
 
 **Era:** Axial Age (674 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2183,11 +1701,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2197,8 +1711,6 @@
 
 **Era:** Axial Age (670 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2210,11 +1722,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:58 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2224,8 +1732,6 @@
 
 **Era:** Axial Age (663 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2237,11 +1743,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2251,8 +1753,6 @@
 
 **Era:** Axial Age (662 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2264,11 +1764,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2278,8 +1774,6 @@
 
 **Era:** Axial Age (661 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2291,11 +1785,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2305,8 +1795,6 @@
 
 **Era:** Axial Age (659 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2318,11 +1806,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2332,8 +1816,6 @@
 
 **Era:** Axial Age (658 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2345,11 +1827,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2359,8 +1837,6 @@
 
 **Era:** Axial Age (655 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2372,11 +1848,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2386,8 +1858,6 @@
 
 **Era:** Axial Age (653 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2399,11 +1869,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:42 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2413,8 +1879,6 @@
 
 **Era:** Axial Age (650 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2426,11 +1890,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2440,8 +1900,6 @@
 
 **Era:** Axial Age (647 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2453,11 +1911,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2467,8 +1921,6 @@
 
 **Era:** Axial Age (646 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2480,11 +1932,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2494,8 +1942,6 @@
 
 **Era:** Axial Age (641 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2507,11 +1953,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:09 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2521,8 +1963,6 @@
 
 **Era:** Axial Age (640 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2534,11 +1974,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2548,8 +1984,6 @@
 
 **Era:** Axial Age (635 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2561,11 +1995,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2575,8 +2005,6 @@
 
 **Era:** Axial Age (635 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2588,11 +2016,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2602,8 +2026,6 @@
 
 **Era:** Axial Age (633 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2615,11 +2037,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2629,8 +2047,6 @@
 
 **Era:** Axial Age (632 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2642,11 +2058,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2656,8 +2068,6 @@
 
 **Era:** Axial Age (630 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2669,11 +2079,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2683,8 +2089,6 @@
 
 **Era:** Axial Age (630 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2696,11 +2100,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2710,8 +2110,6 @@
 
 **Era:** Axial Age (626 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2723,11 +2121,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2737,8 +2131,6 @@
 
 **Era:** Axial Age (626 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2750,11 +2142,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:36 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2764,8 +2152,6 @@
 
 **Era:** Axial Age (625 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2777,11 +2163,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2791,8 +2173,6 @@
 
 **Era:** Axial Age (625 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2804,11 +2184,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2818,8 +2194,6 @@
 
 **Era:** Axial Age (623 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2831,11 +2205,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2845,8 +2215,6 @@
 
 **Era:** Axial Age (621 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2858,11 +2226,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2872,8 +2236,6 @@
 
 **Era:** Axial Age (620 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2885,11 +2247,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2899,8 +2257,6 @@
 
 **Era:** Axial Age (620 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2912,11 +2268,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2926,8 +2278,6 @@
 
 **Era:** Axial Age (618 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2939,11 +2289,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2953,8 +2299,6 @@
 
 **Era:** Axial Age (616 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2966,11 +2310,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:57 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2980,8 +2320,6 @@
 
 **Era:** Axial Age (613 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2993,11 +2331,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3007,8 +2341,6 @@
 
 **Era:** Axial Age (611 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3020,11 +2352,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3034,8 +2362,6 @@
 
 **Era:** Axial Age (609 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3047,11 +2373,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3061,8 +2383,6 @@
 
 **Era:** Axial Age (609 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3074,11 +2394,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3088,8 +2404,6 @@
 
 **Era:** Axial Age (607 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3101,11 +2415,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3115,8 +2425,6 @@
 
 **Era:** Axial Age (601 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3128,11 +2436,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3142,8 +2446,6 @@
 
 **Era:** Axial Age (599 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3155,11 +2457,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3169,8 +2467,6 @@
 
 **Era:** Axial Age (590 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3182,11 +2478,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3196,8 +2488,6 @@
 
 **Era:** Axial Age (588 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3209,11 +2499,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3223,8 +2509,6 @@
 
 **Era:** Axial Age (586 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3236,11 +2520,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3250,8 +2530,6 @@
 
 **Era:** Axial Age (584 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3263,11 +2541,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3277,8 +2551,6 @@
 
 **Era:** Axial Age (583 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3290,11 +2562,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3304,8 +2572,6 @@
 
 **Era:** Axial Age (580 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3317,11 +2583,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3331,8 +2593,6 @@
 
 **Era:** Axial Age (578 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3344,11 +2604,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3358,8 +2614,6 @@
 
 **Era:** Axial Age (575 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3371,11 +2625,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3385,8 +2635,6 @@
 
 **Era:** Axial Age (573 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3398,11 +2646,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3412,8 +2656,6 @@
 
 **Era:** Axial Age (573 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3425,11 +2667,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3439,8 +2677,6 @@
 
 **Era:** Axial Age (573 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3452,11 +2688,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3466,8 +2698,6 @@
 
 **Era:** Axial Age (573 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3479,11 +2709,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:45 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3493,8 +2719,6 @@
 
 **Era:** Axial Age (570 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3506,11 +2730,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3520,8 +2740,6 @@
 
 **Era:** Axial Age (568 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3533,11 +2751,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3547,8 +2761,6 @@
 
 **Era:** Axial Age (565 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3560,11 +2772,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3574,8 +2782,6 @@
 
 **Era:** Axial Age (564 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3587,11 +2793,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3601,8 +2803,6 @@
 
 **Era:** Axial Age (564 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3614,11 +2814,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3628,8 +2824,6 @@
 
 **Era:** Axial Age (563 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3641,11 +2835,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3655,8 +2845,6 @@
 
 **Era:** Axial Age (560 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3668,11 +2856,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3682,8 +2866,6 @@
 
 **Era:** Axial Age (559 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3695,11 +2877,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3709,8 +2887,6 @@
 
 **Era:** Axial Age (559 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3722,11 +2898,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3736,8 +2908,6 @@
 
 **Era:** Axial Age (558 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3749,11 +2919,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3763,8 +2929,6 @@
 
 **Era:** Axial Age (554 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3776,11 +2940,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3790,8 +2950,6 @@
 
 **Era:** Axial Age (553 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3803,11 +2961,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3817,8 +2971,6 @@
 
 **Era:** Axial Age (552 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3830,11 +2982,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3844,8 +2992,6 @@
 
 **Era:** Axial Age (551 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3857,11 +3003,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3871,8 +3013,6 @@
 
 **Era:** Axial Age (551 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3884,11 +3024,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3898,8 +3034,6 @@
 
 **Era:** Axial Age (546 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3911,11 +3045,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3925,8 +3055,6 @@
 
 **Era:** Axial Age (545 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3938,11 +3066,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3952,8 +3076,6 @@
 
 **Era:** Axial Age (544 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3965,11 +3087,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3979,8 +3097,6 @@
 
 **Era:** Axial Age (542 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3992,11 +3108,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4006,8 +3118,6 @@
 
 **Era:** Axial Age (541 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4019,11 +3129,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4033,8 +3139,6 @@
 
 **Era:** Axial Age (541 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4046,11 +3150,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4060,8 +3160,6 @@
 
 **Era:** Axial Age (539 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4073,11 +3171,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4087,8 +3181,6 @@
 
 **Era:** Axial Age (539 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4100,11 +3192,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4114,8 +3202,6 @@
 
 **Era:** Axial Age (539 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4127,11 +3213,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 23:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4141,8 +3223,6 @@
 
 **Era:** Axial Age (538 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4154,11 +3234,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4168,8 +3244,6 @@
 
 **Era:** Axial Age (536 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4181,11 +3255,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 21:26 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4195,8 +3265,6 @@
 
 **Era:** Axial Age (530 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4208,11 +3276,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:48 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4222,8 +3286,6 @@
 
 **Era:** Axial Age (530 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4235,11 +3297,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4249,8 +3307,6 @@
 
 **Era:** Axial Age (528 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4262,11 +3318,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4276,8 +3328,6 @@
 
 **Era:** Axial Age (526 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4289,11 +3339,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4303,8 +3349,6 @@
 
 **Era:** Axial Age (523 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4316,11 +3360,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4330,8 +3370,6 @@
 
 **Era:** Axial Age (523 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4343,11 +3381,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4357,8 +3391,6 @@
 
 **Era:** Axial Age (520 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4370,11 +3402,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4384,8 +3412,6 @@
 
 **Era:** Axial Age (519 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4397,11 +3423,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4411,8 +3433,6 @@
 
 **Era:** Axial Age (517 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4424,11 +3444,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4438,8 +3454,6 @@
 
 **Era:** Axial Age (517 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4451,11 +3465,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4465,8 +3475,6 @@
 
 **Era:** Axial Age (517 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4478,11 +3486,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4492,8 +3496,6 @@
 
 **Era:** Axial Age (516 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4505,11 +3507,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4519,8 +3517,6 @@
 
 **Era:** Axial Age (515 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4532,11 +3528,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4546,8 +3538,6 @@
 
 **Era:** Axial Age (515 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4559,11 +3549,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4573,8 +3559,6 @@
 
 **Era:** Axial Age (514 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4586,11 +3570,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4600,8 +3580,6 @@
 
 **Era:** Axial Age (514 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4613,11 +3591,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4627,8 +3601,6 @@
 
 **Era:** Axial Age (512 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4640,11 +3612,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:42 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4654,8 +3622,6 @@
 
 **Era:** Axial Age (511 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4667,11 +3633,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4681,8 +3643,6 @@
 
 **Era:** Axial Age (510 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4694,11 +3654,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4708,8 +3664,6 @@
 
 **Era:** Axial Age (510 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4721,11 +3675,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4735,8 +3685,6 @@
 
 **Era:** Axial Age (505 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4748,11 +3696,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4762,8 +3706,6 @@
 
 **Era:** Axial Age (505 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4775,11 +3717,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4789,8 +3727,6 @@
 
 **Era:** Axial Age (501 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4802,11 +3738,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4816,8 +3748,6 @@
 
 **Era:** Axial Age (500 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4829,11 +3759,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4843,8 +3769,6 @@
 
 **Era:** Axial Age (500 BCE)
 
-*Buddha, Confucius, Greek philosophers. Spiritual awakening across the world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4856,11 +3780,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4870,8 +3790,6 @@
 
 **Era:** Classical Antiquity (498 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -4883,11 +3801,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4897,8 +3811,6 @@
 
 **Era:** Classical Antiquity (497 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -4910,11 +3822,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4924,8 +3832,6 @@
 
 **Era:** Classical Antiquity (497 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -4937,11 +3843,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4951,8 +3853,6 @@
 
 **Era:** Classical Antiquity (497 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -4964,11 +3864,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4978,8 +3874,6 @@
 
 **Era:** Classical Antiquity (493 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -4991,11 +3885,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5005,8 +3895,6 @@
 
 **Era:** Classical Antiquity (493 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5018,11 +3906,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5032,8 +3916,6 @@
 
 **Era:** Classical Antiquity (493 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5045,11 +3927,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5059,8 +3937,6 @@
 
 **Era:** Classical Antiquity (491 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5072,11 +3948,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5086,8 +3958,6 @@
 
 **Era:** Classical Antiquity (491 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5099,11 +3969,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5113,8 +3979,6 @@
 
 **Era:** Classical Antiquity (491 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5126,11 +3990,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5140,8 +4000,6 @@
 
 **Era:** Classical Antiquity (490 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5153,11 +4011,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:17 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5167,8 +4021,6 @@
 
 **Era:** Classical Antiquity (490 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5180,11 +4032,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5194,8 +4042,6 @@
 
 **Era:** Classical Antiquity (490 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5207,11 +4053,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5221,8 +4063,6 @@
 
 **Era:** Classical Antiquity (489 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5234,11 +4074,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 07:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5248,8 +4084,6 @@
 
 **Era:** Classical Antiquity (487 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5261,11 +4095,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:24 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5275,8 +4105,6 @@
 
 **Era:** Classical Antiquity (486 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5288,11 +4116,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5302,8 +4126,6 @@
 
 **Era:** Classical Antiquity (484 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5315,11 +4137,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:44 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5329,8 +4147,6 @@
 
 **Era:** Classical Antiquity (483 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5342,11 +4158,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5356,8 +4168,6 @@
 
 **Era:** Classical Antiquity (483 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5369,11 +4179,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5383,8 +4189,6 @@
 
 **Era:** Classical Antiquity (482 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5396,11 +4200,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5410,8 +4210,6 @@
 
 **Era:** Classical Antiquity (479 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5423,11 +4221,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 23:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5437,8 +4231,6 @@
 
 **Era:** Classical Antiquity (479 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5450,11 +4242,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5464,8 +4252,6 @@
 
 **Era:** Classical Antiquity (479 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5477,11 +4263,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5491,8 +4273,6 @@
 
 **Era:** Classical Antiquity (477 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5504,11 +4284,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5518,8 +4294,6 @@
 
 **Era:** Classical Antiquity (477 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5531,11 +4305,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5545,8 +4315,6 @@
 
 **Era:** Classical Antiquity (477 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5558,11 +4326,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5572,8 +4336,6 @@
 
 **Era:** Classical Antiquity (476 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5585,11 +4347,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5599,8 +4357,6 @@
 
 **Era:** Classical Antiquity (475 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5612,11 +4368,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5626,8 +4378,6 @@
 
 **Era:** Classical Antiquity (475 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5639,11 +4389,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5653,8 +4399,6 @@
 
 **Era:** Classical Antiquity (475 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5666,11 +4410,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5680,8 +4420,6 @@
 
 **Era:** Classical Antiquity (474 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5693,11 +4431,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:14 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5707,8 +4441,6 @@
 
 **Era:** Classical Antiquity (474 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5720,11 +4452,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5734,8 +4462,6 @@
 
 **Era:** Classical Antiquity (473 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5747,11 +4473,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5761,8 +4483,6 @@
 
 **Era:** Classical Antiquity (473 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5774,11 +4494,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5788,8 +4504,6 @@
 
 **Era:** Classical Antiquity (472 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5801,11 +4515,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5815,8 +4525,6 @@
 
 **Era:** Classical Antiquity (470 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5828,11 +4536,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5842,8 +4546,6 @@
 
 **Era:** Classical Antiquity (470 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5855,11 +4557,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5869,8 +4567,6 @@
 
 **Era:** Classical Antiquity (468 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5882,11 +4578,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:24 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5896,8 +4588,6 @@
 
 **Era:** Classical Antiquity (466 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5909,11 +4599,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5923,8 +4609,6 @@
 
 **Era:** Classical Antiquity (466 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5936,11 +4620,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5950,8 +4630,6 @@
 
 **Era:** Classical Antiquity (465 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5963,11 +4641,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5977,8 +4651,6 @@
 
 **Era:** Classical Antiquity (465 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -5990,11 +4662,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:20 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6004,8 +4672,6 @@
 
 **Era:** Classical Antiquity (464 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6017,11 +4683,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6031,8 +4693,6 @@
 
 **Era:** Classical Antiquity (464 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6044,11 +4704,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6058,8 +4714,6 @@
 
 **Era:** Classical Antiquity (462 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6071,11 +4725,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6085,8 +4735,6 @@
 
 **Era:** Classical Antiquity (461 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6098,11 +4746,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6112,8 +4756,6 @@
 
 **Era:** Classical Antiquity (460 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6125,11 +4767,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6139,8 +4777,6 @@
 
 **Era:** Classical Antiquity (459 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6152,11 +4788,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6166,8 +4798,6 @@
 
 **Era:** Classical Antiquity (458 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6179,11 +4809,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6193,8 +4819,6 @@
 
 **Era:** Classical Antiquity (458 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6206,11 +4830,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:54 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6220,8 +4840,6 @@
 
 **Era:** Classical Antiquity (456 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6233,11 +4851,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:31 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6247,8 +4861,6 @@
 
 **Era:** Classical Antiquity (452 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6260,11 +4872,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6274,8 +4882,6 @@
 
 **Era:** Classical Antiquity (451 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6287,11 +4893,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6301,8 +4903,6 @@
 
 **Era:** Classical Antiquity (450 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6314,11 +4914,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6328,8 +4924,6 @@
 
 **Era:** Classical Antiquity (448 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6341,11 +4935,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6355,8 +4945,6 @@
 
 **Era:** Classical Antiquity (447 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6368,11 +4956,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6382,8 +4966,6 @@
 
 **Era:** Classical Antiquity (446 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6395,11 +4977,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6409,8 +4987,6 @@
 
 **Era:** Classical Antiquity (443 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6422,11 +4998,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6436,8 +5008,6 @@
 
 **Era:** Classical Antiquity (443 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6449,11 +5019,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6463,8 +5029,6 @@
 
 **Era:** Classical Antiquity (442 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6476,11 +5040,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 15:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6490,8 +5050,6 @@
 
 **Era:** Classical Antiquity (442 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6503,11 +5061,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6517,8 +5071,6 @@
 
 **Era:** Classical Antiquity (442 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6530,11 +5082,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6544,8 +5092,6 @@
 
 **Era:** Classical Antiquity (441 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6557,11 +5103,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6571,8 +5113,6 @@
 
 **Era:** Classical Antiquity (441 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6584,11 +5124,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:42 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6598,8 +5134,6 @@
 
 **Era:** Classical Antiquity (440 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6611,11 +5145,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:27 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6625,8 +5155,6 @@
 
 **Era:** Classical Antiquity (439 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6638,11 +5166,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6652,8 +5176,6 @@
 
 **Era:** Classical Antiquity (439 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6665,11 +5187,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6679,8 +5197,6 @@
 
 **Era:** Classical Antiquity (437 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6692,11 +5208,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:16 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6706,8 +5218,6 @@
 
 **Era:** Classical Antiquity (435 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6719,11 +5229,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:54 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6733,8 +5239,6 @@
 
 **Era:** Classical Antiquity (434 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6746,11 +5250,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6760,8 +5260,6 @@
 
 **Era:** Classical Antiquity (433 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6773,11 +5271,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6787,8 +5281,6 @@
 
 **Era:** Classical Antiquity (432 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6800,11 +5292,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6814,8 +5302,6 @@
 
 **Era:** Classical Antiquity (429 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6827,11 +5313,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6841,8 +5323,6 @@
 
 **Era:** Classical Antiquity (429 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6854,11 +5334,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6868,8 +5344,6 @@
 
 **Era:** Classical Antiquity (427 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6881,11 +5355,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6895,8 +5365,6 @@
 
 **Era:** Classical Antiquity (427 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6908,11 +5376,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6922,8 +5386,6 @@
 
 **Era:** Classical Antiquity (426 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6935,11 +5397,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:20 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6949,8 +5407,6 @@
 
 **Era:** Classical Antiquity (425 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6962,11 +5418,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6976,8 +5428,6 @@
 
 **Era:** Classical Antiquity (424 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -6989,11 +5439,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7003,8 +5449,6 @@
 
 **Era:** Classical Antiquity (424 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7016,11 +5460,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7030,8 +5470,6 @@
 
 **Era:** Classical Antiquity (423 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7043,11 +5481,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7057,8 +5491,6 @@
 
 **Era:** Classical Antiquity (421 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7070,11 +5502,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7084,8 +5512,6 @@
 
 **Era:** Classical Antiquity (421 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7097,11 +5523,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:27 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7111,8 +5533,6 @@
 
 **Era:** Classical Antiquity (421 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7124,11 +5544,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7138,8 +5554,6 @@
 
 **Era:** Classical Antiquity (421 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7151,11 +5565,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7165,8 +5575,6 @@
 
 **Era:** Classical Antiquity (419 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7178,11 +5586,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7192,8 +5596,6 @@
 
 **Era:** Classical Antiquity (419 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7205,11 +5607,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7219,8 +5617,6 @@
 
 **Era:** Classical Antiquity (418 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7232,11 +5628,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:01 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7246,8 +5638,6 @@
 
 **Era:** Classical Antiquity (417 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7259,11 +5649,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7273,8 +5659,6 @@
 
 **Era:** Classical Antiquity (414 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7286,11 +5670,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7300,8 +5680,6 @@
 
 **Era:** Classical Antiquity (412 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7313,11 +5691,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7327,8 +5701,6 @@
 
 **Era:** Classical Antiquity (412 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7340,11 +5712,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 21:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7354,8 +5722,6 @@
 
 **Era:** Classical Antiquity (412 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7367,11 +5733,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7381,8 +5743,6 @@
 
 **Era:** Classical Antiquity (412 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7394,11 +5754,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7408,8 +5764,6 @@
 
 **Era:** Classical Antiquity (410 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7421,11 +5775,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7435,8 +5785,6 @@
 
 **Era:** Classical Antiquity (409 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7448,11 +5796,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7462,8 +5806,6 @@
 
 **Era:** Classical Antiquity (406 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7475,11 +5817,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:40 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7489,8 +5827,6 @@
 
 **Era:** Classical Antiquity (406 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7502,11 +5838,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 07:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7516,8 +5848,6 @@
 
 **Era:** Classical Antiquity (405 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7529,11 +5859,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7543,8 +5869,6 @@
 
 **Era:** Classical Antiquity (404 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7556,11 +5880,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7570,8 +5890,6 @@
 
 **Era:** Classical Antiquity (404 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7583,11 +5901,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7597,8 +5911,6 @@
 
 **Era:** Classical Antiquity (404 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7610,11 +5922,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7624,8 +5932,6 @@
 
 **Era:** Classical Antiquity (404 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7637,11 +5943,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7651,8 +5953,6 @@
 
 **Era:** Classical Antiquity (404 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7664,11 +5964,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7678,8 +5974,6 @@
 
 **Era:** Classical Antiquity (404 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7691,11 +5985,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:40 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7705,8 +5995,6 @@
 
 **Era:** Classical Antiquity (401 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7718,11 +6006,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7732,8 +6016,6 @@
 
 **Era:** Classical Antiquity (400 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7745,11 +6027,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7759,8 +6037,6 @@
 
 **Era:** Classical Antiquity (398 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7772,11 +6048,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7786,8 +6058,6 @@
 
 **Era:** Classical Antiquity (397 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7799,11 +6069,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7813,8 +6079,6 @@
 
 **Era:** Classical Antiquity (395 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7826,11 +6090,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7840,8 +6100,6 @@
 
 **Era:** Classical Antiquity (395 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7853,11 +6111,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7867,8 +6121,6 @@
 
 **Era:** Classical Antiquity (395 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7880,11 +6132,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:47 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7894,8 +6142,6 @@
 
 **Era:** Classical Antiquity (394 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7907,11 +6153,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7921,8 +6163,6 @@
 
 **Era:** Classical Antiquity (393 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7934,11 +6174,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7948,8 +6184,6 @@
 
 **Era:** Classical Antiquity (393 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7961,11 +6195,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:26 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7975,8 +6205,6 @@
 
 **Era:** Classical Antiquity (389 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -7988,11 +6216,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8002,8 +6226,6 @@
 
 **Era:** Classical Antiquity (388 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8015,11 +6237,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8029,8 +6247,6 @@
 
 **Era:** Classical Antiquity (388 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8042,11 +6258,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8056,8 +6268,6 @@
 
 **Era:** Classical Antiquity (386 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8069,11 +6279,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8083,8 +6289,6 @@
 
 **Era:** Classical Antiquity (386 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8096,11 +6300,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8110,8 +6310,6 @@
 
 **Era:** Classical Antiquity (385 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8123,11 +6321,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:16 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8137,8 +6331,6 @@
 
 **Era:** Classical Antiquity (384 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8150,11 +6342,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8164,8 +6352,6 @@
 
 **Era:** Classical Antiquity (384 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8177,11 +6363,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8191,8 +6373,6 @@
 
 **Era:** Classical Antiquity (384 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8204,11 +6384,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8218,8 +6394,6 @@
 
 **Era:** Classical Antiquity (383 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8231,11 +6405,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8245,8 +6415,6 @@
 
 **Era:** Classical Antiquity (383 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8258,11 +6426,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8272,8 +6436,6 @@
 
 **Era:** Classical Antiquity (382 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8285,11 +6447,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8299,8 +6457,6 @@
 
 **Era:** Classical Antiquity (381 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8312,11 +6468,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:59 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8326,8 +6478,6 @@
 
 **Era:** Classical Antiquity (380 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8339,11 +6489,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8353,8 +6499,6 @@
 
 **Era:** Classical Antiquity (380 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8366,11 +6510,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8380,8 +6520,6 @@
 
 **Era:** Classical Antiquity (379 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8393,11 +6531,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8407,8 +6541,6 @@
 
 **Era:** Classical Antiquity (377 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8420,11 +6552,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:46 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8434,8 +6562,6 @@
 
 **Era:** Classical Antiquity (376 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8447,11 +6573,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8461,8 +6583,6 @@
 
 **Era:** Classical Antiquity (376 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8474,11 +6594,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8488,8 +6604,6 @@
 
 **Era:** Classical Antiquity (374 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8501,11 +6615,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8515,8 +6625,6 @@
 
 **Era:** Classical Antiquity (373 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8528,11 +6636,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8542,8 +6646,6 @@
 
 **Era:** Classical Antiquity (372 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8555,11 +6657,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8569,8 +6667,6 @@
 
 **Era:** Classical Antiquity (369 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8582,11 +6678,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8596,8 +6688,6 @@
 
 **Era:** Classical Antiquity (368 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8609,11 +6699,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8623,8 +6709,6 @@
 
 **Era:** Classical Antiquity (368 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8636,11 +6720,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8650,8 +6730,6 @@
 
 **Era:** Classical Antiquity (367 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8663,11 +6741,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8677,8 +6751,6 @@
 
 **Era:** Classical Antiquity (366 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8690,11 +6762,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8704,8 +6772,6 @@
 
 **Era:** Classical Antiquity (366 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8717,11 +6783,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:59 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8731,8 +6793,6 @@
 
 **Era:** Classical Antiquity (363 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8744,11 +6804,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8758,8 +6814,6 @@
 
 **Era:** Classical Antiquity (360 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8771,11 +6825,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8785,8 +6835,6 @@
 
 **Era:** Classical Antiquity (360 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8798,11 +6846,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8812,8 +6856,6 @@
 
 **Era:** Classical Antiquity (359 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8825,11 +6867,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8839,8 +6877,6 @@
 
 **Era:** Classical Antiquity (359 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8852,11 +6888,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:28 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8866,8 +6898,6 @@
 
 **Era:** Classical Antiquity (356 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8879,11 +6909,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8893,8 +6919,6 @@
 
 **Era:** Classical Antiquity (356 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8906,11 +6930,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8920,8 +6940,6 @@
 
 **Era:** Classical Antiquity (355 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8933,11 +6951,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8947,8 +6961,6 @@
 
 **Era:** Classical Antiquity (355 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8960,11 +6972,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8974,8 +6982,6 @@
 
 **Era:** Classical Antiquity (355 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -8987,11 +6993,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9001,8 +7003,6 @@
 
 **Era:** Classical Antiquity (353 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9014,11 +7014,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9028,8 +7024,6 @@
 
 **Era:** Classical Antiquity (353 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9041,11 +7035,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9055,8 +7045,6 @@
 
 **Era:** Classical Antiquity (352 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9068,11 +7056,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9082,8 +7066,6 @@
 
 **Era:** Classical Antiquity (352 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9095,11 +7077,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9109,8 +7087,6 @@
 
 **Era:** Classical Antiquity (351 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9122,11 +7098,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9136,8 +7108,6 @@
 
 **Era:** Classical Antiquity (350 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9149,11 +7119,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:50 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9163,8 +7129,6 @@
 
 **Era:** Classical Antiquity (349 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9176,11 +7140,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9190,8 +7150,6 @@
 
 **Era:** Classical Antiquity (349 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9203,11 +7161,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9217,8 +7171,6 @@
 
 **Era:** Classical Antiquity (348 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9230,11 +7182,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:16 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9244,8 +7192,6 @@
 
 **Era:** Classical Antiquity (347 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9257,11 +7203,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9271,8 +7213,6 @@
 
 **Era:** Classical Antiquity (347 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9284,11 +7224,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9298,8 +7234,6 @@
 
 **Era:** Classical Antiquity (347 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9311,11 +7245,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9325,8 +7255,6 @@
 
 **Era:** Classical Antiquity (345 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9338,11 +7266,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9352,8 +7276,6 @@
 
 **Era:** Classical Antiquity (344 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9365,11 +7287,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9379,8 +7297,6 @@
 
 **Era:** Classical Antiquity (344 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9392,11 +7308,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9406,8 +7318,6 @@
 
 **Era:** Classical Antiquity (344 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9419,11 +7329,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:45 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9433,8 +7339,6 @@
 
 **Era:** Classical Antiquity (343 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9446,11 +7350,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9460,8 +7360,6 @@
 
 **Era:** Classical Antiquity (342 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9473,11 +7371,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9487,8 +7381,6 @@
 
 **Era:** Classical Antiquity (342 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9500,11 +7392,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9514,8 +7402,6 @@
 
 **Era:** Classical Antiquity (340 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9527,11 +7413,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9541,8 +7423,6 @@
 
 **Era:** Classical Antiquity (339 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9554,11 +7434,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9568,8 +7444,6 @@
 
 **Era:** Classical Antiquity (338 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9581,11 +7455,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9595,8 +7465,6 @@
 
 **Era:** Classical Antiquity (337 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9608,11 +7476,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9622,8 +7486,6 @@
 
 **Era:** Classical Antiquity (336 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9635,11 +7497,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:45 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9649,8 +7507,6 @@
 
 **Era:** Classical Antiquity (336 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9662,11 +7518,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9676,8 +7528,6 @@
 
 **Era:** Classical Antiquity (335 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9689,11 +7539,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9703,8 +7549,6 @@
 
 **Era:** Classical Antiquity (335 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9716,11 +7560,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9730,8 +7570,6 @@
 
 **Era:** Classical Antiquity (333 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9743,11 +7581,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9757,8 +7591,6 @@
 
 **Era:** Classical Antiquity (332 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9770,11 +7602,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9784,8 +7612,6 @@
 
 **Era:** Classical Antiquity (332 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9797,11 +7623,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9811,8 +7633,6 @@
 
 **Era:** Classical Antiquity (330 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9824,11 +7644,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9838,8 +7654,6 @@
 
 **Era:** Classical Antiquity (328 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9851,11 +7665,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9865,8 +7675,6 @@
 
 **Era:** Classical Antiquity (327 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9878,11 +7686,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9892,8 +7696,6 @@
 
 **Era:** Classical Antiquity (326 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9905,11 +7707,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9919,8 +7717,6 @@
 
 **Era:** Classical Antiquity (325 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9932,11 +7728,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9946,8 +7738,6 @@
 
 **Era:** Classical Antiquity (325 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9959,11 +7749,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:28 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9973,8 +7759,6 @@
 
 **Era:** Classical Antiquity (324 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -9986,11 +7770,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10000,8 +7780,6 @@
 
 **Era:** Classical Antiquity (322 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10013,11 +7791,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10027,8 +7801,6 @@
 
 **Era:** Classical Antiquity (320 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10040,11 +7812,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:01 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10054,8 +7822,6 @@
 
 **Era:** Classical Antiquity (318 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10067,11 +7833,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10081,8 +7843,6 @@
 
 **Era:** Classical Antiquity (316 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10094,11 +7854,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10108,8 +7864,6 @@
 
 **Era:** Classical Antiquity (315 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10121,11 +7875,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10135,8 +7885,6 @@
 
 **Era:** Classical Antiquity (315 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10148,11 +7896,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:54 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10162,8 +7906,6 @@
 
 **Era:** Classical Antiquity (314 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10175,11 +7917,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10189,8 +7927,6 @@
 
 **Era:** Classical Antiquity (313 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10202,11 +7938,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10216,8 +7948,6 @@
 
 **Era:** Classical Antiquity (311 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10229,11 +7959,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10243,8 +7969,6 @@
 
 **Era:** Classical Antiquity (310 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10256,11 +7980,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10270,8 +7990,6 @@
 
 **Era:** Classical Antiquity (306 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10283,11 +8001,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10297,8 +8011,6 @@
 
 **Era:** Classical Antiquity (304 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10310,11 +8022,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10324,8 +8032,6 @@
 
 **Era:** Classical Antiquity (304 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10337,11 +8043,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10351,8 +8053,6 @@
 
 **Era:** Classical Antiquity (304 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10364,11 +8064,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10378,8 +8074,6 @@
 
 **Era:** Classical Antiquity (301 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10391,11 +8085,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10405,8 +8095,6 @@
 
 **Era:** Classical Antiquity (301 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10418,11 +8106,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10432,8 +8116,6 @@
 
 **Era:** Classical Antiquity (298 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10445,11 +8127,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10459,8 +8137,6 @@
 
 **Era:** Classical Antiquity (297 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10472,11 +8148,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10486,8 +8158,6 @@
 
 **Era:** Classical Antiquity (296 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10499,11 +8169,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:25 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10513,8 +8179,6 @@
 
 **Era:** Classical Antiquity (296 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10526,11 +8190,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10540,8 +8200,6 @@
 
 **Era:** Classical Antiquity (295 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10553,11 +8211,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10567,8 +8221,6 @@
 
 **Era:** Classical Antiquity (294 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10580,11 +8232,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10594,8 +8242,6 @@
 
 **Era:** Classical Antiquity (293 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10607,11 +8253,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:14 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10621,8 +8263,6 @@
 
 **Era:** Classical Antiquity (292 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10634,11 +8274,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10648,8 +8284,6 @@
 
 **Era:** Classical Antiquity (291 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10661,11 +8295,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10675,8 +8305,6 @@
 
 **Era:** Classical Antiquity (291 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10688,11 +8316,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10702,8 +8326,6 @@
 
 **Era:** Classical Antiquity (290 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10715,11 +8337,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10729,8 +8347,6 @@
 
 **Era:** Classical Antiquity (289 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10742,11 +8358,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10756,8 +8368,6 @@
 
 **Era:** Classical Antiquity (289 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10769,11 +8379,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10783,8 +8389,6 @@
 
 **Era:** Classical Antiquity (287 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10796,11 +8400,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10810,8 +8410,6 @@
 
 **Era:** Classical Antiquity (287 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10823,11 +8421,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:58 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10837,8 +8431,6 @@
 
 **Era:** Classical Antiquity (287 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10850,11 +8442,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10864,8 +8452,6 @@
 
 **Era:** Classical Antiquity (286 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10877,11 +8463,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:58 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10891,8 +8473,6 @@
 
 **Era:** Classical Antiquity (285 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10904,11 +8484,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10918,8 +8494,6 @@
 
 **Era:** Classical Antiquity (285 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10931,11 +8505,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10945,8 +8515,6 @@
 
 **Era:** Classical Antiquity (283 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10958,11 +8526,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10972,8 +8536,6 @@
 
 **Era:** Classical Antiquity (282 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -10985,11 +8547,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10999,8 +8557,6 @@
 
 **Era:** Classical Antiquity (282 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11012,11 +8568,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11026,8 +8578,6 @@
 
 **Era:** Classical Antiquity (281 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11039,11 +8589,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11053,8 +8599,6 @@
 
 **Era:** Classical Antiquity (279 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11066,11 +8610,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11080,8 +8620,6 @@
 
 **Era:** Classical Antiquity (278 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11093,11 +8631,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11107,8 +8641,6 @@
 
 **Era:** Classical Antiquity (276 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11120,11 +8652,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11134,8 +8662,6 @@
 
 **Era:** Classical Antiquity (275 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11147,11 +8673,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11161,8 +8683,6 @@
 
 **Era:** Classical Antiquity (275 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11174,11 +8694,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11188,8 +8704,6 @@
 
 **Era:** Classical Antiquity (275 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11201,11 +8715,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11215,8 +8725,6 @@
 
 **Era:** Classical Antiquity (274 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11228,11 +8736,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11242,8 +8746,6 @@
 
 **Era:** Classical Antiquity (272 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11255,11 +8757,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11269,8 +8767,6 @@
 
 **Era:** Classical Antiquity (269 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11282,11 +8778,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11296,8 +8788,6 @@
 
 **Era:** Classical Antiquity (268 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11309,11 +8799,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11323,8 +8809,6 @@
 
 **Era:** Classical Antiquity (267 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11336,11 +8820,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11350,8 +8830,6 @@
 
 **Era:** Classical Antiquity (266 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11363,11 +8841,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11377,8 +8851,6 @@
 
 **Era:** Classical Antiquity (264 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11390,11 +8862,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:31 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11404,8 +8872,6 @@
 
 **Era:** Classical Antiquity (263 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11417,11 +8883,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11431,8 +8893,6 @@
 
 **Era:** Classical Antiquity (263 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11444,11 +8904,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11458,8 +8914,6 @@
 
 **Era:** Classical Antiquity (262 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11471,11 +8925,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11485,8 +8935,6 @@
 
 **Era:** Classical Antiquity (260 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11498,11 +8946,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11512,8 +8956,6 @@
 
 **Era:** Classical Antiquity (258 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11525,11 +8967,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11539,8 +8977,6 @@
 
 **Era:** Classical Antiquity (257 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11552,11 +8988,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11566,8 +8998,6 @@
 
 **Era:** Classical Antiquity (256 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11579,11 +9009,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11593,8 +9019,6 @@
 
 **Era:** Classical Antiquity (255 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11606,11 +9030,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11620,8 +9040,6 @@
 
 **Era:** Classical Antiquity (253 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11633,11 +9051,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11647,8 +9061,6 @@
 
 **Era:** Classical Antiquity (252 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11660,11 +9072,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11674,8 +9082,6 @@
 
 **Era:** Classical Antiquity (251 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11687,11 +9093,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11701,8 +9103,6 @@
 
 **Era:** Classical Antiquity (250 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11714,11 +9114,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:36 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11728,8 +9124,6 @@
 
 **Era:** Classical Antiquity (248 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11741,11 +9135,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11755,8 +9145,6 @@
 
 **Era:** Classical Antiquity (248 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11768,11 +9156,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11782,8 +9166,6 @@
 
 **Era:** Classical Antiquity (246 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11795,11 +9177,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11809,8 +9187,6 @@
 
 **Era:** Classical Antiquity (246 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11822,11 +9198,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11836,8 +9208,6 @@
 
 **Era:** Classical Antiquity (246 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11849,11 +9219,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11863,8 +9229,6 @@
 
 **Era:** Classical Antiquity (246 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11876,11 +9240,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11890,8 +9250,6 @@
 
 **Era:** Classical Antiquity (245 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11903,11 +9261,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:58 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11917,8 +9271,6 @@
 
 **Era:** Classical Antiquity (244 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11930,11 +9282,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11944,8 +9292,6 @@
 
 **Era:** Classical Antiquity (242 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11957,11 +9303,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11971,8 +9313,6 @@
 
 **Era:** Classical Antiquity (240 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -11984,11 +9324,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11998,8 +9334,6 @@
 
 **Era:** Classical Antiquity (239 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12011,11 +9345,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12025,8 +9355,6 @@
 
 **Era:** Classical Antiquity (238 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12038,11 +9366,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12052,8 +9376,6 @@
 
 **Era:** Classical Antiquity (238 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12065,11 +9387,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12079,8 +9397,6 @@
 
 **Era:** Classical Antiquity (236 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12092,11 +9408,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12106,8 +9418,6 @@
 
 **Era:** Classical Antiquity (233 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12119,11 +9429,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12133,8 +9439,6 @@
 
 **Era:** Classical Antiquity (233 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12146,11 +9450,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12160,8 +9460,6 @@
 
 **Era:** Classical Antiquity (230 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12173,11 +9471,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12187,8 +9481,6 @@
 
 **Era:** Classical Antiquity (229 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12200,11 +9492,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12214,8 +9502,6 @@
 
 **Era:** Classical Antiquity (228 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12227,11 +9513,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12241,8 +9523,6 @@
 
 **Era:** Classical Antiquity (228 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12254,11 +9534,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:24 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12268,8 +9544,6 @@
 
 **Era:** Classical Antiquity (228 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12281,11 +9555,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12295,8 +9565,6 @@
 
 **Era:** Classical Antiquity (228 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12308,11 +9576,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12322,8 +9586,6 @@
 
 **Era:** Classical Antiquity (227 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12335,11 +9597,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12349,8 +9607,6 @@
 
 **Era:** Classical Antiquity (226 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12362,11 +9618,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12376,8 +9628,6 @@
 
 **Era:** Classical Antiquity (225 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12389,11 +9639,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12403,8 +9649,6 @@
 
 **Era:** Classical Antiquity (224 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12416,11 +9660,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12430,8 +9670,6 @@
 
 **Era:** Classical Antiquity (222 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12443,11 +9681,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:52 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12457,8 +9691,6 @@
 
 **Era:** Classical Antiquity (221 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12470,11 +9702,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12484,8 +9712,6 @@
 
 **Era:** Classical Antiquity (218 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12497,11 +9723,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12511,8 +9733,6 @@
 
 **Era:** Classical Antiquity (218 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12524,11 +9744,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12538,8 +9754,6 @@
 
 **Era:** Classical Antiquity (218 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12551,11 +9765,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12565,8 +9775,6 @@
 
 **Era:** Classical Antiquity (218 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12578,11 +9786,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12592,8 +9796,6 @@
 
 **Era:** Classical Antiquity (218 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12605,11 +9807,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12619,8 +9817,6 @@
 
 **Era:** Classical Antiquity (215 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12632,11 +9828,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12646,8 +9838,6 @@
 
 **Era:** Classical Antiquity (213 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12659,11 +9849,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:50 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12673,8 +9859,6 @@
 
 **Era:** Classical Antiquity (212 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12686,11 +9870,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:44 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12700,8 +9880,6 @@
 
 **Era:** Classical Antiquity (212 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12713,11 +9891,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:38 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12727,8 +9901,6 @@
 
 **Era:** Classical Antiquity (212 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12740,11 +9912,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12754,8 +9922,6 @@
 
 **Era:** Classical Antiquity (206 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12767,11 +9933,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12781,8 +9943,6 @@
 
 **Era:** Classical Antiquity (202 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12794,11 +9954,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12808,8 +9964,6 @@
 
 **Era:** Classical Antiquity (201 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12821,11 +9975,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12835,8 +9985,6 @@
 
 **Era:** Classical Antiquity (199 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12848,11 +9996,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12862,8 +10006,6 @@
 
 **Era:** Classical Antiquity (197 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12875,11 +10017,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12889,8 +10027,6 @@
 
 **Era:** Classical Antiquity (194 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12902,11 +10038,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12916,8 +10048,6 @@
 
 **Era:** Classical Antiquity (194 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12929,11 +10059,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12943,8 +10069,6 @@
 
 **Era:** Classical Antiquity (191 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12956,11 +10080,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:32 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12970,8 +10090,6 @@
 
 **Era:** Classical Antiquity (191 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -12983,11 +10101,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12997,8 +10111,6 @@
 
 **Era:** Classical Antiquity (189 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13010,11 +10122,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:24 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13024,8 +10132,6 @@
 
 **Era:** Classical Antiquity (187 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13037,11 +10143,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13051,8 +10153,6 @@
 
 **Era:** Classical Antiquity (186 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13064,11 +10164,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:43 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13078,8 +10174,6 @@
 
 **Era:** Classical Antiquity (186 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13091,11 +10185,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13105,8 +10195,6 @@
 
 **Era:** Classical Antiquity (186 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13118,11 +10206,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13132,8 +10216,6 @@
 
 **Era:** Classical Antiquity (184 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13145,11 +10227,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:43 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13159,8 +10237,6 @@
 
 **Era:** Classical Antiquity (183 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13172,11 +10248,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13186,8 +10258,6 @@
 
 **Era:** Classical Antiquity (183 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13199,11 +10269,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13213,8 +10279,6 @@
 
 **Era:** Classical Antiquity (182 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13226,11 +10290,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13240,8 +10300,6 @@
 
 **Era:** Classical Antiquity (181 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13253,11 +10311,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13267,8 +10321,6 @@
 
 **Era:** Classical Antiquity (181 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13280,11 +10332,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13294,8 +10342,6 @@
 
 **Era:** Classical Antiquity (180 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13307,11 +10353,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13321,8 +10363,6 @@
 
 **Era:** Classical Antiquity (176 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13334,11 +10374,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13348,8 +10384,6 @@
 
 **Era:** Classical Antiquity (176 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13361,11 +10395,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13375,8 +10405,6 @@
 
 **Era:** Classical Antiquity (175 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13388,11 +10416,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13402,8 +10426,6 @@
 
 **Era:** Classical Antiquity (174 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13415,11 +10437,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13429,8 +10447,6 @@
 
 **Era:** Classical Antiquity (174 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13442,11 +10458,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13456,8 +10468,6 @@
 
 **Era:** Classical Antiquity (172 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13469,11 +10479,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13483,8 +10489,6 @@
 
 **Era:** Classical Antiquity (170 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13496,11 +10500,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13510,8 +10510,6 @@
 
 **Era:** Classical Antiquity (169 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13523,11 +10521,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13537,8 +10531,6 @@
 
 **Era:** Classical Antiquity (169 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13550,11 +10542,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13564,8 +10552,6 @@
 
 **Era:** Classical Antiquity (169 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13577,11 +10563,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13591,8 +10573,6 @@
 
 **Era:** Classical Antiquity (168 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13604,11 +10584,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13618,8 +10594,6 @@
 
 **Era:** Classical Antiquity (168 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13631,11 +10605,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13645,8 +10615,6 @@
 
 **Era:** Classical Antiquity (167 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13658,11 +10626,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13672,8 +10636,6 @@
 
 **Era:** Classical Antiquity (166 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13685,11 +10647,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13699,8 +10657,6 @@
 
 **Era:** Classical Antiquity (165 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13712,11 +10668,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13726,8 +10678,6 @@
 
 **Era:** Classical Antiquity (162 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13739,11 +10689,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13753,8 +10699,6 @@
 
 **Era:** Classical Antiquity (162 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13766,11 +10710,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13780,8 +10720,6 @@
 
 **Era:** Classical Antiquity (160 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13793,11 +10731,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 21:32 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13807,8 +10741,6 @@
 
 **Era:** Classical Antiquity (160 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13820,11 +10752,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13834,8 +10762,6 @@
 
 **Era:** Classical Antiquity (160 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13847,11 +10773,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13861,8 +10783,6 @@
 
 **Era:** Classical Antiquity (159 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13874,11 +10794,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13888,8 +10804,6 @@
 
 **Era:** Classical Antiquity (157 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13901,11 +10815,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13915,8 +10825,6 @@
 
 **Era:** Classical Antiquity (155 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13928,11 +10836,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13942,8 +10846,6 @@
 
 **Era:** Classical Antiquity (153 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13955,11 +10857,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:24 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13969,8 +10867,6 @@
 
 **Era:** Classical Antiquity (152 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -13982,11 +10878,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:26 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13996,8 +10888,6 @@
 
 **Era:** Classical Antiquity (151 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14009,11 +10899,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14023,8 +10909,6 @@
 
 **Era:** Classical Antiquity (149 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14036,11 +10920,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14050,8 +10930,6 @@
 
 **Era:** Classical Antiquity (149 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14063,11 +10941,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14077,8 +10951,6 @@
 
 **Era:** Classical Antiquity (148 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14090,11 +10962,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14104,8 +10972,6 @@
 
 **Era:** Classical Antiquity (146 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14117,11 +10983,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14131,8 +10993,6 @@
 
 **Era:** Classical Antiquity (146 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14144,11 +11004,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:24 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14158,8 +11014,6 @@
 
 **Era:** Classical Antiquity (145 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14171,11 +11025,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14185,8 +11035,6 @@
 
 **Era:** Classical Antiquity (142 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14198,11 +11046,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14212,8 +11056,6 @@
 
 **Era:** Classical Antiquity (141 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14225,11 +11067,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14239,8 +11077,6 @@
 
 **Era:** Classical Antiquity (138 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14252,11 +11088,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14266,8 +11098,6 @@
 
 **Era:** Classical Antiquity (136 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14279,11 +11109,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14293,8 +11119,6 @@
 
 **Era:** Classical Antiquity (134 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14306,11 +11130,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:21 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14320,8 +11140,6 @@
 
 **Era:** Classical Antiquity (133 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14333,11 +11151,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14347,8 +11161,6 @@
 
 **Era:** Classical Antiquity (132 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14360,11 +11172,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14374,8 +11182,6 @@
 
 **Era:** Classical Antiquity (131 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14387,11 +11193,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14401,8 +11203,6 @@
 
 **Era:** Classical Antiquity (130 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14414,11 +11214,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14428,8 +11224,6 @@
 
 **Era:** Classical Antiquity (129 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14441,11 +11235,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14455,8 +11245,6 @@
 
 **Era:** Classical Antiquity (129 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14468,11 +11256,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14482,8 +11266,6 @@
 
 **Era:** Classical Antiquity (129 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14495,11 +11277,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14509,8 +11287,6 @@
 
 **Era:** Classical Antiquity (128 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14522,11 +11298,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14536,8 +11308,6 @@
 
 **Era:** Classical Antiquity (128 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14549,11 +11319,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14563,8 +11329,6 @@
 
 **Era:** Classical Antiquity (126 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14576,11 +11340,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14590,8 +11350,6 @@
 
 **Era:** Classical Antiquity (120 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14603,11 +11361,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14617,8 +11371,6 @@
 
 **Era:** Classical Antiquity (119 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14630,11 +11382,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14644,8 +11392,6 @@
 
 **Era:** Classical Antiquity (118 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14657,11 +11403,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14671,8 +11413,6 @@
 
 **Era:** Classical Antiquity (118 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14684,11 +11424,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14698,8 +11434,6 @@
 
 **Era:** Classical Antiquity (118 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14711,11 +11445,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14725,8 +11455,6 @@
 
 **Era:** Classical Antiquity (115 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14738,11 +11466,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14752,8 +11476,6 @@
 
 **Era:** Classical Antiquity (110 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14765,11 +11487,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:25 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14779,8 +11497,6 @@
 
 **Era:** Classical Antiquity (110 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14792,11 +11508,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14806,8 +11518,6 @@
 
 **Era:** Classical Antiquity (109 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14819,11 +11529,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14833,8 +11539,6 @@
 
 **Era:** Classical Antiquity (108 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14846,11 +11550,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14860,8 +11560,6 @@
 
 **Era:** Classical Antiquity (107 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14873,11 +11571,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14887,8 +11581,6 @@
 
 **Era:** Classical Antiquity (107 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14900,11 +11592,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:39 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14914,8 +11602,6 @@
 
 **Era:** Classical Antiquity (106 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14927,11 +11613,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14941,8 +11623,6 @@
 
 **Era:** Classical Antiquity (105 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14954,11 +11634,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14968,8 +11644,6 @@
 
 **Era:** Classical Antiquity (104 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -14981,11 +11655,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14995,8 +11665,6 @@
 
 **Era:** Classical Antiquity (103 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -15008,11 +11676,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15022,8 +11686,6 @@
 
 **Era:** Classical Antiquity (102 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -15035,11 +11697,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15049,8 +11707,6 @@
 
 **Era:** Classical Antiquity (101 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -15062,11 +11718,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:21 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15076,8 +11728,6 @@
 
 **Era:** Classical Antiquity (100 BCE)
 
-*Rome rises. Hellenistic culture spreads. Library of Alexandria.*
-
 ---
 
 ### Astrological Snapshot
@@ -15089,11 +11739,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15103,8 +11749,6 @@
 
 **Era:** Late Classical (99 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15116,11 +11760,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15130,8 +11770,6 @@
 
 **Era:** Late Classical (94 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15143,11 +11781,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15157,8 +11791,6 @@
 
 **Era:** Late Classical (94 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15170,11 +11802,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15184,8 +11812,6 @@
 
 **Era:** Late Classical (94 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15197,11 +11823,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15211,8 +11833,6 @@
 
 **Era:** Late Classical (92 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15224,11 +11844,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15238,8 +11854,6 @@
 
 **Era:** Late Classical (91 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15251,11 +11865,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15265,8 +11875,6 @@
 
 **Era:** Late Classical (89 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15278,11 +11886,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15292,8 +11896,6 @@
 
 **Era:** Late Classical (88 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15305,11 +11907,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15319,8 +11917,6 @@
 
 **Era:** Late Classical (87 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15332,11 +11928,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15346,8 +11938,6 @@
 
 **Era:** Late Classical (87 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15359,11 +11949,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15373,8 +11959,6 @@
 
 **Era:** Late Classical (86 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15386,11 +11970,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15400,8 +11980,6 @@
 
 **Era:** Late Classical (85 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15413,11 +11991,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15427,8 +12001,6 @@
 
 **Era:** Late Classical (83 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15440,11 +12012,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15454,8 +12022,6 @@
 
 **Era:** Late Classical (81 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15467,11 +12033,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15481,8 +12043,6 @@
 
 **Era:** Late Classical (81 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15494,11 +12054,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15508,8 +12064,6 @@
 
 **Era:** Late Classical (77 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15521,11 +12075,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15535,8 +12085,6 @@
 
 **Era:** Late Classical (77 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15548,11 +12096,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15562,8 +12106,6 @@
 
 **Era:** Late Classical (76 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -15575,11 +12117,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15588,8 +12126,6 @@
 **Mibera(s):** [#4517](../miberas/4517.md)
 
 **Era:** Late Classical (72 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15602,11 +12138,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15615,8 +12147,6 @@
 **Mibera(s):** [#9696](../miberas/9696.md)
 
 **Era:** Late Classical (71 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15629,11 +12159,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15642,8 +12168,6 @@
 **Mibera(s):** [#3631](../miberas/3631.md)
 
 **Era:** Late Classical (69 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15656,11 +12180,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:26 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15669,8 +12189,6 @@
 **Mibera(s):** [#7708](../miberas/7708.md)
 
 **Era:** Late Classical (69 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15683,11 +12201,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15696,8 +12210,6 @@
 **Mibera(s):** [#7459](../miberas/7459.md)
 
 **Era:** Late Classical (68 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15710,11 +12222,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:07 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15723,8 +12231,6 @@
 **Mibera(s):** [#32](../miberas/0032.md)
 
 **Era:** Late Classical (67 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15737,11 +12243,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15750,8 +12252,6 @@
 **Mibera(s):** [#2526](../miberas/2526.md)
 
 **Era:** Late Classical (66 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15764,11 +12264,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15777,8 +12273,6 @@
 **Mibera(s):** [#4543](../miberas/4543.md)
 
 **Era:** Late Classical (63 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15791,11 +12285,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:53 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15804,8 +12294,6 @@
 **Mibera(s):** [#7713](../miberas/7713.md)
 
 **Era:** Late Classical (63 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15818,11 +12306,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15831,8 +12315,6 @@
 **Mibera(s):** [#8263](../miberas/8263.md)
 
 **Era:** Late Classical (62 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15845,11 +12327,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15858,8 +12336,6 @@
 **Mibera(s):** [#4819](../miberas/4819.md)
 
 **Era:** Late Classical (60 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15872,11 +12348,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:30 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15885,8 +12357,6 @@
 **Mibera(s):** [#3062](../miberas/3062.md)
 
 **Era:** Late Classical (59 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15899,11 +12369,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15912,8 +12378,6 @@
 **Mibera(s):** [#7637](../miberas/7637.md)
 
 **Era:** Late Classical (57 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15926,11 +12390,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15939,8 +12399,6 @@
 **Mibera(s):** [#5379](../miberas/5379.md)
 
 **Era:** Late Classical (56 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15953,11 +12411,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15966,8 +12420,6 @@
 **Mibera(s):** [#2075](../miberas/2075.md)
 
 **Era:** Late Classical (56 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -15980,11 +12432,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15993,8 +12441,6 @@
 **Mibera(s):** [#7695](../miberas/7695.md)
 
 **Era:** Late Classical (51 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16007,11 +12453,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16021,8 +12463,6 @@
 
 **Era:** Late Classical (50 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16034,11 +12474,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16048,8 +12484,6 @@
 
 **Era:** Late Classical (49 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16061,11 +12495,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16074,8 +12504,6 @@
 **Mibera(s):** [#5890](../miberas/5890.md)
 
 **Era:** Late Classical (49 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16088,11 +12516,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16101,8 +12525,6 @@
 **Mibera(s):** [#1967](../miberas/1967.md)
 
 **Era:** Late Classical (47 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16115,11 +12537,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16128,8 +12546,6 @@
 **Mibera(s):** [#5519](../miberas/5519.md)
 
 **Era:** Late Classical (47 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16142,11 +12558,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16155,8 +12567,6 @@
 **Mibera(s):** [#3328](../miberas/3328.md)
 
 **Era:** Late Classical (47 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16169,11 +12579,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16182,8 +12588,6 @@
 **Mibera(s):** [#9491](../miberas/9491.md)
 
 **Era:** Late Classical (46 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16196,11 +12600,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16209,8 +12609,6 @@
 **Mibera(s):** [#5892](../miberas/5892.md)
 
 **Era:** Late Classical (45 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16223,11 +12621,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16236,8 +12630,6 @@
 **Mibera(s):** [#161](../miberas/0161.md)
 
 **Era:** Late Classical (45 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16250,11 +12642,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16263,8 +12651,6 @@
 **Mibera(s):** [#3688](../miberas/3688.md)
 
 **Era:** Late Classical (42 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16277,11 +12663,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16290,8 +12672,6 @@
 **Mibera(s):** [#8558](../miberas/8558.md)
 
 **Era:** Late Classical (40 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16304,11 +12684,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16317,8 +12693,6 @@
 **Mibera(s):** [#4096](../miberas/4096.md)
 
 **Era:** Late Classical (40 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16331,11 +12705,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16344,8 +12714,6 @@
 **Mibera(s):** [#8909](../miberas/8909.md)
 
 **Era:** Late Classical (36 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16358,11 +12726,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:25 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16372,8 +12736,6 @@
 
 **Era:** Late Classical (36 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16385,11 +12747,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16399,8 +12757,6 @@
 
 **Era:** Late Classical (36 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16412,11 +12768,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16425,8 +12777,6 @@
 **Mibera(s):** [#1298](../miberas/1298.md)
 
 **Era:** Late Classical (35 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16439,11 +12789,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16452,8 +12798,6 @@
 **Mibera(s):** [#9139](../miberas/9139.md)
 
 **Era:** Late Classical (33 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16466,11 +12810,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16479,8 +12819,6 @@
 **Mibera(s):** [#9498](../miberas/9498.md)
 
 **Era:** Late Classical (32 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16493,11 +12831,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16506,8 +12840,6 @@
 **Mibera(s):** [#7936](../miberas/7936.md)
 
 **Era:** Late Classical (31 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16520,11 +12852,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16533,8 +12861,6 @@
 **Mibera(s):** [#5526](../miberas/5526.md)
 
 **Era:** Late Classical (30 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16547,11 +12873,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16560,8 +12882,6 @@
 **Mibera(s):** [#4428](../miberas/4428.md)
 
 **Era:** Late Classical (22 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16574,11 +12894,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16587,8 +12903,6 @@
 **Mibera(s):** [#5809](../miberas/5809.md)
 
 **Era:** Late Classical (21 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16601,11 +12915,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16614,8 +12924,6 @@
 **Mibera(s):** [#7620](../miberas/7620.md)
 
 **Era:** Late Classical (21 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16628,11 +12936,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 23:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16641,8 +12945,6 @@
 **Mibera(s):** [#4322](../miberas/4322.md)
 
 **Era:** Late Classical (20 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16655,11 +12957,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16669,8 +12967,6 @@
 
 **Era:** Late Classical (18 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16682,11 +12978,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:17 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16696,8 +12988,6 @@
 
 **Era:** Late Classical (17 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16709,11 +12999,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:06 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16723,8 +13009,6 @@
 
 **Era:** Late Classical (16 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16736,11 +13020,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16749,8 +13029,6 @@
 **Mibera(s):** [#7535](../miberas/7535.md)
 
 **Era:** Late Classical (16 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16763,11 +13041,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16776,8 +13050,6 @@
 **Mibera(s):** [#8769](../miberas/8769.md)
 
 **Era:** Late Classical (14 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16790,11 +13062,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:32 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16803,8 +13071,6 @@
 **Mibera(s):** [#6935](../miberas/6935.md)
 
 **Era:** Late Classical (14 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16817,11 +13083,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16831,8 +13093,6 @@
 
 **Era:** Late Classical (13 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16844,11 +13104,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16858,8 +13114,6 @@
 
 **Era:** Late Classical (11 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16871,11 +13125,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16885,8 +13135,6 @@
 
 **Era:** Late Classical (10 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16898,11 +13146,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16912,8 +13156,6 @@
 
 **Era:** Late Classical (8 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16925,11 +13167,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16939,8 +13177,6 @@
 
 **Era:** Late Classical (8 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -16952,11 +13188,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:54 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16965,8 +13197,6 @@
 **Mibera(s):** [#1825](../miberas/1825.md)
 
 **Era:** Late Classical (6 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -16979,11 +13209,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16992,8 +13218,6 @@
 **Mibera(s):** [#8632](../miberas/8632.md)
 
 **Era:** Late Classical (6 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -17006,11 +13230,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17020,8 +13240,6 @@
 
 **Era:** Late Classical (6 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -17033,11 +13251,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17047,8 +13261,6 @@
 
 **Era:** Late Classical (5 BCE)
 
-*Roman Republic to Empire transition. Caesar's era approaches.*
-
 ---
 
 ### Astrological Snapshot
@@ -17060,11 +13272,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17073,8 +13281,6 @@
 **Mibera(s):** [#8593](../miberas/8593.md)
 
 **Era:** Late Classical (4 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -17087,11 +13293,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17100,8 +13302,6 @@
 **Mibera(s):** [#7278](../miberas/7278.md)
 
 **Era:** Late Classical (2 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -17114,11 +13314,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:29 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17127,8 +13323,6 @@
 **Mibera(s):** [#8205](../miberas/8205.md)
 
 **Era:** Late Classical (2 BCE)
-
-*Roman Republic to Empire transition. Caesar's era approaches.*
 
 ---
 
@@ -17141,10 +13335,6 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---

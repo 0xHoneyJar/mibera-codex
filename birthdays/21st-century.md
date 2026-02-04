@@ -10,8 +10,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -23,11 +21,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37,8 +31,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -50,11 +42,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -64,8 +52,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -77,11 +63,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -91,8 +73,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -104,11 +84,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -118,8 +94,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -131,11 +105,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -145,8 +115,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -158,11 +126,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -172,8 +136,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -185,11 +147,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -199,8 +157,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -212,11 +168,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -226,8 +178,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -239,11 +189,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -253,8 +199,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -266,11 +210,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -280,8 +220,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -293,11 +231,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -307,8 +241,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -320,11 +252,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -334,8 +262,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -347,11 +273,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -361,8 +283,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -374,11 +294,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -388,8 +304,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -401,11 +315,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -415,8 +325,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -428,11 +336,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -442,8 +346,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -455,11 +357,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -469,8 +367,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -482,11 +378,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:03 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -496,8 +388,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -509,11 +399,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -523,8 +409,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -536,11 +420,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -550,8 +430,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -563,11 +441,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -577,8 +451,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -590,11 +462,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -604,8 +472,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -617,11 +483,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:41 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -631,8 +493,6 @@
 
 **Era:** Information Age (2001 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -644,11 +504,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:17 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -658,8 +514,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -671,11 +525,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:20 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -685,8 +535,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -698,11 +546,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -712,8 +556,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -725,11 +567,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -739,8 +577,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -752,11 +588,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -766,8 +598,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -779,11 +609,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -793,8 +619,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -806,11 +630,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -820,8 +640,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -833,11 +651,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -847,8 +661,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -860,11 +672,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -874,8 +682,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -887,11 +693,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -901,8 +703,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -914,11 +714,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -928,8 +724,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -941,11 +735,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 15:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -955,8 +745,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -968,11 +756,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 15:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -982,8 +766,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -995,11 +777,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1009,8 +787,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1022,11 +798,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1036,8 +808,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1049,11 +819,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1063,8 +829,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1076,11 +840,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1090,8 +850,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1103,11 +861,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1117,8 +871,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1130,11 +882,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1144,8 +892,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1157,11 +903,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1171,8 +913,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1184,11 +924,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:14 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1198,8 +934,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1211,11 +945,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1225,8 +955,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1238,11 +966,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1252,8 +976,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1265,11 +987,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1279,8 +997,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1292,11 +1008,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1306,8 +1018,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1319,11 +1029,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1333,8 +1039,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1346,11 +1050,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1360,8 +1060,6 @@
 
 **Era:** Information Age (2002 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1373,11 +1071,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1387,8 +1081,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1400,11 +1092,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1414,8 +1102,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1427,11 +1113,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1441,8 +1123,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1454,11 +1134,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1468,8 +1144,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1481,11 +1155,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1495,8 +1165,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1508,11 +1176,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1522,8 +1186,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1535,11 +1197,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1549,8 +1207,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1562,11 +1218,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1576,8 +1228,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1589,11 +1239,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:14 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1603,8 +1249,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1616,11 +1260,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1630,8 +1270,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1643,11 +1281,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1657,8 +1291,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1670,11 +1302,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1684,8 +1312,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1697,11 +1323,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1711,8 +1333,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1724,11 +1344,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1738,8 +1354,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1751,11 +1365,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1765,8 +1375,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1778,11 +1386,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1792,8 +1396,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1805,11 +1407,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1819,8 +1417,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1832,11 +1428,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1846,8 +1438,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1859,11 +1449,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1873,8 +1459,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1886,11 +1470,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1900,8 +1480,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1913,11 +1491,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:06 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1927,8 +1501,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1940,11 +1512,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1954,8 +1522,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1967,11 +1533,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1981,8 +1543,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -1994,11 +1554,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2008,8 +1564,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2021,11 +1575,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2035,8 +1585,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2048,11 +1596,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2062,8 +1606,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2075,11 +1617,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2089,8 +1627,6 @@
 
 **Era:** Information Age (2003 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2102,11 +1638,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:42 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2116,8 +1648,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2129,11 +1659,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:42 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2143,8 +1669,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2156,11 +1680,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2170,8 +1690,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2183,11 +1701,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2197,8 +1711,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2210,11 +1722,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2224,8 +1732,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2237,11 +1743,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2251,8 +1753,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2264,11 +1764,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2278,8 +1774,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2291,11 +1785,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 04:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2305,8 +1795,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2318,11 +1806,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2332,8 +1816,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2345,11 +1827,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2359,8 +1837,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2372,11 +1848,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2386,8 +1858,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2399,11 +1869,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2413,8 +1879,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2426,11 +1890,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2440,8 +1900,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2453,11 +1911,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2467,8 +1921,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2480,11 +1932,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2494,8 +1942,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2507,11 +1953,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2521,8 +1963,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2534,11 +1974,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2548,8 +1984,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2561,11 +1995,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2575,8 +2005,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2588,11 +2016,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2602,8 +2026,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2615,11 +2037,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2629,8 +2047,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2642,11 +2058,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2656,8 +2068,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2669,11 +2079,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2683,8 +2089,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2696,11 +2100,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2710,8 +2110,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2723,11 +2121,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:19 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2737,8 +2131,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2750,11 +2142,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2764,8 +2152,6 @@
 
 **Era:** Information Age (2004 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2777,11 +2163,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2791,8 +2173,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2804,11 +2184,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2818,8 +2194,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2831,11 +2205,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2845,8 +2215,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2858,11 +2226,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2872,8 +2236,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2885,11 +2247,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2899,8 +2257,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2912,11 +2268,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:43 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2926,8 +2278,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2939,11 +2289,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2953,8 +2299,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2966,11 +2310,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2980,8 +2320,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -2993,11 +2331,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3007,8 +2341,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3020,11 +2352,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3034,8 +2362,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3047,11 +2373,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3061,8 +2383,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3074,11 +2394,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3088,8 +2404,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3101,11 +2415,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:15 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3115,8 +2425,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3128,11 +2436,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3142,8 +2446,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3155,11 +2457,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3169,8 +2467,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3182,11 +2478,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3196,8 +2488,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3209,11 +2499,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3223,8 +2509,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3236,11 +2520,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3250,8 +2530,6 @@
 
 **Era:** Information Age (2005 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3263,11 +2541,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:17 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3277,8 +2551,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3290,11 +2562,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3304,8 +2572,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3317,11 +2583,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3331,8 +2593,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3344,11 +2604,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3358,8 +2614,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3371,11 +2625,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3385,8 +2635,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3398,11 +2646,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:14 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3412,8 +2656,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3425,11 +2667,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3439,8 +2677,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3452,11 +2688,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3466,8 +2698,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3479,11 +2709,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3493,8 +2719,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3506,11 +2730,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 04:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3520,8 +2740,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3533,11 +2751,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3547,8 +2761,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3560,11 +2772,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3574,8 +2782,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3587,11 +2793,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:40 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3601,8 +2803,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3614,11 +2814,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:01 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3628,8 +2824,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3641,11 +2835,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3655,8 +2845,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3668,11 +2856,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3682,8 +2866,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3695,11 +2877,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 07:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3709,8 +2887,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3722,11 +2898,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3736,8 +2908,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3749,11 +2919,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3763,8 +2929,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3776,11 +2940,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:35 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3790,8 +2950,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3803,11 +2961,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3817,8 +2971,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3830,11 +2982,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:19 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3844,8 +2992,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3857,11 +3003,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3871,8 +3013,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3884,11 +3024,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3898,8 +3034,6 @@
 
 **Era:** Information Age (2006 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3911,11 +3045,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3925,8 +3055,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3938,11 +3066,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3952,8 +3076,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3965,11 +3087,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3979,8 +3097,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -3992,11 +3108,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4006,8 +3118,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4019,11 +3129,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4033,8 +3139,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4046,11 +3150,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4060,8 +3160,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4073,11 +3171,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4087,8 +3181,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4100,11 +3192,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4114,8 +3202,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4127,11 +3213,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4141,8 +3223,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4154,11 +3234,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4168,8 +3244,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4181,11 +3255,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4195,8 +3265,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4208,11 +3276,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:54 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4222,8 +3286,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4235,11 +3297,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4249,8 +3307,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4262,11 +3318,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:37 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4276,8 +3328,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4289,11 +3339,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4303,8 +3349,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4316,11 +3360,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4330,8 +3370,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4343,11 +3381,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4357,8 +3391,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4370,11 +3402,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4384,8 +3412,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4397,11 +3423,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:28 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4411,8 +3433,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4424,11 +3444,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4438,8 +3454,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4451,11 +3465,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4465,8 +3475,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4478,11 +3486,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:38 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4492,8 +3496,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4505,11 +3507,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4519,8 +3517,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4532,11 +3528,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:24 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4546,8 +3538,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4559,11 +3549,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4573,8 +3559,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4586,11 +3570,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4600,8 +3580,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4613,11 +3591,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4627,8 +3601,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4640,11 +3612,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4654,8 +3622,6 @@
 
 **Era:** Information Age (2007 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4667,11 +3633,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4681,8 +3643,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4694,11 +3654,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4708,8 +3664,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4721,11 +3675,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4735,8 +3685,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4748,11 +3696,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4762,8 +3706,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4775,11 +3717,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4789,8 +3727,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4802,11 +3738,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4816,8 +3748,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4829,11 +3759,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4843,8 +3769,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4856,11 +3780,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4870,8 +3790,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4883,11 +3801,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4897,8 +3811,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4910,11 +3822,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:41 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4924,8 +3832,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4937,11 +3843,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4951,8 +3853,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4964,11 +3864,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4978,8 +3874,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -4991,11 +3885,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5005,8 +3895,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5018,11 +3906,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5032,8 +3916,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5045,11 +3927,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5059,8 +3937,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5072,11 +3948,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:16 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5086,8 +3958,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5099,11 +3969,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:01 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5113,8 +3979,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5126,11 +3990,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5140,8 +4000,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5153,11 +4011,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5167,8 +4021,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5180,11 +4032,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5194,8 +4042,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5207,11 +4053,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5221,8 +4063,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5234,11 +4074,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5248,8 +4084,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5261,11 +4095,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5275,8 +4105,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5288,11 +4116,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5302,8 +4126,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5315,11 +4137,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5329,8 +4147,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5342,11 +4158,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5356,8 +4168,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5369,11 +4179,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5383,8 +4189,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5396,11 +4200,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5410,8 +4210,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5423,11 +4221,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:07 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5437,8 +4231,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5450,11 +4242,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5464,8 +4252,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5477,11 +4263,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5491,8 +4273,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5504,11 +4284,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5518,8 +4294,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5531,11 +4305,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5545,8 +4315,6 @@
 
 **Era:** Information Age (2008 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5558,11 +4326,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5572,8 +4336,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5585,11 +4347,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5599,8 +4357,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5612,11 +4368,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5626,8 +4378,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5639,11 +4389,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5653,8 +4399,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5666,11 +4410,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5680,8 +4420,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5693,11 +4431,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5707,8 +4441,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5720,11 +4452,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:14 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5734,8 +4462,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5747,11 +4473,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5761,8 +4483,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5774,11 +4494,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5788,8 +4504,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5801,11 +4515,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5815,8 +4525,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5828,11 +4536,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5842,8 +4546,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5855,11 +4557,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5869,8 +4567,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5882,11 +4578,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5896,8 +4588,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5909,11 +4599,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5923,8 +4609,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5936,11 +4620,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5950,8 +4630,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5963,11 +4641,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5977,8 +4651,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -5990,11 +4662,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6004,8 +4672,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6017,11 +4683,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6031,8 +4693,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6044,11 +4704,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6058,8 +4714,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6071,11 +4725,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:30 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6085,8 +4735,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6098,11 +4746,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:30 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6112,8 +4756,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6125,11 +4767,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6139,8 +4777,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6152,11 +4788,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6166,8 +4798,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6179,11 +4809,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6193,8 +4819,6 @@
 
 **Era:** Information Age (2009 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6206,11 +4830,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6220,8 +4840,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6233,11 +4851,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6247,8 +4861,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6260,11 +4872,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6274,8 +4882,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6287,11 +4893,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6301,8 +4903,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6314,11 +4914,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6328,8 +4924,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6341,11 +4935,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6355,8 +4945,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6368,11 +4956,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6382,8 +4966,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6395,11 +4977,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6409,8 +4987,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6422,11 +4998,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6436,8 +5008,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6449,11 +5019,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6463,8 +5029,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6476,11 +5040,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6490,8 +5050,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6503,11 +5061,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6517,8 +5071,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6530,11 +5082,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6544,8 +5092,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6557,11 +5103,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6571,8 +5113,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6584,11 +5124,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6598,8 +5134,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6611,11 +5145,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6625,8 +5155,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6638,11 +5166,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6652,8 +5176,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6665,11 +5187,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6679,8 +5197,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6692,11 +5208,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6706,8 +5218,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6719,11 +5229,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6733,8 +5239,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6746,11 +5250,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6760,8 +5260,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6773,11 +5271,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6787,8 +5281,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6800,11 +5292,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6814,8 +5302,6 @@
 
 **Era:** Information Age (2010 CE)
 
-*Internet transforms everything. Y2K. Social media born. 9/11 reshapes world.*
-
 ---
 
 ### Astrological Snapshot
@@ -6827,11 +5313,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6841,8 +5323,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6854,11 +5334,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6868,8 +5344,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6881,11 +5355,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6895,8 +5365,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6908,11 +5376,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6922,8 +5386,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6935,11 +5397,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6949,8 +5407,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6962,11 +5418,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:52 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6976,8 +5428,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6989,11 +5439,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7003,8 +5449,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7016,11 +5460,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7030,8 +5470,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7043,11 +5481,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7057,8 +5491,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7070,11 +5502,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7084,8 +5512,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7097,11 +5523,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7111,8 +5533,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7124,11 +5544,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7138,8 +5554,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7151,11 +5565,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:27 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7165,8 +5575,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7178,11 +5586,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7192,8 +5596,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7205,11 +5607,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7219,8 +5617,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7232,11 +5628,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:49 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7246,8 +5638,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7259,11 +5649,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:22 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7273,8 +5659,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7286,11 +5670,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7300,8 +5680,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7313,11 +5691,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7327,8 +5701,6 @@
 
 **Era:** Contemporary (2011 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7340,11 +5712,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7354,8 +5722,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7367,11 +5733,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7381,8 +5743,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7394,11 +5754,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7408,8 +5764,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7421,11 +5775,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7435,8 +5785,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7448,11 +5796,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7462,8 +5806,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7475,11 +5817,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7489,8 +5827,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7502,11 +5838,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:22 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7516,8 +5848,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7529,11 +5859,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7543,8 +5869,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7556,11 +5880,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7570,8 +5890,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7583,11 +5901,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:44 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7597,8 +5911,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7610,11 +5922,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7624,8 +5932,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7637,11 +5943,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7651,8 +5953,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7664,11 +5964,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7678,8 +5974,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7691,11 +5985,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7705,8 +5995,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7718,11 +6006,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:50 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7732,8 +6016,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7745,11 +6027,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7759,8 +6037,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7772,11 +6048,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7786,8 +6058,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7799,11 +6069,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7813,8 +6079,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7826,11 +6090,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7840,8 +6100,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7853,11 +6111,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7867,8 +6121,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7880,11 +6132,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7894,8 +6142,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7907,11 +6153,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7921,8 +6163,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7934,11 +6174,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7948,8 +6184,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7961,11 +6195,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7975,8 +6205,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7988,11 +6216,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:52 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8002,8 +6226,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8015,11 +6237,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8029,8 +6247,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8042,11 +6258,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8056,8 +6268,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8069,11 +6279,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8083,8 +6289,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8096,11 +6300,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8110,8 +6310,6 @@
 
 **Era:** Contemporary (2012 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8123,11 +6321,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8137,8 +6331,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8150,11 +6342,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8164,8 +6352,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8177,11 +6363,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8191,8 +6373,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8204,11 +6384,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8218,8 +6394,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8231,11 +6405,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8245,8 +6415,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8258,11 +6426,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:46 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8272,8 +6436,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8285,11 +6447,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8299,8 +6457,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8312,11 +6468,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8326,8 +6478,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8339,11 +6489,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8353,8 +6499,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8366,11 +6510,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8380,8 +6520,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8393,11 +6531,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8407,8 +6541,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8420,11 +6552,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8434,8 +6562,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8447,11 +6573,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8461,8 +6583,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8474,11 +6594,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8488,8 +6604,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8501,11 +6615,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8515,8 +6625,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8528,11 +6636,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8542,8 +6646,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8555,11 +6657,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8569,8 +6667,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8582,11 +6678,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8596,8 +6688,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8609,11 +6699,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8623,8 +6709,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8636,11 +6720,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8650,8 +6730,6 @@
 
 **Era:** Contemporary (2013 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8663,11 +6741,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:41 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8677,8 +6751,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8690,11 +6762,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8704,8 +6772,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8717,11 +6783,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8731,8 +6793,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8744,11 +6804,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8758,8 +6814,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8771,11 +6825,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8785,8 +6835,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8798,11 +6846,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8812,8 +6856,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8825,11 +6867,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8839,8 +6877,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8852,11 +6888,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8866,8 +6898,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8879,11 +6909,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8893,8 +6919,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8906,11 +6930,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8920,8 +6940,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8933,11 +6951,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8947,8 +6961,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8960,11 +6972,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:29 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8974,8 +6982,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8987,11 +6993,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9001,8 +7003,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9014,11 +7014,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9028,8 +7024,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9041,11 +7035,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9055,8 +7045,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9068,11 +7056,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9082,8 +7066,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9095,11 +7077,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9109,8 +7087,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9122,11 +7098,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9136,8 +7108,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9149,11 +7119,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9163,8 +7129,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9176,11 +7140,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:56 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9190,8 +7150,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9203,11 +7161,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9217,8 +7171,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9230,11 +7182,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9244,8 +7192,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9257,11 +7203,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9271,8 +7213,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9284,11 +7224,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9298,8 +7234,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9311,11 +7245,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9325,8 +7255,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9338,11 +7266,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9352,8 +7276,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9365,11 +7287,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9379,8 +7297,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9392,11 +7308,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:45 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9406,8 +7318,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9419,11 +7329,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9433,8 +7339,6 @@
 
 **Era:** Contemporary (2014 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9446,11 +7350,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9460,8 +7360,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9473,11 +7371,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9487,8 +7381,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9500,11 +7392,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9514,8 +7402,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9527,11 +7413,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9541,8 +7423,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9554,11 +7434,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9568,8 +7444,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9581,11 +7455,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9595,8 +7465,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9608,11 +7476,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9622,8 +7486,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9635,11 +7497,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9649,8 +7507,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9662,11 +7518,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9676,8 +7528,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9689,11 +7539,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:25 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9703,8 +7549,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9716,11 +7560,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9730,8 +7570,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9743,11 +7581,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9757,8 +7591,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9770,11 +7602,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:16 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9784,8 +7612,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9797,11 +7623,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9811,8 +7633,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9824,11 +7644,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9838,8 +7654,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9851,11 +7665,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9865,8 +7675,6 @@
 
 **Era:** Contemporary (2015 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9878,11 +7686,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9892,8 +7696,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9905,11 +7707,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9919,8 +7717,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9932,11 +7728,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9946,8 +7738,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9959,11 +7749,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9973,8 +7759,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9986,11 +7770,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10000,8 +7780,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10013,11 +7791,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10027,8 +7801,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10040,11 +7812,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10054,8 +7822,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10067,11 +7833,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10081,8 +7843,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10094,11 +7854,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10108,8 +7864,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10121,11 +7875,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:19 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10135,8 +7885,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10148,11 +7896,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10162,8 +7906,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10175,11 +7917,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10189,8 +7927,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10202,11 +7938,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10216,8 +7948,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10229,11 +7959,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10243,8 +7969,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10256,11 +7980,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10270,8 +7990,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10283,11 +8001,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 21:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10297,8 +8011,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10310,11 +8022,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:27 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10324,8 +8032,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10337,11 +8043,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:28 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10351,8 +8053,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10364,11 +8064,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10378,8 +8074,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10391,11 +8085,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10405,8 +8095,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10418,11 +8106,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:26 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10432,8 +8116,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10445,11 +8127,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10459,8 +8137,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10472,11 +8148,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10486,8 +8158,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10499,11 +8169,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10513,8 +8179,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10526,11 +8190,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10540,8 +8200,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10553,11 +8211,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10567,8 +8221,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10580,11 +8232,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10594,8 +8242,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10607,11 +8253,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10621,8 +8263,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10634,11 +8274,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10648,8 +8284,6 @@
 
 **Era:** Contemporary (2016 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10661,11 +8295,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10675,8 +8305,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10688,11 +8316,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10702,8 +8326,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10715,11 +8337,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10729,8 +8347,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10742,11 +8358,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10756,8 +8368,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10769,11 +8379,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10783,8 +8389,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10796,11 +8400,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:24 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10810,8 +8410,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10823,11 +8421,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 04:25 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10837,8 +8431,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10850,11 +8442,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10864,8 +8452,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10877,11 +8463,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10891,8 +8473,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10904,11 +8484,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10918,8 +8494,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10931,11 +8505,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10945,8 +8515,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10958,11 +8526,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10972,8 +8536,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10985,11 +8547,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10999,8 +8557,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11012,11 +8568,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11026,8 +8578,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11039,11 +8589,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11053,8 +8599,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11066,11 +8610,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:22 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11080,8 +8620,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11093,11 +8631,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11107,8 +8641,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11120,11 +8652,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11134,8 +8662,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11147,11 +8673,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11161,8 +8683,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11174,11 +8694,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11188,8 +8704,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11201,11 +8715,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:50 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11215,8 +8725,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11228,11 +8736,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11242,8 +8746,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11255,11 +8757,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11269,8 +8767,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11282,11 +8778,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11296,8 +8788,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11309,11 +8799,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:50 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11323,8 +8809,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11336,11 +8820,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11350,8 +8830,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11363,11 +8841,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11377,8 +8851,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11390,11 +8862,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11404,8 +8872,6 @@
 
 **Era:** Contemporary (2017 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11417,11 +8883,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11431,8 +8893,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11444,11 +8904,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:22 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11458,8 +8914,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11471,11 +8925,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11485,8 +8935,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11498,11 +8946,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:32 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11512,8 +8956,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11525,11 +8967,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11539,8 +8977,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11552,11 +8988,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11566,8 +8998,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11579,11 +9009,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11593,8 +9019,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11606,11 +9030,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:48 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11620,8 +9040,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11633,11 +9051,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11647,8 +9061,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11660,11 +9072,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11674,8 +9082,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11687,11 +9093,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11701,8 +9103,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11714,11 +9114,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:17 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11728,8 +9124,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11741,11 +9135,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11755,8 +9145,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11768,11 +9156,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 04:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11782,8 +9166,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11795,11 +9177,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11809,8 +9187,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11822,11 +9198,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 23:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11836,8 +9208,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11849,11 +9219,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11863,8 +9229,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11876,11 +9240,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11890,8 +9250,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11903,11 +9261,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11917,8 +9271,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11930,11 +9282,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11944,8 +9292,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11957,11 +9303,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11971,8 +9313,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11984,11 +9324,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11998,8 +9334,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12011,11 +9345,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12025,8 +9355,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12038,11 +9366,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:01 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12052,8 +9376,6 @@
 
 **Era:** Contemporary (2018 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12065,11 +9387,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12079,8 +9397,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12092,11 +9408,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12106,8 +9418,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12119,11 +9429,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12133,8 +9439,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12146,11 +9450,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12160,8 +9460,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12173,11 +9471,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12187,8 +9481,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12200,11 +9492,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12214,8 +9502,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12227,11 +9513,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12241,8 +9523,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12254,11 +9534,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12268,8 +9544,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12281,11 +9555,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12295,8 +9565,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12308,11 +9576,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12322,8 +9586,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12335,11 +9597,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12349,8 +9607,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12362,11 +9618,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12376,8 +9628,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12389,11 +9639,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12403,8 +9649,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12416,11 +9660,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:30 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12430,8 +9670,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12443,11 +9681,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:07 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12457,8 +9691,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12470,11 +9702,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12484,8 +9712,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12497,11 +9723,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:24 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12511,8 +9733,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12524,11 +9744,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12538,8 +9754,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12551,11 +9765,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12565,8 +9775,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12578,11 +9786,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12592,8 +9796,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12605,11 +9807,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:47 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12619,8 +9817,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12632,11 +9828,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12646,8 +9838,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12659,11 +9849,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12673,8 +9859,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12686,11 +9870,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12700,8 +9880,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12713,11 +9891,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12727,8 +9901,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12740,11 +9912,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12754,8 +9922,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12767,11 +9933,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:14 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12781,8 +9943,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12794,11 +9954,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12808,8 +9964,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12821,11 +9975,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12835,8 +9985,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12848,11 +9996,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12862,8 +10006,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12875,11 +10017,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12889,8 +10027,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12902,11 +10038,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12916,8 +10048,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12929,11 +10059,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12943,8 +10069,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12956,11 +10080,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12970,8 +10090,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12983,11 +10101,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12997,8 +10111,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13010,11 +10122,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13024,8 +10132,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13037,11 +10143,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13051,8 +10153,6 @@
 
 **Era:** Contemporary (2019 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13064,11 +10164,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13078,8 +10174,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13091,11 +10185,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13105,8 +10195,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13118,11 +10206,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:56 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13132,8 +10216,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13145,11 +10227,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:25 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13159,8 +10237,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13172,11 +10248,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:49 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13186,8 +10258,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13199,11 +10269,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13213,8 +10279,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13226,11 +10290,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13240,8 +10300,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13253,11 +10311,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13267,8 +10321,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13280,11 +10332,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13294,8 +10342,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13307,11 +10353,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13321,8 +10363,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13334,11 +10374,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:59 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13348,8 +10384,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13361,11 +10395,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13375,8 +10405,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13388,11 +10416,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:44 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13402,8 +10426,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13415,11 +10437,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:25 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13429,8 +10447,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13442,11 +10458,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13456,8 +10468,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13469,11 +10479,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13483,8 +10489,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13496,11 +10500,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13510,8 +10510,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13523,11 +10521,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13537,8 +10531,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13550,11 +10542,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13564,8 +10552,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13577,11 +10563,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13591,8 +10573,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13604,11 +10584,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13618,8 +10594,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13631,11 +10605,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13645,8 +10615,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13658,11 +10626,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13672,8 +10636,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13685,11 +10647,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13699,8 +10657,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13712,11 +10668,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13726,8 +10678,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13739,11 +10689,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13753,8 +10699,6 @@
 
 **Era:** Contemporary (2020 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13766,11 +10710,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13780,8 +10720,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13793,11 +10731,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13807,8 +10741,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13820,11 +10752,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13834,8 +10762,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13847,11 +10773,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13861,8 +10783,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13874,11 +10794,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13888,8 +10804,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13901,11 +10815,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13915,8 +10825,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13928,11 +10836,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:08 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13942,8 +10846,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13955,11 +10857,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13969,8 +10867,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13982,11 +10878,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13996,8 +10888,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14009,11 +10899,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14023,8 +10909,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14036,11 +10920,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14050,8 +10930,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14063,11 +10941,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14077,8 +10951,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14090,11 +10962,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14104,8 +10972,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14117,11 +10983,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14131,8 +10993,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14144,11 +11004,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14158,8 +11014,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14171,11 +11025,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14185,8 +11035,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14198,11 +11046,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14212,8 +11056,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14225,11 +11067,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14239,8 +11077,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14252,11 +11088,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14266,8 +11098,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14279,11 +11109,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14293,8 +11119,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14306,11 +11130,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14320,8 +11140,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14333,11 +11151,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14347,8 +11161,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14360,11 +11172,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14374,8 +11182,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14387,11 +11193,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14401,8 +11203,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14414,11 +11214,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14428,8 +11224,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14441,11 +11235,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14455,8 +11245,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14468,11 +11256,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14482,8 +11266,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14495,11 +11277,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14509,8 +11287,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14522,11 +11298,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14536,8 +11308,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14549,11 +11319,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14563,8 +11329,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14576,11 +11340,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14590,8 +11350,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14603,11 +11361,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14617,8 +11371,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14630,11 +11382,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14644,8 +11392,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14657,11 +11403,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14671,8 +11413,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14684,11 +11424,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14698,8 +11434,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14711,11 +11445,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14725,8 +11455,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14738,11 +11466,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14752,8 +11476,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14765,11 +11487,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14779,8 +11497,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14792,11 +11508,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:21 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14806,8 +11518,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14819,11 +11529,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:45 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14833,8 +11539,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14846,11 +11550,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14860,8 +11560,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14873,11 +11571,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14887,8 +11581,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14900,11 +11592,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14914,8 +11602,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14927,11 +11613,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14941,8 +11623,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14954,11 +11634,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14968,8 +11644,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14981,11 +11655,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14995,8 +11665,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15008,11 +11676,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:42 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15022,8 +11686,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15035,11 +11697,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15049,8 +11707,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15062,11 +11718,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15076,8 +11728,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15089,11 +11739,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:32 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15103,8 +11749,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15116,11 +11760,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15130,8 +11770,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15143,11 +11781,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15157,8 +11791,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15170,11 +11802,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15184,8 +11812,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15197,11 +11823,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15211,8 +11833,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15224,11 +11844,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15238,8 +11854,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15251,11 +11865,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15265,8 +11875,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15278,11 +11886,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15292,8 +11896,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15305,11 +11907,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15319,8 +11917,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15332,11 +11928,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15346,8 +11938,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15359,11 +11949,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15373,8 +11959,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15386,11 +11970,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15400,8 +11980,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15413,11 +11991,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15427,8 +12001,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15440,11 +12012,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15454,8 +12022,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15467,11 +12033,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15481,8 +12043,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15494,11 +12054,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15508,8 +12064,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15521,11 +12075,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15535,8 +12085,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15548,11 +12096,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15562,8 +12106,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15575,11 +12117,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:22 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15589,8 +12127,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15602,11 +12138,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:25 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15616,8 +12148,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15629,11 +12159,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15643,8 +12169,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15656,11 +12180,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15670,8 +12190,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15683,11 +12201,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15697,8 +12211,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15710,11 +12222,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15724,8 +12232,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15737,11 +12243,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:35 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15751,8 +12253,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15764,11 +12264,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15778,8 +12274,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15791,11 +12285,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15805,8 +12295,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15818,11 +12306,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15832,8 +12316,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15845,11 +12327,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15859,8 +12337,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15872,11 +12348,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15886,8 +12358,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15899,11 +12369,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15913,8 +12379,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15926,11 +12390,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15940,8 +12400,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15953,11 +12411,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15967,8 +12421,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15980,11 +12432,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15994,8 +12442,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16007,11 +12453,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16021,8 +12463,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16034,11 +12474,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16048,8 +12484,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16061,11 +12495,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16075,8 +12505,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16088,11 +12516,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16102,8 +12526,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16115,11 +12537,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16129,8 +12547,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16142,11 +12558,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16156,8 +12568,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16169,11 +12579,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16183,8 +12589,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16196,11 +12600,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16210,8 +12610,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16223,11 +12621,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16237,8 +12631,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16250,11 +12642,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:14 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16264,8 +12652,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16277,11 +12663,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:34 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16291,8 +12673,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16304,11 +12684,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16318,8 +12694,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16331,11 +12705,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16345,8 +12715,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16358,11 +12726,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16372,8 +12736,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16385,11 +12747,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16399,8 +12757,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16412,11 +12768,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16426,8 +12778,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16439,11 +12789,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16453,8 +12799,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16466,11 +12810,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16480,8 +12820,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16493,11 +12831,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16507,8 +12841,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16520,11 +12852,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16534,8 +12862,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16547,11 +12873,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16561,8 +12883,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16574,11 +12894,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16588,8 +12904,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16601,11 +12915,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16615,8 +12925,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16628,11 +12936,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16642,8 +12946,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16655,11 +12957,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16669,8 +12967,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16682,11 +12978,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16696,8 +12988,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16709,11 +12999,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16723,8 +13009,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16736,11 +13020,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:31 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16750,8 +13030,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16763,11 +13041,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16777,8 +13051,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16790,11 +13062,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16804,8 +13072,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16817,11 +13083,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16831,8 +13093,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16844,11 +13104,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16858,8 +13114,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16871,11 +13125,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:16 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16885,8 +13135,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16898,11 +13146,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16912,8 +13156,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16925,11 +13167,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16939,8 +13177,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16952,11 +13188,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:44 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16966,8 +13198,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -16979,11 +13209,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16993,8 +13219,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17006,11 +13230,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17020,8 +13240,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17033,11 +13251,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:15 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17047,8 +13261,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17060,11 +13272,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17074,8 +13282,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17087,11 +13293,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17101,8 +13303,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17114,11 +13314,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17128,8 +13324,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17141,11 +13335,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17155,8 +13345,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17168,11 +13356,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:53 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17182,8 +13366,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17195,11 +13377,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17208,8 +13386,6 @@
 **Mibera(s):** [#7737](../miberas/7737.md)
 
 **Era:** Contemporary (2021 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -17222,11 +13398,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17236,8 +13408,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17249,11 +13419,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17263,8 +13429,6 @@
 
 **Era:** Contemporary (2021 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17276,11 +13440,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:14 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17290,8 +13450,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17303,11 +13461,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17317,8 +13471,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17330,11 +13482,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17344,8 +13492,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17357,11 +13503,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17370,8 +13512,6 @@
 **Mibera(s):** [#1696](../miberas/1696.md)
 
 **Era:** Contemporary (2022 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -17384,11 +13524,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17398,8 +13534,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17411,11 +13545,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17425,8 +13555,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17438,11 +13566,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 21:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17452,8 +13576,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17465,11 +13587,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17479,8 +13597,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17492,11 +13608,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:10 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17506,8 +13618,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17519,11 +13629,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17533,8 +13639,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17546,11 +13650,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17560,8 +13660,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17573,11 +13671,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17587,8 +13681,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17600,11 +13692,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17614,8 +13702,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17627,11 +13713,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17641,8 +13723,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17654,11 +13734,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17667,8 +13743,6 @@
 **Mibera(s):** [#8559](../miberas/8559.md)
 
 **Era:** Contemporary (2022 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -17681,11 +13755,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17695,8 +13765,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17708,11 +13776,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17722,8 +13786,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17735,11 +13797,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17749,8 +13807,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17762,11 +13818,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17776,8 +13828,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17789,11 +13839,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17803,8 +13849,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17816,11 +13860,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:53 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17830,8 +13870,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17843,11 +13881,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:42 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17857,8 +13891,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17870,11 +13902,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:28 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17883,8 +13911,6 @@
 **Mibera(s):** [#7689](../miberas/7689.md)
 
 **Era:** Contemporary (2022 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -17897,11 +13923,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17911,8 +13933,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17924,11 +13944,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17938,8 +13954,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17951,11 +13965,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17965,8 +13975,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -17978,11 +13986,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17992,8 +13996,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18005,11 +14007,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18019,8 +14017,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18032,11 +14028,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18046,8 +14038,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18059,11 +14049,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18073,8 +14059,6 @@
 
 **Era:** Contemporary (2022 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18086,11 +14070,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18100,8 +14080,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18113,11 +14091,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18127,8 +14101,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18140,11 +14112,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:22 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18154,8 +14122,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18167,11 +14133,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18181,8 +14143,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18194,11 +14154,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:29 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18208,8 +14164,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18221,11 +14175,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18235,8 +14185,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18248,11 +14196,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18262,8 +14206,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18275,11 +14217,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:29 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18289,8 +14227,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18302,11 +14238,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18316,8 +14248,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18329,11 +14259,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18342,8 +14268,6 @@
 **Mibera(s):** [#8151](../miberas/8151.md)
 
 **Era:** Contemporary (2023 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -18356,11 +14280,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18370,8 +14290,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18383,11 +14301,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18397,8 +14311,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18410,11 +14322,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18424,8 +14332,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18437,11 +14343,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18451,8 +14353,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18464,11 +14364,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18478,8 +14374,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18491,11 +14385,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18505,8 +14395,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18518,11 +14406,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18532,8 +14416,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18545,11 +14427,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18559,8 +14437,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18572,11 +14448,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18586,8 +14458,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18599,11 +14469,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18613,8 +14479,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18626,11 +14490,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18640,8 +14500,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18653,11 +14511,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18667,8 +14521,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18680,11 +14532,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18694,8 +14542,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18707,11 +14553,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18720,8 +14562,6 @@
 **Mibera(s):** [#3594](../miberas/3594.md)
 
 **Era:** Contemporary (2023 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -18734,11 +14574,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18747,8 +14583,6 @@
 **Mibera(s):** [#389](../miberas/0389.md)
 
 **Era:** Contemporary (2023 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -18761,11 +14595,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18775,8 +14605,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18788,11 +14616,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18802,8 +14626,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18815,11 +14637,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:16 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18829,8 +14647,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18842,11 +14658,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:25 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18856,8 +14668,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18869,11 +14679,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18883,8 +14689,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18896,11 +14700,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18910,8 +14710,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18923,11 +14721,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18937,8 +14731,6 @@
 
 **Era:** Contemporary (2023 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -18950,11 +14742,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18963,8 +14751,6 @@
 **Mibera(s):** [#9578](../miberas/9578.md)
 
 **Era:** Contemporary (2024 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -18977,11 +14763,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18991,8 +14773,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19004,11 +14784,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19018,8 +14794,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19031,11 +14805,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:37 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19045,8 +14815,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19058,11 +14826,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19072,8 +14836,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19085,11 +14847,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19099,8 +14857,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19112,11 +14868,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19126,8 +14878,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19139,11 +14889,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:56 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19153,8 +14899,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19166,11 +14910,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19180,8 +14920,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19193,11 +14931,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19207,8 +14941,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19220,11 +14952,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19234,8 +14962,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19247,11 +14973,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -19261,8 +14983,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19274,11 +14994,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19288,8 +15004,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19301,11 +15015,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19315,8 +15025,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19328,11 +15036,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19342,8 +15046,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19355,11 +15057,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19369,8 +15067,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19382,11 +15078,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19396,8 +15088,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19409,11 +15099,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19422,8 +15108,6 @@
 **Mibera(s):** [#3751](../miberas/3751.md)
 
 **Era:** Contemporary (2024 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -19436,11 +15120,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19450,8 +15130,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19463,11 +15141,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19477,8 +15151,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19490,11 +15162,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19504,8 +15172,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19517,11 +15183,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -19531,8 +15193,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19544,11 +15204,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -19558,8 +15214,6 @@
 
 **Era:** Contemporary (2024 CE)
 
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -19571,11 +15225,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:56 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19584,8 +15234,6 @@
 **Mibera(s):** [#1414](../miberas/1414.md)
 
 **Era:** Contemporary (2024 CE)
-
-*Post-truth era. Climate crisis. Crypto. Pandemic. AI emergence.*
 
 ---
 
@@ -19598,10 +15246,6 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---

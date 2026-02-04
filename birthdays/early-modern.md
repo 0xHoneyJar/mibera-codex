@@ -10,8 +10,6 @@
 
 **Era:** Renaissance (1502 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -23,11 +21,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -37,8 +31,6 @@
 
 **Era:** Renaissance (1502 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -50,11 +42,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -64,8 +52,6 @@
 
 **Era:** Renaissance (1503 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -77,11 +63,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -91,8 +73,6 @@
 
 **Era:** Renaissance (1503 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -104,11 +84,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -118,8 +94,6 @@
 
 **Era:** Renaissance (1503 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -131,11 +105,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:20 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -145,8 +115,6 @@
 
 **Era:** Renaissance (1503 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -158,11 +126,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -172,8 +136,6 @@
 
 **Era:** Renaissance (1503 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -185,11 +147,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -199,8 +157,6 @@
 
 **Era:** Renaissance (1504 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -212,11 +168,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -226,8 +178,6 @@
 
 **Era:** Renaissance (1504 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -239,11 +189,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -253,8 +199,6 @@
 
 **Era:** Renaissance (1504 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -266,11 +210,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -280,8 +220,6 @@
 
 **Era:** Renaissance (1504 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -293,11 +231,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -307,8 +241,6 @@
 
 **Era:** Renaissance (1505 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -320,11 +252,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -334,8 +262,6 @@
 
 **Era:** Renaissance (1506 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -347,11 +273,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -361,8 +283,6 @@
 
 **Era:** Renaissance (1507 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -374,11 +294,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -388,8 +304,6 @@
 
 **Era:** Renaissance (1507 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -401,11 +315,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -415,8 +325,6 @@
 
 **Era:** Renaissance (1507 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -428,11 +336,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:36 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -442,8 +346,6 @@
 
 **Era:** Renaissance (1508 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -455,11 +357,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -469,8 +367,6 @@
 
 **Era:** Renaissance (1508 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -482,11 +378,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:32 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -496,8 +388,6 @@
 
 **Era:** Renaissance (1508 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -509,11 +399,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -523,8 +409,6 @@
 
 **Era:** Renaissance (1509 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -536,11 +420,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -550,8 +430,6 @@
 
 **Era:** Renaissance (1510 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -563,11 +441,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -577,8 +451,6 @@
 
 **Era:** Renaissance (1510 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -590,11 +462,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -604,8 +472,6 @@
 
 **Era:** Renaissance (1510 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -617,11 +483,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -631,8 +493,6 @@
 
 **Era:** Renaissance (1511 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -644,11 +504,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -658,8 +514,6 @@
 
 **Era:** Renaissance (1511 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -671,11 +525,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -685,8 +535,6 @@
 
 **Era:** Renaissance (1512 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -698,11 +546,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -712,8 +556,6 @@
 
 **Era:** Renaissance (1512 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -725,11 +567,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -739,8 +577,6 @@
 
 **Era:** Renaissance (1512 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -752,11 +588,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -766,8 +598,6 @@
 
 **Era:** Renaissance (1513 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -779,11 +609,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -793,8 +619,6 @@
 
 **Era:** Renaissance (1513 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -806,11 +630,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -820,8 +640,6 @@
 
 **Era:** Renaissance (1514 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -833,11 +651,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -847,8 +661,6 @@
 
 **Era:** Renaissance (1514 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -860,11 +672,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -874,8 +682,6 @@
 
 **Era:** Renaissance (1514 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -887,11 +693,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -901,8 +703,6 @@
 
 **Era:** Renaissance (1515 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -914,11 +714,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -928,8 +724,6 @@
 
 **Era:** Renaissance (1515 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -941,11 +735,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -955,8 +745,6 @@
 
 **Era:** Renaissance (1516 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -968,11 +756,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -982,8 +766,6 @@
 
 **Era:** Renaissance (1516 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -995,11 +777,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1009,8 +787,6 @@
 
 **Era:** Renaissance (1516 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1022,11 +798,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1036,8 +808,6 @@
 
 **Era:** Renaissance (1516 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1049,11 +819,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1063,8 +829,6 @@
 
 **Era:** Renaissance (1516 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1076,11 +840,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1090,8 +850,6 @@
 
 **Era:** Renaissance (1517 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1103,11 +861,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1117,8 +871,6 @@
 
 **Era:** Renaissance (1517 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1130,11 +882,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1144,8 +892,6 @@
 
 **Era:** Renaissance (1517 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1157,11 +903,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1171,8 +913,6 @@
 
 **Era:** Renaissance (1517 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1184,11 +924,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1198,8 +934,6 @@
 
 **Era:** Renaissance (1517 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1211,11 +945,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1225,8 +955,6 @@
 
 **Era:** Renaissance (1518 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1238,11 +966,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1252,8 +976,6 @@
 
 **Era:** Renaissance (1518 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1265,11 +987,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1279,8 +997,6 @@
 
 **Era:** Renaissance (1519 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1292,11 +1008,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1306,8 +1018,6 @@
 
 **Era:** Renaissance (1519 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1319,11 +1029,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1333,8 +1039,6 @@
 
 **Era:** Renaissance (1520 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1346,11 +1050,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1360,8 +1060,6 @@
 
 **Era:** Renaissance (1520 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1373,11 +1071,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1387,8 +1081,6 @@
 
 **Era:** Renaissance (1521 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1400,11 +1092,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1414,8 +1102,6 @@
 
 **Era:** Renaissance (1521 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1427,11 +1113,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1441,8 +1123,6 @@
 
 **Era:** Renaissance (1521 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1454,11 +1134,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1468,8 +1144,6 @@
 
 **Era:** Renaissance (1521 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1481,11 +1155,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1495,8 +1165,6 @@
 
 **Era:** Renaissance (1521 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1508,11 +1176,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1522,8 +1186,6 @@
 
 **Era:** Renaissance (1522 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1535,11 +1197,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1549,8 +1207,6 @@
 
 **Era:** Renaissance (1523 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1562,11 +1218,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1576,8 +1228,6 @@
 
 **Era:** Renaissance (1524 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1589,11 +1239,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1603,8 +1249,6 @@
 
 **Era:** Renaissance (1525 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1616,11 +1260,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1630,8 +1270,6 @@
 
 **Era:** Renaissance (1525 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1643,11 +1281,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1657,8 +1291,6 @@
 
 **Era:** Renaissance (1525 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1670,11 +1302,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1684,8 +1312,6 @@
 
 **Era:** Renaissance (1525 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1697,11 +1323,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1711,8 +1333,6 @@
 
 **Era:** Renaissance (1525 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1724,11 +1344,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1738,8 +1354,6 @@
 
 **Era:** Renaissance (1526 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1751,11 +1365,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1765,8 +1375,6 @@
 
 **Era:** Renaissance (1526 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1778,11 +1386,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:15 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1792,8 +1396,6 @@
 
 **Era:** Renaissance (1526 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1805,11 +1407,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1819,8 +1417,6 @@
 
 **Era:** Renaissance (1526 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1832,11 +1428,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:32 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1846,8 +1438,6 @@
 
 **Era:** Renaissance (1526 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1859,11 +1449,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1873,8 +1459,6 @@
 
 **Era:** Renaissance (1526 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1886,11 +1470,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1900,8 +1480,6 @@
 
 **Era:** Renaissance (1526 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1913,11 +1491,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1927,8 +1501,6 @@
 
 **Era:** Renaissance (1527 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1940,11 +1512,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1954,8 +1522,6 @@
 
 **Era:** Renaissance (1527 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1967,11 +1533,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 23:32 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1981,8 +1543,6 @@
 
 **Era:** Renaissance (1527 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -1994,11 +1554,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 21:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2008,8 +1564,6 @@
 
 **Era:** Renaissance (1528 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2021,11 +1575,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2035,8 +1585,6 @@
 
 **Era:** Renaissance (1528 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2048,11 +1596,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2062,8 +1606,6 @@
 
 **Era:** Renaissance (1528 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2075,11 +1617,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2089,8 +1627,6 @@
 
 **Era:** Renaissance (1528 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2102,11 +1638,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2116,8 +1648,6 @@
 
 **Era:** Renaissance (1528 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2129,11 +1659,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2143,8 +1669,6 @@
 
 **Era:** Renaissance (1528 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2156,11 +1680,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2170,8 +1690,6 @@
 
 **Era:** Renaissance (1529 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2183,11 +1701,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2197,8 +1711,6 @@
 
 **Era:** Renaissance (1529 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2210,11 +1722,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2224,8 +1732,6 @@
 
 **Era:** Renaissance (1529 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2237,11 +1743,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:34 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2251,8 +1753,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2264,11 +1764,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2278,8 +1774,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2291,11 +1785,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2305,8 +1795,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2318,11 +1806,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2332,8 +1816,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2345,11 +1827,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2359,8 +1837,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2372,11 +1848,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2386,8 +1858,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2399,11 +1869,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2413,8 +1879,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2426,11 +1890,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2440,8 +1900,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2453,11 +1911,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2467,8 +1921,6 @@
 
 **Era:** Renaissance (1530 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2480,11 +1932,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2494,8 +1942,6 @@
 
 **Era:** Renaissance (1531 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2507,11 +1953,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2521,8 +1963,6 @@
 
 **Era:** Renaissance (1531 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2534,11 +1974,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:52 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2548,8 +1984,6 @@
 
 **Era:** Renaissance (1531 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2561,11 +1995,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2575,8 +2005,6 @@
 
 **Era:** Renaissance (1531 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2588,11 +2016,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:01 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2602,8 +2026,6 @@
 
 **Era:** Renaissance (1531 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2615,11 +2037,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2629,8 +2047,6 @@
 
 **Era:** Renaissance (1531 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2642,11 +2058,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2656,8 +2068,6 @@
 
 **Era:** Renaissance (1531 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2669,11 +2079,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:22 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2683,8 +2089,6 @@
 
 **Era:** Renaissance (1532 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2696,11 +2100,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:06 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2710,8 +2110,6 @@
 
 **Era:** Renaissance (1532 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2723,11 +2121,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2737,8 +2131,6 @@
 
 **Era:** Renaissance (1532 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2750,11 +2142,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2764,8 +2152,6 @@
 
 **Era:** Renaissance (1532 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2777,11 +2163,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2791,8 +2173,6 @@
 
 **Era:** Renaissance (1532 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2804,11 +2184,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:07 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2818,8 +2194,6 @@
 
 **Era:** Renaissance (1532 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2831,11 +2205,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2845,8 +2215,6 @@
 
 **Era:** Renaissance (1532 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2858,11 +2226,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2872,8 +2236,6 @@
 
 **Era:** Renaissance (1533 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2885,11 +2247,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2899,8 +2257,6 @@
 
 **Era:** Renaissance (1533 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2912,11 +2268,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2926,8 +2278,6 @@
 
 **Era:** Renaissance (1533 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2939,11 +2289,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2953,8 +2299,6 @@
 
 **Era:** Renaissance (1533 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2966,11 +2310,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2980,8 +2320,6 @@
 
 **Era:** Renaissance (1533 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -2993,11 +2331,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3007,8 +2341,6 @@
 
 **Era:** Renaissance (1533 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3020,11 +2352,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3034,8 +2362,6 @@
 
 **Era:** Renaissance (1534 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3047,11 +2373,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3061,8 +2383,6 @@
 
 **Era:** Renaissance (1534 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3074,11 +2394,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3088,8 +2404,6 @@
 
 **Era:** Renaissance (1535 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3101,11 +2415,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3115,8 +2425,6 @@
 
 **Era:** Renaissance (1535 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3128,11 +2436,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:41 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3142,8 +2446,6 @@
 
 **Era:** Renaissance (1535 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3155,11 +2457,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3169,8 +2467,6 @@
 
 **Era:** Renaissance (1535 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3182,11 +2478,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3196,8 +2488,6 @@
 
 **Era:** Renaissance (1536 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3209,11 +2499,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3223,8 +2509,6 @@
 
 **Era:** Renaissance (1536 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3236,11 +2520,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:52 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3250,8 +2530,6 @@
 
 **Era:** Renaissance (1536 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3263,11 +2541,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3277,8 +2551,6 @@
 
 **Era:** Renaissance (1536 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3290,11 +2562,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:59 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3304,8 +2572,6 @@
 
 **Era:** Renaissance (1536 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3317,11 +2583,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:26 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3331,8 +2593,6 @@
 
 **Era:** Renaissance (1536 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3344,11 +2604,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:29 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3358,8 +2614,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3371,11 +2625,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3385,8 +2635,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3398,11 +2646,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3412,8 +2656,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3425,11 +2667,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3439,8 +2677,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3452,11 +2688,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3466,8 +2698,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3479,11 +2709,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3493,8 +2719,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3506,11 +2730,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3520,8 +2740,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3533,11 +2751,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3547,8 +2761,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3560,11 +2772,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3574,8 +2782,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3587,11 +2793,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3601,8 +2803,6 @@
 
 **Era:** Renaissance (1537 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3614,11 +2814,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3628,8 +2824,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3641,11 +2835,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3655,8 +2845,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3668,11 +2856,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3682,8 +2866,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3695,11 +2877,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3709,8 +2887,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3722,11 +2898,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3736,8 +2908,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3749,11 +2919,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:32 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3763,8 +2929,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3776,11 +2940,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3790,8 +2950,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3803,11 +2961,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3817,8 +2971,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3830,11 +2982,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:17 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3844,8 +2992,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3857,11 +3003,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3871,8 +3013,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3884,11 +3024,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3898,8 +3034,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3911,11 +3045,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3925,8 +3055,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3938,11 +3066,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3952,8 +3076,6 @@
 
 **Era:** Renaissance (1538 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3965,11 +3087,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3979,8 +3097,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -3992,11 +3108,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4006,8 +3118,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4019,11 +3129,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4033,8 +3139,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4046,11 +3150,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4060,8 +3160,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4073,11 +3171,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4087,8 +3181,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4100,11 +3192,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4114,8 +3202,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4127,11 +3213,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4141,8 +3223,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4154,11 +3234,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4168,8 +3244,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4181,11 +3255,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4195,8 +3265,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4208,11 +3276,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:47 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4222,8 +3286,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4235,11 +3297,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4249,8 +3307,6 @@
 
 **Era:** Renaissance (1539 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4262,11 +3318,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4276,8 +3328,6 @@
 
 **Era:** Renaissance (1540 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4289,11 +3339,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4303,8 +3349,6 @@
 
 **Era:** Renaissance (1540 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4316,11 +3360,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4330,8 +3370,6 @@
 
 **Era:** Renaissance (1540 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4343,11 +3381,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4357,8 +3391,6 @@
 
 **Era:** Renaissance (1540 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4370,11 +3402,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4384,8 +3412,6 @@
 
 **Era:** Renaissance (1540 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4397,11 +3423,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4411,8 +3433,6 @@
 
 **Era:** Renaissance (1540 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4424,11 +3444,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4438,8 +3454,6 @@
 
 **Era:** Renaissance (1541 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4451,11 +3465,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4465,8 +3475,6 @@
 
 **Era:** Renaissance (1541 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4478,11 +3486,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4492,8 +3496,6 @@
 
 **Era:** Renaissance (1541 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4505,11 +3507,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4519,8 +3517,6 @@
 
 **Era:** Renaissance (1542 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4532,11 +3528,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4546,8 +3538,6 @@
 
 **Era:** Renaissance (1542 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4559,11 +3549,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4573,8 +3559,6 @@
 
 **Era:** Renaissance (1542 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4586,11 +3570,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4600,8 +3580,6 @@
 
 **Era:** Renaissance (1542 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4613,11 +3591,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4627,8 +3601,6 @@
 
 **Era:** Renaissance (1543 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4640,11 +3612,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:14 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4654,8 +3622,6 @@
 
 **Era:** Renaissance (1543 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4667,11 +3633,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4681,8 +3643,6 @@
 
 **Era:** Renaissance (1543 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4694,11 +3654,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4708,8 +3664,6 @@
 
 **Era:** Renaissance (1544 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4721,11 +3675,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:28 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4735,8 +3685,6 @@
 
 **Era:** Renaissance (1544 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4748,11 +3696,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4762,8 +3706,6 @@
 
 **Era:** Renaissance (1544 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4775,11 +3717,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4789,8 +3727,6 @@
 
 **Era:** Renaissance (1544 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4802,11 +3738,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4816,8 +3748,6 @@
 
 **Era:** Renaissance (1544 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4829,11 +3759,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4843,8 +3769,6 @@
 
 **Era:** Renaissance (1544 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4856,11 +3780,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:52 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4870,8 +3790,6 @@
 
 **Era:** Renaissance (1545 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4883,11 +3801,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4897,8 +3811,6 @@
 
 **Era:** Renaissance (1545 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4910,11 +3822,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4924,8 +3832,6 @@
 
 **Era:** Renaissance (1545 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4937,11 +3843,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4951,8 +3853,6 @@
 
 **Era:** Renaissance (1545 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4964,11 +3864,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4978,8 +3874,6 @@
 
 **Era:** Renaissance (1545 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -4991,11 +3885,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:23 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5005,8 +3895,6 @@
 
 **Era:** Renaissance (1545 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5018,11 +3906,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5032,8 +3916,6 @@
 
 **Era:** Renaissance (1546 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5045,11 +3927,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5059,8 +3937,6 @@
 
 **Era:** Renaissance (1546 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5072,11 +3948,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:45 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5086,8 +3958,6 @@
 
 **Era:** Renaissance (1546 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5099,11 +3969,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:48 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5113,8 +3979,6 @@
 
 **Era:** Renaissance (1547 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5126,11 +3990,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5140,8 +4000,6 @@
 
 **Era:** Renaissance (1547 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5153,11 +4011,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5167,8 +4021,6 @@
 
 **Era:** Renaissance (1547 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5180,11 +4032,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5194,8 +4042,6 @@
 
 **Era:** Renaissance (1547 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5207,11 +4053,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5221,8 +4063,6 @@
 
 **Era:** Renaissance (1547 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5234,11 +4074,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5248,8 +4084,6 @@
 
 **Era:** Renaissance (1547 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5261,11 +4095,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:52 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5275,8 +4105,6 @@
 
 **Era:** Renaissance (1547 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5288,11 +4116,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5302,8 +4126,6 @@
 
 **Era:** Renaissance (1548 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5315,11 +4137,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5329,8 +4147,6 @@
 
 **Era:** Renaissance (1548 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5342,11 +4158,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5356,8 +4168,6 @@
 
 **Era:** Renaissance (1548 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5369,11 +4179,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5383,8 +4189,6 @@
 
 **Era:** Renaissance (1549 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5396,11 +4200,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5410,8 +4210,6 @@
 
 **Era:** Renaissance (1549 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5423,11 +4221,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5437,8 +4231,6 @@
 
 **Era:** Renaissance (1549 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5450,11 +4242,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5464,8 +4252,6 @@
 
 **Era:** Renaissance (1549 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5477,11 +4263,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5491,8 +4273,6 @@
 
 **Era:** Renaissance (1549 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5504,11 +4284,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:50 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5518,8 +4294,6 @@
 
 **Era:** Renaissance (1549 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5531,11 +4305,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5545,8 +4315,6 @@
 
 **Era:** Renaissance (1549 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5558,11 +4326,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5572,8 +4336,6 @@
 
 **Era:** Renaissance (1549 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5585,11 +4347,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5599,8 +4357,6 @@
 
 **Era:** Renaissance (1550 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5612,11 +4368,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5626,8 +4378,6 @@
 
 **Era:** Renaissance (1550 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5639,11 +4389,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5653,8 +4399,6 @@
 
 **Era:** Renaissance (1550 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5666,11 +4410,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5680,8 +4420,6 @@
 
 **Era:** Renaissance (1550 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5693,11 +4431,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5707,8 +4441,6 @@
 
 **Era:** Renaissance (1550 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5720,11 +4452,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5734,8 +4462,6 @@
 
 **Era:** Renaissance (1550 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5747,11 +4473,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5761,8 +4483,6 @@
 
 **Era:** Renaissance (1551 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5774,11 +4494,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5788,8 +4504,6 @@
 
 **Era:** Renaissance (1551 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5801,11 +4515,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:14 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5815,8 +4525,6 @@
 
 **Era:** Renaissance (1551 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5828,11 +4536,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5842,8 +4546,6 @@
 
 **Era:** Renaissance (1551 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5855,11 +4557,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:54 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5869,8 +4567,6 @@
 
 **Era:** Renaissance (1551 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5882,11 +4578,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:14 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5896,8 +4588,6 @@
 
 **Era:** Renaissance (1551 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5909,11 +4599,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5923,8 +4609,6 @@
 
 **Era:** Renaissance (1551 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5936,11 +4620,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5950,8 +4630,6 @@
 
 **Era:** Renaissance (1552 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5963,11 +4641,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5977,8 +4651,6 @@
 
 **Era:** Renaissance (1552 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -5990,11 +4662,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6004,8 +4672,6 @@
 
 **Era:** Renaissance (1552 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6017,11 +4683,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6031,8 +4693,6 @@
 
 **Era:** Renaissance (1552 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6044,11 +4704,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:20 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6058,8 +4714,6 @@
 
 **Era:** Renaissance (1553 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6071,11 +4725,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6085,8 +4735,6 @@
 
 **Era:** Renaissance (1553 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6098,11 +4746,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6112,8 +4756,6 @@
 
 **Era:** Renaissance (1553 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6125,11 +4767,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6139,8 +4777,6 @@
 
 **Era:** Renaissance (1554 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6152,11 +4788,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:58 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6166,8 +4798,6 @@
 
 **Era:** Renaissance (1554 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6179,11 +4809,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6193,8 +4819,6 @@
 
 **Era:** Renaissance (1554 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6206,11 +4830,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6220,8 +4840,6 @@
 
 **Era:** Renaissance (1554 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6233,11 +4851,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6247,8 +4861,6 @@
 
 **Era:** Renaissance (1554 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6260,11 +4872,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6274,8 +4882,6 @@
 
 **Era:** Renaissance (1554 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6287,11 +4893,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6301,8 +4903,6 @@
 
 **Era:** Renaissance (1554 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6314,11 +4914,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:53 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6328,8 +4924,6 @@
 
 **Era:** Renaissance (1554 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6341,11 +4935,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:32 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6355,8 +4945,6 @@
 
 **Era:** Renaissance (1555 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6368,11 +4956,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:55 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6382,8 +4966,6 @@
 
 **Era:** Renaissance (1555 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6395,11 +4977,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6409,8 +4987,6 @@
 
 **Era:** Renaissance (1555 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6422,11 +4998,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:07 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6436,8 +5008,6 @@
 
 **Era:** Renaissance (1555 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6449,11 +5019,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:01 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6463,8 +5029,6 @@
 
 **Era:** Renaissance (1555 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6476,11 +5040,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6490,8 +5050,6 @@
 
 **Era:** Renaissance (1556 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6503,11 +5061,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6517,8 +5071,6 @@
 
 **Era:** Renaissance (1556 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6530,11 +5082,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6544,8 +5092,6 @@
 
 **Era:** Renaissance (1556 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6557,11 +5103,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6571,8 +5113,6 @@
 
 **Era:** Renaissance (1556 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6584,11 +5124,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6598,8 +5134,6 @@
 
 **Era:** Renaissance (1556 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6611,11 +5145,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6625,8 +5155,6 @@
 
 **Era:** Renaissance (1556 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6638,11 +5166,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6652,8 +5176,6 @@
 
 **Era:** Renaissance (1557 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6665,11 +5187,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6679,8 +5197,6 @@
 
 **Era:** Renaissance (1557 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6692,11 +5208,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6706,8 +5218,6 @@
 
 **Era:** Renaissance (1557 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6719,11 +5229,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6733,8 +5239,6 @@
 
 **Era:** Renaissance (1557 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6746,11 +5250,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6760,8 +5260,6 @@
 
 **Era:** Renaissance (1557 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6773,11 +5271,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6787,8 +5281,6 @@
 
 **Era:** Renaissance (1557 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6800,11 +5292,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6814,8 +5302,6 @@
 
 **Era:** Renaissance (1558 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6827,11 +5313,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6841,8 +5323,6 @@
 
 **Era:** Renaissance (1558 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6854,11 +5334,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6868,8 +5344,6 @@
 
 **Era:** Renaissance (1558 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6881,11 +5355,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6895,8 +5365,6 @@
 
 **Era:** Renaissance (1558 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6908,11 +5376,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6922,8 +5386,6 @@
 
 **Era:** Renaissance (1558 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6935,11 +5397,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6949,8 +5407,6 @@
 
 **Era:** Renaissance (1558 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6962,11 +5418,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6976,8 +5428,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -6989,11 +5439,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7003,8 +5449,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7016,11 +5460,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7030,8 +5470,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7043,11 +5481,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7057,8 +5491,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7070,11 +5502,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7084,8 +5512,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7097,11 +5523,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7111,8 +5533,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7124,11 +5544,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7138,8 +5554,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7151,11 +5565,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7165,8 +5575,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7178,11 +5586,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7192,8 +5596,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7205,11 +5607,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:31 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7219,8 +5617,6 @@
 
 **Era:** Renaissance (1559 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7232,11 +5628,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7246,8 +5638,6 @@
 
 **Era:** Renaissance (1560 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7259,11 +5649,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7273,8 +5659,6 @@
 
 **Era:** Renaissance (1561 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7286,11 +5670,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7300,8 +5680,6 @@
 
 **Era:** Renaissance (1561 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7313,11 +5691,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7327,8 +5701,6 @@
 
 **Era:** Renaissance (1561 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7340,11 +5712,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:57 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7354,8 +5722,6 @@
 
 **Era:** Renaissance (1561 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7367,11 +5733,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7381,8 +5743,6 @@
 
 **Era:** Renaissance (1561 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7394,11 +5754,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7408,8 +5764,6 @@
 
 **Era:** Renaissance (1561 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7421,11 +5775,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7435,8 +5785,6 @@
 
 **Era:** Renaissance (1561 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7448,11 +5796,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7462,8 +5806,6 @@
 
 **Era:** Renaissance (1562 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7475,11 +5817,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7489,8 +5827,6 @@
 
 **Era:** Renaissance (1562 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7502,11 +5838,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7516,8 +5848,6 @@
 
 **Era:** Renaissance (1562 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7529,11 +5859,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7543,8 +5869,6 @@
 
 **Era:** Renaissance (1562 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7556,11 +5880,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:08 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7570,8 +5890,6 @@
 
 **Era:** Renaissance (1562 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7583,11 +5901,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7597,8 +5911,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7610,11 +5922,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7624,8 +5932,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7637,11 +5943,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7651,8 +5953,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7664,11 +5964,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7678,8 +5974,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7691,11 +5985,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7705,8 +5995,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7718,11 +6006,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:10 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7732,8 +6016,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7745,11 +6027,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7759,8 +6037,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7772,11 +6048,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:06 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7786,8 +6058,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7799,11 +6069,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7813,8 +6079,6 @@
 
 **Era:** Renaissance (1563 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7826,11 +6090,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7840,8 +6100,6 @@
 
 **Era:** Renaissance (1564 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7853,11 +6111,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7867,8 +6121,6 @@
 
 **Era:** Renaissance (1564 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7880,11 +6132,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:32 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7894,8 +6142,6 @@
 
 **Era:** Renaissance (1564 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7907,11 +6153,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7921,8 +6163,6 @@
 
 **Era:** Renaissance (1564 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7934,11 +6174,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7948,8 +6184,6 @@
 
 **Era:** Renaissance (1564 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7961,11 +6195,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7975,8 +6205,6 @@
 
 **Era:** Renaissance (1564 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -7988,11 +6216,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8002,8 +6226,6 @@
 
 **Era:** Renaissance (1565 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8015,11 +6237,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8029,8 +6247,6 @@
 
 **Era:** Renaissance (1565 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8042,11 +6258,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8056,8 +6268,6 @@
 
 **Era:** Renaissance (1565 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8069,11 +6279,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8083,8 +6289,6 @@
 
 **Era:** Renaissance (1565 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8096,11 +6300,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8110,8 +6310,6 @@
 
 **Era:** Renaissance (1565 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8123,11 +6321,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8137,8 +6331,6 @@
 
 **Era:** Renaissance (1566 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8150,11 +6342,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8164,8 +6352,6 @@
 
 **Era:** Renaissance (1566 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8177,11 +6363,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8191,8 +6373,6 @@
 
 **Era:** Renaissance (1566 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8204,11 +6384,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8218,8 +6394,6 @@
 
 **Era:** Renaissance (1566 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8231,11 +6405,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:14 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8245,8 +6415,6 @@
 
 **Era:** Renaissance (1566 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8258,11 +6426,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8272,8 +6436,6 @@
 
 **Era:** Renaissance (1566 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8285,11 +6447,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8299,8 +6457,6 @@
 
 **Era:** Renaissance (1567 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8312,11 +6468,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8326,8 +6478,6 @@
 
 **Era:** Renaissance (1567 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8339,11 +6489,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8353,8 +6499,6 @@
 
 **Era:** Renaissance (1567 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8366,11 +6510,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8380,8 +6520,6 @@
 
 **Era:** Renaissance (1567 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8393,11 +6531,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8407,8 +6541,6 @@
 
 **Era:** Renaissance (1567 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8420,11 +6552,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8434,8 +6562,6 @@
 
 **Era:** Renaissance (1567 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8447,11 +6573,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8461,8 +6583,6 @@
 
 **Era:** Renaissance (1567 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8474,11 +6594,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8488,8 +6604,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8501,11 +6615,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8515,8 +6625,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8528,11 +6636,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:49 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8542,8 +6646,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8555,11 +6657,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8569,8 +6667,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8582,11 +6678,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8596,8 +6688,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8609,11 +6699,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8623,8 +6709,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8636,11 +6720,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8650,8 +6730,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8663,11 +6741,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8677,8 +6751,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8690,11 +6762,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8704,8 +6772,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8717,11 +6783,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8731,8 +6793,6 @@
 
 **Era:** Renaissance (1568 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8744,11 +6804,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8758,8 +6814,6 @@
 
 **Era:** Renaissance (1569 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8771,11 +6825,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8785,8 +6835,6 @@
 
 **Era:** Renaissance (1569 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8798,11 +6846,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8812,8 +6856,6 @@
 
 **Era:** Renaissance (1569 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8825,11 +6867,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8839,8 +6877,6 @@
 
 **Era:** Renaissance (1569 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8852,11 +6888,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8866,8 +6898,6 @@
 
 **Era:** Renaissance (1569 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8879,11 +6909,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8893,8 +6919,6 @@
 
 **Era:** Renaissance (1569 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8906,11 +6930,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8920,8 +6940,6 @@
 
 **Era:** Renaissance (1569 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8933,11 +6951,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8947,8 +6961,6 @@
 
 **Era:** Renaissance (1570 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8960,11 +6972,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8974,8 +6982,6 @@
 
 **Era:** Renaissance (1571 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -8987,11 +6993,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:28 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9001,8 +7003,6 @@
 
 **Era:** Renaissance (1571 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9014,11 +7014,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9028,8 +7024,6 @@
 
 **Era:** Renaissance (1571 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9041,11 +7035,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9055,8 +7045,6 @@
 
 **Era:** Renaissance (1571 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9068,11 +7056,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9082,8 +7066,6 @@
 
 **Era:** Renaissance (1571 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9095,11 +7077,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9109,8 +7087,6 @@
 
 **Era:** Renaissance (1571 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9122,11 +7098,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9136,8 +7108,6 @@
 
 **Era:** Renaissance (1571 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9149,11 +7119,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:33 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9163,8 +7129,6 @@
 
 **Era:** Renaissance (1571 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9176,11 +7140,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9190,8 +7150,6 @@
 
 **Era:** Renaissance (1572 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9203,11 +7161,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9217,8 +7171,6 @@
 
 **Era:** Renaissance (1572 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9230,11 +7182,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:23 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9244,8 +7192,6 @@
 
 **Era:** Renaissance (1572 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9257,11 +7203,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:58 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9271,8 +7213,6 @@
 
 **Era:** Renaissance (1572 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9284,11 +7224,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9298,8 +7234,6 @@
 
 **Era:** Renaissance (1572 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9311,11 +7245,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9325,8 +7255,6 @@
 
 **Era:** Renaissance (1572 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9338,11 +7266,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:03 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9352,8 +7276,6 @@
 
 **Era:** Renaissance (1572 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9365,11 +7287,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9379,8 +7297,6 @@
 
 **Era:** Renaissance (1572 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9392,11 +7308,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:41 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9406,8 +7318,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9419,11 +7329,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9433,8 +7339,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9446,11 +7350,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9460,8 +7360,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9473,11 +7371,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9487,8 +7381,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9500,11 +7392,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:52 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9514,8 +7402,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9527,11 +7413,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9541,8 +7423,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9554,11 +7434,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9568,8 +7444,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9581,11 +7455,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9595,8 +7465,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9608,11 +7476,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9622,8 +7486,6 @@
 
 **Era:** Renaissance (1573 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9635,11 +7497,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9649,8 +7507,6 @@
 
 **Era:** Renaissance (1574 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9662,11 +7518,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9676,8 +7528,6 @@
 
 **Era:** Renaissance (1574 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9689,11 +7539,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9703,8 +7549,6 @@
 
 **Era:** Renaissance (1574 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9716,11 +7560,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9730,8 +7570,6 @@
 
 **Era:** Renaissance (1574 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9743,11 +7581,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:48 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9757,8 +7591,6 @@
 
 **Era:** Renaissance (1574 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9770,11 +7602,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9784,8 +7612,6 @@
 
 **Era:** Renaissance (1574 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9797,11 +7623,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9811,8 +7633,6 @@
 
 **Era:** Renaissance (1574 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9824,11 +7644,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9838,8 +7654,6 @@
 
 **Era:** Renaissance (1574 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9851,11 +7665,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9865,8 +7675,6 @@
 
 **Era:** Renaissance (1575 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9878,11 +7686,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:26 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9892,8 +7696,6 @@
 
 **Era:** Renaissance (1575 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9905,11 +7707,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9919,8 +7717,6 @@
 
 **Era:** Renaissance (1575 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9932,11 +7728,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9946,8 +7738,6 @@
 
 **Era:** Renaissance (1575 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9959,11 +7749,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9973,8 +7759,6 @@
 
 **Era:** Renaissance (1575 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -9986,11 +7770,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10000,8 +7780,6 @@
 
 **Era:** Renaissance (1575 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10013,11 +7791,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10027,8 +7801,6 @@
 
 **Era:** Renaissance (1575 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10040,11 +7812,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10054,8 +7822,6 @@
 
 **Era:** Renaissance (1576 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10067,11 +7833,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:54 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10081,8 +7843,6 @@
 
 **Era:** Renaissance (1576 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10094,11 +7854,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10108,8 +7864,6 @@
 
 **Era:** Renaissance (1576 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10121,11 +7875,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10135,8 +7885,6 @@
 
 **Era:** Renaissance (1577 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10148,11 +7896,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10162,8 +7906,6 @@
 
 **Era:** Renaissance (1577 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10175,11 +7917,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10189,8 +7927,6 @@
 
 **Era:** Renaissance (1577 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10202,11 +7938,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10216,8 +7948,6 @@
 
 **Era:** Renaissance (1577 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10229,11 +7959,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10243,8 +7969,6 @@
 
 **Era:** Renaissance (1578 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10256,11 +7980,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10270,8 +7990,6 @@
 
 **Era:** Renaissance (1578 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10283,11 +8001,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10297,8 +8011,6 @@
 
 **Era:** Renaissance (1578 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10310,11 +8022,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:27 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10324,8 +8032,6 @@
 
 **Era:** Renaissance (1578 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10337,11 +8043,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10351,8 +8053,6 @@
 
 **Era:** Renaissance (1578 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10364,11 +8064,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:21 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10378,8 +8074,6 @@
 
 **Era:** Renaissance (1578 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10391,11 +8085,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10405,8 +8095,6 @@
 
 **Era:** Renaissance (1578 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10418,11 +8106,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10432,8 +8116,6 @@
 
 **Era:** Renaissance (1578 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10445,11 +8127,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10459,8 +8137,6 @@
 
 **Era:** Renaissance (1579 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10472,11 +8148,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10486,8 +8158,6 @@
 
 **Era:** Renaissance (1579 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10499,11 +8169,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10513,8 +8179,6 @@
 
 **Era:** Renaissance (1579 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10526,11 +8190,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10540,8 +8200,6 @@
 
 **Era:** Renaissance (1579 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10553,11 +8211,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10567,8 +8221,6 @@
 
 **Era:** Renaissance (1579 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10580,11 +8232,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10594,8 +8242,6 @@
 
 **Era:** Renaissance (1580 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10607,11 +8253,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10621,8 +8263,6 @@
 
 **Era:** Renaissance (1580 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10634,11 +8274,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:24 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10648,8 +8284,6 @@
 
 **Era:** Renaissance (1580 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10661,11 +8295,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10675,8 +8305,6 @@
 
 **Era:** Renaissance (1580 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10688,11 +8316,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10702,8 +8326,6 @@
 
 **Era:** Renaissance (1580 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10715,11 +8337,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10729,8 +8347,6 @@
 
 **Era:** Renaissance (1580 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10742,11 +8358,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10756,8 +8368,6 @@
 
 **Era:** Renaissance (1580 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10769,11 +8379,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10783,8 +8389,6 @@
 
 **Era:** Renaissance (1581 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10796,11 +8400,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10810,8 +8410,6 @@
 
 **Era:** Renaissance (1581 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10823,11 +8421,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10837,8 +8431,6 @@
 
 **Era:** Renaissance (1581 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10850,11 +8442,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10864,8 +8452,6 @@
 
 **Era:** Renaissance (1581 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10877,11 +8463,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10891,8 +8473,6 @@
 
 **Era:** Renaissance (1581 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10904,11 +8484,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10918,8 +8494,6 @@
 
 **Era:** Renaissance (1581 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10931,11 +8505,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10945,8 +8515,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10958,11 +8526,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10972,8 +8536,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -10985,11 +8547,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10999,8 +8557,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11012,11 +8568,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11026,8 +8578,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11039,11 +8589,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11053,8 +8599,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11066,11 +8610,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11080,8 +8620,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11093,11 +8631,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:24 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11107,8 +8641,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11120,11 +8652,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:59 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11134,8 +8662,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11147,11 +8673,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11161,8 +8683,6 @@
 
 **Era:** Renaissance (1582 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11174,11 +8694,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11188,8 +8704,6 @@
 
 **Era:** Renaissance (1583 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11201,11 +8715,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11215,8 +8725,6 @@
 
 **Era:** Renaissance (1583 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11228,11 +8736,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:27 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11242,8 +8746,6 @@
 
 **Era:** Renaissance (1583 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11255,11 +8757,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11269,8 +8767,6 @@
 
 **Era:** Renaissance (1583 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11282,11 +8778,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:45 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11296,8 +8788,6 @@
 
 **Era:** Renaissance (1583 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11309,11 +8799,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11323,8 +8809,6 @@
 
 **Era:** Renaissance (1584 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11336,11 +8820,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11350,8 +8830,6 @@
 
 **Era:** Renaissance (1584 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11363,11 +8841,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11377,8 +8851,6 @@
 
 **Era:** Renaissance (1584 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11390,11 +8862,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11404,8 +8872,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11417,11 +8883,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11431,8 +8893,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11444,11 +8904,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11458,8 +8914,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11471,11 +8925,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11485,8 +8935,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11498,11 +8946,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:28 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11512,8 +8956,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11525,11 +8967,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11539,8 +8977,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11552,11 +8988,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:05 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11566,8 +8998,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11579,11 +9009,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11593,8 +9019,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11606,11 +9030,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11620,8 +9040,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11633,11 +9051,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11647,8 +9061,6 @@
 
 **Era:** Renaissance (1585 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11660,11 +9072,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11674,8 +9082,6 @@
 
 **Era:** Renaissance (1586 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11687,11 +9093,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11701,8 +9103,6 @@
 
 **Era:** Renaissance (1586 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11714,11 +9114,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 04:14 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11728,8 +9124,6 @@
 
 **Era:** Renaissance (1586 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11741,11 +9135,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11755,8 +9145,6 @@
 
 **Era:** Renaissance (1586 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11768,11 +9156,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11782,8 +9166,6 @@
 
 **Era:** Renaissance (1586 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11795,11 +9177,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11809,8 +9187,6 @@
 
 **Era:** Renaissance (1586 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11822,11 +9198,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11836,8 +9208,6 @@
 
 **Era:** Renaissance (1587 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11849,11 +9219,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11863,8 +9229,6 @@
 
 **Era:** Renaissance (1587 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11876,11 +9240,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11890,8 +9250,6 @@
 
 **Era:** Renaissance (1587 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11903,11 +9261,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11917,8 +9271,6 @@
 
 **Era:** Renaissance (1587 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11930,11 +9282,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11944,8 +9292,6 @@
 
 **Era:** Renaissance (1587 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11957,11 +9303,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11971,8 +9313,6 @@
 
 **Era:** Renaissance (1587 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -11984,11 +9324,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11998,8 +9334,6 @@
 
 **Era:** Renaissance (1587 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12011,11 +9345,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12025,8 +9355,6 @@
 
 **Era:** Renaissance (1587 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12038,11 +9366,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12052,8 +9376,6 @@
 
 **Era:** Renaissance (1588 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12065,11 +9387,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12079,8 +9397,6 @@
 
 **Era:** Renaissance (1588 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12092,11 +9408,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12106,8 +9418,6 @@
 
 **Era:** Renaissance (1588 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12119,11 +9429,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12133,8 +9439,6 @@
 
 **Era:** Renaissance (1588 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12146,11 +9450,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12160,8 +9460,6 @@
 
 **Era:** Renaissance (1588 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12173,11 +9471,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12187,8 +9481,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12200,11 +9492,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12214,8 +9502,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12227,11 +9513,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12241,8 +9523,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12254,11 +9534,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12268,8 +9544,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12281,11 +9555,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12295,8 +9565,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12308,11 +9576,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12322,8 +9586,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12335,11 +9597,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12349,8 +9607,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12362,11 +9618,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12376,8 +9628,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12389,11 +9639,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12403,8 +9649,6 @@
 
 **Era:** Renaissance (1589 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12416,11 +9660,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12430,8 +9670,6 @@
 
 **Era:** Renaissance (1590 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12443,11 +9681,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12457,8 +9691,6 @@
 
 **Era:** Renaissance (1590 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12470,11 +9702,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12484,8 +9712,6 @@
 
 **Era:** Renaissance (1590 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12497,11 +9723,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12511,8 +9733,6 @@
 
 **Era:** Renaissance (1590 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12524,11 +9744,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12538,8 +9754,6 @@
 
 **Era:** Renaissance (1590 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12551,11 +9765,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12565,8 +9775,6 @@
 
 **Era:** Renaissance (1591 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12578,11 +9786,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12592,8 +9796,6 @@
 
 **Era:** Renaissance (1591 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12605,11 +9807,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:14 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12619,8 +9817,6 @@
 
 **Era:** Renaissance (1591 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12632,11 +9828,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12646,8 +9838,6 @@
 
 **Era:** Renaissance (1591 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12659,11 +9849,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12673,8 +9859,6 @@
 
 **Era:** Renaissance (1591 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12686,11 +9870,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12700,8 +9880,6 @@
 
 **Era:** Renaissance (1592 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12713,11 +9891,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:05 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12727,8 +9901,6 @@
 
 **Era:** Renaissance (1592 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12740,11 +9912,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12754,8 +9922,6 @@
 
 **Era:** Renaissance (1592 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12767,11 +9933,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12781,8 +9943,6 @@
 
 **Era:** Renaissance (1592 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12794,11 +9954,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12808,8 +9964,6 @@
 
 **Era:** Renaissance (1592 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12821,11 +9975,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12835,8 +9985,6 @@
 
 **Era:** Renaissance (1592 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12848,11 +9996,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12862,8 +10006,6 @@
 
 **Era:** Renaissance (1592 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12875,11 +10017,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12889,8 +10027,6 @@
 
 **Era:** Renaissance (1592 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12902,11 +10038,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12916,8 +10048,6 @@
 
 **Era:** Renaissance (1593 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12929,11 +10059,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12943,8 +10069,6 @@
 
 **Era:** Renaissance (1593 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12956,11 +10080,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12970,8 +10090,6 @@
 
 **Era:** Renaissance (1593 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -12983,11 +10101,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12997,8 +10111,6 @@
 
 **Era:** Renaissance (1593 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13010,11 +10122,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13024,8 +10132,6 @@
 
 **Era:** Renaissance (1593 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13037,11 +10143,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13051,8 +10153,6 @@
 
 **Era:** Renaissance (1593 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13064,11 +10164,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:56 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13078,8 +10174,6 @@
 
 **Era:** Renaissance (1593 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13091,11 +10185,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13105,8 +10195,6 @@
 
 **Era:** Renaissance (1593 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13118,11 +10206,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:24 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13132,8 +10216,6 @@
 
 **Era:** Renaissance (1594 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13145,11 +10227,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13159,8 +10237,6 @@
 
 **Era:** Renaissance (1594 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13172,11 +10248,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13186,8 +10258,6 @@
 
 **Era:** Renaissance (1594 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13199,11 +10269,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13213,8 +10279,6 @@
 
 **Era:** Renaissance (1594 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13226,11 +10290,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13240,8 +10300,6 @@
 
 **Era:** Renaissance (1594 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13253,11 +10311,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13267,8 +10321,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13280,11 +10332,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13294,8 +10342,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13307,11 +10353,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13321,8 +10363,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13334,11 +10374,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13348,8 +10384,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13361,11 +10395,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13375,8 +10405,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13388,11 +10416,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:53 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13402,8 +10426,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13415,11 +10437,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13429,8 +10447,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13442,11 +10458,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13456,8 +10468,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13469,11 +10479,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13483,8 +10489,6 @@
 
 **Era:** Renaissance (1595 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13496,11 +10500,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13510,8 +10510,6 @@
 
 **Era:** Renaissance (1596 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13523,11 +10521,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13537,8 +10531,6 @@
 
 **Era:** Renaissance (1596 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13550,11 +10542,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13564,8 +10552,6 @@
 
 **Era:** Renaissance (1596 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13577,11 +10563,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13591,8 +10573,6 @@
 
 **Era:** Renaissance (1596 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13604,11 +10584,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13618,8 +10594,6 @@
 
 **Era:** Renaissance (1596 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13631,11 +10605,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13645,8 +10615,6 @@
 
 **Era:** Renaissance (1596 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13658,11 +10626,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13672,8 +10636,6 @@
 
 **Era:** Renaissance (1596 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13685,11 +10647,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13699,8 +10657,6 @@
 
 **Era:** Renaissance (1597 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13712,11 +10668,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:25 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13726,8 +10678,6 @@
 
 **Era:** Renaissance (1597 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13739,11 +10689,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13753,8 +10699,6 @@
 
 **Era:** Renaissance (1597 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13766,11 +10710,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:43 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13780,8 +10720,6 @@
 
 **Era:** Renaissance (1597 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13793,11 +10731,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13807,8 +10741,6 @@
 
 **Era:** Renaissance (1597 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13820,11 +10752,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13834,8 +10762,6 @@
 
 **Era:** Renaissance (1597 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13847,11 +10773,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13861,8 +10783,6 @@
 
 **Era:** Renaissance (1597 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13874,11 +10794,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:29 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13888,8 +10804,6 @@
 
 **Era:** Renaissance (1598 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13901,11 +10815,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13915,8 +10825,6 @@
 
 **Era:** Renaissance (1598 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13928,11 +10836,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13942,8 +10846,6 @@
 
 **Era:** Renaissance (1598 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13955,11 +10857,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13969,8 +10867,6 @@
 
 **Era:** Renaissance (1599 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -13982,11 +10878,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13996,8 +10888,6 @@
 
 **Era:** Renaissance (1599 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -14009,11 +10899,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14023,8 +10909,6 @@
 
 **Era:** Renaissance (1599 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -14036,11 +10920,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14050,8 +10930,6 @@
 
 **Era:** Renaissance (1599 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -14063,11 +10941,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:28 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14077,8 +10951,6 @@
 
 **Era:** Renaissance (1599 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -14090,11 +10962,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14104,8 +10972,6 @@
 
 **Era:** Renaissance (1599 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -14117,11 +10983,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14131,8 +10993,6 @@
 
 **Era:** Renaissance (1600 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -14144,11 +11004,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14158,8 +11014,6 @@
 
 **Era:** Renaissance (1600 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -14171,11 +11025,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:59 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14185,8 +11035,6 @@
 
 **Era:** Renaissance (1600 CE)
 
-*Art and science bloom. Reformation. Age of Exploration.*
-
 ---
 
 ### Astrological Snapshot
@@ -14198,11 +11046,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14212,8 +11056,6 @@
 
 **Era:** Early Modern (1601 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14225,11 +11067,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:14 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14239,8 +11077,6 @@
 
 **Era:** Early Modern (1601 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14252,11 +11088,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14266,8 +11098,6 @@
 
 **Era:** Early Modern (1601 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14279,11 +11109,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14293,8 +11119,6 @@
 
 **Era:** Early Modern (1601 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14306,11 +11130,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:29 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14320,8 +11140,6 @@
 
 **Era:** Early Modern (1601 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14333,11 +11151,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14347,8 +11161,6 @@
 
 **Era:** Early Modern (1601 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14360,11 +11172,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14374,8 +11182,6 @@
 
 **Era:** Early Modern (1602 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14387,11 +11193,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14401,8 +11203,6 @@
 
 **Era:** Early Modern (1602 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14414,11 +11214,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14428,8 +11224,6 @@
 
 **Era:** Early Modern (1602 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14441,11 +11235,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14455,8 +11245,6 @@
 
 **Era:** Early Modern (1602 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14468,11 +11256,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14482,8 +11266,6 @@
 
 **Era:** Early Modern (1602 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14495,11 +11277,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 21:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14509,8 +11287,6 @@
 
 **Era:** Early Modern (1602 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14522,11 +11298,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14536,8 +11308,6 @@
 
 **Era:** Early Modern (1602 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14549,11 +11319,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14563,8 +11329,6 @@
 
 **Era:** Early Modern (1602 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14576,11 +11340,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:03 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14590,8 +11350,6 @@
 
 **Era:** Early Modern (1603 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14603,11 +11361,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14617,8 +11371,6 @@
 
 **Era:** Early Modern (1603 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14630,11 +11382,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14644,8 +11392,6 @@
 
 **Era:** Early Modern (1603 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14657,11 +11403,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:32 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14671,8 +11413,6 @@
 
 **Era:** Early Modern (1603 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14684,11 +11424,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:20 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14698,8 +11434,6 @@
 
 **Era:** Early Modern (1603 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14711,11 +11445,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14725,8 +11455,6 @@
 
 **Era:** Early Modern (1603 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14738,11 +11466,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:48 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14752,8 +11476,6 @@
 
 **Era:** Early Modern (1604 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14765,11 +11487,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14779,8 +11497,6 @@
 
 **Era:** Early Modern (1604 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14792,11 +11508,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14806,8 +11518,6 @@
 
 **Era:** Early Modern (1604 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14819,11 +11529,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:29 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14833,8 +11539,6 @@
 
 **Era:** Early Modern (1604 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14846,11 +11550,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14860,8 +11560,6 @@
 
 **Era:** Early Modern (1604 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14873,11 +11571,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14887,8 +11581,6 @@
 
 **Era:** Early Modern (1605 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14900,11 +11592,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14914,8 +11602,6 @@
 
 **Era:** Early Modern (1605 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14927,11 +11613,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:42 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14941,8 +11623,6 @@
 
 **Era:** Early Modern (1605 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14954,11 +11634,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14968,8 +11644,6 @@
 
 **Era:** Early Modern (1605 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -14981,11 +11655,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14995,8 +11665,6 @@
 
 **Era:** Early Modern (1605 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15008,11 +11676,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15022,8 +11686,6 @@
 
 **Era:** Early Modern (1605 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15035,11 +11697,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15049,8 +11707,6 @@
 
 **Era:** Early Modern (1605 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15062,11 +11718,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15076,8 +11728,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15089,11 +11739,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:50 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15103,8 +11749,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15116,11 +11760,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15130,8 +11770,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15143,11 +11781,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15157,8 +11791,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15170,11 +11802,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15184,8 +11812,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15197,11 +11823,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15211,8 +11833,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15224,11 +11844,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15238,8 +11854,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15251,11 +11865,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15265,8 +11875,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15278,11 +11886,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15292,8 +11896,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15305,11 +11907,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:59 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15319,8 +11917,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15332,11 +11928,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15346,8 +11938,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15359,11 +11949,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15373,8 +11959,6 @@
 
 **Era:** Early Modern (1606 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15386,11 +11970,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:21 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15400,8 +11980,6 @@
 
 **Era:** Early Modern (1607 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15413,11 +11991,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15427,8 +12001,6 @@
 
 **Era:** Early Modern (1607 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15440,11 +12012,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15454,8 +12022,6 @@
 
 **Era:** Early Modern (1607 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15467,11 +12033,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15481,8 +12043,6 @@
 
 **Era:** Early Modern (1607 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15494,11 +12054,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15508,8 +12064,6 @@
 
 **Era:** Early Modern (1608 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15521,11 +12075,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15535,8 +12085,6 @@
 
 **Era:** Early Modern (1608 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15548,11 +12096,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15562,8 +12106,6 @@
 
 **Era:** Early Modern (1608 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15575,11 +12117,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15589,8 +12127,6 @@
 
 **Era:** Early Modern (1608 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15602,11 +12138,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15616,8 +12148,6 @@
 
 **Era:** Early Modern (1609 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15629,11 +12159,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15643,8 +12169,6 @@
 
 **Era:** Early Modern (1609 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15656,11 +12180,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15670,8 +12190,6 @@
 
 **Era:** Early Modern (1609 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15683,11 +12201,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:25 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15697,8 +12211,6 @@
 
 **Era:** Early Modern (1609 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15710,11 +12222,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15724,8 +12232,6 @@
 
 **Era:** Early Modern (1609 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15737,11 +12243,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15751,8 +12253,6 @@
 
 **Era:** Early Modern (1609 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15764,11 +12264,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15778,8 +12274,6 @@
 
 **Era:** Early Modern (1609 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15791,11 +12285,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15805,8 +12295,6 @@
 
 **Era:** Early Modern (1610 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15818,11 +12306,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15832,8 +12316,6 @@
 
 **Era:** Early Modern (1610 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15845,11 +12327,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15859,8 +12337,6 @@
 
 **Era:** Early Modern (1610 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15872,11 +12348,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:20 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15886,8 +12358,6 @@
 
 **Era:** Early Modern (1610 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15899,11 +12369,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15913,8 +12379,6 @@
 
 **Era:** Early Modern (1610 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15926,11 +12390,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15940,8 +12400,6 @@
 
 **Era:** Early Modern (1610 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15953,11 +12411,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15967,8 +12421,6 @@
 
 **Era:** Early Modern (1610 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -15980,11 +12432,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15994,8 +12442,6 @@
 
 **Era:** Early Modern (1611 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16007,11 +12453,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16021,8 +12463,6 @@
 
 **Era:** Early Modern (1611 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16034,11 +12474,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:48 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16048,8 +12484,6 @@
 
 **Era:** Early Modern (1611 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16061,11 +12495,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16075,8 +12505,6 @@
 
 **Era:** Early Modern (1611 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16088,11 +12516,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16102,8 +12526,6 @@
 
 **Era:** Early Modern (1611 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16115,11 +12537,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:55 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16129,8 +12547,6 @@
 
 **Era:** Early Modern (1611 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16142,11 +12558,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16156,8 +12568,6 @@
 
 **Era:** Early Modern (1611 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16169,11 +12579,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16183,8 +12589,6 @@
 
 **Era:** Early Modern (1611 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16196,11 +12600,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16210,8 +12610,6 @@
 
 **Era:** Early Modern (1612 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16223,11 +12621,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16237,8 +12631,6 @@
 
 **Era:** Early Modern (1612 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16250,11 +12642,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16264,8 +12652,6 @@
 
 **Era:** Early Modern (1612 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16277,11 +12663,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16291,8 +12673,6 @@
 
 **Era:** Early Modern (1612 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16304,11 +12684,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16318,8 +12694,6 @@
 
 **Era:** Early Modern (1612 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16331,11 +12705,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16345,8 +12715,6 @@
 
 **Era:** Early Modern (1613 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16358,11 +12726,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16372,8 +12736,6 @@
 
 **Era:** Early Modern (1613 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16385,11 +12747,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16399,8 +12757,6 @@
 
 **Era:** Early Modern (1613 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16412,11 +12768,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16426,8 +12778,6 @@
 
 **Era:** Early Modern (1613 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16439,11 +12789,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16453,8 +12799,6 @@
 
 **Era:** Early Modern (1613 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16466,11 +12810,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:41 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16480,8 +12820,6 @@
 
 **Era:** Early Modern (1613 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16493,11 +12831,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16507,8 +12841,6 @@
 
 **Era:** Early Modern (1614 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16520,11 +12852,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:07 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16534,8 +12862,6 @@
 
 **Era:** Early Modern (1614 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16547,11 +12873,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16561,8 +12883,6 @@
 
 **Era:** Early Modern (1614 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16574,11 +12894,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16588,8 +12904,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16601,11 +12915,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16615,8 +12925,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16628,11 +12936,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16642,8 +12946,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16655,11 +12957,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16669,8 +12967,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16682,11 +12978,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16696,8 +12988,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16709,11 +12999,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16723,8 +13009,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16736,11 +13020,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16750,8 +13030,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16763,11 +13041,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16777,8 +13051,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16790,11 +13062,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16804,8 +13072,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16817,11 +13083,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16831,8 +13093,6 @@
 
 **Era:** Early Modern (1615 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16844,11 +13104,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16858,8 +13114,6 @@
 
 **Era:** Early Modern (1616 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16871,11 +13125,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16885,8 +13135,6 @@
 
 **Era:** Early Modern (1616 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16898,11 +13146,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16912,8 +13156,6 @@
 
 **Era:** Early Modern (1616 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16925,11 +13167,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16939,8 +13177,6 @@
 
 **Era:** Early Modern (1616 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16952,11 +13188,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16966,8 +13198,6 @@
 
 **Era:** Early Modern (1617 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -16979,11 +13209,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16993,8 +13219,6 @@
 
 **Era:** Early Modern (1617 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17006,11 +13230,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17020,8 +13240,6 @@
 
 **Era:** Early Modern (1617 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17033,11 +13251,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17047,8 +13261,6 @@
 
 **Era:** Early Modern (1617 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17060,11 +13272,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17074,8 +13282,6 @@
 
 **Era:** Early Modern (1617 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17087,11 +13293,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17101,8 +13303,6 @@
 
 **Era:** Early Modern (1617 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17114,11 +13314,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17128,8 +13324,6 @@
 
 **Era:** Early Modern (1618 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17141,11 +13335,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17155,8 +13345,6 @@
 
 **Era:** Early Modern (1619 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17168,11 +13356,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17182,8 +13366,6 @@
 
 **Era:** Early Modern (1619 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17195,11 +13377,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:31 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17209,8 +13387,6 @@
 
 **Era:** Early Modern (1619 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17222,11 +13398,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:41 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17236,8 +13408,6 @@
 
 **Era:** Early Modern (1619 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17249,11 +13419,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17263,8 +13429,6 @@
 
 **Era:** Early Modern (1620 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17276,11 +13440,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17290,8 +13450,6 @@
 
 **Era:** Early Modern (1620 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17303,11 +13461,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17317,8 +13471,6 @@
 
 **Era:** Early Modern (1620 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17330,11 +13482,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17344,8 +13492,6 @@
 
 **Era:** Early Modern (1620 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17357,11 +13503,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17371,8 +13513,6 @@
 
 **Era:** Early Modern (1620 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17384,11 +13524,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17398,8 +13534,6 @@
 
 **Era:** Early Modern (1620 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17411,11 +13545,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:52 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17425,8 +13555,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17438,11 +13566,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17452,8 +13576,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17465,11 +13587,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17479,8 +13597,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17492,11 +13608,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17506,8 +13618,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17519,11 +13629,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17533,8 +13639,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17546,11 +13650,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 07:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17560,8 +13660,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17573,11 +13671,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17587,8 +13681,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17600,11 +13692,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17614,8 +13702,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17627,11 +13713,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17641,8 +13723,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17654,11 +13734,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17668,8 +13744,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17681,11 +13755,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17695,8 +13765,6 @@
 
 **Era:** Early Modern (1621 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17708,11 +13776,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17722,8 +13786,6 @@
 
 **Era:** Early Modern (1622 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17735,11 +13797,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:38 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17749,8 +13807,6 @@
 
 **Era:** Early Modern (1622 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17762,11 +13818,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17776,8 +13828,6 @@
 
 **Era:** Early Modern (1622 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17789,11 +13839,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17803,8 +13849,6 @@
 
 **Era:** Early Modern (1622 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17816,11 +13860,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17830,8 +13870,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17843,11 +13881,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17857,8 +13891,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17870,11 +13902,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17884,8 +13912,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17897,11 +13923,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17911,8 +13933,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17924,11 +13944,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17938,8 +13954,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17951,11 +13965,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:24 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17965,8 +13975,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -17978,11 +13986,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17992,8 +13996,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18005,11 +14007,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18019,8 +14017,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18032,11 +14028,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18046,8 +14038,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18059,11 +14049,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18073,8 +14059,6 @@
 
 **Era:** Early Modern (1623 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18086,11 +14070,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18100,8 +14080,6 @@
 
 **Era:** Early Modern (1624 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18113,11 +14091,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18127,8 +14101,6 @@
 
 **Era:** Early Modern (1624 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18140,11 +14112,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18154,8 +14122,6 @@
 
 **Era:** Early Modern (1624 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18167,11 +14133,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18181,8 +14143,6 @@
 
 **Era:** Early Modern (1624 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18194,11 +14154,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18208,8 +14164,6 @@
 
 **Era:** Early Modern (1624 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18221,11 +14175,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18235,8 +14185,6 @@
 
 **Era:** Early Modern (1624 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18248,11 +14196,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18262,8 +14206,6 @@
 
 **Era:** Early Modern (1624 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18275,11 +14217,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18289,8 +14227,6 @@
 
 **Era:** Early Modern (1625 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18302,11 +14238,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18316,8 +14248,6 @@
 
 **Era:** Early Modern (1625 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18329,11 +14259,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18343,8 +14269,6 @@
 
 **Era:** Early Modern (1625 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18356,11 +14280,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18370,8 +14290,6 @@
 
 **Era:** Early Modern (1625 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18383,11 +14301,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:28 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18397,8 +14311,6 @@
 
 **Era:** Early Modern (1625 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18410,11 +14322,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18424,8 +14332,6 @@
 
 **Era:** Early Modern (1625 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18437,11 +14343,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18451,8 +14353,6 @@
 
 **Era:** Early Modern (1625 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18464,11 +14364,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18478,8 +14374,6 @@
 
 **Era:** Early Modern (1625 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18491,11 +14385,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18505,8 +14395,6 @@
 
 **Era:** Early Modern (1626 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18518,11 +14406,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18532,8 +14416,6 @@
 
 **Era:** Early Modern (1626 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18545,11 +14427,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18559,8 +14437,6 @@
 
 **Era:** Early Modern (1626 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18572,11 +14448,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18586,8 +14458,6 @@
 
 **Era:** Early Modern (1626 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18599,11 +14469,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18613,8 +14479,6 @@
 
 **Era:** Early Modern (1627 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18626,11 +14490,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18640,8 +14500,6 @@
 
 **Era:** Early Modern (1627 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18653,11 +14511,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18667,8 +14521,6 @@
 
 **Era:** Early Modern (1627 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18680,11 +14532,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:59 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18694,8 +14542,6 @@
 
 **Era:** Early Modern (1627 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18707,11 +14553,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:40 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18721,8 +14563,6 @@
 
 **Era:** Early Modern (1628 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18734,11 +14574,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18748,8 +14584,6 @@
 
 **Era:** Early Modern (1628 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18761,11 +14595,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18775,8 +14605,6 @@
 
 **Era:** Early Modern (1628 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18788,11 +14616,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18802,8 +14626,6 @@
 
 **Era:** Early Modern (1628 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18815,11 +14637,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18829,8 +14647,6 @@
 
 **Era:** Early Modern (1628 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18842,11 +14658,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18856,8 +14668,6 @@
 
 **Era:** Early Modern (1628 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18869,11 +14679,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18883,8 +14689,6 @@
 
 **Era:** Early Modern (1628 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18896,11 +14700,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18910,8 +14710,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18923,11 +14721,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18937,8 +14731,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18950,11 +14742,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18964,8 +14752,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -18977,11 +14763,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18991,8 +14773,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19004,11 +14784,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 21:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19018,8 +14794,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19031,11 +14805,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19045,8 +14815,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19058,11 +14826,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:46 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19072,8 +14836,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19085,11 +14847,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19099,8 +14857,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19112,11 +14868,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19126,8 +14878,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19139,11 +14889,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19153,8 +14899,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19166,11 +14910,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:07 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19180,8 +14920,6 @@
 
 **Era:** Early Modern (1629 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19193,11 +14931,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19207,8 +14941,6 @@
 
 **Era:** Early Modern (1630 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19220,11 +14952,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19234,8 +14962,6 @@
 
 **Era:** Early Modern (1630 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19247,11 +14973,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19261,8 +14983,6 @@
 
 **Era:** Early Modern (1630 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19274,11 +14994,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19288,8 +15004,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19301,11 +15015,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19315,8 +15025,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19328,11 +15036,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19342,8 +15046,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19355,11 +15057,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19369,8 +15067,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19382,11 +15078,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19396,8 +15088,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19409,11 +15099,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19423,8 +15109,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19436,11 +15120,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 21:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19450,8 +15130,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19463,11 +15141,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:50 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19477,8 +15151,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19490,11 +15162,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19504,8 +15172,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19517,11 +15183,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -19531,8 +15193,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19544,11 +15204,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:14 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -19558,8 +15214,6 @@
 
 **Era:** Early Modern (1631 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19571,11 +15225,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19585,8 +15235,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19598,11 +15246,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19612,8 +15256,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19625,11 +15267,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19639,8 +15277,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19652,11 +15288,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19666,8 +15298,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19679,11 +15309,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -19693,8 +15319,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19706,11 +15330,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19720,8 +15340,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19733,11 +15351,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19747,8 +15361,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19760,11 +15372,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19774,8 +15382,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19787,11 +15393,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19801,8 +15403,6 @@
 
 **Era:** Early Modern (1632 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19814,11 +15414,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19828,8 +15424,6 @@
 
 **Era:** Early Modern (1633 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19841,11 +15435,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -19855,8 +15445,6 @@
 
 **Era:** Early Modern (1633 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19868,11 +15456,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19882,8 +15466,6 @@
 
 **Era:** Early Modern (1633 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19895,11 +15477,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:21 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19909,8 +15487,6 @@
 
 **Era:** Early Modern (1633 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19922,11 +15498,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19936,8 +15508,6 @@
 
 **Era:** Early Modern (1633 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19949,11 +15519,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19963,8 +15529,6 @@
 
 **Era:** Early Modern (1633 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -19976,11 +15540,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19990,8 +15550,6 @@
 
 **Era:** Early Modern (1634 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20003,11 +15561,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20017,8 +15571,6 @@
 
 **Era:** Early Modern (1634 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20030,11 +15582,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20044,8 +15592,6 @@
 
 **Era:** Early Modern (1634 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20057,11 +15603,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20071,8 +15613,6 @@
 
 **Era:** Early Modern (1634 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20084,11 +15624,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -20098,8 +15634,6 @@
 
 **Era:** Early Modern (1634 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20111,11 +15645,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -20125,8 +15655,6 @@
 
 **Era:** Early Modern (1634 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20138,11 +15666,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -20152,8 +15676,6 @@
 
 **Era:** Early Modern (1635 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20165,11 +15687,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -20179,8 +15697,6 @@
 
 **Era:** Early Modern (1635 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20192,11 +15708,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20206,8 +15718,6 @@
 
 **Era:** Early Modern (1635 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20219,11 +15729,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20233,8 +15739,6 @@
 
 **Era:** Early Modern (1636 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20246,11 +15750,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -20260,8 +15760,6 @@
 
 **Era:** Early Modern (1636 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20273,11 +15771,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20287,8 +15781,6 @@
 
 **Era:** Early Modern (1636 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20300,11 +15792,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -20314,8 +15802,6 @@
 
 **Era:** Early Modern (1636 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20327,11 +15813,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -20341,8 +15823,6 @@
 
 **Era:** Early Modern (1636 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20354,11 +15834,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:06 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -20368,8 +15844,6 @@
 
 **Era:** Early Modern (1636 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20381,11 +15855,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -20395,8 +15865,6 @@
 
 **Era:** Early Modern (1636 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20408,11 +15876,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20422,8 +15886,6 @@
 
 **Era:** Early Modern (1636 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20435,11 +15897,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -20449,8 +15907,6 @@
 
 **Era:** Early Modern (1637 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20462,11 +15918,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20476,8 +15928,6 @@
 
 **Era:** Early Modern (1637 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20489,11 +15939,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20503,8 +15949,6 @@
 
 **Era:** Early Modern (1637 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20516,11 +15960,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:42 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -20530,8 +15970,6 @@
 
 **Era:** Early Modern (1637 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20543,11 +15981,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -20557,8 +15991,6 @@
 
 **Era:** Early Modern (1637 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20570,11 +16002,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20584,8 +16012,6 @@
 
 **Era:** Early Modern (1637 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20597,11 +16023,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20611,8 +16033,6 @@
 
 **Era:** Early Modern (1637 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20624,11 +16044,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:17 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20638,8 +16054,6 @@
 
 **Era:** Early Modern (1637 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20651,11 +16065,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20665,8 +16075,6 @@
 
 **Era:** Early Modern (1638 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20678,11 +16086,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:26 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -20692,8 +16096,6 @@
 
 **Era:** Early Modern (1638 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20705,11 +16107,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -20719,8 +16117,6 @@
 
 **Era:** Early Modern (1638 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20732,11 +16128,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20746,8 +16138,6 @@
 
 **Era:** Early Modern (1638 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20759,11 +16149,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20773,8 +16159,6 @@
 
 **Era:** Early Modern (1639 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20786,11 +16170,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -20800,8 +16180,6 @@
 
 **Era:** Early Modern (1639 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20813,11 +16191,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20827,8 +16201,6 @@
 
 **Era:** Early Modern (1639 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20840,11 +16212,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20854,8 +16222,6 @@
 
 **Era:** Early Modern (1639 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20867,11 +16233,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -20881,8 +16243,6 @@
 
 **Era:** Early Modern (1639 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20894,11 +16254,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -20908,8 +16264,6 @@
 
 **Era:** Early Modern (1639 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20921,11 +16275,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -20935,8 +16285,6 @@
 
 **Era:** Early Modern (1640 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20948,11 +16296,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20962,8 +16306,6 @@
 
 **Era:** Early Modern (1640 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -20975,11 +16317,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20989,8 +16327,6 @@
 
 **Era:** Early Modern (1640 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21002,11 +16338,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:45 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -21016,8 +16348,6 @@
 
 **Era:** Early Modern (1640 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21029,11 +16359,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -21043,8 +16369,6 @@
 
 **Era:** Early Modern (1641 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21056,11 +16380,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -21070,8 +16390,6 @@
 
 **Era:** Early Modern (1641 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21083,11 +16401,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21097,8 +16411,6 @@
 
 **Era:** Early Modern (1641 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21110,11 +16422,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -21124,8 +16432,6 @@
 
 **Era:** Early Modern (1641 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21137,11 +16443,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -21151,8 +16453,6 @@
 
 **Era:** Early Modern (1641 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21164,11 +16464,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21178,8 +16474,6 @@
 
 **Era:** Early Modern (1641 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21191,11 +16485,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:52 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -21205,8 +16495,6 @@
 
 **Era:** Early Modern (1642 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21218,11 +16506,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21232,8 +16516,6 @@
 
 **Era:** Early Modern (1642 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21245,11 +16527,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21259,8 +16537,6 @@
 
 **Era:** Early Modern (1642 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21272,11 +16548,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -21286,8 +16558,6 @@
 
 **Era:** Early Modern (1642 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21299,11 +16569,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:30 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -21313,8 +16579,6 @@
 
 **Era:** Early Modern (1642 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21326,11 +16590,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -21340,8 +16600,6 @@
 
 **Era:** Early Modern (1642 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21353,11 +16611,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21367,8 +16621,6 @@
 
 **Era:** Early Modern (1642 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21380,11 +16632,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:16 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -21394,8 +16642,6 @@
 
 **Era:** Early Modern (1642 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21407,11 +16653,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -21421,8 +16663,6 @@
 
 **Era:** Early Modern (1643 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21434,11 +16674,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -21448,8 +16684,6 @@
 
 **Era:** Early Modern (1643 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21461,11 +16695,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21475,8 +16705,6 @@
 
 **Era:** Early Modern (1643 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21488,11 +16716,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:53 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -21502,8 +16726,6 @@
 
 **Era:** Early Modern (1643 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21515,11 +16737,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -21529,8 +16747,6 @@
 
 **Era:** Early Modern (1643 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21542,11 +16758,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21556,8 +16768,6 @@
 
 **Era:** Early Modern (1643 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21569,11 +16779,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -21583,8 +16789,6 @@
 
 **Era:** Early Modern (1643 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21596,11 +16800,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -21610,8 +16810,6 @@
 
 **Era:** Early Modern (1643 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21623,11 +16821,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -21637,8 +16831,6 @@
 
 **Era:** Early Modern (1644 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21650,11 +16842,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -21664,8 +16852,6 @@
 
 **Era:** Early Modern (1644 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21677,11 +16863,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -21691,8 +16873,6 @@
 
 **Era:** Early Modern (1644 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21704,11 +16884,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -21718,8 +16894,6 @@
 
 **Era:** Early Modern (1644 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21731,11 +16905,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -21745,8 +16915,6 @@
 
 **Era:** Early Modern (1644 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21758,11 +16926,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -21772,8 +16936,6 @@
 
 **Era:** Early Modern (1644 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21785,11 +16947,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:35 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21799,8 +16957,6 @@
 
 **Era:** Early Modern (1644 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21812,11 +16968,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:24 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -21826,8 +16978,6 @@
 
 **Era:** Early Modern (1644 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21839,11 +16989,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:29 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -21853,8 +16999,6 @@
 
 **Era:** Early Modern (1645 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21866,11 +17010,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:20 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -21880,8 +17020,6 @@
 
 **Era:** Early Modern (1645 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21893,11 +17031,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -21907,8 +17041,6 @@
 
 **Era:** Early Modern (1645 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21920,11 +17052,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:26 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -21934,8 +17062,6 @@
 
 **Era:** Early Modern (1645 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21947,11 +17073,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -21961,8 +17083,6 @@
 
 **Era:** Early Modern (1645 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -21974,11 +17094,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21988,8 +17104,6 @@
 
 **Era:** Early Modern (1645 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22001,11 +17115,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -22015,8 +17125,6 @@
 
 **Era:** Early Modern (1646 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22028,11 +17136,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -22042,8 +17146,6 @@
 
 **Era:** Early Modern (1646 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22055,11 +17157,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -22069,8 +17167,6 @@
 
 **Era:** Early Modern (1646 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22082,11 +17178,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:30 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -22096,8 +17188,6 @@
 
 **Era:** Early Modern (1646 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22109,11 +17199,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -22123,8 +17209,6 @@
 
 **Era:** Early Modern (1647 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22136,11 +17220,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -22150,8 +17230,6 @@
 
 **Era:** Early Modern (1647 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22163,11 +17241,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:21 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -22177,8 +17251,6 @@
 
 **Era:** Early Modern (1647 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22190,11 +17262,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:14 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -22204,8 +17272,6 @@
 
 **Era:** Early Modern (1647 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22217,11 +17283,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -22231,8 +17293,6 @@
 
 **Era:** Early Modern (1647 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22244,11 +17304,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -22258,8 +17314,6 @@
 
 **Era:** Early Modern (1648 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22271,11 +17325,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -22285,8 +17335,6 @@
 
 **Era:** Early Modern (1648 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22298,11 +17346,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -22312,8 +17356,6 @@
 
 **Era:** Early Modern (1648 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22325,11 +17367,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -22339,8 +17377,6 @@
 
 **Era:** Early Modern (1648 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22352,11 +17388,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -22366,8 +17398,6 @@
 
 **Era:** Early Modern (1648 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22379,11 +17409,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -22393,8 +17419,6 @@
 
 **Era:** Early Modern (1648 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22406,11 +17430,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -22420,8 +17440,6 @@
 
 **Era:** Early Modern (1648 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22433,11 +17451,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:41 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -22447,8 +17461,6 @@
 
 **Era:** Early Modern (1649 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22460,11 +17472,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -22474,8 +17482,6 @@
 
 **Era:** Early Modern (1649 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22487,11 +17493,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -22501,8 +17503,6 @@
 
 **Era:** Early Modern (1649 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22514,11 +17514,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -22528,8 +17524,6 @@
 
 **Era:** Early Modern (1649 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22541,11 +17535,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -22555,8 +17545,6 @@
 
 **Era:** Early Modern (1649 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22568,11 +17556,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:15 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -22582,8 +17566,6 @@
 
 **Era:** Early Modern (1649 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22595,11 +17577,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -22609,8 +17587,6 @@
 
 **Era:** Early Modern (1650 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22622,11 +17598,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -22636,8 +17608,6 @@
 
 **Era:** Early Modern (1650 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22649,11 +17619,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:25 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -22663,8 +17629,6 @@
 
 **Era:** Early Modern (1650 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22676,11 +17640,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -22690,8 +17650,6 @@
 
 **Era:** Early Modern (1650 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22703,11 +17661,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:53 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -22717,8 +17671,6 @@
 
 **Era:** Early Modern (1650 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22730,11 +17682,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -22744,8 +17692,6 @@
 
 **Era:** Early Modern (1650 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22757,11 +17703,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:07 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -22771,8 +17713,6 @@
 
 **Era:** Early Modern (1650 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22784,11 +17724,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -22798,8 +17734,6 @@
 
 **Era:** Early Modern (1650 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22811,11 +17745,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:45 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -22825,8 +17755,6 @@
 
 **Era:** Early Modern (1651 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22838,11 +17766,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -22852,8 +17776,6 @@
 
 **Era:** Early Modern (1651 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22865,11 +17787,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -22879,8 +17797,6 @@
 
 **Era:** Early Modern (1651 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22892,11 +17808,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -22906,8 +17818,6 @@
 
 **Era:** Early Modern (1651 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22919,11 +17829,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -22933,8 +17839,6 @@
 
 **Era:** Early Modern (1651 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22946,11 +17850,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -22960,8 +17860,6 @@
 
 **Era:** Early Modern (1652 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -22973,11 +17871,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -22987,8 +17881,6 @@
 
 **Era:** Early Modern (1652 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23000,11 +17892,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -23014,8 +17902,6 @@
 
 **Era:** Early Modern (1652 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23027,11 +17913,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -23041,8 +17923,6 @@
 
 **Era:** Early Modern (1652 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23054,11 +17934,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -23068,8 +17944,6 @@
 
 **Era:** Early Modern (1653 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23081,11 +17955,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -23095,8 +17965,6 @@
 
 **Era:** Early Modern (1653 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23108,11 +17976,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -23122,8 +17986,6 @@
 
 **Era:** Early Modern (1653 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23135,11 +17997,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -23149,8 +18007,6 @@
 
 **Era:** Early Modern (1653 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23162,11 +18018,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -23176,8 +18028,6 @@
 
 **Era:** Early Modern (1654 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23189,11 +18039,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -23203,8 +18049,6 @@
 
 **Era:** Early Modern (1654 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23216,11 +18060,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:22 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -23230,8 +18070,6 @@
 
 **Era:** Early Modern (1654 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23243,11 +18081,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -23257,8 +18091,6 @@
 
 **Era:** Early Modern (1654 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23270,11 +18102,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:45 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -23284,8 +18112,6 @@
 
 **Era:** Early Modern (1654 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23297,11 +18123,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -23311,8 +18133,6 @@
 
 **Era:** Early Modern (1654 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23324,11 +18144,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -23338,8 +18154,6 @@
 
 **Era:** Early Modern (1655 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23351,11 +18165,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -23365,8 +18175,6 @@
 
 **Era:** Early Modern (1655 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23378,11 +18186,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -23392,8 +18196,6 @@
 
 **Era:** Early Modern (1655 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23405,11 +18207,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -23419,8 +18217,6 @@
 
 **Era:** Early Modern (1655 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23432,11 +18228,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -23446,8 +18238,6 @@
 
 **Era:** Early Modern (1655 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23459,11 +18249,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:34 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -23473,8 +18259,6 @@
 
 **Era:** Early Modern (1655 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23486,11 +18270,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -23500,8 +18280,6 @@
 
 **Era:** Early Modern (1656 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23513,11 +18291,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -23527,8 +18301,6 @@
 
 **Era:** Early Modern (1656 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23540,11 +18312,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -23554,8 +18322,6 @@
 
 **Era:** Early Modern (1657 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23567,11 +18333,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:59 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -23581,8 +18343,6 @@
 
 **Era:** Early Modern (1657 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23594,11 +18354,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -23608,8 +18364,6 @@
 
 **Era:** Early Modern (1657 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23621,11 +18375,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -23635,8 +18385,6 @@
 
 **Era:** Early Modern (1657 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23648,11 +18396,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -23662,8 +18406,6 @@
 
 **Era:** Early Modern (1657 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23675,11 +18417,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -23689,8 +18427,6 @@
 
 **Era:** Early Modern (1657 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23702,11 +18438,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -23716,8 +18448,6 @@
 
 **Era:** Early Modern (1658 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23729,11 +18459,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -23743,8 +18469,6 @@
 
 **Era:** Early Modern (1658 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23756,11 +18480,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:19 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -23770,8 +18490,6 @@
 
 **Era:** Early Modern (1658 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23783,11 +18501,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:21 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -23797,8 +18511,6 @@
 
 **Era:** Early Modern (1659 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23810,11 +18522,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -23824,8 +18532,6 @@
 
 **Era:** Early Modern (1659 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23837,11 +18543,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -23851,8 +18553,6 @@
 
 **Era:** Early Modern (1659 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23864,11 +18564,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -23878,8 +18574,6 @@
 
 **Era:** Early Modern (1659 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23891,11 +18585,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -23905,8 +18595,6 @@
 
 **Era:** Early Modern (1659 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23918,11 +18606,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -23932,8 +18616,6 @@
 
 **Era:** Early Modern (1659 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23945,11 +18627,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:49 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -23959,8 +18637,6 @@
 
 **Era:** Early Modern (1659 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23972,11 +18648,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -23986,8 +18658,6 @@
 
 **Era:** Early Modern (1660 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -23999,11 +18669,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -24013,8 +18679,6 @@
 
 **Era:** Early Modern (1660 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24026,11 +18690,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -24040,8 +18700,6 @@
 
 **Era:** Early Modern (1660 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24053,11 +18711,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -24067,8 +18721,6 @@
 
 **Era:** Early Modern (1660 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24080,11 +18732,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:33 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -24094,8 +18742,6 @@
 
 **Era:** Early Modern (1660 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24107,11 +18753,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24121,8 +18763,6 @@
 
 **Era:** Early Modern (1661 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24134,11 +18774,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24148,8 +18784,6 @@
 
 **Era:** Early Modern (1661 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24161,11 +18795,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24175,8 +18805,6 @@
 
 **Era:** Early Modern (1661 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24188,11 +18816,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24202,8 +18826,6 @@
 
 **Era:** Early Modern (1661 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24215,11 +18837,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -24229,8 +18847,6 @@
 
 **Era:** Early Modern (1662 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24242,11 +18858,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -24256,8 +18868,6 @@
 
 **Era:** Early Modern (1662 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24269,11 +18879,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 15:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -24283,8 +18889,6 @@
 
 **Era:** Early Modern (1662 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24296,11 +18900,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24310,8 +18910,6 @@
 
 **Era:** Early Modern (1662 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24323,11 +18921,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24337,8 +18931,6 @@
 
 **Era:** Early Modern (1662 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24350,11 +18942,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -24364,8 +18952,6 @@
 
 **Era:** Early Modern (1662 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24377,11 +18963,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -24391,8 +18973,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24404,11 +18984,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24418,8 +18994,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24431,11 +19005,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -24445,8 +19015,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24458,11 +19026,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -24472,8 +19036,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24485,11 +19047,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24499,8 +19057,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24512,11 +19068,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -24526,8 +19078,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24539,11 +19089,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -24553,8 +19099,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24566,11 +19110,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -24580,8 +19120,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24593,11 +19131,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -24607,8 +19141,6 @@
 
 **Era:** Early Modern (1663 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24620,11 +19152,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -24634,8 +19162,6 @@
 
 **Era:** Early Modern (1664 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24647,11 +19173,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -24661,8 +19183,6 @@
 
 **Era:** Early Modern (1664 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24674,11 +19194,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -24688,8 +19204,6 @@
 
 **Era:** Early Modern (1664 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24701,11 +19215,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -24715,8 +19225,6 @@
 
 **Era:** Early Modern (1664 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24728,11 +19236,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -24742,8 +19246,6 @@
 
 **Era:** Early Modern (1664 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24755,11 +19257,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -24769,8 +19267,6 @@
 
 **Era:** Early Modern (1664 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24782,11 +19278,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -24796,8 +19288,6 @@
 
 **Era:** Early Modern (1665 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24809,11 +19299,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -24823,8 +19309,6 @@
 
 **Era:** Early Modern (1665 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24836,11 +19320,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -24850,8 +19330,6 @@
 
 **Era:** Early Modern (1665 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24863,11 +19341,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -24877,8 +19351,6 @@
 
 **Era:** Early Modern (1665 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24890,11 +19362,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -24904,8 +19372,6 @@
 
 **Era:** Early Modern (1665 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24917,11 +19383,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:09 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -24931,8 +19393,6 @@
 
 **Era:** Early Modern (1665 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24944,11 +19404,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -24958,8 +19414,6 @@
 
 **Era:** Early Modern (1665 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24971,11 +19425,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:33 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -24985,8 +19435,6 @@
 
 **Era:** Early Modern (1665 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -24998,11 +19446,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -25012,8 +19456,6 @@
 
 **Era:** Early Modern (1666 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25025,11 +19467,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -25039,8 +19477,6 @@
 
 **Era:** Early Modern (1666 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25052,11 +19488,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25066,8 +19498,6 @@
 
 **Era:** Early Modern (1667 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25079,11 +19509,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -25093,8 +19519,6 @@
 
 **Era:** Early Modern (1667 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25106,11 +19530,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:49 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -25120,8 +19540,6 @@
 
 **Era:** Early Modern (1667 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25133,11 +19551,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25147,8 +19561,6 @@
 
 **Era:** Early Modern (1667 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25160,11 +19572,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -25174,8 +19582,6 @@
 
 **Era:** Early Modern (1667 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25187,11 +19593,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:01 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25201,8 +19603,6 @@
 
 **Era:** Early Modern (1667 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25214,11 +19614,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:28 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -25228,8 +19624,6 @@
 
 **Era:** Early Modern (1667 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25241,11 +19635,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -25255,8 +19645,6 @@
 
 **Era:** Early Modern (1668 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25268,11 +19656,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25282,8 +19666,6 @@
 
 **Era:** Early Modern (1668 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25295,11 +19677,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:56 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25309,8 +19687,6 @@
 
 **Era:** Early Modern (1668 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25322,11 +19698,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -25336,8 +19708,6 @@
 
 **Era:** Early Modern (1668 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25349,11 +19719,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:42 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -25363,8 +19729,6 @@
 
 **Era:** Early Modern (1668 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25376,11 +19740,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -25390,8 +19750,6 @@
 
 **Era:** Early Modern (1668 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25403,11 +19761,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -25417,8 +19771,6 @@
 
 **Era:** Early Modern (1669 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25430,11 +19782,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -25444,8 +19792,6 @@
 
 **Era:** Early Modern (1669 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25457,11 +19803,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25471,8 +19813,6 @@
 
 **Era:** Early Modern (1669 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25484,11 +19824,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -25498,8 +19834,6 @@
 
 **Era:** Early Modern (1669 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25511,11 +19845,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -25525,8 +19855,6 @@
 
 **Era:** Early Modern (1669 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25538,11 +19866,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -25552,8 +19876,6 @@
 
 **Era:** Early Modern (1670 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25565,11 +19887,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25579,8 +19897,6 @@
 
 **Era:** Early Modern (1670 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25592,11 +19908,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -25606,8 +19918,6 @@
 
 **Era:** Early Modern (1670 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25619,11 +19929,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25633,8 +19939,6 @@
 
 **Era:** Early Modern (1670 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25646,11 +19950,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -25660,8 +19960,6 @@
 
 **Era:** Early Modern (1670 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25673,11 +19971,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -25687,8 +19981,6 @@
 
 **Era:** Early Modern (1670 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25700,11 +19992,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -25714,8 +20002,6 @@
 
 **Era:** Early Modern (1670 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25727,11 +20013,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -25741,8 +20023,6 @@
 
 **Era:** Early Modern (1671 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25754,11 +20034,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25768,8 +20044,6 @@
 
 **Era:** Early Modern (1671 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25781,11 +20055,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -25795,8 +20065,6 @@
 
 **Era:** Early Modern (1671 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25808,11 +20076,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -25822,8 +20086,6 @@
 
 **Era:** Early Modern (1671 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25835,11 +20097,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -25849,8 +20107,6 @@
 
 **Era:** Early Modern (1672 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25862,11 +20118,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:22 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -25876,8 +20128,6 @@
 
 **Era:** Early Modern (1672 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25889,11 +20139,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -25903,8 +20149,6 @@
 
 **Era:** Early Modern (1672 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25916,11 +20160,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -25930,8 +20170,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25943,11 +20181,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:44 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -25957,8 +20191,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25970,11 +20202,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:28 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -25984,8 +20212,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -25997,11 +20223,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -26011,8 +20233,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26024,11 +20244,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -26038,8 +20254,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26051,11 +20265,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:31 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -26065,8 +20275,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26078,11 +20286,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:17 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -26092,8 +20296,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26105,11 +20307,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -26119,8 +20317,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26132,11 +20328,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -26146,8 +20338,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26159,11 +20349,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -26173,8 +20359,6 @@
 
 **Era:** Early Modern (1673 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26186,11 +20370,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -26200,8 +20380,6 @@
 
 **Era:** Early Modern (1674 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26213,11 +20391,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -26227,8 +20401,6 @@
 
 **Era:** Early Modern (1675 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26240,11 +20412,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -26254,8 +20422,6 @@
 
 **Era:** Early Modern (1675 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26267,11 +20433,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -26281,8 +20443,6 @@
 
 **Era:** Early Modern (1675 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26294,11 +20454,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:29 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -26308,8 +20464,6 @@
 
 **Era:** Early Modern (1675 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26321,11 +20475,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -26335,8 +20485,6 @@
 
 **Era:** Early Modern (1675 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26348,11 +20496,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -26362,8 +20506,6 @@
 
 **Era:** Early Modern (1675 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26375,11 +20517,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -26389,8 +20527,6 @@
 
 **Era:** Early Modern (1676 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26402,11 +20538,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -26416,8 +20548,6 @@
 
 **Era:** Early Modern (1676 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26429,11 +20559,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:54 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -26443,8 +20569,6 @@
 
 **Era:** Early Modern (1676 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26456,11 +20580,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -26470,8 +20590,6 @@
 
 **Era:** Early Modern (1676 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26483,11 +20601,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -26497,8 +20611,6 @@
 
 **Era:** Early Modern (1676 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26510,11 +20622,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -26524,8 +20632,6 @@
 
 **Era:** Early Modern (1676 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26537,11 +20643,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -26551,8 +20653,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26564,11 +20664,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -26578,8 +20674,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26591,11 +20685,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -26605,8 +20695,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26618,11 +20706,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -26632,8 +20716,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26645,11 +20727,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -26659,8 +20737,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26672,11 +20748,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:24 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -26686,8 +20758,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26699,11 +20769,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -26713,8 +20779,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26726,11 +20790,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -26740,8 +20800,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26753,11 +20811,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -26767,8 +20821,6 @@
 
 **Era:** Early Modern (1677 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26780,11 +20832,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -26794,8 +20842,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26807,11 +20853,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:49 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -26821,8 +20863,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26834,11 +20874,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -26848,8 +20884,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26861,11 +20895,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -26875,8 +20905,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26888,11 +20916,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -26902,8 +20926,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26915,11 +20937,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:52 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -26929,8 +20947,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26942,11 +20958,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -26956,8 +20968,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26969,11 +20979,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -26983,8 +20989,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -26996,11 +21000,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -27010,8 +21010,6 @@
 
 **Era:** Early Modern (1678 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27023,11 +21021,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -27037,8 +21031,6 @@
 
 **Era:** Early Modern (1679 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27050,11 +21042,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -27064,8 +21052,6 @@
 
 **Era:** Early Modern (1679 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27077,11 +21063,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -27091,8 +21073,6 @@
 
 **Era:** Early Modern (1679 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27104,11 +21084,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -27118,8 +21094,6 @@
 
 **Era:** Early Modern (1679 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27131,11 +21105,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:17 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -27145,8 +21115,6 @@
 
 **Era:** Early Modern (1679 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27158,11 +21126,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -27172,8 +21136,6 @@
 
 **Era:** Early Modern (1679 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27185,11 +21147,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -27199,8 +21157,6 @@
 
 **Era:** Early Modern (1679 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27212,11 +21168,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -27226,8 +21178,6 @@
 
 **Era:** Early Modern (1680 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27239,11 +21189,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -27253,8 +21199,6 @@
 
 **Era:** Early Modern (1680 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27266,11 +21210,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27280,8 +21220,6 @@
 
 **Era:** Early Modern (1680 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27293,11 +21231,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -27307,8 +21241,6 @@
 
 **Era:** Early Modern (1680 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27320,11 +21252,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:10 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -27334,8 +21262,6 @@
 
 **Era:** Early Modern (1680 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27347,11 +21273,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -27361,8 +21283,6 @@
 
 **Era:** Early Modern (1681 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27374,11 +21294,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -27388,8 +21304,6 @@
 
 **Era:** Early Modern (1681 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27401,11 +21315,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27415,8 +21325,6 @@
 
 **Era:** Early Modern (1681 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27428,11 +21336,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27442,8 +21346,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27455,11 +21357,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -27469,8 +21367,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27482,11 +21378,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27496,8 +21388,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27509,11 +21399,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27523,8 +21409,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27536,11 +21420,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -27550,8 +21430,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27563,11 +21441,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -27577,8 +21451,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27590,11 +21462,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -27604,8 +21472,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27617,11 +21483,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -27631,8 +21493,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27644,11 +21504,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27658,8 +21514,6 @@
 
 **Era:** Early Modern (1682 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27671,11 +21525,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -27685,8 +21535,6 @@
 
 **Era:** Early Modern (1683 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27698,11 +21546,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -27712,8 +21556,6 @@
 
 **Era:** Early Modern (1683 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27725,11 +21567,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:14 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -27739,8 +21577,6 @@
 
 **Era:** Early Modern (1683 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27752,11 +21588,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:48 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -27766,8 +21598,6 @@
 
 **Era:** Early Modern (1683 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27779,11 +21609,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27793,8 +21619,6 @@
 
 **Era:** Early Modern (1683 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27806,11 +21630,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27820,8 +21640,6 @@
 
 **Era:** Early Modern (1683 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27833,11 +21651,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -27847,8 +21661,6 @@
 
 **Era:** Early Modern (1684 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27860,11 +21672,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -27874,8 +21682,6 @@
 
 **Era:** Early Modern (1684 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27887,11 +21693,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -27901,8 +21703,6 @@
 
 **Era:** Early Modern (1684 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27914,11 +21714,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -27928,8 +21724,6 @@
 
 **Era:** Early Modern (1684 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27941,11 +21735,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -27955,8 +21745,6 @@
 
 **Era:** Early Modern (1684 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27968,11 +21756,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -27982,8 +21766,6 @@
 
 **Era:** Early Modern (1684 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -27995,11 +21777,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -28009,8 +21787,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28022,11 +21798,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -28036,8 +21808,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28049,11 +21819,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -28063,8 +21829,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28076,11 +21840,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -28090,8 +21850,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28103,11 +21861,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -28117,8 +21871,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28130,11 +21882,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -28144,8 +21892,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28157,11 +21903,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -28171,8 +21913,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28184,11 +21924,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -28198,8 +21934,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28211,11 +21945,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -28225,8 +21955,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28238,11 +21966,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -28252,8 +21976,6 @@
 
 **Era:** Early Modern (1685 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28265,11 +21987,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -28279,8 +21997,6 @@
 
 **Era:** Early Modern (1686 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28292,11 +22008,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -28306,8 +22018,6 @@
 
 **Era:** Early Modern (1686 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28319,11 +22029,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -28333,8 +22039,6 @@
 
 **Era:** Early Modern (1686 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28346,11 +22050,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -28360,8 +22060,6 @@
 
 **Era:** Early Modern (1686 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28373,11 +22071,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -28387,8 +22081,6 @@
 
 **Era:** Early Modern (1686 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28400,11 +22092,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -28414,8 +22102,6 @@
 
 **Era:** Early Modern (1687 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28427,11 +22113,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -28441,8 +22123,6 @@
 
 **Era:** Early Modern (1687 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28454,11 +22134,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -28468,8 +22144,6 @@
 
 **Era:** Early Modern (1687 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28481,11 +22155,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -28495,8 +22165,6 @@
 
 **Era:** Early Modern (1687 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28508,11 +22176,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -28522,8 +22186,6 @@
 
 **Era:** Early Modern (1687 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28535,11 +22197,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -28549,8 +22207,6 @@
 
 **Era:** Early Modern (1688 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28562,11 +22218,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -28576,8 +22228,6 @@
 
 **Era:** Early Modern (1688 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28589,11 +22239,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -28603,8 +22249,6 @@
 
 **Era:** Early Modern (1688 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28616,11 +22260,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -28630,8 +22270,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28643,11 +22281,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -28657,8 +22291,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28670,11 +22302,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -28684,8 +22312,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28697,11 +22323,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -28711,8 +22333,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28724,11 +22344,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -28738,8 +22354,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28751,11 +22365,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -28765,8 +22375,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28778,11 +22386,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -28792,8 +22396,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28805,11 +22407,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:24 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -28819,8 +22417,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28832,11 +22428,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -28846,8 +22438,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28859,11 +22449,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -28873,8 +22459,6 @@
 
 **Era:** Early Modern (1689 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28886,11 +22470,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -28900,8 +22480,6 @@
 
 **Era:** Early Modern (1690 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28913,11 +22491,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -28927,8 +22501,6 @@
 
 **Era:** Early Modern (1690 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28940,11 +22512,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -28954,8 +22522,6 @@
 
 **Era:** Early Modern (1690 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28967,11 +22533,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -28981,8 +22543,6 @@
 
 **Era:** Early Modern (1690 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -28994,11 +22554,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:17 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -29008,8 +22564,6 @@
 
 **Era:** Early Modern (1690 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29021,11 +22575,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -29035,8 +22585,6 @@
 
 **Era:** Early Modern (1691 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29048,11 +22596,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -29062,8 +22606,6 @@
 
 **Era:** Early Modern (1691 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29075,11 +22617,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29089,8 +22627,6 @@
 
 **Era:** Early Modern (1691 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29102,11 +22638,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -29116,8 +22648,6 @@
 
 **Era:** Early Modern (1691 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29129,11 +22659,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -29143,8 +22669,6 @@
 
 **Era:** Early Modern (1691 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29156,11 +22680,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -29170,8 +22690,6 @@
 
 **Era:** Early Modern (1691 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29183,11 +22701,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -29197,8 +22711,6 @@
 
 **Era:** Early Modern (1692 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29210,11 +22722,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -29224,8 +22732,6 @@
 
 **Era:** Early Modern (1692 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29237,11 +22743,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:21 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -29251,8 +22753,6 @@
 
 **Era:** Early Modern (1692 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29264,11 +22764,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -29278,8 +22774,6 @@
 
 **Era:** Early Modern (1692 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29291,11 +22785,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29305,8 +22795,6 @@
 
 **Era:** Early Modern (1693 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29318,11 +22806,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29332,8 +22816,6 @@
 
 **Era:** Early Modern (1693 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29345,11 +22827,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29359,8 +22837,6 @@
 
 **Era:** Early Modern (1693 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29372,11 +22848,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -29386,8 +22858,6 @@
 
 **Era:** Early Modern (1693 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29399,11 +22869,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29413,8 +22879,6 @@
 
 **Era:** Early Modern (1693 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29426,11 +22890,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -29440,8 +22900,6 @@
 
 **Era:** Early Modern (1694 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29453,11 +22911,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29467,8 +22921,6 @@
 
 **Era:** Early Modern (1694 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29480,11 +22932,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:48 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -29494,8 +22942,6 @@
 
 **Era:** Early Modern (1694 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29507,11 +22953,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -29521,8 +22963,6 @@
 
 **Era:** Early Modern (1694 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29534,11 +22974,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -29548,8 +22984,6 @@
 
 **Era:** Early Modern (1695 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29561,11 +22995,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29575,8 +23005,6 @@
 
 **Era:** Early Modern (1695 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29588,11 +23016,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -29602,8 +23026,6 @@
 
 **Era:** Early Modern (1695 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29615,11 +23037,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -29629,8 +23047,6 @@
 
 **Era:** Early Modern (1695 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29642,11 +23058,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -29656,8 +23068,6 @@
 
 **Era:** Early Modern (1695 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29669,11 +23079,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29683,8 +23089,6 @@
 
 **Era:** Early Modern (1695 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29696,11 +23100,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -29710,8 +23110,6 @@
 
 **Era:** Early Modern (1695 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29723,11 +23121,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29737,8 +23131,6 @@
 
 **Era:** Early Modern (1695 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29750,11 +23142,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -29764,8 +23152,6 @@
 
 **Era:** Early Modern (1696 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29777,11 +23163,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -29791,8 +23173,6 @@
 
 **Era:** Early Modern (1696 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29804,11 +23184,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:47 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -29818,8 +23194,6 @@
 
 **Era:** Early Modern (1696 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29831,11 +23205,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -29845,8 +23215,6 @@
 
 **Era:** Early Modern (1696 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29858,11 +23226,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29872,8 +23236,6 @@
 
 **Era:** Early Modern (1696 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29885,11 +23247,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -29899,8 +23257,6 @@
 
 **Era:** Early Modern (1696 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29912,11 +23268,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -29926,8 +23278,6 @@
 
 **Era:** Early Modern (1696 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29939,11 +23289,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -29953,8 +23299,6 @@
 
 **Era:** Early Modern (1697 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29966,11 +23310,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -29980,8 +23320,6 @@
 
 **Era:** Early Modern (1697 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -29993,11 +23331,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:54 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -30007,8 +23341,6 @@
 
 **Era:** Early Modern (1697 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30020,11 +23352,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -30034,8 +23362,6 @@
 
 **Era:** Early Modern (1697 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30047,11 +23373,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -30061,8 +23383,6 @@
 
 **Era:** Early Modern (1697 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30074,11 +23394,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -30088,8 +23404,6 @@
 
 **Era:** Early Modern (1697 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30101,11 +23415,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -30115,8 +23425,6 @@
 
 **Era:** Early Modern (1698 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30128,11 +23436,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -30142,8 +23446,6 @@
 
 **Era:** Early Modern (1698 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30155,11 +23457,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -30169,8 +23467,6 @@
 
 **Era:** Early Modern (1698 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30182,11 +23478,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -30196,8 +23488,6 @@
 
 **Era:** Early Modern (1699 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30209,11 +23499,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -30223,8 +23509,6 @@
 
 **Era:** Early Modern (1699 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30236,11 +23520,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -30250,8 +23530,6 @@
 
 **Era:** Early Modern (1699 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30263,11 +23541,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -30277,8 +23551,6 @@
 
 **Era:** Early Modern (1700 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30290,11 +23562,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -30304,8 +23572,6 @@
 
 **Era:** Early Modern (1700 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30317,11 +23583,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -30331,8 +23593,6 @@
 
 **Era:** Early Modern (1700 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30344,11 +23604,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -30358,8 +23614,6 @@
 
 **Era:** Early Modern (1700 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30371,11 +23625,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:38 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -30385,8 +23635,6 @@
 
 **Era:** Early Modern (1700 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30398,11 +23646,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -30412,8 +23656,6 @@
 
 **Era:** Early Modern (1700 CE)
 
-*Scientific Revolution. Baroque era. Colonial expansion.*
-
 ---
 
 ### Astrological Snapshot
@@ -30425,11 +23667,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -30439,8 +23677,6 @@
 
 **Era:** Enlightenment (1701 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30452,11 +23688,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -30466,8 +23698,6 @@
 
 **Era:** Enlightenment (1701 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30479,11 +23709,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -30493,8 +23719,6 @@
 
 **Era:** Enlightenment (1701 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30506,11 +23730,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -30520,8 +23740,6 @@
 
 **Era:** Enlightenment (1702 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30533,11 +23751,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -30547,8 +23761,6 @@
 
 **Era:** Enlightenment (1702 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30560,11 +23772,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -30574,8 +23782,6 @@
 
 **Era:** Enlightenment (1702 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30587,11 +23793,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -30601,8 +23803,6 @@
 
 **Era:** Enlightenment (1702 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30614,11 +23814,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -30628,8 +23824,6 @@
 
 **Era:** Enlightenment (1702 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30641,11 +23835,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -30655,8 +23845,6 @@
 
 **Era:** Enlightenment (1702 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30668,11 +23856,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:56 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -30682,8 +23866,6 @@
 
 **Era:** Enlightenment (1703 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30695,11 +23877,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -30709,8 +23887,6 @@
 
 **Era:** Enlightenment (1704 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30722,11 +23898,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -30736,8 +23908,6 @@
 
 **Era:** Enlightenment (1704 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30749,11 +23919,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:55 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -30763,8 +23929,6 @@
 
 **Era:** Enlightenment (1705 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30776,11 +23940,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -30790,8 +23950,6 @@
 
 **Era:** Enlightenment (1705 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30803,11 +23961,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -30817,8 +23971,6 @@
 
 **Era:** Enlightenment (1705 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30830,11 +23982,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -30844,8 +23992,6 @@
 
 **Era:** Enlightenment (1706 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30857,11 +24003,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -30871,8 +24013,6 @@
 
 **Era:** Enlightenment (1706 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30884,11 +24024,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -30898,8 +24034,6 @@
 
 **Era:** Enlightenment (1706 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30911,11 +24045,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -30925,8 +24055,6 @@
 
 **Era:** Enlightenment (1706 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30938,11 +24066,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:45 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -30952,8 +24076,6 @@
 
 **Era:** Enlightenment (1706 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30965,11 +24087,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -30979,8 +24097,6 @@
 
 **Era:** Enlightenment (1707 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -30992,11 +24108,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:54 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -31006,8 +24118,6 @@
 
 **Era:** Enlightenment (1707 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31019,11 +24129,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31033,8 +24139,6 @@
 
 **Era:** Enlightenment (1707 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31046,11 +24150,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -31060,8 +24160,6 @@
 
 **Era:** Enlightenment (1707 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31073,11 +24171,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -31087,8 +24181,6 @@
 
 **Era:** Enlightenment (1708 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31100,11 +24192,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -31114,8 +24202,6 @@
 
 **Era:** Enlightenment (1709 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31127,11 +24213,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -31141,8 +24223,6 @@
 
 **Era:** Enlightenment (1710 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31154,11 +24234,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:58 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -31168,8 +24244,6 @@
 
 **Era:** Enlightenment (1710 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31181,11 +24255,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -31195,8 +24265,6 @@
 
 **Era:** Enlightenment (1711 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31208,11 +24276,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -31222,8 +24286,6 @@
 
 **Era:** Enlightenment (1711 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31235,11 +24297,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -31249,8 +24307,6 @@
 
 **Era:** Enlightenment (1711 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31262,11 +24318,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31276,8 +24328,6 @@
 
 **Era:** Enlightenment (1711 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31289,11 +24339,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31303,8 +24349,6 @@
 
 **Era:** Enlightenment (1711 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31316,11 +24360,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -31330,8 +24370,6 @@
 
 **Era:** Enlightenment (1711 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31343,11 +24381,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -31357,8 +24391,6 @@
 
 **Era:** Enlightenment (1712 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31370,11 +24402,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -31384,8 +24412,6 @@
 
 **Era:** Enlightenment (1712 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31397,11 +24423,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:31 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -31411,8 +24433,6 @@
 
 **Era:** Enlightenment (1712 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31424,11 +24444,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31438,8 +24454,6 @@
 
 **Era:** Enlightenment (1712 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31451,11 +24465,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -31465,8 +24475,6 @@
 
 **Era:** Enlightenment (1712 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31478,11 +24486,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31492,8 +24496,6 @@
 
 **Era:** Enlightenment (1712 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31505,11 +24507,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -31519,8 +24517,6 @@
 
 **Era:** Enlightenment (1713 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31532,11 +24528,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31546,8 +24538,6 @@
 
 **Era:** Enlightenment (1713 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31559,11 +24549,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -31573,8 +24559,6 @@
 
 **Era:** Enlightenment (1713 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31586,11 +24570,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -31600,8 +24580,6 @@
 
 **Era:** Enlightenment (1713 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31613,11 +24591,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -31627,8 +24601,6 @@
 
 **Era:** Enlightenment (1713 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31640,11 +24612,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -31654,8 +24622,6 @@
 
 **Era:** Enlightenment (1713 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31667,11 +24633,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -31681,8 +24643,6 @@
 
 **Era:** Enlightenment (1713 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31694,11 +24654,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31708,8 +24664,6 @@
 
 **Era:** Enlightenment (1714 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31721,11 +24675,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -31735,8 +24685,6 @@
 
 **Era:** Enlightenment (1714 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31748,11 +24696,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -31762,8 +24706,6 @@
 
 **Era:** Enlightenment (1715 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31775,11 +24717,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31789,8 +24727,6 @@
 
 **Era:** Enlightenment (1715 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31802,11 +24738,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -31816,8 +24748,6 @@
 
 **Era:** Enlightenment (1715 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31829,11 +24759,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -31843,8 +24769,6 @@
 
 **Era:** Enlightenment (1715 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31856,11 +24780,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -31870,8 +24790,6 @@
 
 **Era:** Enlightenment (1716 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31883,11 +24801,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -31897,8 +24811,6 @@
 
 **Era:** Enlightenment (1717 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31910,11 +24822,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -31924,8 +24832,6 @@
 
 **Era:** Enlightenment (1717 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31937,11 +24843,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -31951,8 +24853,6 @@
 
 **Era:** Enlightenment (1717 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31964,11 +24864,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -31978,8 +24874,6 @@
 
 **Era:** Enlightenment (1718 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -31991,11 +24885,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:38 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -32005,8 +24895,6 @@
 
 **Era:** Enlightenment (1718 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32018,11 +24906,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:52 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -32032,8 +24916,6 @@
 
 **Era:** Enlightenment (1718 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32045,11 +24927,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32059,8 +24937,6 @@
 
 **Era:** Enlightenment (1719 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32072,11 +24948,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32086,8 +24958,6 @@
 
 **Era:** Enlightenment (1719 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32099,11 +24969,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32113,8 +24979,6 @@
 
 **Era:** Enlightenment (1720 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32126,11 +24990,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32140,8 +25000,6 @@
 
 **Era:** Enlightenment (1720 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32153,11 +25011,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32167,8 +25021,6 @@
 
 **Era:** Enlightenment (1720 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32180,11 +25032,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -32194,8 +25042,6 @@
 
 **Era:** Enlightenment (1720 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32207,11 +25053,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32221,8 +25063,6 @@
 
 **Era:** Enlightenment (1720 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32234,11 +25074,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -32248,8 +25084,6 @@
 
 **Era:** Enlightenment (1720 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32261,11 +25095,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32275,8 +25105,6 @@
 
 **Era:** Enlightenment (1721 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32288,11 +25116,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32302,8 +25126,6 @@
 
 **Era:** Enlightenment (1721 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32315,11 +25137,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -32329,8 +25147,6 @@
 
 **Era:** Enlightenment (1721 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32342,11 +25158,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32356,8 +25168,6 @@
 
 **Era:** Enlightenment (1721 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32369,11 +25179,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32383,8 +25189,6 @@
 
 **Era:** Enlightenment (1721 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32396,11 +25200,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -32410,8 +25210,6 @@
 
 **Era:** Enlightenment (1723 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32423,11 +25221,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -32437,8 +25231,6 @@
 
 **Era:** Enlightenment (1723 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32450,11 +25242,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -32464,8 +25252,6 @@
 
 **Era:** Enlightenment (1723 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32477,11 +25263,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32491,8 +25273,6 @@
 
 **Era:** Enlightenment (1723 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32504,11 +25284,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 15:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -32518,8 +25294,6 @@
 
 **Era:** Enlightenment (1723 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32531,11 +25305,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -32545,8 +25315,6 @@
 
 **Era:** Enlightenment (1724 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32558,11 +25326,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:50 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -32572,8 +25336,6 @@
 
 **Era:** Enlightenment (1724 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32585,11 +25347,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32599,8 +25357,6 @@
 
 **Era:** Enlightenment (1725 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32612,11 +25368,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32626,8 +25378,6 @@
 
 **Era:** Enlightenment (1725 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32639,11 +25389,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -32653,8 +25399,6 @@
 
 **Era:** Enlightenment (1725 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32666,11 +25410,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32680,8 +25420,6 @@
 
 **Era:** Enlightenment (1726 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32693,11 +25431,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -32707,8 +25441,6 @@
 
 **Era:** Enlightenment (1726 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32720,11 +25452,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -32734,8 +25462,6 @@
 
 **Era:** Enlightenment (1726 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32747,11 +25473,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32761,8 +25483,6 @@
 
 **Era:** Enlightenment (1726 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32774,11 +25494,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32788,8 +25504,6 @@
 
 **Era:** Enlightenment (1726 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32801,11 +25515,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:19 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -32815,8 +25525,6 @@
 
 **Era:** Enlightenment (1726 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32828,11 +25536,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -32842,8 +25546,6 @@
 
 **Era:** Enlightenment (1727 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32855,11 +25557,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -32869,8 +25567,6 @@
 
 **Era:** Enlightenment (1728 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32882,11 +25578,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32896,8 +25588,6 @@
 
 **Era:** Enlightenment (1728 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32909,11 +25599,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32923,8 +25609,6 @@
 
 **Era:** Enlightenment (1728 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32936,11 +25620,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -32950,8 +25630,6 @@
 
 **Era:** Enlightenment (1729 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32963,11 +25641,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -32977,8 +25651,6 @@
 
 **Era:** Enlightenment (1729 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -32990,11 +25662,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33004,8 +25672,6 @@
 
 **Era:** Enlightenment (1729 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33017,11 +25683,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33031,8 +25693,6 @@
 
 **Era:** Enlightenment (1729 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33044,11 +25704,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:42 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -33058,8 +25714,6 @@
 
 **Era:** Enlightenment (1730 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33071,11 +25725,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:53 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -33085,8 +25735,6 @@
 
 **Era:** Enlightenment (1730 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33098,11 +25746,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:14 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -33112,8 +25756,6 @@
 
 **Era:** Enlightenment (1730 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33125,11 +25767,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33139,8 +25777,6 @@
 
 **Era:** Enlightenment (1730 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33152,11 +25788,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -33166,8 +25798,6 @@
 
 **Era:** Enlightenment (1731 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33179,11 +25809,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -33193,8 +25819,6 @@
 
 **Era:** Enlightenment (1731 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33206,11 +25830,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -33220,8 +25840,6 @@
 
 **Era:** Enlightenment (1731 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33233,11 +25851,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -33247,8 +25861,6 @@
 
 **Era:** Enlightenment (1732 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33260,11 +25872,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:43 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -33274,8 +25882,6 @@
 
 **Era:** Enlightenment (1732 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33287,11 +25893,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33301,8 +25903,6 @@
 
 **Era:** Enlightenment (1732 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33314,11 +25914,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33328,8 +25924,6 @@
 
 **Era:** Enlightenment (1733 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33341,11 +25935,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -33355,8 +25945,6 @@
 
 **Era:** Enlightenment (1733 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33368,11 +25956,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33382,8 +25966,6 @@
 
 **Era:** Enlightenment (1733 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33395,11 +25977,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -33409,8 +25987,6 @@
 
 **Era:** Enlightenment (1734 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33422,11 +25998,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -33436,8 +26008,6 @@
 
 **Era:** Enlightenment (1734 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33449,11 +26019,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -33463,8 +26029,6 @@
 
 **Era:** Enlightenment (1734 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33476,11 +26040,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -33490,8 +26050,6 @@
 
 **Era:** Enlightenment (1734 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33503,11 +26061,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -33517,8 +26071,6 @@
 
 **Era:** Enlightenment (1734 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33530,11 +26082,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -33544,8 +26092,6 @@
 
 **Era:** Enlightenment (1734 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33557,11 +26103,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33571,8 +26113,6 @@
 
 **Era:** Enlightenment (1735 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33584,11 +26124,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33598,8 +26134,6 @@
 
 **Era:** Enlightenment (1735 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33611,11 +26145,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -33625,8 +26155,6 @@
 
 **Era:** Enlightenment (1735 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33638,11 +26166,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -33652,8 +26176,6 @@
 
 **Era:** Enlightenment (1735 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33665,11 +26187,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -33679,8 +26197,6 @@
 
 **Era:** Enlightenment (1736 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33692,11 +26208,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -33706,8 +26218,6 @@
 
 **Era:** Enlightenment (1736 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33719,11 +26229,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33733,8 +26239,6 @@
 
 **Era:** Enlightenment (1736 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33746,11 +26250,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -33760,8 +26260,6 @@
 
 **Era:** Enlightenment (1736 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33773,11 +26271,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -33787,8 +26281,6 @@
 
 **Era:** Enlightenment (1736 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33800,11 +26292,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:08 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -33814,8 +26302,6 @@
 
 **Era:** Enlightenment (1737 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33827,11 +26313,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -33841,8 +26323,6 @@
 
 **Era:** Enlightenment (1737 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33854,11 +26334,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33868,8 +26344,6 @@
 
 **Era:** Enlightenment (1737 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33881,11 +26355,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:31 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -33895,8 +26365,6 @@
 
 **Era:** Enlightenment (1739 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33908,11 +26376,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -33922,8 +26386,6 @@
 
 **Era:** Enlightenment (1739 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33935,11 +26397,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -33949,8 +26407,6 @@
 
 **Era:** Enlightenment (1740 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33962,11 +26418,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -33976,8 +26428,6 @@
 
 **Era:** Enlightenment (1740 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -33989,11 +26439,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34003,8 +26449,6 @@
 
 **Era:** Enlightenment (1740 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34016,11 +26460,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -34030,8 +26470,6 @@
 
 **Era:** Enlightenment (1740 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34043,11 +26481,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -34057,8 +26491,6 @@
 
 **Era:** Enlightenment (1740 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34070,11 +26502,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34084,8 +26512,6 @@
 
 **Era:** Enlightenment (1740 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34097,11 +26523,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34111,8 +26533,6 @@
 
 **Era:** Enlightenment (1741 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34124,11 +26544,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -34138,8 +26554,6 @@
 
 **Era:** Enlightenment (1741 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34151,11 +26565,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34165,8 +26575,6 @@
 
 **Era:** Enlightenment (1741 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34178,11 +26586,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34192,8 +26596,6 @@
 
 **Era:** Enlightenment (1741 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34205,11 +26607,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:14 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -34219,8 +26617,6 @@
 
 **Era:** Enlightenment (1741 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34232,11 +26628,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:50 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -34246,8 +26638,6 @@
 
 **Era:** Enlightenment (1741 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34259,11 +26649,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -34273,8 +26659,6 @@
 
 **Era:** Enlightenment (1742 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34286,11 +26670,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -34300,8 +26680,6 @@
 
 **Era:** Enlightenment (1742 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34313,11 +26691,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -34327,8 +26701,6 @@
 
 **Era:** Enlightenment (1742 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34340,11 +26712,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34354,8 +26722,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34367,11 +26733,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:39 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -34381,8 +26743,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34394,11 +26754,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:38 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34408,8 +26764,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34421,11 +26775,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -34435,8 +26785,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34448,11 +26796,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34462,8 +26806,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34475,11 +26817,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -34489,8 +26827,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34502,11 +26838,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -34516,8 +26848,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34529,11 +26859,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -34543,8 +26869,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34556,11 +26880,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -34570,8 +26890,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34583,11 +26901,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:35 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -34597,8 +26911,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34610,11 +26922,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -34624,8 +26932,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34637,11 +26943,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -34651,8 +26953,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34664,11 +26964,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -34678,8 +26974,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34691,11 +26985,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34705,8 +26995,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34718,11 +27006,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -34732,8 +27016,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34745,11 +27027,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -34759,8 +27037,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34772,11 +27048,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:49 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -34786,8 +27058,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34799,11 +27069,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34813,8 +27079,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34826,11 +27090,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -34840,8 +27100,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34853,11 +27111,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -34867,8 +27121,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34880,11 +27132,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -34894,8 +27142,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34907,11 +27153,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -34921,8 +27163,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34934,11 +27174,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -34948,8 +27184,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34961,11 +27195,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -34975,8 +27205,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -34988,11 +27216,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35002,8 +27226,6 @@
 
 **Era:** Enlightenment (1743 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35015,11 +27237,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -35029,8 +27247,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35042,11 +27258,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -35056,8 +27268,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35069,11 +27279,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -35083,8 +27289,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35096,11 +27300,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -35110,8 +27310,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35123,11 +27321,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -35137,8 +27331,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35150,11 +27342,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35164,8 +27352,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35177,11 +27363,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:21 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -35191,8 +27373,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35204,11 +27384,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -35218,8 +27394,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35231,11 +27405,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -35245,8 +27415,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35258,11 +27426,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -35272,8 +27436,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35285,11 +27447,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -35299,8 +27457,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35312,11 +27468,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -35326,8 +27478,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35339,11 +27489,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35353,8 +27499,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35366,11 +27510,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35380,8 +27520,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35393,11 +27531,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -35407,8 +27541,6 @@
 
 **Era:** Enlightenment (1744 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35420,11 +27552,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -35434,8 +27562,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35447,11 +27573,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35461,8 +27583,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35474,11 +27594,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -35488,8 +27604,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35501,11 +27615,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -35515,8 +27625,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35528,11 +27636,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -35542,8 +27646,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35555,11 +27657,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35569,8 +27667,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35582,11 +27678,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -35596,8 +27688,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35609,11 +27699,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 21:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35623,8 +27709,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35636,11 +27720,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -35650,8 +27730,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35663,11 +27741,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -35677,8 +27751,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35690,11 +27762,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -35704,8 +27772,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35717,11 +27783,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -35731,8 +27793,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35744,11 +27804,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -35758,8 +27814,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35771,11 +27825,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -35785,8 +27835,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35798,11 +27846,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -35812,8 +27856,6 @@
 
 **Era:** Enlightenment (1745 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35825,11 +27867,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -35839,8 +27877,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35852,11 +27888,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -35866,8 +27898,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35879,11 +27909,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35893,8 +27919,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35906,11 +27930,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -35920,8 +27940,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35933,11 +27951,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -35947,8 +27961,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35960,11 +27972,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -35974,8 +27982,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -35987,11 +27993,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -36001,8 +28003,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36014,11 +28014,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -36028,8 +28024,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36041,11 +28035,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -36055,8 +28045,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36068,11 +28056,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36082,8 +28066,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36095,11 +28077,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -36109,8 +28087,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36122,11 +28098,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -36136,8 +28108,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36149,11 +28119,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -36163,8 +28129,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36176,11 +28140,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -36190,8 +28150,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36203,11 +28161,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:59 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36217,8 +28171,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36230,11 +28182,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36244,8 +28192,6 @@
 
 **Era:** Enlightenment (1746 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36257,11 +28203,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36271,8 +28213,6 @@
 
 **Era:** Enlightenment (1747 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36284,11 +28224,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:22 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36298,8 +28234,6 @@
 
 **Era:** Enlightenment (1747 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36311,11 +28245,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -36325,8 +28255,6 @@
 
 **Era:** Enlightenment (1747 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36338,11 +28266,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -36352,8 +28276,6 @@
 
 **Era:** Enlightenment (1747 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36365,11 +28287,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -36379,8 +28297,6 @@
 
 **Era:** Enlightenment (1747 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36392,11 +28308,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:14 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -36406,8 +28318,6 @@
 
 **Era:** Enlightenment (1747 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36419,11 +28329,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -36433,8 +28339,6 @@
 
 **Era:** Enlightenment (1747 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36446,11 +28350,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36460,8 +28360,6 @@
 
 **Era:** Enlightenment (1747 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36473,11 +28371,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:49 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -36487,8 +28381,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36500,11 +28392,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -36514,8 +28402,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36527,11 +28413,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -36541,8 +28423,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36554,11 +28434,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -36568,8 +28444,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36581,11 +28455,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -36595,8 +28465,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36608,11 +28476,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -36622,8 +28486,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36635,11 +28497,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -36649,8 +28507,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36662,11 +28518,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -36676,8 +28528,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36689,11 +28539,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -36703,8 +28549,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36716,11 +28560,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:22 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36730,8 +28570,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36743,11 +28581,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -36757,8 +28591,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36770,11 +28602,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -36784,8 +28612,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36797,11 +28623,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36811,8 +28633,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36824,11 +28644,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -36838,8 +28654,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36851,11 +28665,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -36865,8 +28675,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36878,11 +28686,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -36892,8 +28696,6 @@
 
 **Era:** Enlightenment (1748 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36905,11 +28707,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -36919,8 +28717,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36932,11 +28728,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -36946,8 +28738,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36959,11 +28749,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:48 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -36973,8 +28759,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -36986,11 +28770,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:37 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -37000,8 +28780,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37013,11 +28791,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -37027,8 +28801,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37040,11 +28812,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -37054,8 +28822,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37067,11 +28833,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -37081,8 +28843,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37094,11 +28854,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -37108,8 +28864,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37121,11 +28875,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -37135,8 +28885,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37148,11 +28896,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37162,8 +28906,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37175,11 +28917,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:25 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -37189,8 +28927,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37202,11 +28938,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -37216,8 +28948,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37229,11 +28959,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37243,8 +28969,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37256,11 +28980,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -37270,8 +28990,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37283,11 +29001,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -37297,8 +29011,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37310,11 +29022,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -37324,8 +29032,6 @@
 
 **Era:** Enlightenment (1749 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37337,11 +29043,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -37351,8 +29053,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37364,11 +29064,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -37378,8 +29074,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37391,11 +29085,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -37405,8 +29095,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37418,11 +29106,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:26 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -37432,8 +29116,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37445,11 +29127,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37459,8 +29137,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37472,11 +29148,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -37486,8 +29158,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37499,11 +29169,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -37513,8 +29179,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37526,11 +29190,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:26 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37540,8 +29200,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37553,11 +29211,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -37567,8 +29221,6 @@
 
 **Era:** Enlightenment (1750 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37580,11 +29232,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:17 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -37594,8 +29242,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37607,11 +29253,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -37621,8 +29263,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37634,11 +29274,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -37648,8 +29284,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37661,11 +29295,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -37675,8 +29305,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37688,11 +29316,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -37702,8 +29326,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37715,11 +29337,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -37729,8 +29347,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37742,11 +29358,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:52 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37756,8 +29368,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37769,11 +29379,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -37783,8 +29389,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37796,11 +29400,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -37810,8 +29410,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37823,11 +29421,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -37837,8 +29431,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37850,11 +29442,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -37864,8 +29452,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37877,11 +29463,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:31 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -37891,8 +29473,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37904,11 +29484,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37918,8 +29494,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37931,11 +29505,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -37945,8 +29515,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37958,11 +29526,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37972,8 +29536,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -37985,11 +29547,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -37999,8 +29557,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38012,11 +29568,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -38026,8 +29578,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38039,11 +29589,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -38053,8 +29599,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38066,11 +29610,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -38080,8 +29620,6 @@
 
 **Era:** Enlightenment (1751 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38093,11 +29631,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:44 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -38107,8 +29641,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38120,11 +29652,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -38134,8 +29662,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38147,11 +29673,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -38161,8 +29683,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38174,11 +29694,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -38188,8 +29704,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38201,11 +29715,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -38215,8 +29725,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38228,11 +29736,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -38242,8 +29746,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38255,11 +29757,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:35 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -38269,8 +29767,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38282,11 +29778,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -38296,8 +29788,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38309,11 +29799,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -38323,8 +29809,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38336,11 +29820,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -38350,8 +29830,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38363,11 +29841,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -38377,8 +29851,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38390,11 +29862,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:40 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -38404,8 +29872,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38417,11 +29883,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -38431,8 +29893,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38444,11 +29904,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -38458,8 +29914,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38471,11 +29925,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -38485,8 +29935,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38498,11 +29946,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -38512,8 +29956,6 @@
 
 **Era:** Enlightenment (1752 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38525,11 +29967,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -38539,8 +29977,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38552,11 +29988,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -38566,8 +29998,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38579,11 +30009,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -38593,8 +30019,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38606,11 +30030,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -38620,8 +30040,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38633,11 +30051,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -38647,8 +30061,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38660,11 +30072,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -38674,8 +30082,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38687,11 +30093,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -38701,8 +30103,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38714,11 +30114,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -38728,8 +30124,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38741,11 +30135,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -38755,8 +30145,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38768,11 +30156,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -38782,8 +30166,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38795,11 +30177,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -38809,8 +30187,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38822,11 +30198,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -38836,8 +30208,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38849,11 +30219,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -38863,8 +30229,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38876,11 +30240,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:58 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -38890,8 +30250,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38903,11 +30261,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -38917,8 +30271,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38930,11 +30282,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -38944,8 +30292,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38957,11 +30303,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -38971,8 +30313,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -38984,11 +30324,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -38998,8 +30334,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39011,11 +30345,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:53 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -39025,8 +30355,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39038,11 +30366,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -39052,8 +30376,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39065,11 +30387,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -39079,8 +30397,6 @@
 
 **Era:** Enlightenment (1753 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39092,11 +30408,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:35 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -39106,8 +30418,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39119,11 +30429,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -39133,8 +30439,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39146,11 +30450,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -39160,8 +30460,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39173,11 +30471,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -39187,8 +30481,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39200,11 +30492,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -39214,8 +30502,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39227,11 +30513,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -39241,8 +30523,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39254,11 +30534,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -39268,8 +30544,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39281,11 +30555,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -39295,8 +30565,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39308,11 +30576,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -39322,8 +30586,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39335,11 +30597,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:42 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -39349,8 +30607,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39362,11 +30618,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -39376,8 +30628,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39389,11 +30639,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -39403,8 +30649,6 @@
 
 **Era:** Enlightenment (1754 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39416,11 +30660,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -39430,8 +30670,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39443,11 +30681,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -39457,8 +30691,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39470,11 +30702,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -39484,8 +30712,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39497,11 +30723,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -39511,8 +30733,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39524,11 +30744,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -39538,8 +30754,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39551,11 +30765,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -39565,8 +30775,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39578,11 +30786,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -39592,8 +30796,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39605,11 +30807,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:49 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -39619,8 +30817,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39632,11 +30828,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:52 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -39646,8 +30838,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39659,11 +30849,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -39673,8 +30859,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39686,11 +30870,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -39700,8 +30880,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39713,11 +30891,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -39727,8 +30901,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39740,11 +30912,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -39754,8 +30922,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39767,11 +30933,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -39781,8 +30943,6 @@
 
 **Era:** Enlightenment (1755 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39794,11 +30954,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:35 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -39808,8 +30964,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39821,11 +30975,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:40 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -39835,8 +30985,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39848,11 +30996,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -39862,8 +31006,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39875,11 +31017,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -39889,8 +31027,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39902,11 +31038,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -39916,8 +31048,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39929,11 +31059,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:54 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -39943,8 +31069,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39956,11 +31080,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -39970,8 +31090,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -39983,11 +31101,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -39997,8 +31111,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40010,11 +31122,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -40024,8 +31132,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40037,11 +31143,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -40051,8 +31153,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40064,11 +31164,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -40078,8 +31174,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40091,11 +31185,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -40105,8 +31195,6 @@
 
 **Era:** Enlightenment (1756 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40118,11 +31206,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -40132,8 +31216,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40145,11 +31227,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -40159,8 +31237,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40172,11 +31248,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -40186,8 +31258,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40199,11 +31269,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -40213,8 +31279,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40226,11 +31290,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:23 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -40240,8 +31300,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40253,11 +31311,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -40267,8 +31321,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40280,11 +31332,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -40294,8 +31342,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40307,11 +31353,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:22 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -40321,8 +31363,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40334,11 +31374,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -40348,8 +31384,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40361,11 +31395,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -40375,8 +31405,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40388,11 +31416,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -40402,8 +31426,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40415,11 +31437,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -40429,8 +31447,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40442,11 +31458,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -40456,8 +31468,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40469,11 +31479,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -40483,8 +31489,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40496,11 +31500,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -40510,8 +31510,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40523,11 +31521,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -40537,8 +31531,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40550,11 +31542,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -40564,8 +31552,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40577,11 +31563,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -40591,8 +31573,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40604,11 +31584,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:30 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -40618,8 +31594,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40631,11 +31605,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:17 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -40645,8 +31615,6 @@
 
 **Era:** Enlightenment (1757 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40658,11 +31626,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -40672,8 +31636,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40685,11 +31647,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -40699,8 +31657,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40712,11 +31668,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -40726,8 +31678,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40739,11 +31689,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -40753,8 +31699,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40766,11 +31710,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -40780,8 +31720,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40793,11 +31731,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:10 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -40807,8 +31741,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40820,11 +31752,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:30 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -40834,8 +31762,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40847,11 +31773,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -40861,8 +31783,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40874,11 +31794,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:31 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -40888,8 +31804,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40901,11 +31815,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -40915,8 +31825,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40928,11 +31836,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -40942,8 +31846,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40955,11 +31857,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -40969,8 +31867,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -40982,11 +31878,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -40996,8 +31888,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41009,11 +31899,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -41023,8 +31909,6 @@
 
 **Era:** Enlightenment (1758 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41036,11 +31920,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:42 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -41050,8 +31930,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41063,11 +31941,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -41077,8 +31951,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41090,11 +31962,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -41104,8 +31972,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41117,11 +31983,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -41131,8 +31993,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41144,11 +32004,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -41158,8 +32014,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41171,11 +32025,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 04:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -41185,8 +32035,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41198,11 +32046,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -41212,8 +32056,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41225,11 +32067,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -41239,8 +32077,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41252,11 +32088,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -41266,8 +32098,6 @@
 
 **Era:** Enlightenment (1759 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41279,11 +32109,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -41293,8 +32119,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41306,11 +32130,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:29 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -41320,8 +32140,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41333,11 +32151,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -41347,8 +32161,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41360,11 +32172,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -41374,8 +32182,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41387,11 +32193,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -41401,8 +32203,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41414,11 +32214,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -41428,8 +32224,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41441,11 +32235,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -41455,8 +32245,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41468,11 +32256,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -41482,8 +32266,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41495,11 +32277,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:34 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -41509,8 +32287,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41522,11 +32298,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -41536,8 +32308,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41549,11 +32319,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -41563,8 +32329,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41576,11 +32340,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -41590,8 +32350,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41603,11 +32361,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -41617,8 +32371,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41630,11 +32382,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -41644,8 +32392,6 @@
 
 **Era:** Enlightenment (1760 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41657,11 +32403,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:03 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -41671,8 +32413,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41684,11 +32424,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -41698,8 +32434,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41711,11 +32445,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -41725,8 +32455,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41738,11 +32466,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -41752,8 +32476,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41765,11 +32487,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -41779,8 +32497,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41792,11 +32508,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -41806,8 +32518,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41819,11 +32529,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -41833,8 +32539,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41846,11 +32550,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -41860,8 +32560,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41873,11 +32571,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -41887,8 +32581,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41900,11 +32592,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -41914,8 +32602,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41927,11 +32613,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -41941,8 +32623,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41954,11 +32634,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -41968,8 +32644,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -41981,11 +32655,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -41995,8 +32665,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42008,11 +32676,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42022,8 +32686,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42035,11 +32697,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -42049,8 +32707,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42062,11 +32718,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -42076,8 +32728,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42089,11 +32739,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -42103,8 +32749,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42116,11 +32760,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42130,8 +32770,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42143,11 +32781,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -42157,8 +32791,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42170,11 +32802,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42184,8 +32812,6 @@
 
 **Era:** Enlightenment (1761 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42197,11 +32823,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:35 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -42211,8 +32833,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42224,11 +32844,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -42238,8 +32854,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42251,11 +32865,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:42 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -42265,8 +32875,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42278,11 +32886,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -42292,8 +32896,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42305,11 +32907,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -42319,8 +32917,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42332,11 +32928,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42346,8 +32938,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42359,11 +32949,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:42 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -42373,8 +32959,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42386,11 +32970,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -42400,8 +32980,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42413,11 +32991,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42427,8 +33001,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42440,11 +33012,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -42454,8 +33022,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42467,11 +33033,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -42481,8 +33043,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42494,11 +33054,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42508,8 +33064,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42521,11 +33075,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -42535,8 +33085,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42548,11 +33096,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42562,8 +33106,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42575,11 +33117,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -42589,8 +33127,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42602,11 +33138,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:28 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -42616,8 +33148,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42629,11 +33159,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -42643,8 +33169,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42656,11 +33180,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -42670,8 +33190,6 @@
 
 **Era:** Enlightenment (1762 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42683,11 +33201,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -42697,8 +33211,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42710,11 +33222,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -42724,8 +33232,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42737,11 +33243,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -42751,8 +33253,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42764,11 +33264,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42778,8 +33274,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42791,11 +33285,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -42805,8 +33295,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42818,11 +33306,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:01 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -42832,8 +33316,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42845,11 +33327,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42859,8 +33337,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42872,11 +33348,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -42886,8 +33358,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42899,11 +33369,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -42913,8 +33379,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42926,11 +33390,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -42940,8 +33400,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42953,11 +33411,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -42967,8 +33421,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -42980,11 +33432,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -42994,8 +33442,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43007,11 +33453,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -43021,8 +33463,6 @@
 
 **Era:** Enlightenment (1763 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43034,11 +33474,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:20 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -43048,8 +33484,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43061,11 +33495,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -43075,8 +33505,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43088,11 +33516,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -43102,8 +33526,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43115,11 +33537,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -43129,8 +33547,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43142,11 +33558,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -43156,8 +33568,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43169,11 +33579,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:35 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -43183,8 +33589,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43196,11 +33600,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -43210,8 +33610,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43223,11 +33621,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:14 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -43237,8 +33631,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43250,11 +33642,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -43264,8 +33652,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43277,11 +33663,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -43291,8 +33673,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43304,11 +33684,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -43318,8 +33694,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43331,11 +33705,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -43345,8 +33715,6 @@
 
 **Era:** Enlightenment (1764 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43358,11 +33726,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -43372,8 +33736,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43385,11 +33747,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -43399,8 +33757,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43412,11 +33768,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -43426,8 +33778,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43439,11 +33789,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -43453,8 +33799,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43466,11 +33810,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -43480,8 +33820,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43493,11 +33831,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:40 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -43507,8 +33841,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43520,11 +33852,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -43534,8 +33862,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43547,11 +33873,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -43561,8 +33883,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43574,11 +33894,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -43588,8 +33904,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43601,11 +33915,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -43615,8 +33925,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43628,11 +33936,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -43642,8 +33946,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43655,11 +33957,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -43669,8 +33967,6 @@
 
 **Era:** Enlightenment (1765 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43682,11 +33978,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -43696,8 +33988,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43709,11 +33999,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -43723,8 +34009,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43736,11 +34020,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -43750,8 +34030,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43763,11 +34041,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -43777,8 +34051,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43790,11 +34062,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -43804,8 +34072,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43817,11 +34083,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -43831,8 +34093,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43844,11 +34104,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -43858,8 +34114,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43871,11 +34125,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:14 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -43885,8 +34135,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43898,11 +34146,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -43912,8 +34156,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43925,11 +34167,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -43939,8 +34177,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43952,11 +34188,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -43966,8 +34198,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -43979,11 +34209,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -43993,8 +34219,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44006,11 +34230,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -44020,8 +34240,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44033,11 +34251,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -44047,8 +34261,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44060,11 +34272,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -44074,8 +34282,6 @@
 
 **Era:** Enlightenment (1766 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44087,11 +34293,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -44101,8 +34303,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44114,11 +34314,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:49 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -44128,8 +34324,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44141,11 +34335,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -44155,8 +34345,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44168,11 +34356,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -44182,8 +34366,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44195,11 +34377,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -44209,8 +34387,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44222,11 +34398,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:55 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -44236,8 +34408,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44249,11 +34419,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -44263,8 +34429,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44276,11 +34440,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 15:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -44290,8 +34450,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44303,11 +34461,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -44317,8 +34471,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44330,11 +34482,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -44344,8 +34492,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44357,11 +34503,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -44371,8 +34513,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44384,11 +34524,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -44398,8 +34534,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44411,11 +34545,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -44425,8 +34555,6 @@
 
 **Era:** Enlightenment (1767 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44438,11 +34566,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -44452,8 +34576,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44465,11 +34587,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -44479,8 +34597,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44492,11 +34608,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -44506,8 +34618,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44519,11 +34629,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -44533,8 +34639,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44546,11 +34650,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -44560,8 +34660,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44573,11 +34671,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -44587,8 +34681,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44600,11 +34692,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -44614,8 +34702,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44627,11 +34713,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -44641,8 +34723,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44654,11 +34734,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -44668,8 +34744,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44681,11 +34755,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -44695,8 +34765,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44708,11 +34776,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -44722,8 +34786,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44735,11 +34797,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -44749,8 +34807,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44762,11 +34818,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -44776,8 +34828,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44789,11 +34839,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -44803,8 +34849,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44816,11 +34860,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -44830,8 +34870,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44843,11 +34881,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -44857,8 +34891,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44870,11 +34902,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -44884,8 +34912,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44897,11 +34923,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -44911,8 +34933,6 @@
 
 **Era:** Enlightenment (1768 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44924,11 +34944,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -44938,8 +34954,6 @@
 
 **Era:** Enlightenment (1769 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44951,11 +34965,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -44965,8 +34975,6 @@
 
 **Era:** Enlightenment (1769 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -44978,11 +34986,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -44992,8 +34996,6 @@
 
 **Era:** Enlightenment (1769 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45005,11 +35007,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -45019,8 +35017,6 @@
 
 **Era:** Enlightenment (1769 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45032,11 +35028,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -45046,8 +35038,6 @@
 
 **Era:** Enlightenment (1769 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45059,11 +35049,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -45073,8 +35059,6 @@
 
 **Era:** Enlightenment (1770 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45086,11 +35070,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -45100,8 +35080,6 @@
 
 **Era:** Enlightenment (1770 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45113,11 +35091,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -45127,8 +35101,6 @@
 
 **Era:** Enlightenment (1770 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45140,11 +35112,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:44 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -45154,8 +35122,6 @@
 
 **Era:** Enlightenment (1770 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45167,11 +35133,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -45181,8 +35143,6 @@
 
 **Era:** Enlightenment (1770 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45194,11 +35154,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -45208,8 +35164,6 @@
 
 **Era:** Enlightenment (1771 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45221,11 +35175,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -45235,8 +35185,6 @@
 
 **Era:** Enlightenment (1771 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45248,11 +35196,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:45 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -45262,8 +35206,6 @@
 
 **Era:** Enlightenment (1772 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45275,11 +35217,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -45289,8 +35227,6 @@
 
 **Era:** Enlightenment (1772 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45302,11 +35238,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -45316,8 +35248,6 @@
 
 **Era:** Enlightenment (1772 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45329,11 +35259,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -45343,8 +35269,6 @@
 
 **Era:** Enlightenment (1772 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45356,11 +35280,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -45370,8 +35290,6 @@
 
 **Era:** Enlightenment (1772 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45383,11 +35301,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -45397,8 +35311,6 @@
 
 **Era:** Enlightenment (1772 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45410,11 +35322,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:38 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -45424,8 +35332,6 @@
 
 **Era:** Enlightenment (1773 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45437,11 +35343,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -45451,8 +35353,6 @@
 
 **Era:** Enlightenment (1774 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45464,11 +35364,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -45478,8 +35374,6 @@
 
 **Era:** Enlightenment (1774 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45491,11 +35385,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:09 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -45505,8 +35395,6 @@
 
 **Era:** Enlightenment (1774 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45518,11 +35406,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:38 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -45532,8 +35416,6 @@
 
 **Era:** Enlightenment (1774 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45545,11 +35427,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -45559,8 +35437,6 @@
 
 **Era:** Enlightenment (1774 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45572,11 +35448,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -45586,8 +35458,6 @@
 
 **Era:** Enlightenment (1775 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45599,11 +35469,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -45613,8 +35479,6 @@
 
 **Era:** Enlightenment (1775 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45626,11 +35490,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -45640,8 +35500,6 @@
 
 **Era:** Enlightenment (1775 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45653,11 +35511,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -45667,8 +35521,6 @@
 
 **Era:** Enlightenment (1775 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45680,11 +35532,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:53 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -45694,8 +35542,6 @@
 
 **Era:** Enlightenment (1776 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45707,11 +35553,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -45721,8 +35563,6 @@
 
 **Era:** Enlightenment (1776 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45734,11 +35574,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -45748,8 +35584,6 @@
 
 **Era:** Enlightenment (1777 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45761,11 +35595,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -45775,8 +35605,6 @@
 
 **Era:** Enlightenment (1777 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45788,11 +35616,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:17 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -45802,8 +35626,6 @@
 
 **Era:** Enlightenment (1777 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45815,11 +35637,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -45829,8 +35647,6 @@
 
 **Era:** Enlightenment (1777 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45842,11 +35658,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -45856,8 +35668,6 @@
 
 **Era:** Enlightenment (1778 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45869,11 +35679,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -45883,8 +35689,6 @@
 
 **Era:** Enlightenment (1779 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45896,11 +35700,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -45910,8 +35710,6 @@
 
 **Era:** Enlightenment (1779 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45923,11 +35721,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -45937,8 +35731,6 @@
 
 **Era:** Enlightenment (1779 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45950,11 +35742,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -45964,8 +35752,6 @@
 
 **Era:** Enlightenment (1779 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -45977,11 +35763,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -45991,8 +35773,6 @@
 
 **Era:** Enlightenment (1779 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46004,11 +35784,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:08 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -46018,8 +35794,6 @@
 
 **Era:** Enlightenment (1780 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46031,11 +35805,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -46045,8 +35815,6 @@
 
 **Era:** Enlightenment (1780 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46058,11 +35826,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -46072,8 +35836,6 @@
 
 **Era:** Enlightenment (1780 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46085,11 +35847,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -46099,8 +35857,6 @@
 
 **Era:** Enlightenment (1780 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46112,11 +35868,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -46126,8 +35878,6 @@
 
 **Era:** Enlightenment (1780 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46139,11 +35889,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -46153,8 +35899,6 @@
 
 **Era:** Enlightenment (1780 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46166,11 +35910,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -46180,8 +35920,6 @@
 
 **Era:** Enlightenment (1780 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46193,11 +35931,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -46207,8 +35941,6 @@
 
 **Era:** Enlightenment (1780 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46220,11 +35952,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -46234,8 +35962,6 @@
 
 **Era:** Enlightenment (1781 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46247,11 +35973,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -46261,8 +35983,6 @@
 
 **Era:** Enlightenment (1781 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46274,11 +35994,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -46288,8 +36004,6 @@
 
 **Era:** Enlightenment (1782 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46301,11 +36015,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -46315,8 +36025,6 @@
 
 **Era:** Enlightenment (1782 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46328,11 +36036,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -46342,8 +36046,6 @@
 
 **Era:** Enlightenment (1782 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46355,11 +36057,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:35 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -46369,8 +36067,6 @@
 
 **Era:** Enlightenment (1783 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46382,11 +36078,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -46396,8 +36088,6 @@
 
 **Era:** Enlightenment (1783 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46409,11 +36099,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:30 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -46423,8 +36109,6 @@
 
 **Era:** Enlightenment (1784 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46436,11 +36120,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -46450,8 +36130,6 @@
 
 **Era:** Enlightenment (1784 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46463,11 +36141,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -46477,8 +36151,6 @@
 
 **Era:** Enlightenment (1784 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46490,11 +36162,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -46504,8 +36172,6 @@
 
 **Era:** Enlightenment (1785 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46517,11 +36183,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -46531,8 +36193,6 @@
 
 **Era:** Enlightenment (1786 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46544,11 +36204,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -46558,8 +36214,6 @@
 
 **Era:** Enlightenment (1786 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46571,11 +36225,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -46585,8 +36235,6 @@
 
 **Era:** Enlightenment (1786 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46598,11 +36246,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -46612,8 +36256,6 @@
 
 **Era:** Enlightenment (1786 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46625,11 +36267,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -46639,8 +36277,6 @@
 
 **Era:** Enlightenment (1786 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46652,11 +36288,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -46666,8 +36298,6 @@
 
 **Era:** Enlightenment (1787 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46679,11 +36309,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -46693,8 +36319,6 @@
 
 **Era:** Enlightenment (1787 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46706,11 +36330,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -46720,8 +36340,6 @@
 
 **Era:** Enlightenment (1787 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46733,11 +36351,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -46747,8 +36361,6 @@
 
 **Era:** Enlightenment (1787 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46760,11 +36372,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -46774,8 +36382,6 @@
 
 **Era:** Enlightenment (1788 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46787,11 +36393,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:24 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -46801,8 +36403,6 @@
 
 **Era:** Enlightenment (1788 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46814,11 +36414,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -46828,8 +36424,6 @@
 
 **Era:** Enlightenment (1788 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46841,11 +36435,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -46855,8 +36445,6 @@
 
 **Era:** Enlightenment (1789 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46868,11 +36456,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -46882,8 +36466,6 @@
 
 **Era:** Enlightenment (1789 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46895,11 +36477,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -46909,8 +36487,6 @@
 
 **Era:** Enlightenment (1789 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46922,11 +36498,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:41 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -46936,8 +36508,6 @@
 
 **Era:** Enlightenment (1789 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46949,11 +36519,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -46963,8 +36529,6 @@
 
 **Era:** Enlightenment (1790 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -46976,11 +36540,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -46990,8 +36550,6 @@
 
 **Era:** Enlightenment (1790 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47003,11 +36561,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -47017,8 +36571,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47030,11 +36582,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -47044,8 +36592,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47057,11 +36603,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -47071,8 +36613,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47084,11 +36624,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -47098,8 +36634,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47111,11 +36645,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -47125,8 +36655,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47138,11 +36666,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:52 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -47152,8 +36676,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47165,11 +36687,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -47179,8 +36697,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47192,11 +36708,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -47206,8 +36718,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47219,11 +36729,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -47233,8 +36739,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47246,11 +36750,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:26 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -47260,8 +36760,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47273,11 +36771,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -47287,8 +36781,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47300,11 +36792,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -47314,8 +36802,6 @@
 
 **Era:** Enlightenment (1791 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47327,11 +36813,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -47341,8 +36823,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47354,11 +36834,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -47368,8 +36844,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47381,11 +36855,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:48 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -47395,8 +36865,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47408,11 +36876,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -47422,8 +36886,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47435,11 +36897,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -47449,8 +36907,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47462,11 +36918,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:26 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -47476,8 +36928,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47489,11 +36939,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:45 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -47503,8 +36949,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47516,11 +36960,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -47530,8 +36970,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47543,11 +36981,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -47557,8 +36991,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47570,11 +37002,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -47584,8 +37012,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47597,11 +37023,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -47611,8 +37033,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47624,11 +37044,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -47638,8 +37054,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47651,11 +37065,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -47665,8 +37075,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47678,11 +37086,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:17 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -47692,8 +37096,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47705,11 +37107,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -47719,8 +37117,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47732,11 +37128,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -47746,8 +37138,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47759,11 +37149,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -47773,8 +37159,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47786,11 +37170,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -47800,8 +37180,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47813,11 +37191,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -47827,8 +37201,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47840,11 +37212,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -47854,8 +37222,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47867,11 +37233,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -47881,8 +37243,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47894,11 +37254,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -47908,8 +37264,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47921,11 +37275,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -47935,8 +37285,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47948,11 +37296,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -47962,8 +37306,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -47975,11 +37317,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -47989,8 +37327,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48002,11 +37338,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -48016,8 +37348,6 @@
 
 **Era:** Enlightenment (1792 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48029,11 +37359,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48043,8 +37369,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48056,11 +37380,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:35 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -48070,8 +37390,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48083,11 +37401,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48097,8 +37411,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48110,11 +37422,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -48124,8 +37432,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48137,11 +37443,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -48151,8 +37453,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48164,11 +37464,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -48178,8 +37474,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48191,11 +37485,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -48205,8 +37495,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48218,11 +37506,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -48232,8 +37516,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48245,11 +37527,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -48259,8 +37537,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48272,11 +37548,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48286,8 +37558,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48299,11 +37569,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 23:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48313,8 +37579,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48326,11 +37590,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -48340,8 +37600,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48353,11 +37611,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -48367,8 +37621,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48380,11 +37632,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -48394,8 +37642,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48407,11 +37653,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -48421,8 +37663,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48434,11 +37674,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -48448,8 +37684,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48461,11 +37695,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48475,8 +37705,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48488,11 +37716,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -48502,8 +37726,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48515,11 +37737,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -48529,8 +37747,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48542,11 +37758,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -48556,8 +37768,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48569,11 +37779,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:05 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -48583,8 +37789,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48596,11 +37800,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -48610,8 +37810,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48623,11 +37821,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -48637,8 +37831,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48650,11 +37842,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48664,8 +37852,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48677,11 +37863,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48691,8 +37873,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48704,11 +37884,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -48718,8 +37894,6 @@
 
 **Era:** Enlightenment (1793 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48731,11 +37905,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -48745,8 +37915,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48758,11 +37926,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -48772,8 +37936,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48785,11 +37947,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:29 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -48799,8 +37957,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48812,11 +37968,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -48826,8 +37978,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48839,11 +37989,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:20 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48853,8 +37999,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48866,11 +38010,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -48880,8 +38020,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48893,11 +38031,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -48907,8 +38041,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48920,11 +38052,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -48934,8 +38062,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48947,11 +38073,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -48961,8 +38083,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -48974,11 +38094,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -48988,8 +38104,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49001,11 +38115,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -49015,8 +38125,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49028,11 +38136,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49042,8 +38146,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49055,11 +38157,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -49069,8 +38167,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49082,11 +38178,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:42 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -49096,8 +38188,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49109,11 +38199,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -49123,8 +38209,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49136,11 +38220,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -49150,8 +38230,6 @@
 
 **Era:** Enlightenment (1794 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49163,11 +38241,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -49177,8 +38251,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49190,11 +38262,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -49204,8 +38272,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49217,11 +38283,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49231,8 +38293,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49244,11 +38304,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:53 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -49258,8 +38314,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49271,11 +38325,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -49285,8 +38335,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49298,11 +38346,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49312,8 +38356,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49325,11 +38367,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -49339,8 +38377,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49352,11 +38388,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -49366,8 +38398,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49379,11 +38409,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49393,8 +38419,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49406,11 +38430,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -49420,8 +38440,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49433,11 +38451,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -49447,8 +38461,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49460,11 +38472,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49474,8 +38482,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49487,11 +38493,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:45 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49501,8 +38503,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49514,11 +38514,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:49 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -49528,8 +38524,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49541,11 +38535,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -49555,8 +38545,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49568,11 +38556,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -49582,8 +38566,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49595,11 +38577,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49609,8 +38587,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49622,11 +38598,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:36 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -49636,8 +38608,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49649,11 +38619,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:00 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -49663,8 +38629,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49676,11 +38640,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:37 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -49690,8 +38650,6 @@
 
 **Era:** Enlightenment (1795 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49703,11 +38661,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49717,8 +38671,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49730,11 +38682,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -49744,8 +38692,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49757,11 +38703,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49771,8 +38713,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49784,11 +38724,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -49798,8 +38734,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49811,11 +38745,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -49825,8 +38755,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49838,11 +38766,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -49852,8 +38776,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49865,11 +38787,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -49879,8 +38797,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49892,11 +38808,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -49906,8 +38818,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49919,11 +38829,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -49933,8 +38839,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49946,11 +38850,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -49960,8 +38860,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -49973,11 +38871,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -49987,8 +38881,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50000,11 +38892,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -50014,8 +38902,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50027,11 +38913,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -50041,8 +38923,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50054,11 +38934,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -50068,8 +38944,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50081,11 +38955,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:57 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -50095,8 +38965,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50108,11 +38976,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50122,8 +38986,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50135,11 +38997,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:32 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -50149,8 +39007,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50162,11 +39018,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -50176,8 +39028,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50189,11 +39039,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50203,8 +39049,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50216,11 +39060,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:49 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -50230,8 +39070,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50243,11 +39081,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50257,8 +39091,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50270,11 +39102,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:44 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -50284,8 +39112,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50297,11 +39123,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -50311,8 +39133,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50324,11 +39144,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -50338,8 +39154,6 @@
 
 **Era:** Enlightenment (1796 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50351,11 +39165,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:49 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -50365,8 +39175,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50378,11 +39186,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -50392,8 +39196,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50405,11 +39207,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50419,8 +39217,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50432,11 +39228,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -50446,8 +39238,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50459,11 +39249,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50473,8 +39259,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50486,11 +39270,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -50500,8 +39280,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50513,11 +39291,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50527,8 +39301,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50540,11 +39312,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -50554,8 +39322,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50567,11 +39333,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -50581,8 +39343,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50594,11 +39354,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -50607,8 +39363,6 @@
 **Mibera(s):** [#4647](../miberas/4647.md)
 
 **Era:** Enlightenment (1797 CE)
-
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
 
 ---
 
@@ -50621,11 +39375,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50634,8 +39384,6 @@
 **Mibera(s):** [#677](../miberas/0677.md)
 
 **Era:** Enlightenment (1797 CE)
-
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
 
 ---
 
@@ -50648,11 +39396,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -50662,8 +39406,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50675,11 +39417,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -50689,8 +39427,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50702,11 +39438,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -50716,8 +39448,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50729,11 +39459,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -50743,8 +39469,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50756,11 +39480,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -50770,8 +39490,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50783,11 +39501,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50797,8 +39511,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50810,11 +39522,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -50824,8 +39532,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50837,11 +39543,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -50851,8 +39553,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50864,11 +39564,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -50878,8 +39574,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50891,11 +39585,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -50905,8 +39595,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50918,11 +39606,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -50932,8 +39616,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50945,11 +39627,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:52 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -50959,8 +39637,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50972,11 +39648,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -50986,8 +39658,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -50999,11 +39669,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51013,8 +39679,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51026,11 +39690,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -51040,8 +39700,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51053,11 +39711,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51067,8 +39721,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51080,11 +39732,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -51093,8 +39741,6 @@
 **Mibera(s):** [#7552](../miberas/7552.md)
 
 **Era:** Enlightenment (1797 CE)
-
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
 
 ---
 
@@ -51107,11 +39753,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51121,8 +39763,6 @@
 
 **Era:** Enlightenment (1797 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51134,11 +39774,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -51148,8 +39784,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51161,11 +39795,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:20 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -51175,8 +39805,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51188,11 +39816,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -51202,8 +39826,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51215,11 +39837,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:59 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -51229,8 +39847,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51242,11 +39858,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -51256,8 +39868,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51269,11 +39879,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:08 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -51283,8 +39889,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51296,11 +39900,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51310,8 +39910,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51323,11 +39921,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -51337,8 +39931,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51350,11 +39942,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -51364,8 +39952,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51377,11 +39963,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -51391,8 +39973,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51404,11 +39984,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -51418,8 +39994,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51431,11 +40005,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -51445,8 +40015,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51458,11 +40026,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -51472,8 +40036,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51485,11 +40047,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -51499,8 +40057,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51512,11 +40068,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:24 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51526,8 +40078,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51539,11 +40089,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -51553,8 +40099,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51566,11 +40110,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -51580,8 +40120,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51593,11 +40131,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51607,8 +40141,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51620,11 +40152,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -51634,8 +40162,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51647,11 +40173,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -51661,8 +40183,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51674,11 +40194,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51688,8 +40204,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51701,11 +40215,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -51715,8 +40225,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51728,11 +40236,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -51741,8 +40245,6 @@
 **Mibera(s):** [#2266](../miberas/2266.md)
 
 **Era:** Enlightenment (1798 CE)
-
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
 
 ---
 
@@ -51755,11 +40257,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -51769,8 +40267,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51782,11 +40278,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -51796,8 +40288,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51809,11 +40299,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:43 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51823,8 +40309,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51836,11 +40320,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -51850,8 +40330,6 @@
 
 **Era:** Enlightenment (1798 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51863,11 +40341,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -51877,8 +40351,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51890,11 +40362,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -51904,8 +40372,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51917,11 +40383,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -51931,8 +40393,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51944,11 +40404,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:54 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -51958,8 +40414,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51971,11 +40425,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -51985,8 +40435,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -51998,11 +40446,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -52012,8 +40456,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52025,11 +40467,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -52039,8 +40477,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52052,11 +40488,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -52066,8 +40498,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52079,11 +40509,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -52093,8 +40519,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52106,11 +40530,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -52120,8 +40540,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52133,11 +40551,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -52147,8 +40561,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52160,11 +40572,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -52174,8 +40582,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52187,11 +40593,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -52201,8 +40603,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52214,11 +40614,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -52228,8 +40624,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52241,11 +40635,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -52255,8 +40645,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52268,11 +40656,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:42 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -52282,8 +40666,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52295,11 +40677,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -52309,8 +40687,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52322,11 +40698,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -52336,8 +40708,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52349,11 +40719,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -52363,8 +40729,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52376,11 +40740,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -52390,8 +40750,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52403,11 +40761,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -52417,8 +40771,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52430,11 +40782,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:48 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -52444,8 +40792,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52457,11 +40803,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -52471,8 +40813,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52484,11 +40824,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -52498,8 +40834,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52511,11 +40845,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:22 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -52525,8 +40855,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52538,11 +40866,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -52552,8 +40876,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52565,11 +40887,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -52579,8 +40897,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52592,11 +40908,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -52606,8 +40918,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52619,11 +40929,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -52633,8 +40939,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52646,11 +40950,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -52660,8 +40960,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52673,11 +40971,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -52687,8 +40981,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52700,11 +40992,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -52714,8 +41002,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52727,11 +41013,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:54 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -52741,8 +41023,6 @@
 
 **Era:** Enlightenment (1799 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52754,11 +41034,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -52768,8 +41044,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52781,11 +41055,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:24 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -52795,8 +41065,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52808,11 +41076,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -52822,8 +41086,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52835,11 +41097,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -52848,8 +41106,6 @@
 **Mibera(s):** [#8476](../miberas/8476.md)
 
 **Era:** Enlightenment (1800 CE)
-
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
 
 ---
 
@@ -52862,11 +41118,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -52875,8 +41127,6 @@
 **Mibera(s):** [#7036](../miberas/7036.md)
 
 **Era:** Enlightenment (1800 CE)
-
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
 
 ---
 
@@ -52889,11 +41139,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -52903,8 +41149,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52916,11 +41160,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:27 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -52930,8 +41170,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52943,11 +41181,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -52957,8 +41191,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52970,11 +41202,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -52984,8 +41212,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -52997,11 +41223,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -53011,8 +41233,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53024,11 +41244,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -53038,8 +41254,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53051,11 +41265,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -53065,8 +41275,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53078,11 +41286,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -53092,8 +41296,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53105,11 +41307,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -53119,8 +41317,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53132,11 +41328,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -53146,8 +41338,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53159,11 +41349,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -53173,8 +41359,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53186,11 +41370,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -53200,8 +41380,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53213,11 +41391,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -53227,8 +41401,6 @@
 
 **Era:** Enlightenment (1800 CE)
 
-*Age of Reason. Revolutions in America and France. Industrial Revolution begins.*
-
 ---
 
 ### Astrological Snapshot
@@ -53240,10 +41412,6 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---

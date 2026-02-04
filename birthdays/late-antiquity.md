@@ -10,8 +10,6 @@
 
 **Era:** Early Common Era (1 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -23,11 +21,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -37,8 +31,6 @@
 
 **Era:** Early Common Era (1 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -50,11 +42,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -64,8 +52,6 @@
 
 **Era:** Early Common Era (2 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -77,11 +63,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -91,8 +73,6 @@
 
 **Era:** Early Common Era (2 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -104,11 +84,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -118,8 +94,6 @@
 
 **Era:** Early Common Era (4 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -131,11 +105,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -145,8 +115,6 @@
 
 **Era:** Early Common Era (6 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -158,11 +126,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -172,8 +136,6 @@
 
 **Era:** Early Common Era (6 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -185,11 +147,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -199,8 +157,6 @@
 
 **Era:** Early Common Era (7 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -212,11 +168,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -226,8 +178,6 @@
 
 **Era:** Early Common Era (10 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -239,11 +189,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -253,8 +199,6 @@
 
 **Era:** Early Common Era (10 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -266,11 +210,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -280,8 +220,6 @@
 
 **Era:** Early Common Era (13 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -293,11 +231,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -307,8 +241,6 @@
 
 **Era:** Early Common Era (14 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -320,11 +252,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -334,8 +262,6 @@
 
 **Era:** Early Common Era (17 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -347,11 +273,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -361,8 +283,6 @@
 
 **Era:** Early Common Era (21 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -374,11 +294,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -388,8 +304,6 @@
 
 **Era:** Early Common Era (23 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -401,11 +315,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -415,8 +325,6 @@
 
 **Era:** Early Common Era (23 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -428,11 +336,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -442,8 +346,6 @@
 
 **Era:** Early Common Era (24 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -455,11 +357,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 20:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -469,8 +367,6 @@
 
 **Era:** Early Common Era (25 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -482,11 +378,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -496,8 +388,6 @@
 
 **Era:** Early Common Era (25 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -509,11 +399,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -523,8 +409,6 @@
 
 **Era:** Early Common Era (26 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -536,11 +420,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -550,8 +430,6 @@
 
 **Era:** Early Common Era (27 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -563,11 +441,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -577,8 +451,6 @@
 
 **Era:** Early Common Era (30 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -590,11 +462,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -604,8 +472,6 @@
 
 **Era:** Early Common Era (30 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -617,11 +483,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -631,8 +493,6 @@
 
 **Era:** Early Common Era (32 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -644,11 +504,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -658,8 +514,6 @@
 
 **Era:** Early Common Era (34 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -671,11 +525,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -685,8 +535,6 @@
 
 **Era:** Early Common Era (34 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -698,11 +546,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -712,8 +556,6 @@
 
 **Era:** Early Common Era (35 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -725,11 +567,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:25 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -739,8 +577,6 @@
 
 **Era:** Early Common Era (36 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -752,11 +588,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -766,8 +598,6 @@
 
 **Era:** Early Common Era (36 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -779,11 +609,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -793,8 +619,6 @@
 
 **Era:** Early Common Era (37 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -806,11 +630,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:28 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -820,8 +640,6 @@
 
 **Era:** Early Common Era (48 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -833,11 +651,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:58 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -847,8 +661,6 @@
 
 **Era:** Early Common Era (52 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -860,11 +672,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -874,8 +682,6 @@
 
 **Era:** Early Common Era (52 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -887,11 +693,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -901,8 +703,6 @@
 
 **Era:** Early Common Era (54 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -914,11 +714,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:34 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -928,8 +724,6 @@
 
 **Era:** Early Common Era (54 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -941,11 +735,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -955,8 +745,6 @@
 
 **Era:** Early Common Era (54 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -968,11 +756,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -982,8 +766,6 @@
 
 **Era:** Early Common Era (55 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -995,11 +777,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1009,8 +787,6 @@
 
 **Era:** Early Common Era (56 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1022,11 +798,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1036,8 +808,6 @@
 
 **Era:** Early Common Era (56 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1049,11 +819,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1063,8 +829,6 @@
 
 **Era:** Early Common Era (58 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1076,11 +840,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1090,8 +850,6 @@
 
 **Era:** Early Common Era (58 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1103,11 +861,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:24 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1117,8 +871,6 @@
 
 **Era:** Early Common Era (60 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1130,11 +882,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1144,8 +892,6 @@
 
 **Era:** Early Common Era (60 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1157,11 +903,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1171,8 +913,6 @@
 
 **Era:** Early Common Era (60 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1184,11 +924,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1198,8 +934,6 @@
 
 **Era:** Early Common Era (60 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1211,11 +945,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1225,8 +955,6 @@
 
 **Era:** Early Common Era (64 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1238,11 +966,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1252,8 +976,6 @@
 
 **Era:** Early Common Era (65 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1265,11 +987,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1279,8 +997,6 @@
 
 **Era:** Early Common Era (67 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1292,11 +1008,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1306,8 +1018,6 @@
 
 **Era:** Early Common Era (70 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1319,11 +1029,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1333,8 +1039,6 @@
 
 **Era:** Early Common Era (72 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1346,11 +1050,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1360,8 +1060,6 @@
 
 **Era:** Early Common Era (73 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1373,11 +1071,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1387,8 +1081,6 @@
 
 **Era:** Early Common Era (74 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1400,11 +1092,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1414,8 +1102,6 @@
 
 **Era:** Early Common Era (74 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1427,11 +1113,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1441,8 +1123,6 @@
 
 **Era:** Early Common Era (76 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1454,11 +1134,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:59 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1468,8 +1144,6 @@
 
 **Era:** Early Common Era (79 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1481,11 +1155,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1495,8 +1165,6 @@
 
 **Era:** Early Common Era (80 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1508,11 +1176,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:31 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1522,8 +1186,6 @@
 
 **Era:** Early Common Era (84 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1535,11 +1197,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1549,8 +1207,6 @@
 
 **Era:** Early Common Era (86 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1562,11 +1218,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1576,8 +1228,6 @@
 
 **Era:** Early Common Era (86 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1589,11 +1239,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1603,8 +1249,6 @@
 
 **Era:** Early Common Era (89 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1616,11 +1260,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1630,8 +1270,6 @@
 
 **Era:** Early Common Era (89 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1643,11 +1281,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:16 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1657,8 +1291,6 @@
 
 **Era:** Early Common Era (91 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1670,11 +1302,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1684,8 +1312,6 @@
 
 **Era:** Early Common Era (97 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1697,11 +1323,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1711,8 +1333,6 @@
 
 **Era:** Early Common Era (100 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1724,11 +1344,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1738,8 +1354,6 @@
 
 **Era:** Early Common Era (100 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1751,11 +1365,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1765,8 +1375,6 @@
 
 **Era:** Early Common Era (100 CE)
 
-*Roman Empire at height. Christ era. Silk Road flourishing.*
-
 ---
 
 ### Astrological Snapshot
@@ -1778,11 +1386,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1792,8 +1396,6 @@
 
 **Era:** Late Antiquity (101 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -1805,11 +1407,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1819,8 +1417,6 @@
 
 **Era:** Late Antiquity (102 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -1832,11 +1428,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1846,8 +1438,6 @@
 
 **Era:** Late Antiquity (106 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -1859,11 +1449,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1873,8 +1459,6 @@
 
 **Era:** Late Antiquity (107 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -1886,11 +1470,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1900,8 +1480,6 @@
 
 **Era:** Late Antiquity (108 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -1913,11 +1491,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1927,8 +1501,6 @@
 
 **Era:** Late Antiquity (108 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -1940,11 +1512,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1954,8 +1522,6 @@
 
 **Era:** Late Antiquity (110 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -1967,11 +1533,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1981,8 +1543,6 @@
 
 **Era:** Late Antiquity (113 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -1994,11 +1554,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2008,8 +1564,6 @@
 
 **Era:** Late Antiquity (113 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2021,11 +1575,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2035,8 +1585,6 @@
 
 **Era:** Late Antiquity (116 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2048,11 +1596,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2062,8 +1606,6 @@
 
 **Era:** Late Antiquity (117 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2075,11 +1617,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2089,8 +1627,6 @@
 
 **Era:** Late Antiquity (118 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2102,11 +1638,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2116,8 +1648,6 @@
 
 **Era:** Late Antiquity (118 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2129,11 +1659,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2143,8 +1669,6 @@
 
 **Era:** Late Antiquity (118 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2156,11 +1680,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2170,8 +1690,6 @@
 
 **Era:** Late Antiquity (119 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2183,11 +1701,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:07 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2197,8 +1711,6 @@
 
 **Era:** Late Antiquity (119 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2210,11 +1722,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2224,8 +1732,6 @@
 
 **Era:** Late Antiquity (120 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2237,11 +1743,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2251,8 +1753,6 @@
 
 **Era:** Late Antiquity (120 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2264,11 +1764,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2278,8 +1774,6 @@
 
 **Era:** Late Antiquity (121 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2291,11 +1785,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2305,8 +1795,6 @@
 
 **Era:** Late Antiquity (123 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2318,11 +1806,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2332,8 +1816,6 @@
 
 **Era:** Late Antiquity (123 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2345,11 +1827,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2359,8 +1837,6 @@
 
 **Era:** Late Antiquity (123 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2372,11 +1848,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:14 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2386,8 +1858,6 @@
 
 **Era:** Late Antiquity (124 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2399,11 +1869,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2413,8 +1879,6 @@
 
 **Era:** Late Antiquity (124 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2426,11 +1890,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:49 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2440,8 +1900,6 @@
 
 **Era:** Late Antiquity (124 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2453,11 +1911,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2467,8 +1921,6 @@
 
 **Era:** Late Antiquity (126 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2480,11 +1932,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2494,8 +1942,6 @@
 
 **Era:** Late Antiquity (130 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2507,11 +1953,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2521,8 +1963,6 @@
 
 **Era:** Late Antiquity (131 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2534,11 +1974,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 21:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2548,8 +1984,6 @@
 
 **Era:** Late Antiquity (131 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2561,11 +1995,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2575,8 +2005,6 @@
 
 **Era:** Late Antiquity (133 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2588,11 +2016,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2602,8 +2026,6 @@
 
 **Era:** Late Antiquity (134 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2615,11 +2037,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2629,8 +2047,6 @@
 
 **Era:** Late Antiquity (135 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2642,11 +2058,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:42 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2656,8 +2068,6 @@
 
 **Era:** Late Antiquity (136 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2669,11 +2079,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2683,8 +2089,6 @@
 
 **Era:** Late Antiquity (136 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2696,11 +2100,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2710,8 +2110,6 @@
 
 **Era:** Late Antiquity (139 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2723,11 +2121,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2737,8 +2131,6 @@
 
 **Era:** Late Antiquity (140 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2750,11 +2142,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2764,8 +2152,6 @@
 
 **Era:** Late Antiquity (140 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2777,11 +2163,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:23 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2791,8 +2173,6 @@
 
 **Era:** Late Antiquity (140 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2804,11 +2184,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:09 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2818,8 +2194,6 @@
 
 **Era:** Late Antiquity (142 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2831,11 +2205,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2845,8 +2215,6 @@
 
 **Era:** Late Antiquity (143 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2858,11 +2226,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2872,8 +2236,6 @@
 
 **Era:** Late Antiquity (144 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2885,11 +2247,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2899,8 +2257,6 @@
 
 **Era:** Late Antiquity (145 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2912,11 +2268,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2926,8 +2278,6 @@
 
 **Era:** Late Antiquity (146 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2939,11 +2289,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2953,8 +2299,6 @@
 
 **Era:** Late Antiquity (146 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2966,11 +2310,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2980,8 +2320,6 @@
 
 **Era:** Late Antiquity (147 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -2993,11 +2331,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3007,8 +2341,6 @@
 
 **Era:** Late Antiquity (149 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3020,11 +2352,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3034,8 +2362,6 @@
 
 **Era:** Late Antiquity (152 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3047,11 +2373,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3061,8 +2383,6 @@
 
 **Era:** Late Antiquity (152 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3074,11 +2394,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:05 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3088,8 +2404,6 @@
 
 **Era:** Late Antiquity (153 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3101,11 +2415,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3115,8 +2425,6 @@
 
 **Era:** Late Antiquity (155 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3128,11 +2436,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:36 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3142,8 +2446,6 @@
 
 **Era:** Late Antiquity (156 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3155,11 +2457,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3169,8 +2467,6 @@
 
 **Era:** Late Antiquity (157 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3182,11 +2478,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3196,8 +2488,6 @@
 
 **Era:** Late Antiquity (158 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3209,11 +2499,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3223,8 +2509,6 @@
 
 **Era:** Late Antiquity (159 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3236,11 +2520,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3250,8 +2530,6 @@
 
 **Era:** Late Antiquity (160 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3263,11 +2541,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3277,8 +2551,6 @@
 
 **Era:** Late Antiquity (161 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3290,11 +2562,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3304,8 +2572,6 @@
 
 **Era:** Late Antiquity (161 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3317,11 +2583,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:14 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3331,8 +2593,6 @@
 
 **Era:** Late Antiquity (162 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3344,11 +2604,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3358,8 +2614,6 @@
 
 **Era:** Late Antiquity (162 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3371,11 +2625,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3385,8 +2635,6 @@
 
 **Era:** Late Antiquity (169 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3398,11 +2646,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3412,8 +2656,6 @@
 
 **Era:** Late Antiquity (169 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3425,11 +2667,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3439,8 +2677,6 @@
 
 **Era:** Late Antiquity (172 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3452,11 +2688,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:07 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3466,8 +2698,6 @@
 
 **Era:** Late Antiquity (173 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3479,11 +2709,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3493,8 +2719,6 @@
 
 **Era:** Late Antiquity (174 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3506,11 +2730,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:59 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3520,8 +2740,6 @@
 
 **Era:** Late Antiquity (175 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3533,11 +2751,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3547,8 +2761,6 @@
 
 **Era:** Late Antiquity (175 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3560,11 +2772,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3574,8 +2782,6 @@
 
 **Era:** Late Antiquity (176 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3587,11 +2793,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3601,8 +2803,6 @@
 
 **Era:** Late Antiquity (176 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3614,11 +2814,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3628,8 +2824,6 @@
 
 **Era:** Late Antiquity (176 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3641,11 +2835,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3655,8 +2845,6 @@
 
 **Era:** Late Antiquity (176 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3668,11 +2856,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3682,8 +2866,6 @@
 
 **Era:** Late Antiquity (176 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3695,11 +2877,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3709,8 +2887,6 @@
 
 **Era:** Late Antiquity (177 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3722,11 +2898,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3736,8 +2908,6 @@
 
 **Era:** Late Antiquity (177 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3749,11 +2919,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3763,8 +2929,6 @@
 
 **Era:** Late Antiquity (177 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3776,11 +2940,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3790,8 +2950,6 @@
 
 **Era:** Late Antiquity (177 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3803,11 +2961,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3817,8 +2971,6 @@
 
 **Era:** Late Antiquity (178 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3830,11 +2982,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3844,8 +2992,6 @@
 
 **Era:** Late Antiquity (178 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3857,11 +3003,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3871,8 +3013,6 @@
 
 **Era:** Late Antiquity (180 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3884,11 +3024,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:48 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3898,8 +3034,6 @@
 
 **Era:** Late Antiquity (181 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3911,11 +3045,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3925,8 +3055,6 @@
 
 **Era:** Late Antiquity (181 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3938,11 +3066,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3952,8 +3076,6 @@
 
 **Era:** Late Antiquity (181 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3965,11 +3087,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3979,8 +3097,6 @@
 
 **Era:** Late Antiquity (182 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -3992,11 +3108,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4006,8 +3118,6 @@
 
 **Era:** Late Antiquity (182 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4019,11 +3129,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4033,8 +3139,6 @@
 
 **Era:** Late Antiquity (185 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4046,11 +3150,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4060,8 +3160,6 @@
 
 **Era:** Late Antiquity (187 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4073,11 +3171,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4087,8 +3181,6 @@
 
 **Era:** Late Antiquity (187 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4100,11 +3192,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4114,8 +3202,6 @@
 
 **Era:** Late Antiquity (191 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4127,11 +3213,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4141,8 +3223,6 @@
 
 **Era:** Late Antiquity (192 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4154,11 +3234,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4168,8 +3244,6 @@
 
 **Era:** Late Antiquity (193 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4181,11 +3255,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4195,8 +3265,6 @@
 
 **Era:** Late Antiquity (193 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4208,11 +3276,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4222,8 +3286,6 @@
 
 **Era:** Late Antiquity (196 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4235,11 +3297,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4249,8 +3307,6 @@
 
 **Era:** Late Antiquity (196 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4262,11 +3318,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4276,8 +3328,6 @@
 
 **Era:** Late Antiquity (200 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4289,11 +3339,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:05 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4303,8 +3349,6 @@
 
 **Era:** Late Antiquity (206 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4316,11 +3360,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4330,8 +3370,6 @@
 
 **Era:** Late Antiquity (206 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4343,11 +3381,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4357,8 +3391,6 @@
 
 **Era:** Late Antiquity (206 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4370,11 +3402,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:30 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4384,8 +3412,6 @@
 
 **Era:** Late Antiquity (207 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4397,11 +3423,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4411,8 +3433,6 @@
 
 **Era:** Late Antiquity (211 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4424,11 +3444,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4438,8 +3454,6 @@
 
 **Era:** Late Antiquity (212 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4451,11 +3465,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4465,8 +3475,6 @@
 
 **Era:** Late Antiquity (213 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4478,11 +3486,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:38 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4492,8 +3496,6 @@
 
 **Era:** Late Antiquity (218 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4505,11 +3507,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4519,8 +3517,6 @@
 
 **Era:** Late Antiquity (220 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4532,11 +3528,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4546,8 +3538,6 @@
 
 **Era:** Late Antiquity (220 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4559,11 +3549,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4573,8 +3559,6 @@
 
 **Era:** Late Antiquity (221 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4586,11 +3570,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4600,8 +3580,6 @@
 
 **Era:** Late Antiquity (221 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4613,11 +3591,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:49 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4627,8 +3601,6 @@
 
 **Era:** Late Antiquity (222 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4640,11 +3612,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4654,8 +3622,6 @@
 
 **Era:** Late Antiquity (224 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4667,11 +3633,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4681,8 +3643,6 @@
 
 **Era:** Late Antiquity (224 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4694,11 +3654,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4708,8 +3664,6 @@
 
 **Era:** Late Antiquity (226 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4721,11 +3675,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4735,8 +3685,6 @@
 
 **Era:** Late Antiquity (226 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4748,11 +3696,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:22 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4762,8 +3706,6 @@
 
 **Era:** Late Antiquity (226 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4775,11 +3717,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4789,8 +3727,6 @@
 
 **Era:** Late Antiquity (229 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4802,11 +3738,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4816,8 +3748,6 @@
 
 **Era:** Late Antiquity (230 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4829,11 +3759,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4843,8 +3769,6 @@
 
 **Era:** Late Antiquity (231 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4856,11 +3780,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4870,8 +3790,6 @@
 
 **Era:** Late Antiquity (232 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4883,11 +3801,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4897,8 +3811,6 @@
 
 **Era:** Late Antiquity (233 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4910,11 +3822,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4924,8 +3832,6 @@
 
 **Era:** Late Antiquity (233 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4937,11 +3843,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:29 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4951,8 +3853,6 @@
 
 **Era:** Late Antiquity (233 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4964,11 +3864,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4978,8 +3874,6 @@
 
 **Era:** Late Antiquity (234 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -4991,11 +3885,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5005,8 +3895,6 @@
 
 **Era:** Late Antiquity (235 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5018,11 +3906,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5032,8 +3916,6 @@
 
 **Era:** Late Antiquity (236 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5045,11 +3927,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5059,8 +3937,6 @@
 
 **Era:** Late Antiquity (236 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5072,11 +3948,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5086,8 +3958,6 @@
 
 **Era:** Late Antiquity (243 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5099,11 +3969,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5113,8 +3979,6 @@
 
 **Era:** Late Antiquity (243 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5126,11 +3990,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:46 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5140,8 +4000,6 @@
 
 **Era:** Late Antiquity (246 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5153,11 +4011,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5167,8 +4021,6 @@
 
 **Era:** Late Antiquity (248 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5180,11 +4032,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5194,8 +4042,6 @@
 
 **Era:** Late Antiquity (250 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5207,11 +4053,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5221,8 +4063,6 @@
 
 **Era:** Late Antiquity (251 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5234,11 +4074,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5248,8 +4084,6 @@
 
 **Era:** Late Antiquity (252 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5261,11 +4095,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5275,8 +4105,6 @@
 
 **Era:** Late Antiquity (253 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5288,11 +4116,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5302,8 +4126,6 @@
 
 **Era:** Late Antiquity (253 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5315,11 +4137,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5329,8 +4147,6 @@
 
 **Era:** Late Antiquity (255 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5342,11 +4158,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5356,8 +4168,6 @@
 
 **Era:** Late Antiquity (256 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5369,11 +4179,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5383,8 +4189,6 @@
 
 **Era:** Late Antiquity (257 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5396,11 +4200,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5410,8 +4210,6 @@
 
 **Era:** Late Antiquity (257 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5423,11 +4221,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:22 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5437,8 +4231,6 @@
 
 **Era:** Late Antiquity (258 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5450,11 +4242,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5464,8 +4252,6 @@
 
 **Era:** Late Antiquity (259 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5477,11 +4263,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5491,8 +4273,6 @@
 
 **Era:** Late Antiquity (260 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5504,11 +4284,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5518,8 +4294,6 @@
 
 **Era:** Late Antiquity (260 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5531,11 +4305,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5545,8 +4315,6 @@
 
 **Era:** Late Antiquity (260 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5558,11 +4326,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5572,8 +4336,6 @@
 
 **Era:** Late Antiquity (261 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5585,11 +4347,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5599,8 +4357,6 @@
 
 **Era:** Late Antiquity (261 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5612,11 +4368,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5626,8 +4378,6 @@
 
 **Era:** Late Antiquity (262 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5639,11 +4389,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5653,8 +4399,6 @@
 
 **Era:** Late Antiquity (264 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5666,11 +4410,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:40 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5680,8 +4420,6 @@
 
 **Era:** Late Antiquity (264 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5693,11 +4431,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5707,8 +4441,6 @@
 
 **Era:** Late Antiquity (265 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5720,11 +4452,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5734,8 +4462,6 @@
 
 **Era:** Late Antiquity (267 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5747,11 +4473,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5761,8 +4483,6 @@
 
 **Era:** Late Antiquity (267 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5774,11 +4494,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:29 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5788,8 +4504,6 @@
 
 **Era:** Late Antiquity (270 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5801,11 +4515,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5815,8 +4525,6 @@
 
 **Era:** Late Antiquity (271 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5828,11 +4536,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5842,8 +4546,6 @@
 
 **Era:** Late Antiquity (271 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5855,11 +4557,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5869,8 +4567,6 @@
 
 **Era:** Late Antiquity (271 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5882,11 +4578,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 12:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5896,8 +4588,6 @@
 
 **Era:** Late Antiquity (272 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5909,11 +4599,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5923,8 +4609,6 @@
 
 **Era:** Late Antiquity (272 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5936,11 +4620,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5950,8 +4630,6 @@
 
 **Era:** Late Antiquity (272 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5963,11 +4641,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:14 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5977,8 +4651,6 @@
 
 **Era:** Late Antiquity (274 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -5990,11 +4662,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:24 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6004,8 +4672,6 @@
 
 **Era:** Late Antiquity (276 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6017,11 +4683,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6031,8 +4693,6 @@
 
 **Era:** Late Antiquity (276 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6044,11 +4704,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6058,8 +4714,6 @@
 
 **Era:** Late Antiquity (276 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6071,11 +4725,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6085,8 +4735,6 @@
 
 **Era:** Late Antiquity (277 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6098,11 +4746,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6112,8 +4756,6 @@
 
 **Era:** Late Antiquity (277 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6125,11 +4767,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6139,8 +4777,6 @@
 
 **Era:** Late Antiquity (280 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6152,11 +4788,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6166,8 +4798,6 @@
 
 **Era:** Late Antiquity (282 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6179,11 +4809,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6193,8 +4819,6 @@
 
 **Era:** Late Antiquity (283 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6206,11 +4830,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6220,8 +4840,6 @@
 
 **Era:** Late Antiquity (286 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6233,11 +4851,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6247,8 +4861,6 @@
 
 **Era:** Late Antiquity (287 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6260,11 +4872,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6274,8 +4882,6 @@
 
 **Era:** Late Antiquity (287 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6287,11 +4893,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6301,8 +4903,6 @@
 
 **Era:** Late Antiquity (288 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6314,11 +4914,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6328,8 +4924,6 @@
 
 **Era:** Late Antiquity (288 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6341,11 +4935,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6355,8 +4945,6 @@
 
 **Era:** Late Antiquity (290 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6368,11 +4956,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6382,8 +4966,6 @@
 
 **Era:** Late Antiquity (291 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6395,11 +4977,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6409,8 +4987,6 @@
 
 **Era:** Late Antiquity (293 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6422,11 +4998,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6436,8 +5008,6 @@
 
 **Era:** Late Antiquity (295 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6449,11 +5019,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6463,8 +5029,6 @@
 
 **Era:** Late Antiquity (295 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6476,11 +5040,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6490,8 +5050,6 @@
 
 **Era:** Late Antiquity (296 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6503,11 +5061,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6517,8 +5071,6 @@
 
 **Era:** Late Antiquity (296 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6530,11 +5082,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6544,8 +5092,6 @@
 
 **Era:** Late Antiquity (296 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6557,11 +5103,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6571,8 +5113,6 @@
 
 **Era:** Late Antiquity (297 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6584,11 +5124,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6598,8 +5134,6 @@
 
 **Era:** Late Antiquity (298 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6611,11 +5145,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:45 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6625,8 +5155,6 @@
 
 **Era:** Late Antiquity (298 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6638,11 +5166,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6652,8 +5176,6 @@
 
 **Era:** Late Antiquity (298 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6665,11 +5187,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6679,8 +5197,6 @@
 
 **Era:** Late Antiquity (299 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6692,11 +5208,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:52 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6706,8 +5218,6 @@
 
 **Era:** Late Antiquity (301 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6719,11 +5229,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6733,8 +5239,6 @@
 
 **Era:** Late Antiquity (301 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6746,11 +5250,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6760,8 +5260,6 @@
 
 **Era:** Late Antiquity (302 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6773,11 +5271,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6787,8 +5281,6 @@
 
 **Era:** Late Antiquity (302 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6800,11 +5292,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6814,8 +5302,6 @@
 
 **Era:** Late Antiquity (303 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6827,11 +5313,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6841,8 +5323,6 @@
 
 **Era:** Late Antiquity (304 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6854,11 +5334,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6868,8 +5344,6 @@
 
 **Era:** Late Antiquity (305 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6881,11 +5355,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6895,8 +5365,6 @@
 
 **Era:** Late Antiquity (305 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6908,11 +5376,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6922,8 +5386,6 @@
 
 **Era:** Late Antiquity (306 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6935,11 +5397,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6949,8 +5407,6 @@
 
 **Era:** Late Antiquity (307 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6962,11 +5418,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6976,8 +5428,6 @@
 
 **Era:** Late Antiquity (307 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -6989,11 +5439,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:45 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7003,8 +5449,6 @@
 
 **Era:** Late Antiquity (307 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7016,11 +5460,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7030,8 +5470,6 @@
 
 **Era:** Late Antiquity (307 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7043,11 +5481,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7057,8 +5491,6 @@
 
 **Era:** Late Antiquity (309 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7070,11 +5502,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7084,8 +5512,6 @@
 
 **Era:** Late Antiquity (309 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7097,11 +5523,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7111,8 +5533,6 @@
 
 **Era:** Late Antiquity (310 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7124,11 +5544,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7138,8 +5554,6 @@
 
 **Era:** Late Antiquity (310 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7151,11 +5565,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7165,8 +5575,6 @@
 
 **Era:** Late Antiquity (310 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7178,11 +5586,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7192,8 +5596,6 @@
 
 **Era:** Late Antiquity (311 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7205,11 +5607,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:53 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7219,8 +5617,6 @@
 
 **Era:** Late Antiquity (311 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7232,11 +5628,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:44 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7246,8 +5638,6 @@
 
 **Era:** Late Antiquity (311 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7259,11 +5649,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7273,8 +5659,6 @@
 
 **Era:** Late Antiquity (311 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7286,11 +5670,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7300,8 +5680,6 @@
 
 **Era:** Late Antiquity (312 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7313,11 +5691,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7327,8 +5701,6 @@
 
 **Era:** Late Antiquity (312 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7340,11 +5712,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:44 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7354,8 +5722,6 @@
 
 **Era:** Late Antiquity (312 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7367,11 +5733,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7381,8 +5743,6 @@
 
 **Era:** Late Antiquity (313 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7394,11 +5754,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:23 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7408,8 +5764,6 @@
 
 **Era:** Late Antiquity (313 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7421,11 +5775,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7435,8 +5785,6 @@
 
 **Era:** Late Antiquity (314 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7448,11 +5796,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7462,8 +5806,6 @@
 
 **Era:** Late Antiquity (314 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7475,11 +5817,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7489,8 +5827,6 @@
 
 **Era:** Late Antiquity (314 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7502,11 +5838,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:26 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7516,8 +5848,6 @@
 
 **Era:** Late Antiquity (314 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7529,11 +5859,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7543,8 +5869,6 @@
 
 **Era:** Late Antiquity (315 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7556,11 +5880,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 21:28 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7570,8 +5890,6 @@
 
 **Era:** Late Antiquity (316 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7583,11 +5901,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7597,8 +5911,6 @@
 
 **Era:** Late Antiquity (318 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7610,11 +5922,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7624,8 +5932,6 @@
 
 **Era:** Late Antiquity (319 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7637,11 +5943,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7651,8 +5953,6 @@
 
 **Era:** Late Antiquity (319 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7664,11 +5964,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7678,8 +5974,6 @@
 
 **Era:** Late Antiquity (319 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7691,11 +5985,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7705,8 +5995,6 @@
 
 **Era:** Late Antiquity (320 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7718,11 +6006,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7732,8 +6016,6 @@
 
 **Era:** Late Antiquity (321 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7745,11 +6027,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:03 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7759,8 +6037,6 @@
 
 **Era:** Late Antiquity (321 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7772,11 +6048,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7786,8 +6058,6 @@
 
 **Era:** Late Antiquity (322 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7799,11 +6069,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7813,8 +6079,6 @@
 
 **Era:** Late Antiquity (323 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7826,11 +6090,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:56 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7840,8 +6100,6 @@
 
 **Era:** Late Antiquity (323 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7853,11 +6111,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7867,8 +6121,6 @@
 
 **Era:** Late Antiquity (325 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7880,11 +6132,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7894,8 +6142,6 @@
 
 **Era:** Late Antiquity (326 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7907,11 +6153,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7921,8 +6163,6 @@
 
 **Era:** Late Antiquity (328 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7934,11 +6174,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7948,8 +6184,6 @@
 
 **Era:** Late Antiquity (328 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7961,11 +6195,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7975,8 +6205,6 @@
 
 **Era:** Late Antiquity (329 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -7988,11 +6216,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8002,8 +6226,6 @@
 
 **Era:** Late Antiquity (330 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8015,11 +6237,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8029,8 +6247,6 @@
 
 **Era:** Late Antiquity (330 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8042,11 +6258,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8056,8 +6268,6 @@
 
 **Era:** Late Antiquity (330 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8069,11 +6279,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8083,8 +6289,6 @@
 
 **Era:** Late Antiquity (330 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8096,11 +6300,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8110,8 +6310,6 @@
 
 **Era:** Late Antiquity (330 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8123,11 +6321,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8137,8 +6331,6 @@
 
 **Era:** Late Antiquity (331 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8150,11 +6342,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:53 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8164,8 +6352,6 @@
 
 **Era:** Late Antiquity (331 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8177,11 +6363,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8191,8 +6373,6 @@
 
 **Era:** Late Antiquity (332 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8204,11 +6384,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8218,8 +6394,6 @@
 
 **Era:** Late Antiquity (332 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8231,11 +6405,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8245,8 +6415,6 @@
 
 **Era:** Late Antiquity (332 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8258,11 +6426,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8272,8 +6436,6 @@
 
 **Era:** Late Antiquity (332 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8285,11 +6447,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8299,8 +6457,6 @@
 
 **Era:** Late Antiquity (333 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8312,11 +6468,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8326,8 +6478,6 @@
 
 **Era:** Late Antiquity (333 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8339,11 +6489,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 23:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8353,8 +6499,6 @@
 
 **Era:** Late Antiquity (333 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8366,11 +6510,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8380,8 +6520,6 @@
 
 **Era:** Late Antiquity (334 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8393,11 +6531,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8407,8 +6541,6 @@
 
 **Era:** Late Antiquity (334 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8420,11 +6552,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8434,8 +6562,6 @@
 
 **Era:** Late Antiquity (335 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8447,11 +6573,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8461,8 +6583,6 @@
 
 **Era:** Late Antiquity (335 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8474,11 +6594,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8488,8 +6604,6 @@
 
 **Era:** Late Antiquity (336 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8501,11 +6615,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8515,8 +6625,6 @@
 
 **Era:** Late Antiquity (336 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8528,11 +6636,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8542,8 +6646,6 @@
 
 **Era:** Late Antiquity (339 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8555,11 +6657,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8569,8 +6667,6 @@
 
 **Era:** Late Antiquity (339 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8582,11 +6678,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8596,8 +6688,6 @@
 
 **Era:** Late Antiquity (340 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8609,11 +6699,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8623,8 +6709,6 @@
 
 **Era:** Late Antiquity (342 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8636,11 +6720,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8650,8 +6730,6 @@
 
 **Era:** Late Antiquity (343 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8663,11 +6741,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8677,8 +6751,6 @@
 
 **Era:** Late Antiquity (343 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8690,11 +6762,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8704,8 +6772,6 @@
 
 **Era:** Late Antiquity (346 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8717,11 +6783,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8731,8 +6793,6 @@
 
 **Era:** Late Antiquity (347 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8744,11 +6804,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8758,8 +6814,6 @@
 
 **Era:** Late Antiquity (347 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8771,11 +6825,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8785,8 +6835,6 @@
 
 **Era:** Late Antiquity (347 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8798,11 +6846,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8812,8 +6856,6 @@
 
 **Era:** Late Antiquity (348 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8825,11 +6867,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8839,8 +6877,6 @@
 
 **Era:** Late Antiquity (349 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8852,11 +6888,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8866,8 +6898,6 @@
 
 **Era:** Late Antiquity (350 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8879,11 +6909,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8893,8 +6919,6 @@
 
 **Era:** Late Antiquity (351 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8906,11 +6930,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:17 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8920,8 +6940,6 @@
 
 **Era:** Late Antiquity (352 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8933,11 +6951,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:14 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8947,8 +6961,6 @@
 
 **Era:** Late Antiquity (354 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8960,11 +6972,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8974,8 +6982,6 @@
 
 **Era:** Late Antiquity (354 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -8987,11 +6993,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9001,8 +7003,6 @@
 
 **Era:** Late Antiquity (354 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9014,11 +7014,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9028,8 +7024,6 @@
 
 **Era:** Late Antiquity (355 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9041,11 +7035,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9055,8 +7045,6 @@
 
 **Era:** Late Antiquity (355 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9068,11 +7056,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:41 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9082,8 +7066,6 @@
 
 **Era:** Late Antiquity (356 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9095,11 +7077,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9109,8 +7087,6 @@
 
 **Era:** Late Antiquity (356 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9122,11 +7098,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9136,8 +7108,6 @@
 
 **Era:** Late Antiquity (357 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9149,11 +7119,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9163,8 +7129,6 @@
 
 **Era:** Late Antiquity (357 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9176,11 +7140,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9190,8 +7150,6 @@
 
 **Era:** Late Antiquity (358 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9203,11 +7161,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9217,8 +7171,6 @@
 
 **Era:** Late Antiquity (359 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9230,11 +7182,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:01 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9244,8 +7192,6 @@
 
 **Era:** Late Antiquity (359 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9257,11 +7203,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:40 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9271,8 +7213,6 @@
 
 **Era:** Late Antiquity (360 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9284,11 +7224,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:31 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9298,8 +7234,6 @@
 
 **Era:** Late Antiquity (361 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9311,11 +7245,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9325,8 +7255,6 @@
 
 **Era:** Late Antiquity (361 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9338,11 +7266,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9352,8 +7276,6 @@
 
 **Era:** Late Antiquity (361 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9365,11 +7287,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9379,8 +7297,6 @@
 
 **Era:** Late Antiquity (361 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9392,11 +7308,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9406,8 +7318,6 @@
 
 **Era:** Late Antiquity (362 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9419,11 +7329,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9433,8 +7339,6 @@
 
 **Era:** Late Antiquity (363 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9446,11 +7350,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9460,8 +7360,6 @@
 
 **Era:** Late Antiquity (364 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9473,11 +7371,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9487,8 +7381,6 @@
 
 **Era:** Late Antiquity (364 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9500,11 +7392,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9514,8 +7402,6 @@
 
 **Era:** Late Antiquity (364 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9527,11 +7413,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:28 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9541,8 +7423,6 @@
 
 **Era:** Late Antiquity (364 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9554,11 +7434,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9568,8 +7444,6 @@
 
 **Era:** Late Antiquity (364 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9581,11 +7455,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9595,8 +7465,6 @@
 
 **Era:** Late Antiquity (365 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9608,11 +7476,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9622,8 +7486,6 @@
 
 **Era:** Late Antiquity (366 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9635,11 +7497,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9649,8 +7507,6 @@
 
 **Era:** Late Antiquity (366 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9662,11 +7518,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9676,8 +7528,6 @@
 
 **Era:** Late Antiquity (366 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9689,11 +7539,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9703,8 +7549,6 @@
 
 **Era:** Late Antiquity (366 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9716,11 +7560,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9730,8 +7570,6 @@
 
 **Era:** Late Antiquity (367 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9743,11 +7581,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:54 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9757,8 +7591,6 @@
 
 **Era:** Late Antiquity (368 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9770,11 +7602,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:32 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9784,8 +7612,6 @@
 
 **Era:** Late Antiquity (369 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9797,11 +7623,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9811,8 +7633,6 @@
 
 **Era:** Late Antiquity (370 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9824,11 +7644,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9838,8 +7654,6 @@
 
 **Era:** Late Antiquity (370 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9851,11 +7665,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9865,8 +7675,6 @@
 
 **Era:** Late Antiquity (370 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9878,11 +7686,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:58 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9892,8 +7696,6 @@
 
 **Era:** Late Antiquity (370 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9905,11 +7707,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9919,8 +7717,6 @@
 
 **Era:** Late Antiquity (370 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9932,11 +7728,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9946,8 +7738,6 @@
 
 **Era:** Late Antiquity (371 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9959,11 +7749,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9973,8 +7759,6 @@
 
 **Era:** Late Antiquity (371 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -9986,11 +7770,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10000,8 +7780,6 @@
 
 **Era:** Late Antiquity (372 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10013,11 +7791,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10027,8 +7801,6 @@
 
 **Era:** Late Antiquity (373 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10040,11 +7812,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10054,8 +7822,6 @@
 
 **Era:** Late Antiquity (374 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10067,11 +7833,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10081,8 +7843,6 @@
 
 **Era:** Late Antiquity (374 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10094,11 +7854,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10108,8 +7864,6 @@
 
 **Era:** Late Antiquity (375 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10121,11 +7875,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:42 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10135,8 +7885,6 @@
 
 **Era:** Late Antiquity (375 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10148,11 +7896,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10162,8 +7906,6 @@
 
 **Era:** Late Antiquity (375 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10175,11 +7917,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10189,8 +7927,6 @@
 
 **Era:** Late Antiquity (375 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10202,11 +7938,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10216,8 +7948,6 @@
 
 **Era:** Late Antiquity (376 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10229,11 +7959,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10243,8 +7969,6 @@
 
 **Era:** Late Antiquity (376 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10256,11 +7980,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10270,8 +7990,6 @@
 
 **Era:** Late Antiquity (376 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10283,11 +8001,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:16 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10297,8 +8011,6 @@
 
 **Era:** Late Antiquity (376 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10310,11 +8022,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10324,8 +8032,6 @@
 
 **Era:** Late Antiquity (377 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10337,11 +8043,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10351,8 +8053,6 @@
 
 **Era:** Late Antiquity (377 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10364,11 +8064,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10378,8 +8074,6 @@
 
 **Era:** Late Antiquity (377 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10391,11 +8085,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10405,8 +8095,6 @@
 
 **Era:** Late Antiquity (377 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10418,11 +8106,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10432,8 +8116,6 @@
 
 **Era:** Late Antiquity (378 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10445,11 +8127,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10459,8 +8137,6 @@
 
 **Era:** Late Antiquity (378 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10472,11 +8148,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:27 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10486,8 +8158,6 @@
 
 **Era:** Late Antiquity (378 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10499,11 +8169,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10513,8 +8179,6 @@
 
 **Era:** Late Antiquity (380 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10526,11 +8190,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10540,8 +8200,6 @@
 
 **Era:** Late Antiquity (380 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10553,11 +8211,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10567,8 +8221,6 @@
 
 **Era:** Late Antiquity (380 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10580,11 +8232,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10594,8 +8242,6 @@
 
 **Era:** Late Antiquity (381 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10607,11 +8253,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10621,8 +8263,6 @@
 
 **Era:** Late Antiquity (382 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10634,11 +8274,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10648,8 +8284,6 @@
 
 **Era:** Late Antiquity (382 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10661,11 +8295,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:42 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10675,8 +8305,6 @@
 
 **Era:** Late Antiquity (384 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10688,11 +8316,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10702,8 +8326,6 @@
 
 **Era:** Late Antiquity (385 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10715,11 +8337,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10729,8 +8347,6 @@
 
 **Era:** Late Antiquity (386 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10742,11 +8358,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10756,8 +8368,6 @@
 
 **Era:** Late Antiquity (387 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10769,11 +8379,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10783,8 +8389,6 @@
 
 **Era:** Late Antiquity (387 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10796,11 +8400,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10810,8 +8410,6 @@
 
 **Era:** Late Antiquity (387 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10823,11 +8421,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10837,8 +8431,6 @@
 
 **Era:** Late Antiquity (388 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10850,11 +8442,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10864,8 +8452,6 @@
 
 **Era:** Late Antiquity (388 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10877,11 +8463,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10891,8 +8473,6 @@
 
 **Era:** Late Antiquity (388 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10904,11 +8484,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10918,8 +8494,6 @@
 
 **Era:** Late Antiquity (390 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10931,11 +8505,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10945,8 +8515,6 @@
 
 **Era:** Late Antiquity (390 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10958,11 +8526,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10972,8 +8536,6 @@
 
 **Era:** Late Antiquity (391 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -10985,11 +8547,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10999,8 +8557,6 @@
 
 **Era:** Late Antiquity (392 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11012,11 +8568,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:49 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11026,8 +8578,6 @@
 
 **Era:** Late Antiquity (393 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11039,11 +8589,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:50 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11053,8 +8599,6 @@
 
 **Era:** Late Antiquity (393 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11066,11 +8610,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11080,8 +8620,6 @@
 
 **Era:** Late Antiquity (395 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11093,11 +8631,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11107,8 +8641,6 @@
 
 **Era:** Late Antiquity (396 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11120,11 +8652,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11134,8 +8662,6 @@
 
 **Era:** Late Antiquity (397 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11147,11 +8673,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11161,8 +8683,6 @@
 
 **Era:** Late Antiquity (398 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11174,11 +8694,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:45 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11188,8 +8704,6 @@
 
 **Era:** Late Antiquity (398 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11201,11 +8715,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11215,8 +8725,6 @@
 
 **Era:** Late Antiquity (400 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11228,11 +8736,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11242,8 +8746,6 @@
 
 **Era:** Late Antiquity (400 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11255,11 +8757,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:47 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11269,8 +8767,6 @@
 
 **Era:** Late Antiquity (400 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11282,11 +8778,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11296,8 +8788,6 @@
 
 **Era:** Late Antiquity (402 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11309,11 +8799,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11323,8 +8809,6 @@
 
 **Era:** Late Antiquity (403 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11336,11 +8820,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11350,8 +8830,6 @@
 
 **Era:** Late Antiquity (404 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11363,11 +8841,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11377,8 +8851,6 @@
 
 **Era:** Late Antiquity (405 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11390,11 +8862,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11404,8 +8872,6 @@
 
 **Era:** Late Antiquity (405 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11417,11 +8883,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11431,8 +8893,6 @@
 
 **Era:** Late Antiquity (406 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11444,11 +8904,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 12:52 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11458,8 +8914,6 @@
 
 **Era:** Late Antiquity (408 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11471,11 +8925,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11485,8 +8935,6 @@
 
 **Era:** Late Antiquity (408 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11498,11 +8946,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:41 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11512,8 +8956,6 @@
 
 **Era:** Late Antiquity (410 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11525,11 +8967,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11539,8 +8977,6 @@
 
 **Era:** Late Antiquity (410 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11552,11 +8988,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:48 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11566,8 +8998,6 @@
 
 **Era:** Late Antiquity (410 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11579,11 +9009,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11593,8 +9019,6 @@
 
 **Era:** Late Antiquity (411 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11606,11 +9030,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11620,8 +9040,6 @@
 
 **Era:** Late Antiquity (411 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11633,11 +9051,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 23:31 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11647,8 +9061,6 @@
 
 **Era:** Late Antiquity (412 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11660,11 +9072,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11674,8 +9082,6 @@
 
 **Era:** Late Antiquity (413 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11687,11 +9093,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11701,8 +9103,6 @@
 
 **Era:** Late Antiquity (414 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11714,11 +9114,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11728,8 +9124,6 @@
 
 **Era:** Late Antiquity (414 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11741,11 +9135,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11755,8 +9145,6 @@
 
 **Era:** Late Antiquity (415 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11768,11 +9156,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11782,8 +9166,6 @@
 
 **Era:** Late Antiquity (416 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11795,11 +9177,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11809,8 +9187,6 @@
 
 **Era:** Late Antiquity (417 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11822,11 +9198,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11836,8 +9208,6 @@
 
 **Era:** Late Antiquity (418 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11849,11 +9219,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11863,8 +9229,6 @@
 
 **Era:** Late Antiquity (418 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11876,11 +9240,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11890,8 +9250,6 @@
 
 **Era:** Late Antiquity (420 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11903,11 +9261,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11917,8 +9271,6 @@
 
 **Era:** Late Antiquity (421 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11930,11 +9282,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11944,8 +9292,6 @@
 
 **Era:** Late Antiquity (421 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11957,11 +9303,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11971,8 +9313,6 @@
 
 **Era:** Late Antiquity (421 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -11984,11 +9324,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11998,8 +9334,6 @@
 
 **Era:** Late Antiquity (422 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12011,11 +9345,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:29 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12025,8 +9355,6 @@
 
 **Era:** Late Antiquity (422 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12038,11 +9366,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12052,8 +9376,6 @@
 
 **Era:** Late Antiquity (423 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12065,11 +9387,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12079,8 +9397,6 @@
 
 **Era:** Late Antiquity (423 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12092,11 +9408,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12106,8 +9418,6 @@
 
 **Era:** Late Antiquity (424 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12119,11 +9429,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12133,8 +9439,6 @@
 
 **Era:** Late Antiquity (424 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12146,11 +9450,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12160,8 +9460,6 @@
 
 **Era:** Late Antiquity (424 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12173,11 +9471,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12187,8 +9481,6 @@
 
 **Era:** Late Antiquity (426 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12200,11 +9492,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12214,8 +9502,6 @@
 
 **Era:** Late Antiquity (426 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12227,11 +9513,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:34 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12241,8 +9523,6 @@
 
 **Era:** Late Antiquity (426 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12254,11 +9534,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12268,8 +9544,6 @@
 
 **Era:** Late Antiquity (427 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12281,11 +9555,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12295,8 +9565,6 @@
 
 **Era:** Late Antiquity (427 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12308,11 +9576,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12322,8 +9586,6 @@
 
 **Era:** Late Antiquity (427 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12335,11 +9597,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:17 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12349,8 +9607,6 @@
 
 **Era:** Late Antiquity (427 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12362,11 +9618,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12376,8 +9628,6 @@
 
 **Era:** Late Antiquity (428 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12389,11 +9639,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12403,8 +9649,6 @@
 
 **Era:** Late Antiquity (428 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12416,11 +9660,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12430,8 +9670,6 @@
 
 **Era:** Late Antiquity (428 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12443,11 +9681,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:58 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12457,8 +9691,6 @@
 
 **Era:** Late Antiquity (428 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12470,11 +9702,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12484,8 +9712,6 @@
 
 **Era:** Late Antiquity (429 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12497,11 +9723,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12511,8 +9733,6 @@
 
 **Era:** Late Antiquity (430 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12524,11 +9744,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12538,8 +9754,6 @@
 
 **Era:** Late Antiquity (431 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12551,11 +9765,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12565,8 +9775,6 @@
 
 **Era:** Late Antiquity (432 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12578,11 +9786,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:52 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12592,8 +9796,6 @@
 
 **Era:** Late Antiquity (432 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12605,11 +9807,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12619,8 +9817,6 @@
 
 **Era:** Late Antiquity (432 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12632,11 +9828,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12646,8 +9838,6 @@
 
 **Era:** Late Antiquity (433 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12659,11 +9849,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12673,8 +9859,6 @@
 
 **Era:** Late Antiquity (434 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12686,11 +9870,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12700,8 +9880,6 @@
 
 **Era:** Late Antiquity (434 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12713,11 +9891,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12727,8 +9901,6 @@
 
 **Era:** Late Antiquity (435 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12740,11 +9912,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12754,8 +9922,6 @@
 
 **Era:** Late Antiquity (436 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12767,11 +9933,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:33 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12781,8 +9943,6 @@
 
 **Era:** Late Antiquity (436 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12794,11 +9954,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12808,8 +9964,6 @@
 
 **Era:** Late Antiquity (436 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12821,11 +9975,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:28 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12835,8 +9985,6 @@
 
 **Era:** Late Antiquity (438 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12848,11 +9996,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12862,8 +10006,6 @@
 
 **Era:** Late Antiquity (438 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12875,11 +10017,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12889,8 +10027,6 @@
 
 **Era:** Late Antiquity (438 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12902,11 +10038,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12916,8 +10048,6 @@
 
 **Era:** Late Antiquity (439 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12929,11 +10059,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12943,8 +10069,6 @@
 
 **Era:** Late Antiquity (440 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12956,11 +10080,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12970,8 +10090,6 @@
 
 **Era:** Late Antiquity (440 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -12983,11 +10101,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12996,8 +10110,6 @@
 **Mibera(s):** [#2525](../miberas/2525.md)
 
 **Era:** Late Antiquity (442 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13010,11 +10122,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13023,8 +10131,6 @@
 **Mibera(s):** [#6339](../miberas/6339.md)
 
 **Era:** Late Antiquity (442 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13037,11 +10143,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13050,8 +10152,6 @@
 **Mibera(s):** [#6265](../miberas/6265.md)
 
 **Era:** Late Antiquity (443 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13064,11 +10164,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:41 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13077,8 +10173,6 @@
 **Mibera(s):** [#3256](../miberas/3256.md)
 
 **Era:** Late Antiquity (443 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13091,11 +10185,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13104,8 +10194,6 @@
 **Mibera(s):** [#1368](../miberas/1368.md)
 
 **Era:** Late Antiquity (444 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13118,11 +10206,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:46 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13132,8 +10216,6 @@
 
 **Era:** Late Antiquity (445 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13145,11 +10227,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13159,8 +10237,6 @@
 
 **Era:** Late Antiquity (446 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13172,11 +10248,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13186,8 +10258,6 @@
 
 **Era:** Late Antiquity (446 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13199,11 +10269,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13213,8 +10279,6 @@
 
 **Era:** Late Antiquity (447 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13226,11 +10290,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13240,8 +10300,6 @@
 
 **Era:** Late Antiquity (449 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13253,11 +10311,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13266,8 +10320,6 @@
 **Mibera(s):** [#5970](../miberas/5970.md)
 
 **Era:** Late Antiquity (449 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13280,11 +10332,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13293,8 +10341,6 @@
 **Mibera(s):** [#3331](../miberas/3331.md)
 
 **Era:** Late Antiquity (450 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13307,11 +10353,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13320,8 +10362,6 @@
 **Mibera(s):** [#6758](../miberas/6758.md)
 
 **Era:** Late Antiquity (450 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13334,11 +10374,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13347,8 +10383,6 @@
 **Mibera(s):** [#6000](../miberas/6000.md)
 
 **Era:** Late Antiquity (450 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13361,11 +10395,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:55 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13374,8 +10404,6 @@
 **Mibera(s):** [#4276](../miberas/4276.md)
 
 **Era:** Late Antiquity (451 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13388,11 +10416,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13401,8 +10425,6 @@
 **Mibera(s):** [#1081](../miberas/1081.md)
 
 **Era:** Late Antiquity (451 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13415,11 +10437,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13428,8 +10446,6 @@
 **Mibera(s):** [#2601](../miberas/2601.md)
 
 **Era:** Late Antiquity (452 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13442,11 +10458,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13456,8 +10468,6 @@
 
 **Era:** Late Antiquity (453 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13469,11 +10479,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13483,8 +10489,6 @@
 
 **Era:** Late Antiquity (454 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13496,11 +10500,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 04:23 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13510,8 +10510,6 @@
 
 **Era:** Late Antiquity (454 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13523,11 +10521,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13537,8 +10531,6 @@
 
 **Era:** Late Antiquity (455 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13550,11 +10542,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:15 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13564,8 +10552,6 @@
 
 **Era:** Late Antiquity (456 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13577,11 +10563,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13590,8 +10572,6 @@
 **Mibera(s):** [#3325](../miberas/3325.md)
 
 **Era:** Late Antiquity (456 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13604,11 +10584,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:21 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13617,8 +10593,6 @@
 **Mibera(s):** [#667](../miberas/0667.md)
 
 **Era:** Late Antiquity (457 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13631,11 +10605,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13644,8 +10614,6 @@
 **Mibera(s):** [#2942](../miberas/2942.md)
 
 **Era:** Late Antiquity (459 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13658,11 +10626,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13671,8 +10635,6 @@
 **Mibera(s):** [#4359](../miberas/4359.md)
 
 **Era:** Late Antiquity (460 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13685,11 +10647,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13698,8 +10656,6 @@
 **Mibera(s):** [#3018](../miberas/3018.md)
 
 **Era:** Late Antiquity (461 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13712,11 +10668,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13725,8 +10677,6 @@
 **Mibera(s):** [#911](../miberas/0911.md)
 
 **Era:** Late Antiquity (461 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13739,11 +10689,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13752,8 +10698,6 @@
 **Mibera(s):** [#1626](../miberas/1626.md)
 
 **Era:** Late Antiquity (461 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13766,11 +10710,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13779,8 +10719,6 @@
 **Mibera(s):** [#8582](../miberas/8582.md)
 
 **Era:** Late Antiquity (462 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13793,11 +10731,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13806,8 +10740,6 @@
 **Mibera(s):** [#9969](../miberas/9969.md)
 
 **Era:** Late Antiquity (462 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13820,11 +10752,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13833,8 +10761,6 @@
 **Mibera(s):** [#4161](../miberas/4161.md)
 
 **Era:** Late Antiquity (462 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13847,11 +10773,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13860,8 +10782,6 @@
 **Mibera(s):** [#6098](../miberas/6098.md)
 
 **Era:** Late Antiquity (463 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13874,11 +10794,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13887,8 +10803,6 @@
 **Mibera(s):** [#748](../miberas/0748.md)
 
 **Era:** Late Antiquity (465 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13901,11 +10815,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13915,8 +10825,6 @@
 
 **Era:** Late Antiquity (466 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13928,11 +10836,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13942,8 +10846,6 @@
 
 **Era:** Late Antiquity (466 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -13955,11 +10857,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13968,8 +10866,6 @@
 **Mibera(s):** [#9135](../miberas/9135.md)
 
 **Era:** Late Antiquity (466 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -13982,11 +10878,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13995,8 +10887,6 @@
 **Mibera(s):** [#6303](../miberas/6303.md)
 
 **Era:** Late Antiquity (467 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14009,11 +10899,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:58 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14022,8 +10908,6 @@
 **Mibera(s):** [#9394](../miberas/9394.md)
 
 **Era:** Late Antiquity (467 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14036,11 +10920,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14050,8 +10930,6 @@
 
 **Era:** Late Antiquity (467 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14063,11 +10941,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14077,8 +10951,6 @@
 
 **Era:** Late Antiquity (468 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14090,11 +10962,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14104,8 +10972,6 @@
 
 **Era:** Late Antiquity (468 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14117,11 +10983,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14131,8 +10993,6 @@
 
 **Era:** Late Antiquity (468 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14144,11 +11004,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14158,8 +11014,6 @@
 
 **Era:** Late Antiquity (469 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14171,11 +11025,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:21 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14185,8 +11035,6 @@
 
 **Era:** Late Antiquity (471 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14198,11 +11046,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:54 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14212,8 +11056,6 @@
 
 **Era:** Late Antiquity (471 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14225,11 +11067,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14238,8 +11076,6 @@
 **Mibera(s):** [#4990](../miberas/4990.md)
 
 **Era:** Late Antiquity (472 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14252,11 +11088,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14265,8 +11097,6 @@
 **Mibera(s):** [#6919](../miberas/6919.md)
 
 **Era:** Late Antiquity (473 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14279,11 +11109,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14292,8 +11118,6 @@
 **Mibera(s):** [#9679](../miberas/9679.md)
 
 **Era:** Late Antiquity (473 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14306,11 +11130,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:34 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14319,8 +11139,6 @@
 **Mibera(s):** [#1995](../miberas/1995.md)
 
 **Era:** Late Antiquity (474 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14333,11 +11151,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14346,8 +11160,6 @@
 **Mibera(s):** [#867](../miberas/0867.md)
 
 **Era:** Late Antiquity (475 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14360,11 +11172,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14373,8 +11181,6 @@
 **Mibera(s):** [#5345](../miberas/5345.md)
 
 **Era:** Late Antiquity (476 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14387,11 +11193,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14401,8 +11203,6 @@
 
 **Era:** Late Antiquity (476 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14414,11 +11214,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14428,8 +11224,6 @@
 
 **Era:** Late Antiquity (476 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14441,11 +11235,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14455,8 +11245,6 @@
 
 **Era:** Late Antiquity (476 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14468,11 +11256,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14482,8 +11266,6 @@
 
 **Era:** Late Antiquity (476 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14495,11 +11277,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14508,8 +11286,6 @@
 **Mibera(s):** [#8320](../miberas/8320.md)
 
 **Era:** Late Antiquity (476 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14522,11 +11298,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14535,8 +11307,6 @@
 **Mibera(s):** [#1881](../miberas/1881.md)
 
 **Era:** Late Antiquity (477 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14549,11 +11319,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14563,8 +11329,6 @@
 
 **Era:** Late Antiquity (477 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14576,11 +11340,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:46 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14590,8 +11350,6 @@
 
 **Era:** Late Antiquity (478 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14603,11 +11361,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14616,8 +11370,6 @@
 **Mibera(s):** [#8145](../miberas/8145.md)
 
 **Era:** Late Antiquity (478 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14630,11 +11382,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14643,8 +11391,6 @@
 **Mibera(s):** [#356](../miberas/0356.md)
 
 **Era:** Late Antiquity (480 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14657,11 +11403,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:35 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14670,8 +11412,6 @@
 **Mibera(s):** [#7352](../miberas/7352.md)
 
 **Era:** Late Antiquity (481 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14684,11 +11424,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14697,8 +11433,6 @@
 **Mibera(s):** [#7462](../miberas/7462.md)
 
 **Era:** Late Antiquity (483 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14711,11 +11445,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14724,8 +11454,6 @@
 **Mibera(s):** [#6614](../miberas/6614.md)
 
 **Era:** Late Antiquity (484 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14738,11 +11466,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14752,8 +11476,6 @@
 
 **Era:** Late Antiquity (485 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14765,11 +11487,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14779,8 +11497,6 @@
 
 **Era:** Late Antiquity (485 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14792,11 +11508,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14805,8 +11517,6 @@
 **Mibera(s):** [#4997](../miberas/4997.md)
 
 **Era:** Late Antiquity (486 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14819,11 +11529,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:08 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14832,8 +11538,6 @@
 **Mibera(s):** [#2926](../miberas/2926.md)
 
 **Era:** Late Antiquity (486 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14846,11 +11550,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14860,8 +11560,6 @@
 
 **Era:** Late Antiquity (487 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14873,11 +11571,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14887,8 +11581,6 @@
 
 **Era:** Late Antiquity (487 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -14900,11 +11592,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14913,8 +11601,6 @@
 **Mibera(s):** [#4531](../miberas/4531.md)
 
 **Era:** Late Antiquity (487 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14927,11 +11613,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14940,8 +11622,6 @@
 **Mibera(s):** [#7562](../miberas/7562.md)
 
 **Era:** Late Antiquity (488 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14954,11 +11634,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14967,8 +11643,6 @@
 **Mibera(s):** [#1710](../miberas/1710.md)
 
 **Era:** Late Antiquity (491 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -14981,11 +11655,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 19:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14995,8 +11665,6 @@
 
 **Era:** Late Antiquity (492 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15008,11 +11676,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15022,8 +11686,6 @@
 
 **Era:** Late Antiquity (493 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15035,11 +11697,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15048,8 +11706,6 @@
 **Mibera(s):** [#2005](../miberas/2005.md)
 
 **Era:** Late Antiquity (494 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15062,11 +11718,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15075,8 +11727,6 @@
 **Mibera(s):** [#1117](../miberas/1117.md)
 
 **Era:** Late Antiquity (494 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15089,11 +11739,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15102,8 +11748,6 @@
 **Mibera(s):** [#3050](../miberas/3050.md)
 
 **Era:** Late Antiquity (494 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15116,11 +11760,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15129,8 +11769,6 @@
 **Mibera(s):** [#9798](../miberas/9798.md)
 
 **Era:** Late Antiquity (494 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15143,11 +11781,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15156,8 +11790,6 @@
 **Mibera(s):** [#6497](../miberas/6497.md)
 
 **Era:** Late Antiquity (495 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15170,11 +11802,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15183,8 +11811,6 @@
 **Mibera(s):** [#1079](../miberas/1079.md)
 
 **Era:** Late Antiquity (495 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15197,11 +11823,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15210,8 +11832,6 @@
 **Mibera(s):** [#2579](../miberas/2579.md)
 
 **Era:** Late Antiquity (495 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15224,11 +11844,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:27 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15237,8 +11853,6 @@
 **Mibera(s):** [#3157](../miberas/3157.md)
 
 **Era:** Late Antiquity (495 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15251,11 +11865,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15264,8 +11874,6 @@
 **Mibera(s):** [#8809](../miberas/8809.md)
 
 **Era:** Late Antiquity (496 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15278,11 +11886,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15291,8 +11895,6 @@
 **Mibera(s):** [#9609](../miberas/9609.md)
 
 **Era:** Late Antiquity (497 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15305,11 +11907,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15318,8 +11916,6 @@
 **Mibera(s):** [#8611](../miberas/8611.md)
 
 **Era:** Late Antiquity (498 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15332,11 +11928,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15345,8 +11937,6 @@
 **Mibera(s):** [#5592](../miberas/5592.md)
 
 **Era:** Late Antiquity (499 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15359,11 +11949,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15373,8 +11959,6 @@
 
 **Era:** Late Antiquity (499 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15386,11 +11970,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15400,8 +11980,6 @@
 
 **Era:** Late Antiquity (499 CE)
 
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
-
 ---
 
 ### Astrological Snapshot
@@ -15413,11 +11991,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15426,8 +12000,6 @@
 **Mibera(s):** [#4024](../miberas/4024.md)
 
 **Era:** Late Antiquity (500 CE)
-
-*Rome falls, Christianity rises. Migration period. Byzantine emergence.*
 
 ---
 
@@ -15440,10 +12012,6 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
