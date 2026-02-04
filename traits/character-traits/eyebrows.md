@@ -51,15 +51,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
-
----
-
 ### Attribution & Sources
 
 **Date Added:** July 30, 2024
@@ -84,15 +75,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Visual Description:** thick pair of eyebrows, almost straight in shape and slightly arched upwards at the outer ends.
 
 **Dominant Colors:** black
-
----
-
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
 
 ---
 
@@ -123,15 +105,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
-
----
-
 ### Attribution & Sources
 
 **Date Added:** July 30, 2024
@@ -156,15 +129,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Visual Description:** thinner pair of tilted eyebrows slightly curved downwards
 
 **Dominant Colors:** Black
-
----
-
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
 
 ---
 
@@ -195,15 +159,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
-
----
-
 ### Attribution & Sources
 
 **Date Added:** July 30, 2024
@@ -228,15 +183,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Visual Description:** thin eyebrows, slightly curved with no arch..
 
 **Dominant Colors:** Black
-
----
-
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
 
 ---
 
@@ -267,15 +213,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
-
----
-
 ### Attribution & Sources
 
 **Date Added:** July 30, 2024
@@ -303,15 +240,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
-
----
-
 ### Attribution & Sources
 
 **Date Added:** July 30, 2024
@@ -336,15 +264,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Visual Description:** a pair of straight, slightly angled downward eyebrows. Shape is flat and rigid.
 
 **Dominant Colors:** black
-
----
-
-### Connections
-
-**Ancestor:** 
-
-
-**Trait Conflicts:**
 
 ---
 
@@ -401,15 +320,6 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Vibe Tags:**
 
 **Swag Score:**
-
----
-
-### Connections
-
-**Ancestor:**
-
-
-**Trait Conflicts:**
 
 ---
 

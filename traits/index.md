@@ -69,12 +69,12 @@ Traits are classified by rarity tier:
 
 ## Traits by Archetype
 
-For archetype-specific trait listings:
+For archetype-specific trait information, see the [Archetypes](../core-lore/archetypes.md) page:
 
-- [→ Freetekno Traits](by-archetype/freetekno.md)
-- [→ Milady Traits](by-archetype/milady.md)
-- [→ Acidhouse Traits](by-archetype/acidhouse.md)
-- [→ Chicago Detroit Traits](by-archetype/chicagodetroit.md)
+- [→ Freetekno](../core-lore/archetypes.md#freetekno)
+- [→ Milady](../core-lore/archetypes.md#milady)
+- [→ Acidhouse](../core-lore/archetypes.md#acidhouse)
+- [→ Chicago Detroit](../core-lore/archetypes.md#chicago-detroit)
 
 ---
 

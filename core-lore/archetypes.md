@@ -17,279 +17,207 @@ Each Archetype represents a distinct rave movement, era, and aesthetic. Miberas 
 | **Chicago Detroit** | Aries, Taurus, Gemini | Spring | Early 80s |
 | **Acidhouse** | Libra, Scorpio, Sagittarius | Fall | Late 90s / 2000s |
 
-### The Four Tribes
-
-Each tribe carries its own:
-- **Aesthetic** — Fashion, visual style, iconography
-- **Philosophy** — Relationship to rave, drugs, and community
-- **Drug Connections** — Both ancient plant medicines and modern synthetics
-- **Cultural Figures** — Key artists, DJs, and movements
-
 ---
 
 ## Freetekno
 
-### Identity
-
-**Name of Archetype:** Freetekno
-
-**Time Period:** Early late 90s
-
-**Time Range & Astrology:**
-**- June 21 - July 22:** Cancer
-
-**- July 23 - August 22:** Leo
-
-**- August 23 - September 22:** Virgo
-
-**Locations Associated:** Castlemorton (UK), London (UK), Stonehenge (UK), Amnesia and Pacha (Ibiza, Spain), Tonka at The Zap (Brighton, UK)
-
----
+**Time Period:** Early-Late 90s
+**Zodiac Signs:** Cancer, Leo, Virgo (Summer)
+**Locations:** Castlemorton (UK), London, Stonehenge, Amnesia and Pacha (Ibiza), Tonka at The Zap (Brighton)
 
 ### Cultural Significance
 
-**Figures Associated:**
-- MF Doom; Daniel Dumile, was a British-American rapper and producer, renowned for his intricate lyricism, unique masked persona, and influential contributions to underground hip-hop. Born in London and raised in New York, he debuted as Zev Love X with KMD in the early 1990s, but after his brother’s death and the group’s dissolution, he reemerged in the late 1990s as MF DOOM, wearing a metal mask inspired by Marvel’s Doctor Doom.
+**Key Figures:**
+- **Spiral Tribe** — Pioneering UK arts collective and nomadic sound system formed in 1990, blending hardcore techno, acid house, and breakbeat with New Age traveller and pagan influences
+- **MF Doom** — British-American rapper renowned for his intricate lyricism and metal mask persona inspired by Marvel's Doctor Doom
+- **DiY Collective (Digs & Woosh)** — Nottingham-based free party organizers, key figures at Castlemorton 1992
+- **DJ PGZ** — Gunai/Kurnai and Yorta Yorta artist, Naarm-based DJ expanding Blak thought through techno
+- **Frank Waln** — Sicangu Lakota rapper addressing themes of reservation life and historical trauma
 
-- Frank Waln; a Sicangu Lakota rapper and music artist from the Rosebud Indian
+**Key Events:**
+- **Castlemorton 1992** — Massive illegal rave in Worcestershire drawing ~20,000 attendees
+- **Britain's Illegal Rave Renaissance** — Post-1994 Criminal Justice Act underground resurgence
 
-Reservation in South Dakota, now based in Chicago. A three-time Native American
-
-Music Awards winner, he drew from his childhood influences in classical music and rap to address themes of reservation life, historical trauma, poverty, and resilience without appropriation.
-
-- Spiral Tribe, a pioneering UK-based arts collective and nomadic sound system formed in 1990 by Mark Harrison, Debbie Griffith, and Simone Feeney, blending hardcore techno, acid house, and breakbeat with New Age traveller and pagan influences to organize over 30 free parties, raves, and festivals in squatted spaces across England.
-
-- UK Drill Artists and Crews; In a scene structured around pre-existing gang rivalries, crews bang out not for their city or their borough, but for the fifth and sixth digits of their phone number. UK drillers invade their rivals’ favoured chicken shops and urinate on their street signs, while YouTube commenters track skyrocketing ‘scoreboards’ of stabbings in and around Brixton. Some of the artists involved are: 67, 150, Harlem
-
-Spartans, 410, Zone2, and Abra Cadabra.
-
-- DJ PGZ; a Gunai/Kurnai and Yorta Yorta artist, is a Naarm-based DJ and producer in techno and EDM. A former drummer and indie band member, he’s passionate about expanding Blak thought through community events like BLK ICE and filmmaking.
-
-- Digs & Woosh; a DJ duo and key figures in the UK’s DiY Collective, a pivotal group in the early 1990s free-party and freetekno scene. Based in Nottingham, they helped organize and perform at illegal raves, including the 1992 Castlemorton Common Festival, where their hardcore and techno sets contributed to the event’s legendary status.
-
-**Events Associated / Significant Cultural Impact:**
-- DiY Digs & Woosh Illegal Rave in Castlemorton 1992, a massive, unplanned illegal rave in Worcestershire, UK, that drew ~20,000 attendees after New Age travellers were redirected from another site. Woosh (Pete Birch, AKA Pete Woosh), is the founding member of the DiY Collective and one half of the DJ duo Digs & Woosh
-
-- Britain’s Illegal Rave Renaissance; after the first wave of rave culture in the late 1980s and early 1990s was driven underground by strict laws like the 1994 Criminal Justice and Public Order Act, a new generation of ravers has revived the scene. Facing a decline in legal nightlife, with nearly half of UK clubs closing in the decade before 2016, young people are breaking into abandoned spaces using bolt-cutters and squatting laws to host underground parties.
-
-**Fashion Icons:** Steampunk glasses, black graphic t-shirts, monochromatic hoodie, military cargo jacket, camo hat, leather jacket, Russian-style hat / pilot cap, fluoro accessories, silver mask,
-
-Drugs Representations / Associated
-
----
+**Fashion:** Steampunk glasses, black graphic tees, monochromatic hoodie, military cargo jacket, camo hat, leather jacket, pilot cap, fluoro accessories, silver mask
 
 ### Drug Connections
 
-**Modern:** LSD, DMT, Speed
+| Modern | Ancient |
+|--------|---------|
+| LSD, DMT, Speed | Khat, Ayahuasca |
 
-**Ancient:** Khat, Trance, Ayahuasca
+### Ancestor Connections
 
----
+- **Aboriginal** — Indigenous Australian connections
+- **Native American** — Peyote traditions, Landback movement
+- **Irish** — Traveller culture
 
-### Visual References
+### Key Traits
 
-**Miberas within the archetype:** freetekno1.png freetekno2.png freetekno3.png freetekno4.png
-
----
-
-### Sources
-
-**Sources:**
-- https://fashion-era.com/fashion-history/1990s/90s-rave-fashion#google_vignette
-- https://www.dazeddigital.com/music/article/35706/1/uk-drill-artists-and-crews
-- https://en.wikipedia.org/wiki/MF_Doom
-- https://ictnews.org/news/native-rap-artist-builds-bridges-with-his-music-/
-- https://en.wikipedia.org/wiki/Spiral_Tribe
-- https://au.rollingstone.com/music/music-features/dj-pgz-blak-electronic-artist-naidoc-week-4849
-- https://djmag.com/features/castlemorton-1992-photographing-illegal-rave-changed-uk-dance-m
+| Category | Notable Traits |
+|----------|---------------|
+| Hats | DiY (SS1), MF Doom (SS4), Silver Mask (SS4), Peyote Hat (SS4) |
+| Shirts | DiY (SS1), Aboriginal (SS2), Wicked (SS2), SCUM (SS3), Tonka (SS4) |
+| Items | Lighter (SS1), Ayahuasca (SS2), Peyote (SS2), Sheet Of Acid (SS4), Pihkal/Tihkal (SS4) |
 
 ---
 
 ## Milady
 
-### Identity
-
-**Name of Archetype:** Milady
-
 **Time Period:** Current
-
-**Time Range & Astrology:**
-**- December 22 - January 19:** Capricorn
-
-**- January 20 - February 18:** Aquarius
-
-- February 19 - March 20 (Pisces)
-
-**Locations Associated:** Castlemorton (UK), London (UK), Stonehenge (UK). . .
-
----
+**Zodiac Signs:** Capricorn, Aquarius, Pisces (Winter)
+**Key Influences:** Remilia, Charlotte Fang, Network Spirituality
 
 ### Cultural Significance
 
-**Figures Associated:**
-- Grimes; a Canadian musician, singer, songwriter, record producer, and visual artist known for her eclectic blend of dream pop, synth-pop, electronic, R&B, and experimental styles, often incorporating science fiction, feminist themes, and fantasy visuals in her lyrics and videos.
+**Key Figures:**
+- **Grimes** — Canadian musician known for eclectic blend of dream pop, synth-pop, and experimental styles with sci-fi and feminist themes
+- **Aum Shinrikyo** — Doomsday cult blending Buddhism, Hinduism, and Christian elements (referenced aesthetically)
 
-- Aum Cult; a doomsday cult blending Buddhism, Hinduism, and Christian elements, founded by Shoko Asahara in Japan.
+**Key Events:**
+- **"Wartime" Milady** — Blood-splattered PFP aesthetic symbolizing involvement in the 'wartime' movement
 
-**Events Associated / Significant Cultural Impact:**
-- “Wartime” Milady; blood splattered across the original Milady Maker NFT PFP across its community to symbolize involvement in the ‘wartime’ movement.
-
-**Fashion Icons:** Business suits, black t-shirts with texts (Milady related), Nazi Pedo Cult shirt, “Mottega” glasses (especially the yellow one as it is ‘invisible’ in the collection), camo hat
-
-Drugs Representations / Associated
-
----
+**Fashion:** Business suits, black t-shirts with Milady text, "Mottega" glasses, camo hat
 
 ### Drug Connections
 
-**Modern:** LSD, DMT
+| Modern | Ancient |
+|--------|---------|
+| LSD, DMT, Ketamine | Khat, Ayahuasca |
 
-**Ancient:** Khat, Trance, Ayahuasca
+### Ancestor Connections
 
----
+- **Hindu/Nepal** — Bindi, spiritual accessories
+- **Japanese** — Aum references, anime aesthetics
+- **Ethiopian** — Headdress, cultural items
+- **Mongolian** — Wolf Head, traditional items
 
-### Visual References
+### Key Traits
 
-**Miberas within the archetype:** milady1.PNG milady2.PNG milady3.PNG milady4.PNG
-
----
-
-### Sources
-
-**Sources:**
-- https://www.youtube.com/watch?app=desktop&v=P0JA_Uspyjs
-- https://en.wikipedia.org/wiki/Grimes
-- https://www.thehindu.com/news/international/aum-cult-members-face-execution-for-tokyo-subw
-- https://en.wikipedia.org/wiki/Aum_Shinrikyo
+| Category | Notable Traits |
+|----------|---------------|
+| Hats | Sweatband (SS1), Fruits Remilia Hat (SS2), Catboy Ears (SS3), Cowboy (SS4) |
+| Shirts | Cfang Face (SS1), Drain Day (SS1), K-holed (SS2), Legalize Catboys (SS2), WAGMI (SS3) |
+| Items | Beramilia Macbook (SS2), Honey Jar (SS4), Remilia Gun (SS5), Aum Doomsday Sign (SS4) |
+| Face | Wartime, Bindi, Cross, Mibera |
 
 ---
 
 ## Chicago Detroit
 
-### Identity
-
-**Name of Archetype:** Chicago Detroit
-
 **Time Period:** Early 80s
-
-**Time Range & Astrology:**
-**- March 21 - April 19:** Aries
-
-**- April 20 - May:** Taurus
-
-**- May 21 - June 20:** Gemini
-
-**Locations Associated:** Abandoned Ford Factory (Michigan, US), Record Store (Chicago, US),
-
-“The Warehouse” (Chicago, US) .
-
----
+**Zodiac Signs:** Aries, Taurus, Gemini (Spring)
+**Locations:** The Warehouse (Chicago), Music Box (Chicago), Abandoned Ford Factory (Michigan)
 
 ### Cultural Significance
 
-**Figures Associated:**
-- Ron Hardy; a pioneering Chicago DJ in the 1980s, instrumental in shaping house music.
+**Key Figures:**
+- **Ron Hardy** — Pioneering Chicago DJ, resident at the Music Box, instrumental in shaping house music through high-energy mixing and reel-to-reel edits
+- **The Chosen Few DJs** — Organizers of early Chicago house parties, founders of the globally influential Chosen Few Picnic & Festival
+- **Lee "Scratch" Perry** — Jamaican dub legend
+- **Sun Ra** — Afrofuturist jazz pioneer
+- **Marsha P. Johnson** — Trans activist at the forefront of Stonewall
 
-As a resident DJ at the Music Box, a key underground club, he blended disco, funk, and early house with innovative, high-energy mixing and reel-to-reel edits. Hardy's legacy endures through his impact on Chicago's club scene and rare DJ set recordings.
+**Key Events:**
+- **Birth of House Music** — The Warehouse and Music Box as ground zero
+- **Illegal Covid Raves** — 2020-2021 underground resurgence in warehouses and parks
 
-- The Chosen Few DJs; organizing early Chicago house parties, producing pioneering tracks like “On and On”, founding the globally influential Chosen Few Picnic & Festival, and fostering inclusivity, cementing house music’s legacy. The main people of the crew **Events Associated / Significant Cultural Impact:**
-- Illegal Covid Raves; During the COVID-19 lockdowns in 2020-2021, the UK, particularly London, saw a surge in illegal raves—underground parties in warehouses, parks, forests, and underpasses—organized via social media like Snapchat and WhatsApp to evade restrictions on mass gatherings.
-
-**Fashion Icons:** TIght-fitting leather jackets, vest, white headband, earphones old-school around neck, baseball cap, black sunglasses, cigar, big puffy 80’s tracksuit jacket, silver shiny shirt, red neckerchief, black eyemask, cowboy hat, headbands, big 80’s style sunglasses, black graphic t-shirts, pearl jewelries (earrings and set of necklaces), chicago bulls top, star moon kaftan, plain black turtle neck, Rayban glasses, glow glasses, anonymous masks (white and golden), Drugs Representations / Associated
-
----
+**Fashion:** Tight leather jackets, vest, white headband, baseball cap, black sunglasses, 80s tracksuit, pearl jewelry, Chicago Bulls top, Rayban glasses, anonymous masks
 
 ### Drug Connections
 
-**Modern:** Vape bag (volcano bag), NOS, Poppers, Cocaine, MDMA, Crack
+| Modern | Ancient |
+|--------|---------|
+| Vape, NOS, Poppers, Cocaine, MDMA, Crack | Cannabis, Khat, Tobacco |
 
-**Ancient:** Cannabis, Khat, Tobacco
+### Ancestor Connections
 
----
+- **Ethiopian** — Face paint, cultural connections
+- **Orthodox Jewish** — Fur hat traditions
+- **Stonewall/LGBTQ+** — Liberation movement
+- **Sufi** — Turban, mystical traditions
+- **Greek (Pythia)** — Oracle robe
 
-### Visual References
+### Key Traits
 
-**Miberas within the archetype:** chicagodetroit1.PNG chicagodetroit2.PNG chicagodetroit3.PNG chicagodetroit4.PNG
+| Category | Notable Traits |
+|----------|---------------|
+| Hats | Golden Anonymous (SS4), Orthodox Fur (SS3-4), Rasta (SS3) |
+| Shirts | Crack Pipe (SS1), Motor Detroit (SS1), Chicago Bulls (SS2), Music Box Vest (SS2), Kraftwerk (SS3), Lee Scratch (SS5), Sunra (SS5) |
+| Items | 303 Drum Machine (SS5), Normal Bong (SS3), Colorful Bong (SS4), Vape Bag (SS3), Lee Scratch Mic (SS4) |
 
----
+### Bong Collection
 
-### Sources
-
-**Sources:**
-- https://daily.redbullmusicacademy.com/2015/05/ron-hardy-at-the-music-box
-- https://www.312soul.com/1984-1990
-- https://ra.co/features/1597
-- https://earthackney.co.uk/performers/yung-singh/
-- https://www.youtube.com/watch?si=YuZu8bx7jm-GOxV7&t=1&v=aGvb4Jb0TSg&feature=youtu.
-- https://www.youtube.com/watch?v=E4ldQOkMhrY
-- https://www.theguardian.com/film/2017/oct/05/death-life-marsha-p-johnson-review-documentary
+Chicago Detroit features extensive bong representation: Normal Bong, Colorful Bong, Cotton Candy Bong, Teal Bong
 
 ---
 
 ## Acidhouse
 
-### Identity
-
-**Name of Archetype:** Acidhouse
-
 **Time Period:** Late 90s / 2000s
-
-**Time Range & Astrology:**
-**- September 23 - October 22:** Libra
-
-**- October 23 - November 21:** Scorpio
-
-**- November 22 - December 21:** Sagittarius
-
-**Locations Associated:** Shoom in London (UK)
-
----
+**Zodiac Signs:** Libra, Scorpio, Sagittarius (Fall)
+**Locations:** Shoom (London)
 
 ### Cultural Significance
 
-**Figures Associated:**
-- DJ Bus Replacement Service aka Doris Woo, a retired DJ known for her eclectic, genre-blending sets, and playful persona.
+**Key Figures:**
+- **The Grateful Dead** — American rock band formed in 1965, pioneers of jam band culture and communal psychedelic experiences
+- **DJ Bus Replacement Service (Doris Woo)** — Retired DJ known for eclectic, genre-blending sets
+- **New Travellers** — UK nomadic subculture rooted in 1960s-70s hippie free festival scene
 
-- New Travellers; a UK-based nomadic subculture that emerged in the 1980s and early
+**Key Events:**
+- **1988 Second Summer of Love** — Acid house and ecstasy catalyzed cultural explosion across the UK
+- **PLUR (Peace, Love, Unity, Respect)** — Guiding principle emerging from early 1990s rave community
+- **The Blindboy Podcast** — Irish podcast blending short fiction, mental health, and culture
 
-1990s, rooted in the hippie free festival scene of the 1960s–70s (e.g., Stonehenge and Glastonbury). Often pejoratively labeled "crusties," they faced crackdowns via the 1994 Criminal Justice and Public Order Act after events like the 1992 Castlemorton rave, leading many to relocate abroad, settle on private sites, or adapt to urban squatting and digital nomadism.
-
-- The Grateful Dead; an American rock band formed in 1965 in Palo Alto, California, known for their eclectic blend of rock, folk, blues, country, and psychedelia. Their marathon concerts and devoted "Deadhead" following pioneered jam band culture and communal music experiences.
-
-**Events Associated / Significant Cultural Impact:**
-- 1988’s “Second Summer of Love”; acid house music and ecstasy catalyzed a cultural explosion across the UK, which later spread its influence to the US and beyond.
-
-- PLUR (Peace, Love, Unity, Respect); emerged as a guiding principle within the rave community, originating from the underground dance scene of the early 1990s.
-
-- The Blindboy Podcast by Dave Chambers of The Rubberbandits; an eclectic Irish podcast launched in 2017 that blends short fiction, interviews, and comedy. Exploring topics like mental health, politics, culture, and history.
-
-**Fashion Icons:** Black bomber jacket with badges, white tees with smiley face(s), jerseys, swimming goggles, Kim Jong Un face mask, surgical mask, gold hoop, Jake’s hat,
-
-Drugs Representations / Associated
-
----
+**Fashion:** Black bomber jacket with badges, white smiley face tees, jerseys, swimming goggles, Kim Jong Un mask, surgical mask, gold hoop
 
 ### Drug Connections
 
-**Modern:** MDMA, Ecstasy, LSD, Ketamine, GHB, 2C-B, Mushrooms
+| Modern | Ancient |
+|--------|---------|
+| MDMA, Ecstasy, LSD, Ketamine, GHB, 2C-B | Cannabis, Psilocybin Mushrooms, Morning Glory Seeds |
 
-**Ancient:** Cannabis, Psilocybin Mushrooms, Morning Glory Seeds
+### Ancestor Connections
+
+- **Greek (Pythia)** — Oracle traditions, ancient psychedelics
+- **Sami** — Northern European indigenous culture
+- **Japanese** — Aum references
+- **Arab/Palestinian** — Political solidarity shirts
+
+### Key Traits
+
+| Category | Notable Traits |
+|----------|---------------|
+| Hats | Surgical Mask (SS1), Sami Hat (SS3), Jake (SS3), Kim Jong Mask (SS4) |
+| Shirts | Mr Acid House (SS2), RAR (SS2), Special K (SS3), Grateful Dead (SS4), Skirt Of Pythia (SS3) |
+| Items | Cubensis (SS2), Golden Teacher (SS2), Liberty Caps (SS2), Whippet Cracker (SS4), MDMA Handbook (SS4) |
+
+### Mushroom Varieties
+
+Acidhouse features extensive mushroom representation:
+- **Cubensis** — Psilocybe cubensis
+- **Golden Teacher** — Popular cubensis strain
+- **Liberty Caps** — Psilocybe semilanceata (UK native)
+- **Mexicana** — Psilocybe mexicana
+- **Penis Envy** — Potent cubensis strain
+- **Blue Meanie** — Panaeolus cyanescens
+- **Flyagaric** — Amanita muscaria
 
 ---
 
-### Visual References
+## Sources
 
-**Miberas within the archetype:** acidhouse1.PNG acidhouse2.PNG acidhouse3.PNG acidhouse4.PNG
-
----
-
-### Sources
-
-**Sources:**
-- https://fashion-era.com/fashion-history/1990s/90s-rave-fashion#google_vignette
+- https://fashion-era.com/fashion-history/1990s/90s-rave-fashion
+- https://www.dazeddigital.com/music/article/35706/1/uk-drill-artists-and-crews
+- https://en.wikipedia.org/wiki/MF_Doom
+- https://en.wikipedia.org/wiki/Spiral_Tribe
+- https://djmag.com/features/castlemorton-1992-photographing-illegal-rave-changed-uk-dance-m
+- https://daily.redbullmusicacademy.com/2015/05/ron-hardy-at-the-music-box
+- https://www.312soul.com/1984-1990
+- https://en.wikipedia.org/wiki/Grimes
+- https://en.wikipedia.org/wiki/Aum_Shinrikyo
 - https://mixmag.net/feature/dj-bus-replacement-service-interview
-- https://www.youtube.com/watch?v=h3t3YnVgY9k&t=661s
-- https://www.youtube.com/watch?v=RgyFiFJGqgo
 - https://en.wikipedia.org/wiki/Grateful_Dead
 
 ---
