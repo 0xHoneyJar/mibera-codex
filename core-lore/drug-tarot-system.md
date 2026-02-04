@@ -70,11 +70,11 @@ The 22 Major Arcana cards carry the most significant drug associations — power
 
 | Card | Drug | Type | Molecule | Symbolism |
 |------|------|------|----------|-----------|
+| The Fool | Ayahuasca | Ancient | C12H16N2 | Spontaneity, openness, be free |
 | The Devil | Methamphetamine | Modern | C10H15N | Bondage, addiction, abuse of power |
-| The Moon | DMT | Both | C12H16N2 | Dreams, illusion, the unconscious |
-| The Tower | Salvia Divinorum | Ancient | C23H28O8 | Sudden upheaval, breakthrough, destruction of ego |
-| Death | Datura | Ancient | C17H21NO4 | Transformation, endings, Kronos the time-lord |
-| The Fool | Cannabis | Both | C21H30O2 | Beginnings, innocence, leap of faith |
+| The Moon | Nutmeg | Ancient | C11H12O3 | Visions, imagination, looking beyond |
+| The Tower | Bufotenin | Both | C12H16N2O | Freedom, sudden realizations |
+| Death | Ketamine | Modern | C13H16ClNO | Change, shedding the past, new experiences |
 
 > *"Kronos — the god of time, chronic time. Like the Grim Reaper with his sickle and scythe, he's the harbinger of death. The instrument of murder and castration. The old hunched man with the long beard. The one who shows up when your time has come."*
 

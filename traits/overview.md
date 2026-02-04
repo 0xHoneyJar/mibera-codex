@@ -117,7 +117,7 @@ Certain trait categories are strongly associated with specific Archetypes and fa
 | Shirt | High |
 | Molecules Background | High |
 
-A Mibera with multiple traits from the same Archetype achieves higher **coherence** and scores better on the Dignity system.
+A Mibera with multiple traits from the same Archetype achieves higher **coherence** and a better Swag Score.
 
 ---
 

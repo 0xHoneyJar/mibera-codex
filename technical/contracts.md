@@ -64,6 +64,54 @@ No admin keys. No governance. Pure autonomous code.
 
 ---
 
+## Technical Stack
+
+The collection combines technology from multiple partners:
+
+| Component | Provider | Function |
+|-----------|----------|----------|
+| Raffle mechanics | THJ | Fair distribution system |
+| Launchpad | Scatter | Referrals, whitelisting, mint infrastructure |
+| Treasury & Lending | Beramarket | Liquid backing, loan facility, treasury operations |
+
+---
+
+## Mint Structure
+
+### Free Claims
+
+Eligible holders from partner collections can claim free Miberas:
+- At least 1 free mint per unique Milady wallet
+- Additional collections may be added via new whitelist batches
+
+### Paid Mints
+
+- Extra mints beyond free allocation require payment
+- Outsiders (non-holders) pay for all mints
+
+### Anti-Dump Considerations
+
+Even if 50% of collection is given away free:
+- Fees from dumps contribute to liquid backing
+- Historical data shows high diamond-paw rates for free claims
+- Low initial backing grows over time, creating compelling narrative
+
+---
+
+## Elegant Design Properties
+
+The system generates value in any market condition as long as there is movement:
+
+- **Bull market:** Trading volume generates fees
+- **Bear market:** Lending facility creates internal movement
+- **Defaults:** Treasury acquires cheap Miberas to resell at premium
+- **Spread dynamics:** Creates arbitrage opportunities
+- **Low volume:** Lending generates activity even when trades are slow
+
+All roads lead to increased liquid backing per circulating Mibera.
+
+---
+
 ## Financial Art
 
 > *"This is chaotic financial art of the highest form."*

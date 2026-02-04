@@ -17,7 +17,7 @@ One of four primary Rave Tribes that define aesthetic and philosophical foundati
 - **[Acidhouse](traits/by-archetype/acidhouse.md)** — Late 90s/2000s acid house revival (Fall: Libra, Scorpio, Sagittarius)
 
 ### Archetype Coherence
-The percentage of a Mibera's traits that belong to the same Archetype.
+The percentage of a Mibera's traits that belong to the same Archetype. Higher coherence = higher Swag Score bonus.
 
 ---
 
@@ -36,12 +36,6 @@ Linear, chronological time with beginning, middle, end. Contrast with Kaironic T
 ### D.A.R.E.
 - **Milady version:** Drug Abuse Resistance Education ("Just Say No")
 - **Mibera version:** Drug Abuse Rave Education ("Just Do It")
-
-### Dignity (In Dignity)
-Astrological concept applied to traits. When a trait naturally belongs to its Archetype, it is "in dignity" — supported, coherent, scoring higher. Opposite of "In Detriment."
-
-### Detriment (In Detriment)
-When a trait appears in an opposing Archetype context. Not doomed, but must express itself non-normatively — fugitive, wayward, transgressive.
 
 ### Drug-Tarot System
 The mapping of 78 tarot cards to 78 psychoactive substances. Each Mibera carries a drug trait linked to a tarot card. See: [Drug-Tarot System](core-lore/drug-tarot-system.md)
@@ -75,7 +69,7 @@ The treasury value backing each Mibera NFT. Holders can sell back to treasury or
 A time-travelling Rebased Retard Bera. The shadow side of Milady, embodying the Ravepill philosophy.
 
 ### Mireveal
-The progressive reveal system showing Miberas in stages (1.1 through 8.8), from shadow silhouette to full artwork. See: [Reveal Stages](mireveals/README.md)
+The progressive reveal system showing Miberas in stages (1.1 through 8.8), from shadow silhouette to full artwork.
 
 ---
 
@@ -96,6 +90,29 @@ Full designation of Miberas as time-travelling beings from Berachain.
 
 ---
 
+## S
+
+### Swag Score
+Numerical rating determining a Mibera's rank. Calculated from:
+1. Global trait rarity
+2. Archetype coherence (tribe alignment)
+3. Ancestor trait threshold
+
+See: [Ranking & Scoring](overlays/ranking.md)
+
+### Swag Score Tiers (SS)
+Rarity classification for individual traits:
+
+| Tier | Rarity |
+|------|--------|
+| SS1 | Ultra Rare |
+| SS2 | Very Rare |
+| SS3 | Rare |
+| SS4 | Uncommon |
+| SS5 | Common |
+
+---
+
 ## T
 
 ### TAZ (Temporary Autonomous Zone)
@@ -108,7 +125,7 @@ See: Archetype
 
 ## U
 
-### Ungovernable Autonomous Rave Treasury (uART)
+### Ungovernable Autonomous Rave Treasury
 The immutable, admin-less smart contract system governing Mibera economics. No governance, no admin keys — pure autonomous code.
 
 ---
