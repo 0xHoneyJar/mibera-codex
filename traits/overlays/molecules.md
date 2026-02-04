@@ -8,9 +8,9 @@
 
 **Drug:** Acacia
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Aboriginals
+**Ancestors:** [Aboriginal](../../core-lore/ancestors.md#aboriginal)
 
 ![Acacia](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_aboriginals_acacia.webp)
 
@@ -20,9 +20,9 @@
 
 **Drug:** Alcohol
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Sicanje
+**Ancestors:** [Sicanje](../../core-lore/ancestors.md#sicanje)
 
 ![Alcohol](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_sicanje_alcohol.webp)
 
@@ -32,9 +32,9 @@
 
 **Drug:** Ancestral Trance
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Orthodox Jews, Aboriginal, Haitians
+**Ancestors:** [Orthodox Jew](../../core-lore/ancestors.md#orthodox-jew), [Aboriginal](../../core-lore/ancestors.md#aboriginal), [Haitian](../../core-lore/ancestors.md#haitian)
 
 ![Ancestral Trance](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_orthodoxJews_aboriginal_haitians_ancestral%20trance.webp)
 
@@ -44,9 +44,9 @@
 
 **Drug:** Arundo Donax
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![Arundo Donax](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_nativeAmerican_arundo%20donax.webp)
 
@@ -56,9 +56,9 @@
 
 **Drug:** Ashwagandha
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Ashwagandha](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_hindu_ashwagandha.webp)
 
@@ -68,9 +68,9 @@
 
 **Drug:** Ayahuasca
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Mayan
+**Ancestors:** [Mayan](../../core-lore/ancestors.md#mayan)
 
 ![Ayahuasca](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_mayan_ayahuasca.webp)
 
@@ -80,9 +80,9 @@
 
 **Drug:** Benadryl
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![Benadryl](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_benadryl.webp)
 
@@ -92,9 +92,9 @@
 
 **Drug:** Bhang
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Bhang](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_bhang.webp)
 
@@ -104,9 +104,9 @@
 
 **Drug:** Brahmi
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Brahmi](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_brahmi.webp)
 
@@ -116,9 +116,9 @@
 
 **Drug:** Bufotenine
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![Bufotenine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_nativeAmerican_bufotenine.webp)
 
@@ -128,9 +128,9 @@
 
 **Drug:** Caffeine
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Ethiopian, Arabs, Traveller, Chinese, Japanese
+**Ancestors:** [Ethiopian](../../core-lore/ancestors.md#ethiopian), [Arabs](../../core-lore/ancestors.md#arabs), [Chinese](../../core-lore/ancestors.md#chinese), [Japanese](../../core-lore/ancestors.md#japanese)
 
 ![Caffeine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_ethiopian_arabs_traveller_chinese_japanese_caffeine.webp)
 
@@ -140,9 +140,9 @@
 
 **Drug:** CBD
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Chinese, Native American
+**Ancestors:** [Chinese](../../core-lore/ancestors.md#chinese), [Native American](../../core-lore/ancestors.md#native-american)
 
 ![CBD](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_chinese_nativeAmerican_CBD.webp)
 
@@ -152,9 +152,9 @@
 
 **Drug:** Chewing Tobacco
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Hindu, Native American
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu), [Native American](../../core-lore/ancestors.md#native-american)
 
 ![Chewing Tobacco](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_nativeAmerican_chewing%20tobacco.webp)
 
@@ -164,9 +164,9 @@
 
 **Drug:** Clear Pill
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Satanists
+**Ancestors:** [Satanist](../../core-lore/ancestors.md#satanist)
 
 ![Clear Pill](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_satanists_clear%20pill.webp)
 
@@ -176,9 +176,9 @@
 
 **Drug:** Coca
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Ballroom Scene
+**Ancestors:** [Ballroom](../../core-lore/ancestors.md#ballroom)
 
 ![Coca](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_ballroomScene_coca.webp)
 
@@ -188,9 +188,9 @@
 
 **Drug:** Cocaine
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Ballroom Scene
+**Ancestors:** [Ballroom](../../core-lore/ancestors.md#ballroom)
 
 ![Cocaine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_ballroomScene_cocaine.webp)
 
@@ -200,9 +200,9 @@
 
 **Drug:** Coffee
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Ethiopian, Arabs, Traveller
+**Ancestors:** [Ethiopian](../../core-lore/ancestors.md#ethiopian), [Arabs](../../core-lore/ancestors.md#arabs)
 
 ![Coffee](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_ethiopian_arabs_traveller_coffee.webp)
 
@@ -212,9 +212,9 @@
 
 **Drug:** Datura
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![Datura](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_datura.webp)
 
@@ -224,9 +224,9 @@
 
 **Drug:** Dextroamphetamine
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Chinese, Palestinian
+**Ancestors:** [Chinese](../../core-lore/ancestors.md#chinese), [Palestinian](../../core-lore/ancestors.md#palestinian)
 
 ![Dextroamphetamine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_chinese_palestinian_dextroamphetamine.webp)
 
@@ -236,9 +236,9 @@
 
 **Drug:** DMT
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Mayan, Aboriginal, Native American
+**Ancestors:** [Mayan](../../core-lore/ancestors.md#mayan), [Aboriginal](../../core-lore/ancestors.md#aboriginal), [Native American](../../core-lore/ancestors.md#native-american)
 
 ![DMT](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_mayan_aboriginal_nativeAmerican_DMT.webp)
 
@@ -248,9 +248,9 @@
 
 **Drug:** Ephedra
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Chinese, Palestinian
+**Ancestors:** [Chinese](../../core-lore/ancestors.md#chinese), [Palestinian](../../core-lore/ancestors.md#palestinian)
 
 ![Ephedra](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_chinese_palestinian_ephedra.webp)
 
@@ -260,9 +260,9 @@
 
 **Drug:** Estrogen
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Thai
+**Ancestors:** [Thai](../../core-lore/ancestors.md#thai)
 
 ![Estrogen](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_estrogen.webp)
 
@@ -272,9 +272,9 @@
 
 **Drug:** Ethanol
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Sicanje
+**Ancestors:** [Sicanje](../../core-lore/ancestors.md#sicanje)
 
 ![Ethanol](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_sicanje_ethanol.webp)
 
@@ -284,9 +284,9 @@
 
 **Drug:** Ethylene
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Pythia
+**Ancestors:** [Pythia](../../core-lore/ancestors.md#pythia)
 
 ![Ethylene](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_pythia_ethylene.webp)
 
@@ -296,9 +296,9 @@
 
 **Drug:** Euphoria
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Mongolian
+**Ancestors:** [Mongolian](../../core-lore/ancestors.md#mongolian)
 
 ![Euphoria](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_mongolian_euphoria.webp)
 
@@ -308,9 +308,9 @@
 
 **Drug:** Grayanotoxin
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Nepal, Turkey
+**Ancestors:** [Nepal](../../core-lore/ancestors.md#nepal), [Turkey](../../core-lore/ancestors.md#turkey)
 
 ![Grayanotoxin](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nepal_turkey_grayanotoxin.webp)
 
@@ -320,9 +320,9 @@
 
 **Drug:** Henbane
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Greek
+**Ancestors:** [Greek](../../core-lore/ancestors.md#greek)
 
 ![Henbane](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_henbane.webp)
 
@@ -332,9 +332,9 @@
 
 **Drug:** Iboga
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Gabon
+**Ancestors:** [Gabon](../../core-lore/ancestors.md#gabon)
 
 ![Iboga](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_iboga.webp)
 
@@ -344,9 +344,9 @@
 
 **Drug:** Ibogaine
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Gabon
+**Ancestors:** [Gabon](../../core-lore/ancestors.md#gabon)
 
 ![Ibogaine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_ibogaine.webp)
 
@@ -356,9 +356,9 @@
 
 **Drug:** Iproniazid
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![Iproniazid](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_nativeAmerican_iproniazid.webp)
 
@@ -368,9 +368,9 @@
 
 **Drug:** Kava
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Polynesian, Aboriginal
+**Ancestors:** [Polynesian](../../core-lore/ancestors.md#polynesian), [Aboriginal](../../core-lore/ancestors.md#aboriginal)
 
 ![Kava](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_polynesian_aboriginal_kava.webp)
 
@@ -380,9 +380,9 @@
 
 **Drug:** Ketamine
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Nepal, Turkey
+**Ancestors:** [Nepal](../../core-lore/ancestors.md#nepal), [Turkey](../../core-lore/ancestors.md#turkey)
 
 ![Ketamine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nepal_turkey_ketamine.webp)
 
@@ -392,9 +392,9 @@
 
 **Drug:** Khat
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Ethiopian
+**Ancestors:** [Ethiopian](../../core-lore/ancestors.md#ethiopian)
 
 ![Khat](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_ethiopian_khat.webp)
 
@@ -404,9 +404,9 @@
 
 **Drug:** Kratom
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Thai
+**Ancestors:** [Thai](../../core-lore/ancestors.md#thai)
 
 ![Kratom](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_kratom.webp)
 
@@ -416,9 +416,9 @@
 
 **Drug:** Kwao Krua
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Thai
+**Ancestors:** [Thai](../../core-lore/ancestors.md#thai)
 
 ![Kwao Krua](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_kwao%20krua.webp)
 
@@ -428,9 +428,9 @@
 
 **Drug:** Kykeon
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Greek Ancients
+**Ancestors:** [Greek](../../core-lore/ancestors.md#greek)
 
 ![Kykeon](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_greekAncients_kykeon.webp)
 
@@ -440,9 +440,9 @@
 
 **Drug:** Lamotrigine
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Irish Druids
+**Ancestors:** [Irish Druids](../../core-lore/ancestors.md#irish-druids)
 
 ![Lamotrigine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_irishDruids_lamotrigine.webp)
 
@@ -452,9 +452,9 @@
 
 **Drug:** Lithium
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Irish Druids
+**Ancestors:** [Irish Druids](../../core-lore/ancestors.md#irish-druids)
 
 ![Lithium](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_irishDruids_lithium.webp)
 
@@ -464,9 +464,9 @@
 
 **Drug:** LSD
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Aboriginals, Haitians
+**Ancestors:** [Aboriginal](../../core-lore/ancestors.md#aboriginal), [Haitian](../../core-lore/ancestors.md#haitian)
 
 ![LSD](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_aboriginals_haitians_LSD.webp)
 
@@ -476,9 +476,9 @@
 
 **Drug:** M-CAT
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Ethiopians
+**Ancestors:** [Ethiopian](../../core-lore/ancestors.md#ethiopian)
 
 ![M-CAT](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_ethiopians_M-CAT.webp)
 
@@ -488,9 +488,9 @@
 
 **Drug:** Mandrake
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Greek, Arabs
+**Ancestors:** [Greek](../../core-lore/ancestors.md#greek), [Arabs](../../core-lore/ancestors.md#arabs)
 
 ![Mandrake](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_arabs_mandrake.webp)
 
@@ -500,9 +500,9 @@
 
 **Drug:** MDA
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![MDA](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_MDA.webp)
 
@@ -512,9 +512,9 @@
 
 **Drug:** MDMA
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![MDMA](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_MDMA.webp)
 
@@ -524,9 +524,9 @@
 
 **Drug:** Methamphetamine
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Chinese, Palestinian
+**Ancestors:** [Chinese](../../core-lore/ancestors.md#chinese), [Palestinian](../../core-lore/ancestors.md#palestinian)
 
 ![Methamphetamine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_chinese_palestinian_methamphetamine.webp)
 
@@ -536,9 +536,9 @@
 
 **Drug:** Mimosa Tenuiflora
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Mayan
+**Ancestors:** [Mayan](../../core-lore/ancestors.md#mayan)
 
 ![Mimosa Tenuiflora](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_mayan_Mimosa%20Tenuiflora.webp)
 
@@ -548,9 +548,9 @@
 
 **Drug:** MMDA
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Arabs
+**Ancestors:** [Arabs](../../core-lore/ancestors.md#arabs)
 
 ![MMDA](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_arabs_MMDA.webp)
 
@@ -560,9 +560,9 @@
 
 **Drug:** Mucuna pruriens
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Mucuna pruriens](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_hindu_mucana%20pruriens.webp)
 
@@ -572,9 +572,9 @@
 
 **Drug:** Mushrooms
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Irish Druids, Buddhists, Sami
+**Ancestors:** [Irish Druids](../../core-lore/ancestors.md#irish-druids), [Buddhist](../../core-lore/ancestors.md#buddhist), [Sami](../../core-lore/ancestors.md#sami)
 
 ![Mushrooms](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_irishDruids_buddhists_sami_mushrooms.webp)
 
@@ -584,9 +584,9 @@
 
 **Drug:** Nicotine
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Native American, Aboriginal
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american), [Aboriginal](../../core-lore/ancestors.md#aboriginal)
 
 ![Nicotine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_nativeAmerican_aboriginal_nicotine.webp)
 
@@ -596,9 +596,9 @@
 
 **Drug:** NOS
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Pythia
+**Ancestors:** [Pythia](../../core-lore/ancestors.md#pythia)
 
 ![NOS](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_pythia_NOS.webp)
 
@@ -608,9 +608,9 @@
 
 **Drug:** Nutmeg
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Arabs
+**Ancestors:** [Arabs](../../core-lore/ancestors.md#arabs)
 
 ![Nutmeg](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_arabs_nutmeg.webp)
 
@@ -620,9 +620,9 @@
 
 **Drug:** Nymphaea caerulea
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Greek
+**Ancestors:** [Greek](../../core-lore/ancestors.md#greek)
 
 ![Nymphaea caerulea](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_greek_nymphaea%20caerulea.webp)
 
@@ -632,9 +632,9 @@
 
 **Drug:** Ololiuqui
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Mayan
+**Ancestors:** [Mayan](../../core-lore/ancestors.md#mayan)
 
 ![Ololiuqui](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_mayan_ololiuqui.webp)
 
@@ -644,9 +644,9 @@
 
 **Drug:** Peyote
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![Peyote](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_nativeAmerican_peyote.webp)
 
@@ -656,9 +656,9 @@
 
 **Drug:** Piracetam
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Piracetam](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_piracetam.webp)
 
@@ -668,9 +668,9 @@
 
 **Drug:** Pituri
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Aboriginal
+**Ancestors:** [Aboriginal](../../core-lore/ancestors.md#aboriginal)
 
 ![Pituri](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_aboriginal_pituri.webp)
 
@@ -680,9 +680,9 @@
 
 **Drug:** Poppers
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Stonewall
+**Ancestors:** [Stonewall](../../core-lore/ancestors.md#stonewall)
 
 ![Poppers](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_stonewall_poppers.webp)
 
@@ -692,9 +692,9 @@
 
 **Drug:** Psilacetin
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Irish Druids, Buddhists, Sami
+**Ancestors:** [Irish Druids](../../core-lore/ancestors.md#irish-druids), [Buddhist](../../core-lore/ancestors.md#buddhist), [Sami](../../core-lore/ancestors.md#sami)
 
 ![Psilacetin](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_irishDruids_buddhists_sami_psilacetin.webp)
 
@@ -704,9 +704,9 @@
 
 **Drug:** Psychotria viridis
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Native Americans, Mayan
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american), [Mayan](../../core-lore/ancestors.md#mayan)
 
 ![Psychotria viridis](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_nativeAmericans_mayan_psychotria%20viridis.webp)
 
@@ -716,9 +716,9 @@
 
 **Drug:** Sakae Naa
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Thai
+**Ancestors:** [Thai](../../core-lore/ancestors.md#thai)
 
 ![Sakae Naa](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_sakae%20naa.webp)
 
@@ -728,9 +728,9 @@
 
 **Drug:** Sassafras
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![Sassafras](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_sassafras.webp)
 
@@ -740,9 +740,9 @@
 
 **Drug:** Scopolamine
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Greek, Arabs
+**Ancestors:** [Greek](../../core-lore/ancestors.md#greek), [Arabs](../../core-lore/ancestors.md#arabs)
 
 ![Scopolamine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_arabs_scopolamine.webp)
 
@@ -752,9 +752,9 @@
 
 **Drug:** Sertraline
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Greek
+**Ancestors:** [Greek](../../core-lore/ancestors.md#greek)
 
 ![Sertraline](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_sertraline.webp)
 
@@ -764,9 +764,9 @@
 
 **Drug:** Shroom Tea
 
-**Archetype:** Acid House
+**Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
-**Ancestors:** Greek Ancients
+**Ancestors:** [Greek](../../core-lore/ancestors.md#greek)
 
 ![Shroom Tea](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_greekAncients_shroom%20tea.webp)
 
@@ -776,9 +776,9 @@
 
 **Drug:** Sildenafil
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Gabon
+**Ancestors:** [Gabon](../../core-lore/ancestors.md#gabon)
 
 ![Sildenafil](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_sildenafil.webp)
 
@@ -788,9 +788,9 @@
 
 **Drug:** Sober
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Mongolian
+**Ancestors:** [Mongolian](../../core-lore/ancestors.md#mongolian)
 
 ![Sober](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_mongolian_sober.webp)
 
@@ -800,9 +800,9 @@
 
 **Drug:** St. John's Wort
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Greek
+**Ancestors:** [Greek](../../core-lore/ancestors.md#greek)
 
 ![St. John's Wort](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_st.%20john%27s%20wort.webp)
 
@@ -812,9 +812,9 @@
 
 **Drug:** Sugarcane
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Sugarcane](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_sugarcane.webp)
 
@@ -824,9 +824,9 @@
 
 **Drug:** Syrian Rue
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Sufi
+**Ancestors:** [Sufis](../../core-lore/ancestors.md#sufis)
 
 ![Syrian Rue](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_sufi_syrian%20rue.webp)
 
@@ -836,9 +836,9 @@
 
 **Drug:** Tabernaemontana
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Gabon
+**Ancestors:** [Gabon](../../core-lore/ancestors.md#gabon)
 
 ![Tabernaemontana](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_gabon_tabernaemontana.webp)
 
@@ -848,9 +848,9 @@
 
 **Drug:** Tea
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Chinese, Japanese
+**Ancestors:** [Chinese](../../core-lore/ancestors.md#chinese), [Japanese](../../core-lore/ancestors.md#japanese)
 
 ![Tea](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_chinese_japanese_tea.webp)
 
@@ -860,9 +860,9 @@
 
 **Drug:** Testosterone
 
-**Archetype:** Milady
+**Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Testosterone](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_hindu_testosterone.webp)
 
@@ -872,9 +872,9 @@
 
 **Drug:** THC Edibles
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![THC Edibles](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_THC%20edibles.webp)
 
@@ -884,9 +884,9 @@
 
 **Drug:** Tobacco
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Tobacco](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_tobacco.webp)
 
@@ -896,9 +896,9 @@
 
 **Drug:** Weed
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Rastafarians
+**Ancestors:** [Rastafarian](../../core-lore/ancestors.md#rastafarians)
 
 ![Weed](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_rastafarians_weed.webp)
 
@@ -908,9 +908,9 @@
 
 **Drug:** Xanax
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Hindu
+**Ancestors:** [Hindu](../../core-lore/ancestors.md#hindu)
 
 ![Xanax](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_hindu_xanax.webp)
 
@@ -920,9 +920,9 @@
 
 **Drug:** Yohimbe
 
-**Archetype:** Chicago Detroit
+**Archetype:** [Chicago Detroit](../../core-lore/archetypes.md#chicago-detroit)
 
-**Ancestors:** Gabon
+**Ancestors:** [Gabon](../../core-lore/ancestors.md#gabon)
 
 ![Yohimbe](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_yohimbine.webp)
 
@@ -932,9 +932,9 @@
 
 **Drug:** 2C-B
 
-**Archetype:** Freetekno
+**Archetype:** [Freetekno](../../core-lore/archetypes.md#freetekno)
 
-**Ancestors:** Native American
+**Ancestors:** [Native American](../../core-lore/ancestors.md#native-american)
 
 ![2C-B](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_nativeAmerican_2C-B.webp)
 

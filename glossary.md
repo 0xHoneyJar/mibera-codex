@@ -11,10 +11,10 @@ Cultural and historical lineage assigned to each Mibera (e.g., Greek, Hindu, May
 
 ### Archetype
 One of four primary Rave Tribes that define aesthetic and philosophical foundations:
-- **[Freetekno](traits/by-archetype/freetekno.md)** — UK free party/illegal rave scene (Summer: Cancer, Leo, Virgo)
-- **[Milady](traits/by-archetype/milady.md)** — Current era netizen aesthetic (Winter: Capricorn, Aquarius, Pisces)
-- **[Chicago Detroit](traits/by-archetype/chicagodetroit.md)** — Early 80s house/techno origins (Spring: Aries, Taurus, Gemini)
-- **[Acidhouse](traits/by-archetype/acidhouse.md)** — Late 90s/2000s acid house revival (Fall: Libra, Scorpio, Sagittarius)
+- **[Freetekno](core-lore/archetypes.md#freetekno)** — UK free party/illegal rave scene (Summer: Cancer, Leo, Virgo)
+- **[Milady](core-lore/archetypes.md#milady)** — Current era netizen aesthetic (Winter: Capricorn, Aquarius, Pisces)
+- **[Chicago Detroit](core-lore/archetypes.md#chicago-detroit)** — Early 80s house/techno origins (Spring: Aries, Taurus, Gemini)
+- **[Acidhouse](core-lore/archetypes.md#acidhouse)** — Late 90s/2000s acid house revival (Fall: Libra, Scorpio, Sagittarius)
 
 ### Archetype Coherence
 The percentage of a Mibera's traits that belong to the same Archetype. Higher coherence = higher Swag Score bonus.
@@ -32,10 +32,6 @@ Linear, chronological time with beginning, middle, end. Contrast with Kaironic T
 ---
 
 ## D
-
-### D.A.R.E.
-- **Milady version:** Drug Abuse Resistance Education ("Just Say No")
-- **Mibera version:** Drug Abuse Rave Education ("Just Do It")
 
 ### Drug-Tarot System
 The mapping of 78 tarot cards to 78 psychoactive substances. Each Mibera carries a drug trait linked to a tarot card. See: [Drug-Tarot System](core-lore/drug-tarot-system.md)
@@ -70,13 +66,6 @@ A time-travelling Rebased Retard Bera. The shadow side of Milady, embodying the 
 
 ### Mireveal
 The progressive reveal system showing Miberas in stages (1.1 through 8.8), from shadow silhouette to full artwork.
-
----
-
-## P
-
-### Perpetual Roving Carnival
-Core concept — rave as "a functional social algorithm for a perpetual roving carnival & IRL TAZ popup for the global NEET anti-society."
 
 ---
 

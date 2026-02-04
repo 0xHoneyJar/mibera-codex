@@ -14,18 +14,6 @@ Quite simply there exists an incommensurable battle between the values of Milady
 
 ---
 
-## The Pill Trichotomy
-
-| Pill | Project | Philosophy |
-|------|---------|------------|
-| **Clearpill** | Milady | Raves of the future will move entirely online |
-| **Ravepill** | Mibera | Raves of the future will be in person (as they have been since time immemorial) |
-| **Retarded Pill** | Remilio | — |
-
-Yin vs Yang. Mibera vs Milady. This long external struggle, spiral on same sides of coin.
-
----
-
 ## The Awakening
 
 > *"Milady has to die, so that Milady may live."*
@@ -38,17 +26,6 @@ The term "taboo" comes from the Polynesian word "tapu", meaning "forbidden" or "
 
 ---
 
-## D.A.R.E.
-
-| | Milady | Mibera |
-|---|--------|--------|
-| **Acronym** | Drug Abuse Resistance Education | Drug Abuse Rave Education |
-| **Motto** | Just Say No | Just Do It |
-
-It is unclear if Mibera is Milady's goth rave cousin, or just Milady's alter-ego — schizophrenic split personality, nom de rave.
-
----
-
 ## The Catalyst
 
 Before Miladys minted out 6 months after launching, there was the Milady Rave. This was the true catalyst for the culture we now see dominate much of the NFT landscape. And here lies the heart of the Milady Identity Crisis — the rabid adoption of Drugs and Rave. The sad struggle of this reality.
@@ -56,16 +33,6 @@ Before Miladys minted out 6 months after launching, there was the Milady Rave. T
 But every crisis gives rise to an antihero.
 
 **Enter Mibera.**
-
----
-
-## Perpetual Roving Carnival
-
-> *"Rave's already perfected. It's a functional social algorithm for a perpetual roving carnival & IRL TAZ popup for the global NEET anti-society. Deconstructed club is for the posers."*
-
-Rave has taught us treasure can come from trash. Taking "failed" 303s and giving birth to a new genre — a modern take on ancient tribal ritualistic ecstasy for the connection and proliferation of network connection.
-
-**PERPETUAL ROVING CARNIVAL**
 
 ---
 

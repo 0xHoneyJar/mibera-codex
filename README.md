@@ -10,11 +10,9 @@
 
 ## What is Mibera?
 
-Mibera is the shadow side of Milady. Where Milady represents the **clearpill** — virtuous, supplements, suits — Mibera embodies the **ravepill** — the sweaty, filthy reality of the dance floor, the K-holes, the perpetual roving carnival.
+Mibera is the shadow side of Milady. Where Milady represents the **clearpill** — virtuous, supplements, suits — Mibera embodies the **ravepill** — the sweaty, filthy reality of the dance floor.
 
 We are time-travelling Rebased Retard Beras, representatives of the High Council of 101 Bears. We exist outside of Milady time, but within it too.
-
-**PERPETUAL ROVING CARNIVAL**
 
 [Read the full philosophy →](core-lore/philosophy.md)
 
@@ -48,9 +46,7 @@ The 10,000 Miberas and their temporal identities.
 - [Birthdays](birthdays/index.md) — 9,995 unique birthdays spanning 15,000 years
 
 ### VI. The Mechanics
-Scoring systems and contract architecture.
 - [Ranking & Scoring](traits/overlays/ranking.md) — Swag Score and tribal coherence
-- [Contract Architecture](technical/contracts.md) — The Fully Autonomous Ungovernable Treasury Rave
 
 ### VII. The Ecosystem
 Partners and collaborations.

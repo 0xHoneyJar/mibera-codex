@@ -23,7 +23,6 @@ Backgrounds set the environmental context for each Mibera, ranging from abstract
 - **Stonehenge** — Ancient monument associated with solstice gatherings and free festivals
 - **Fyre Festival** — Infamous failed luxury festival (ironic/meme reference)
 - **Milady Rave** — Direct reference to the Milady community rave events that catalyzed the culture
-- **DARE Rave** — Plays on the D.A.R.E. program inversion (Drug Abuse Rave Education)
 
 ---
 

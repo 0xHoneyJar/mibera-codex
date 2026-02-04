@@ -24,10 +24,10 @@
 * [Visual Traits Overview](traits/overview.md)
 
 ### By Archetype
-* [Freetekno Traits](traits/by-archetype/freetekno.md)
-* [Milady Traits](traits/by-archetype/milady.md)
-* [Acidhouse Traits](traits/by-archetype/acidhouse.md)
-* [Chicago Detroit Traits](traits/by-archetype/chicagodetroit.md)
+* [Freetekno](core-lore/archetypes.md#freetekno)
+* [Milady](core-lore/archetypes.md#milady)
+* [Acidhouse](core-lore/archetypes.md#acidhouse)
+* [Chicago Detroit](core-lore/archetypes.md#chicago-detroit)
 
 ### Character Traits
 * [Body](traits/character-traits/body.md)
@@ -78,8 +78,5 @@
   * [20th Century](birthdays/20th-century.md)
   * [21st Century](birthdays/21st-century.md)
 
-## VI. The Mechanics
-* [Contract Architecture](technical/contracts.md)
-
-## VII. The Ecosystem
+## VI. The Ecosystem
 * [Featured Projects & Partners](special-collections/featured.md)

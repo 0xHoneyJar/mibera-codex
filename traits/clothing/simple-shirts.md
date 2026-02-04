@@ -8,26 +8,6 @@
 
 Simple shirts are solid-colored base garments without graphics or patterns. They serve as neutral foundations that don't affect archetype coherence.
 
-### Available Colors
-
-| Color | Notes |
-|-------|-------|
-| White | Clean, neutral base |
-| Yellow | Bright, summer vibes |
-| Black | Classic, versatile |
-| Blue | Cool tones |
-| Green | Natural, earthy |
-| Pink | Soft, playful |
-| Red | Bold, energetic |
-| Orange | Warm, vibrant |
-
-### Design Philosophy
-
-Simple shirts exist to:
-- Allow other traits (hats, items, accessories) to shine
-- Provide neutral visual balance
-- Offer variety without adding archetype weight
-
 ---
 
 ## Simple White
