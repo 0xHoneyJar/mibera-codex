@@ -5,14 +5,15 @@
 
 ## I. The Story
 * [Philosophy & Genesis](core-lore/philosophy.md)
+* [Official Lore Articles](core-lore/official-lore.md)
 
 ## II. The Framework
 * [Archetypes](core-lore/archetypes.md)
 * [Ancestors](core-lore/ancestors.md)
 
 ## III. The Mysticism
-* [Astrology](overlays/astrology.md)
-* [Elements](overlays/elements.md)
+* [Astrology](traits/overlays/astrology.md)
+* [Elements](traits/overlays/elements.md)
 * [The Drug-Tarot System](core-lore/drug-tarot-system.md)
   * [Tarot Cards](core-lore/tarot-cards.md)
   * [Drug Pairings](drugs-detailed/drug-pairings.md)
@@ -29,33 +30,41 @@
 * [Chicago Detroit Traits](traits/by-archetype/chicagodetroit.md)
 
 ### Character Traits
-* [Body](character-traits/body.md)
-* [Eyes](character-traits/eyes.md)
-* [Eyebrows](character-traits/eyebrows.md)
-* [Mouth](character-traits/mouth.md)
-* [Hair](character-traits/hair.md)
-* [Tattoos](character-traits/tattoos.md)
+* [Body](traits/character-traits/body.md)
+* [Eyes](traits/character-traits/eyes.md)
+* [Eyebrows](traits/character-traits/eyebrows.md)
+* [Mouth](traits/character-traits/mouth.md)
+* [Hair](traits/character-traits/hair.md)
+* [Tattoos](traits/character-traits/tattoos.md)
 
 ### Accessories
-* [Hats](accessories/hats.md)
-* [Glasses](accessories/glasses.md)
-* [Masks](accessories/masks.md)
-* [Earrings](accessories/earrings.md)
-* [Face Accessories](accessories/face-accessories.md)
+* [Hats](traits/accessories/hats.md)
+* [Glasses](traits/accessories/glasses.md)
+* [Masks](traits/accessories/masks.md)
+* [Earrings](traits/accessories/earrings.md)
+* [Face Accessories](traits/accessories/face-accessories.md)
 
 ### Clothing
-* [Long Sleeves](clothing/long-sleeves.md)
-* [Short Sleeves](clothing/short-sleeves.md)
-* [Simple Shirts](clothing/simple-shirts.md)
+* [Long Sleeves](traits/clothing/long-sleeves.md)
+* [Short Sleeves](traits/clothing/short-sleeves.md)
+* [Simple Shirts](traits/clothing/simple-shirts.md)
 
 ### Items
-* [General Items](items/general-items.md)
-* [Bong Bears](items/bong-bears.md)
+* [General Items](traits/items/general-items.md)
+* [Bong Bears](traits/items/bong-bears.md)
 
 ### Environments
-* [Backgrounds](backgrounds/backgrounds.md)
+* [Backgrounds](traits/backgrounds/backgrounds.md)
+
+### Overlays
+* [Ranking & Scoring](traits/overlays/ranking.md)
+* [Molecules](traits/overlays/molecules.md)
 
 ## V. The Collection
+* [Browse Miberas](browse/index.md)
+  * [By Archetype](browse/by-archetype.md)
+  * [By Ancestor](browse/by-ancestor.md)
+  * [By Swag Rank](browse/by-swag-rank.md)
 * [All Miberas](miberas/index.md)
 * [Birthdays](birthdays/index.md)
   * [Prehistoric Era](birthdays/prehistoric.md)
@@ -68,12 +77,9 @@
   * [19th Century](birthdays/19th-century.md)
   * [20th Century](birthdays/20th-century.md)
   * [21st Century](birthdays/21st-century.md)
-* [Reveal Stages](mireveals/README.md)
 
 ## VI. The Mechanics
-* [Ranking & Scoring](overlays/ranking.md)
 * [Contract Architecture](technical/contracts.md)
 
 ## VII. The Ecosystem
 * [Featured Projects & Partners](special-collections/featured.md)
-

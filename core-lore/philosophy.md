@@ -120,3 +120,9 @@ The Miberas are not bound by linear time. They are the shadows on Plato's cave w
 - **The Grateful Dead** — Acid Tests
 
 ---
+
+## Further Reading
+
+For the complete canonical lore, see the [Official Lore Articles](official-lore.md) — the 7-part series written by Jani exploring the Trinity of HONEY, BERA, and BGT through the lens of Milady and Mibera's eternal dance.
+
+---

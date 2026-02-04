@@ -8,16 +8,6 @@
 
 Miberas are time-travelling Rebased Retard Beras — they exist outside of Milady time, but within it too. The Ancestor system reflects this temporal fluidity, connecting each Mibera to cultural lineages spanning 15,000 years of human history.
 
-### Ancestors & Archetypes
-
-Each Ancestor has natural affinities with certain Archetypes (Rave Tribes). This relationship is based on the concept of **dignity** from astrological tradition:
-
-> *"The idea is that the planets are moving through celestial palaces... A planet can have a sign or land that it rules. When a planet is in the opposite sign from the one it rules, it's kind of like banished — it's a fugitive, a refugee, not supported in what rights it has in that land."*
-
-Applied to Miberas:
-- **In Dignity:** An Ancestor-Archetype pairing that is "supported" — the cultural lineage naturally flows into the rave movement
-- **In Detriment:** An opposing pairing that creates beautiful tension — the trait must express itself non-normatively, wayward, transgressive
-
 ### Time-Travelling Traits
 
 The visible world of particular things is a shifting exhibition, like shadows cast on a bear cave wall by the activities of their corresponding universal Bera Ideas or Bera Forms.
@@ -893,7 +883,6 @@ Drugs Representations / Associated
 
 **Figures Associated:**
 
-
 **Events Associated / Significant Cultural Impact:**
 1. Sufi Dervish Whirling; the "whirling dervishes" practice meditative spinning as zikr (remembrance of God), founded by followers of the 13th-century mystic Rumi in Konya, Turkey. Spinning symbolizes planets orbiting the sun, with one hand raised to receive divine energy and the other lowered to channel it to earth.
 
@@ -1278,7 +1267,6 @@ Drugs Representations / Associated
 
 **Figures Associated:**
 
-
 **Events Associated / Significant Cultural Impact:**
 1. The Techno Temple; Gyōsen Asakura transformed Shō-onji temple in Fukui City, Japan, into a "techno temple," hosting memorial services blending IDM and breakbeats with Buddhist chants and psychedelic light shows to represent the Pure Land.
 
@@ -1469,7 +1457,6 @@ Drugs Representations / Associated
 ### Cultural Significance
 
 **Figures Associated:**
-
 
 **Events Associated / Significant Cultural Impact:**
 1. Shiva and cannabis culture; cannabis (ganja/bhang) has been used for millennia in India and Nepal, particularly during Maha Shivaratri. Devotees smoke it in chillums or consume bhang to honor Shiva, believed to use it for meditation. Despite legal restrictions since the 1980s, cannabis remains integral to religious rituals.

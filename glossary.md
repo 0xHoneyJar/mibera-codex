@@ -37,12 +37,6 @@ Linear, chronological time with beginning, middle, end. Contrast with Kaironic T
 - **Milady version:** Drug Abuse Resistance Education ("Just Say No")
 - **Mibera version:** Drug Abuse Rave Education ("Just Do It")
 
-### Dignity (In Dignity)
-Astrological concept applied to traits. When a trait naturally belongs to its Archetype, it is "in dignity" — supported, coherent, scoring higher. Opposite of "In Detriment."
-
-### Detriment (In Detriment)
-When a trait appears in an opposing Archetype context. Not doomed, but must express itself non-normatively — fugitive, wayward, transgressive.
-
 ### Drug-Tarot System
 The mapping of 78 tarot cards to 78 psychoactive substances. Each Mibera carries a drug trait linked to a tarot card. See: [Drug-Tarot System](core-lore/drug-tarot-system.md)
 
@@ -75,7 +69,7 @@ The treasury value backing each Mibera NFT. Holders can sell back to treasury or
 A time-travelling Rebased Retard Bera. The shadow side of Milady, embodying the Ravepill philosophy.
 
 ### Mireveal
-The progressive reveal system showing Miberas in stages (1.1 through 8.8), from shadow silhouette to full artwork. See: [Reveal Stages](mireveals/README.md)
+The progressive reveal system showing Miberas in stages (1.1 through 8.8), from shadow silhouette to full artwork.
 
 ---
 
