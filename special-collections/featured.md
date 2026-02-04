@@ -39,7 +39,7 @@
 **Name:** Smilee
 **Type of Project:** Defi
 
-**Brief Description on Project:** Smilee is a DeFi protocol on Bearchain offering fBERA, the first PoL-native liquid staking token (LST) for BERA, enabling users to stake for yields, claim/swap PoL dust via Swappee, and trade volatility products like impermanent gain options.
+**Brief Description on Project:** Smilee is a DeFi protocol on Berachain offering fBERA, the first PoL-native liquid staking token (LST) for BERA, enabling users to stake for yields, claim/swap PoL dust via Swappee, and trade volatility products like impermanent gain options.
 
 **Link to Files:** SS3_Smilee.PNG
 **Link to Project:**
@@ -171,7 +171,7 @@ Routing.
 **Name:** Beratone
 **Type of Project:** Gaming, NFT
 
-**Brief Description on Project:** Baritone is an online multiplayer game building on Berachain.
+**Brief Description on Project:** Beratone is an online multiplayer game building on Berachain.
 **Link to Files:** SS3_Beratone Bera.PNG SS3_milady_Beratone Plushie.png
 
 **Link to Project:**

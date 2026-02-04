@@ -56,7 +56,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -92,7 +92,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 1st, 2024
 
@@ -128,7 +128,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -164,7 +164,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -200,7 +200,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -236,7 +236,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -272,7 +272,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -308,7 +308,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -344,7 +344,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -380,7 +380,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -416,7 +416,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -452,7 +452,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -488,7 +488,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -524,7 +524,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -560,7 +560,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -596,7 +596,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -632,7 +632,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 1st, 2024
 
@@ -668,7 +668,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 1st, 2024
 
@@ -704,7 +704,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -740,7 +740,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -790,7 +790,6 @@ Some mouth expressions reference altered states:
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -805,7 +804,7 @@ Some mouth expressions reference altered states:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

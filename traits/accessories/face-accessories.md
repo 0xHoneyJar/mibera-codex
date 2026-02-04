@@ -77,7 +77,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** Cultural reference within Milady around 2022, called the ‘wartime’ where a lot of Miladys put blood splatter on top of their Milady PFP.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -95,7 +94,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -155,7 +154,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** Based on an existing Milady Maker trait. The Milady trait features both a crescent moon on the forehead and four dots on the cheeks.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -173,7 +171,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -230,7 +228,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -248,7 +245,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -305,7 +302,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** Teardrop tattoo is one of Milady’s traits.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -323,7 +319,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -380,7 +376,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -398,7 +393,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -455,7 +450,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -473,7 +467,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -530,7 +524,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -548,7 +541,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -605,7 +598,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -623,7 +615,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -680,7 +672,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -698,7 +689,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -755,7 +746,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -773,7 +763,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -830,7 +820,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -848,7 +837,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -905,7 +894,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -923,7 +911,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -980,7 +968,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** In the 90s, fluorescent colors were a key part of rave culture, symbolizing freedom and self-expression. This aesthetic was a visual representation of the rave scene's spirit of liberation and individuality.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -998,7 +985,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1055,7 +1042,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1073,7 +1059,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1130,7 +1116,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** An outline of Mibera’s logo as a rendition of the original remilia / Milady smiley logo. Only natural for it to be included.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1148,7 +1133,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1205,7 +1190,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1223,7 +1207,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1280,7 +1264,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1298,7 +1281,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1355,7 +1338,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1373,7 +1355,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1431,7 +1413,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1449,7 +1430,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1506,7 +1487,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1524,7 +1504,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1582,7 +1562,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1600,7 +1579,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1659,7 +1638,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1677,7 +1655,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1734,7 +1712,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1752,7 +1729,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1809,7 +1786,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1827,7 +1803,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1886,7 +1862,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1904,7 +1879,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1961,7 +1936,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** The pride flag's history began with the rainbow flag, designed by Gilbert Baker in 1978 for San Francisco's gay community, commissioned by Harvey Milk. Inspired by the rainbow's symbolism of diversity and Judy Garland's "Over the Rainbow,"
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1979,7 +1953,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2036,7 +2010,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2054,7 +2027,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2111,7 +2084,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** Milady has tear drop as one of their traits.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2129,7 +2101,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2186,7 +2158,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2204,7 +2175,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2261,7 +2232,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2279,7 +2249,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2336,7 +2306,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2354,7 +2323,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2411,7 +2380,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2429,7 +2397,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2486,7 +2454,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2504,7 +2471,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2561,7 +2528,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2579,7 +2545,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2636,7 +2602,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2654,7 +2619,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 26, 2025
 
@@ -2711,7 +2676,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2729,7 +2693,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2786,7 +2750,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2804,7 +2767,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2861,7 +2824,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2879,7 +2841,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2937,7 +2899,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2955,7 +2916,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3012,7 +2973,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3030,7 +2990,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3085,7 +3045,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3100,7 +3059,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -3154,7 +3113,6 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3169,7 +3127,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

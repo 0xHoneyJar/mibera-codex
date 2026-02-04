@@ -84,7 +84,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** This is also a shirt that is included in the OG Bong Bears collection.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -102,7 +101,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -162,7 +161,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Alignment with Mibera art and drugs culture (rock music and psychedelic).
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -180,7 +178,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -240,7 +238,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -258,7 +255,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -318,7 +315,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation to drugs, Jay=Joint, Joint=Weed.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -336,7 +332,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -396,7 +392,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -414,7 +409,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -474,7 +469,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -492,7 +486,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 2nd, 2025
 
@@ -553,7 +547,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -571,7 +564,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -631,7 +624,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -649,7 +641,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -709,7 +701,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** LGBTQ+ and weed culture
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -727,7 +718,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -790,7 +781,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Drug and party relevance.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -808,7 +798,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -868,7 +858,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Relation with drugs, but especially psychedelic and especially shrooms.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -886,7 +875,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -948,7 +937,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** RAF’s cultural intersections with techno music, a genre born in 1980s Detroit but exploding in Berlin post-1989 amid the city’s reunification and underground scene.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -966,7 +954,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1028,7 +1016,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1046,7 +1033,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1107,7 +1094,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1125,7 +1111,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1185,7 +1171,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Power dynamic, LGBTQ+ community, female vs. male / yin vs. yang.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1203,7 +1188,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1263,7 +1248,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Spiral takes a big role in Mibera’s symbolism in general.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1281,7 +1265,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1341,7 +1325,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Relation to rave culture and drugs.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1359,7 +1342,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1419,7 +1402,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1437,7 +1419,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1497,7 +1479,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** It’s an Indigenous / Native American based brand.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1515,7 +1496,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1575,7 +1556,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1593,7 +1573,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1654,7 +1634,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** The art of rebellion, vigilance, and deadly self-defense.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1672,7 +1651,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1734,7 +1713,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** The official website for Mibera under The Honey Jar.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1752,7 +1730,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1812,7 +1790,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Aboriginal is one of Mibera’s ancestors.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1830,7 +1807,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1890,7 +1867,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** In relation to LGBTQ+ community, liberation, love, and power.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1908,7 +1884,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1968,7 +1944,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** In relation to drugs, music, and Grateful Dead character graphic reference. Which heavily ties back to drugs and music culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1986,7 +1961,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2046,7 +2021,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2064,7 +2038,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2125,7 +2099,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** In relation to Milady Maker as part of our archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2143,7 +2116,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 3, 2024
 
@@ -2203,7 +2176,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2221,7 +2193,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2282,7 +2254,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2300,7 +2271,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2360,7 +2331,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation with drugs, especially weed as shown by the graphics.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2378,7 +2348,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2438,7 +2408,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its cultural relevance in web3
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2456,7 +2425,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2516,7 +2485,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation to Iggi Azalea $MOTHER merch and its cultural relevance in the web3 industry
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2534,7 +2502,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 19, 2024
 
@@ -2594,7 +2562,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2612,7 +2579,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2672,7 +2639,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2690,7 +2656,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2750,7 +2716,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2768,7 +2733,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2829,7 +2794,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its symbolism in freeing Ross, referring to Ross Ulbricht and The Silk Road which were huge inspirations for Mibera’s website and culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2847,7 +2811,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2907,7 +2871,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2925,7 +2888,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2985,7 +2948,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3003,7 +2965,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22 , 2024
 
@@ -3063,7 +3025,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3081,7 +3042,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10 , 2024
 
@@ -3141,7 +3102,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Alignment with Mibera art and drugs culture (rock music and psychedelic).
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3159,7 +3119,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3219,7 +3179,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3237,7 +3196,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3297,7 +3256,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation to Milady culture / community and lore
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3315,7 +3273,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3376,7 +3334,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3394,7 +3351,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3454,7 +3411,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation to music and drugs.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3472,7 +3428,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3532,7 +3488,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3550,7 +3505,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3610,7 +3565,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3628,7 +3582,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3688,7 +3642,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** It’s a parody of RAF about French ravers, which is very much Mibera.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3706,7 +3659,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3766,7 +3719,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation to movement, freedom, and art.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3784,7 +3736,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3844,7 +3796,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation to one of Milady’s meme culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3862,7 +3813,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3922,7 +3873,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its cultural relevance, internet culture, and very rave-coded based on its rainbow based color.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3940,7 +3890,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 8, 2024
 
@@ -4000,7 +3950,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Bera version of Nyan Cat, cultural relevance and impact in the space.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4018,7 +3967,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -4078,7 +4027,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation to Charlie Fang, the founder of Milady Maker
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4096,7 +4044,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4157,7 +4105,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation to Milady Maker
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4175,7 +4122,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4235,7 +4182,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its relation with privacy, freedom, and political movement.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4253,7 +4199,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 12, 2025
 
@@ -4314,7 +4260,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4332,7 +4277,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -4393,7 +4338,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its indirect ties to Milady Maker as well as its unconventional and provocative nature.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4411,7 +4355,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 20, 2024
 
@@ -4471,7 +4415,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Direct drug references.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4489,7 +4432,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -4549,7 +4492,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4567,7 +4509,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -4627,7 +4569,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4645,7 +4586,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4705,7 +4646,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4723,7 +4663,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -4783,7 +4723,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4801,7 +4740,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 10, 2025
 
@@ -4861,7 +4800,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4879,7 +4817,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 2, 2025
 
@@ -4939,7 +4877,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4957,7 +4894,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5017,7 +4954,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5035,7 +4971,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5095,7 +5031,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5113,7 +5048,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5173,7 +5108,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5191,7 +5125,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5251,7 +5185,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5269,7 +5202,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5329,7 +5262,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5347,7 +5279,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5407,7 +5339,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5425,7 +5356,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -5485,7 +5416,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5503,7 +5433,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5563,7 +5493,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5581,7 +5510,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** April 13, 2025
 
@@ -5641,7 +5570,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5659,7 +5587,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5719,7 +5647,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5737,7 +5664,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5797,7 +5724,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5815,7 +5741,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -5875,7 +5801,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Cultural relevance with one of Mibera’s archetypes (Hindu) and several culture inspirations.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5893,7 +5818,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -5953,7 +5878,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Cultural relevance with one of Mibera’s archetypes (Buddhism) and several culture inspirations.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5971,7 +5895,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -6031,7 +5955,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Lore / historical relevance with Pythia
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6049,7 +5972,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 13, 2025
 
@@ -6109,7 +6032,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6127,7 +6049,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -6188,7 +6110,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6206,7 +6127,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -6268,7 +6189,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6286,7 +6206,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -6346,7 +6266,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Alignment with the Milady spirit.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6364,7 +6283,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -6425,7 +6344,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6443,7 +6361,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -6503,7 +6421,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6521,7 +6438,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -6581,7 +6498,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6599,7 +6515,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -6660,7 +6576,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Alignment with the Milady spirit.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6678,7 +6593,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -6738,7 +6653,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6756,7 +6670,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -6816,7 +6730,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6834,7 +6747,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -6894,7 +6807,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6912,7 +6824,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -6972,7 +6884,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6990,7 +6901,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7050,7 +6961,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7068,7 +6978,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 8, 2024
 
@@ -7128,7 +7038,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7146,7 +7055,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 8, 2024
 
@@ -7206,7 +7115,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7224,7 +7132,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7284,7 +7192,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7302,7 +7209,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7362,7 +7269,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7380,7 +7286,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7441,7 +7347,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7459,7 +7364,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7520,7 +7425,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7538,7 +7442,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7598,7 +7502,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its way of poking / referencing Milady Maker 333.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7616,7 +7519,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7676,7 +7579,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its way of poking / referencing Milady Maker 333.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7694,7 +7596,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7754,7 +7656,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its way of poking / referencing Milady Maker 333.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7772,7 +7673,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7832,7 +7733,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its way of poking / referencing Milady Maker 333.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7850,7 +7750,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7910,7 +7810,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7928,7 +7827,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -7988,7 +7887,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8006,7 +7904,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -8066,7 +7964,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Its cultural relevance to love and acceptance towards the LGBTQ+ community, which is very much aligned with Mibera’s values.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8084,7 +7981,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -8144,7 +8041,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8162,7 +8058,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -8222,7 +8118,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** Moral / political alignment with Mibera’s messages / vibe as a whole community with it not having a side (left / right).
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8240,7 +8135,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -8300,7 +8195,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8318,7 +8212,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -8378,7 +8272,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8396,7 +8289,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -8456,7 +8349,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8474,7 +8366,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8534,7 +8426,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8552,7 +8443,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -8612,7 +8503,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8630,7 +8520,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8690,7 +8580,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8708,7 +8597,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8769,7 +8658,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8787,7 +8675,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8847,7 +8735,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8865,7 +8752,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -8925,7 +8812,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8943,7 +8829,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 22, 2024
 
@@ -9003,7 +8889,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9021,7 +8906,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -9081,7 +8966,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9099,7 +8983,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 22, 2024
 
@@ -9159,7 +9043,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9177,7 +9060,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -9233,7 +9116,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9248,7 +9130,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9302,7 +9184,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9317,7 +9198,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9371,7 +9252,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9386,7 +9266,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9440,7 +9320,6 @@ Many shirts reference real movements, events, or figures:
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9455,7 +9334,7 @@ Many shirts reference real movements, events, or figures:
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

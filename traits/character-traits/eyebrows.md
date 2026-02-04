@@ -51,7 +51,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -78,7 +78,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -105,7 +105,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -132,7 +132,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -159,7 +159,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -186,7 +186,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -213,7 +213,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -240,7 +240,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -267,7 +267,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 30, 2024
 
@@ -317,13 +317,12 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

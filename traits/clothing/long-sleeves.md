@@ -74,7 +74,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** In relation to the Chicago Detroit scene and culture; Chicago Detroit is one of the four Mibera’s archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -92,7 +91,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 26, 2024
 
@@ -153,7 +152,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -171,7 +169,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -232,7 +230,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** In relation to secret rave culture, scene, and fashion.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -250,7 +247,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 29, 2024
 
@@ -311,7 +308,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -329,7 +325,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 28, 2024
 
@@ -389,7 +385,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Suit and tie reflect Milady’s ‘corporation’ vibe satirically. Milady being one of our archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -407,7 +402,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 29, 2024
 
@@ -467,7 +462,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** The 1988 Seoul Olympics opened South Korea to global influences, sparking its underground rave scene. The rave scene is heavily tied to Mibera’s culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -485,7 +479,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -546,7 +540,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Bootleg that Babybera bought in real life.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -564,7 +557,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -624,7 +617,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** In relation to Chicago Detroit scene and culture, directly tied to one of Mibera’s archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -642,7 +634,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -703,7 +695,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Aside from being a literal cult, the Aum cult is heavily tied to usage of drugs, especially LSD, which is very Mibera.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -721,7 +712,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 25, 2024
 
@@ -782,7 +773,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -800,7 +790,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 29, 2024
 
@@ -860,7 +850,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -878,7 +867,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -938,7 +927,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -956,7 +944,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 25, 2024
 
@@ -1016,7 +1004,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** In relation to Milady, being one of Mibera’s archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1034,7 +1021,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1094,7 +1081,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** William Gibson is often seen wearing the portrayed clothing piece. Willam Gibson is hugely impactful to the roots of the cyberspace / cyberpunk subgenre.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1112,7 +1098,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1172,7 +1158,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** In relation with Chicago Detroit fashion and scene, which is directly related to one of Mibera’s archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1190,7 +1175,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 28, 2024
 
@@ -1250,7 +1235,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Suit and tie reflect Milady’s ‘corporation’ vibe satirically. Milady being one of our archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1268,7 +1252,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1328,7 +1312,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** In relation to Irish underground rave / music culture. Music and the underground scene are big parts of Mibera culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1346,7 +1329,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1407,7 +1390,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Jani is The Honey Jar founder and one of the big brains behind Mibera lore and creation.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1425,7 +1407,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1485,7 +1467,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Its relation to the Chicago Detroit music scene, which is heavily tied to Mibera’s culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1503,7 +1484,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1564,7 +1545,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Derrick May is a figure deeply influential in the Detroit techno scene, which is tied to Mibera’s culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1582,7 +1562,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 25, 2024
 
@@ -1643,7 +1623,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Suit and tie reflect Milady’s ‘corporation’ vibe satirically. Milady being one of our archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1661,7 +1640,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1721,7 +1700,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Purely to acknowledge the club’s existence, as it is quite literally named “Chicago Bears”. Literal word-play relates to Chicago Detroit, as one of our archetypes, and Berachain, the ecosystem Mibera was built on.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1739,7 +1717,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1799,7 +1777,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Ticker $Bitcoin (HarryPotterObamaSonic10Inu) is a memecoin project that memes $BTC as the leading token in the web3 space. Their community is very culty which can relate to how Miberas aspired to be, and they are also close to the Berachain community in general.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1817,7 +1794,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1877,7 +1854,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1895,7 +1871,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1955,7 +1931,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1973,7 +1948,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2033,7 +2008,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2051,7 +2025,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2111,7 +2085,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** In relation with Chicago Detroit as one of Mibera’s archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2129,7 +2102,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2189,7 +2162,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2207,7 +2179,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 22, 2025
 
@@ -2267,7 +2239,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2285,7 +2256,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2345,7 +2316,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2363,7 +2333,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2423,7 +2393,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Baby Bera merch
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2441,7 +2410,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2502,7 +2471,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2520,7 +2488,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 31, 2024
 
@@ -2580,7 +2548,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2598,7 +2565,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 31, 2024
 
@@ -2658,7 +2625,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2676,7 +2642,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 31, 2024
 
@@ -2736,7 +2702,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2754,7 +2719,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 31, 2024
 
@@ -2814,7 +2779,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2832,7 +2796,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -2892,7 +2856,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Fable is one of projects building in the Berachain ecosystem.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2910,7 +2873,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 11, 2025
 
@@ -2971,7 +2934,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2989,7 +2951,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -3049,7 +3011,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** It’s a clothing piece that could be seen in the race scene, and Chinese is one of Mibera’s ancestor trait options.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3067,7 +3028,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3127,7 +3088,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Mongolian being one of Mibera ancestor traits.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3145,7 +3105,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** April 3, 2025
 
@@ -3205,7 +3165,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Its relation to Orthodox beliefs.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3223,7 +3182,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 2, 2025
 
@@ -3284,7 +3243,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** In relation to the drug culture and usage within Mibera lore.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3302,7 +3260,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3363,7 +3321,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Its relation to Mibera, through its culture, musical history influence, and spiritual side of things.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3381,7 +3338,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3441,7 +3398,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** The reference was rooted from a video about Khat, Ethiopia’s natural ‘spiritual’ drug; in which a lot of it ties back to Mibera (Ethiopia as one of our ancestor types, drug use, and Khat as one of our drug traits).
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3459,7 +3415,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -3520,7 +3476,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Sufi is one of Mibera ancestor types.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3538,7 +3493,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -3599,7 +3554,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** The clothing piece is a direct reference of the “Buddhist Techno Priest”, which is very Mibera.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3617,7 +3571,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3678,7 +3632,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** The clothing piece is a direct reference from traditional Mongolian attire. Mongolian are one of Mibera ancestor types.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3696,7 +3649,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3757,7 +3710,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Its relation with Hindu and Buddhism culture; Hindu being one of Mibera ancestor types.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3775,7 +3727,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3835,7 +3787,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** Sami being one of Mibera ancestor types.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3853,7 +3804,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3913,7 +3864,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3931,7 +3881,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3991,7 +3941,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4009,7 +3958,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4064,7 +4013,6 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4079,7 +4027,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

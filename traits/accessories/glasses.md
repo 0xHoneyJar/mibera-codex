@@ -66,7 +66,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** OlympusDAO in Berachain history. One of Bong Bear’s traits.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -84,7 +83,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -141,7 +140,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -159,7 +157,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -216,7 +214,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -234,7 +231,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -291,7 +288,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -309,7 +305,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -368,7 +364,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** Glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -386,7 +381,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -443,7 +438,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** This is an existing trait within Milady Maker.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -461,7 +455,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -518,7 +512,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** This is an existing Milady Maker trait.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -536,7 +529,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 16, 2024
 
@@ -593,7 +586,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** Glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -611,7 +603,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -668,7 +660,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** Its relation to the house music history in Chicago, highlighting the birth of the first female DJ in Chicago’s house scene.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -686,7 +677,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -743,7 +734,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -761,7 +751,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -818,7 +808,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -836,7 +825,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -893,7 +882,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -911,7 +899,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -968,7 +956,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -986,7 +973,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -1043,7 +1030,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** glow sticks being a big part of 90s rave culture, aligning with Mibera’s.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1061,7 +1047,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -1118,7 +1104,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1136,7 +1121,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 17, 2024
 
@@ -1193,7 +1178,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1211,7 +1195,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 3rd, 2024
 
@@ -1268,7 +1252,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1286,7 +1269,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 16, 2024
 
@@ -1343,7 +1326,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1361,7 +1343,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -1418,7 +1400,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** Based on a Bong Bear’s trait / art tactical glasses.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1436,7 +1417,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1493,7 +1474,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1511,7 +1491,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -1568,7 +1548,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** This trait is “invisible” in the original Milady collection. https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Glasses%22,%22val
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1586,7 +1565,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -1643,7 +1622,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** One of Bong Bear traits.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1661,7 +1639,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 17, 2024
 
@@ -1718,7 +1696,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** Seen in the OG Bong Bears collection, on Beartull’s 1/1 - which appears to be a Squirtle itself. - https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/66075445 032688988859229341194671037535804503065310441849644897976489592487937
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1736,7 +1713,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 17, 2024
 
@@ -1793,7 +1770,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1811,7 +1787,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1868,7 +1844,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** music culture, and its association with Yung Singh who was known for his underground performance with his Punjabi Garage mix as his main niche.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1886,7 +1861,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1943,7 +1918,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1961,7 +1935,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2018,7 +1992,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2036,7 +2009,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -2093,7 +2066,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2111,7 +2083,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 18 June, 2024
 
@@ -2168,7 +2140,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2186,7 +2157,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 16, 2024
 
@@ -2243,7 +2214,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2261,7 +2231,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 17, 2024
 
@@ -2318,7 +2288,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2336,7 +2305,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2393,7 +2362,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2411,7 +2379,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2468,7 +2436,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2486,7 +2453,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -2543,7 +2510,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2561,7 +2527,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -2618,7 +2584,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** One of Bong Bear’s traits.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2636,7 +2601,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 17, 2024
 
@@ -2693,7 +2658,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2711,7 +2675,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 18, 2024
 
@@ -2768,7 +2732,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2786,7 +2749,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** February 28, 2024
 
@@ -2841,7 +2804,6 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -2856,7 +2818,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

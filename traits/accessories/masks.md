@@ -70,7 +70,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -88,7 +87,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -147,7 +146,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** Rave culture as well as relevance to one of our ancestors and archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -165,7 +163,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 19, 2024
 
@@ -222,7 +220,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -240,7 +237,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -297,7 +294,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -315,7 +311,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 17, 2024
 
@@ -372,7 +368,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -390,7 +385,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -447,7 +442,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -465,7 +459,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -523,7 +517,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -541,7 +534,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -598,7 +591,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -616,7 +608,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -673,7 +665,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -691,7 +682,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -748,7 +739,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -766,7 +756,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -824,7 +814,6 @@ SS4_Bera Ski.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -842,7 +831,7 @@ SS4_Bera Ski.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -899,7 +888,6 @@ SS3_Teddy Ski Mask.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -917,7 +905,7 @@ SS3_Teddy Ski Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -974,7 +962,6 @@ SS4_pink bera ski.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -992,7 +979,7 @@ SS4_pink bera ski.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 26, 2025
 
@@ -1049,7 +1036,6 @@ SS4_pink bera ski.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1067,7 +1053,7 @@ SS4_pink bera ski.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1124,7 +1110,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1142,7 +1127,7 @@ SS4_acidhouse_Kim Jong Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -1201,7 +1186,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1219,7 +1203,7 @@ SS4_acidhouse_Kim Jong Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -1277,7 +1261,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1295,7 +1278,7 @@ SS4_acidhouse_Kim Jong Mask.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -1352,7 +1335,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1370,7 +1352,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1427,7 +1409,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1445,7 +1426,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 17, 2024
 
@@ -1502,7 +1483,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1520,7 +1500,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 17, 2024
 
@@ -1577,7 +1557,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Archetype Alignment:** Music and cultural relevance to Mibera’s lore and identity.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1595,7 +1574,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1652,7 +1631,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1670,7 +1648,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -1727,7 +1705,6 @@ SS4_freetekno_Bear Mask.PNG
 
 **Archetype Alignment:** Smokey The Bera head
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1745,7 +1722,7 @@ SS4_freetekno_Bear Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1802,7 +1779,6 @@ SS4_freetekno_Bear Mask.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1820,7 +1796,7 @@ SS4_freetekno_Bear Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1877,7 +1853,6 @@ SS5_henlo mask.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1895,7 +1870,7 @@ SS5_henlo mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 26, 2025
 
@@ -1952,7 +1927,6 @@ SS5_henlo mask.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1970,7 +1944,7 @@ SS5_henlo mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -2027,7 +2001,6 @@ SS5_henlo mask.PNG
 
 **Archetype Alignment:** Otyken influence OTYKEN - LORD OF HONEY (ВЕРТИКАЛЬНЫЙ КЛИП)
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2045,7 +2018,7 @@ SS5_henlo mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -2102,7 +2075,6 @@ SS5_Founders Mask.PNG
 
 **Archetype Alignment:** Jani’s mask from Singapore (Token 2024)
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2120,7 +2092,7 @@ SS5_Founders Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 15, 2025
 
@@ -2177,7 +2149,6 @@ SS5_Founders Mask.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2195,7 +2166,7 @@ SS5_Founders Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -2250,7 +2221,6 @@ SS5_Founders Mask.PNG
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -2265,7 +2235,7 @@ SS5_Founders Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -2319,7 +2289,6 @@ SS5_Founders Mask.PNG
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -2334,7 +2303,7 @@ SS5_Founders Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -2388,7 +2357,6 @@ SS5_Founders Mask.PNG
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -2403,7 +2371,7 @@ SS5_Founders Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -2457,7 +2425,6 @@ SS5_Founders Mask.PNG
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -2472,7 +2439,7 @@ SS5_Founders Mask.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

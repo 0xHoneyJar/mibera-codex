@@ -72,7 +72,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -108,7 +108,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -144,7 +144,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -177,7 +177,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -193,7 +192,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -226,7 +225,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -242,7 +240,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -275,7 +273,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -291,7 +288,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -324,7 +321,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -340,7 +336,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -373,7 +369,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -389,7 +384,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -422,7 +417,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -438,7 +432,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -471,7 +465,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -487,7 +480,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -523,7 +516,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -559,7 +552,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -595,7 +588,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -631,7 +624,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -667,7 +660,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -703,7 +696,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -739,7 +732,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -772,7 +765,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:** There are grey eyes within the original milady collection. https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Eye+Color%22,%22
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -788,7 +780,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -824,7 +816,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -860,7 +852,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -896,7 +888,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -932,7 +924,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -968,7 +960,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1004,7 +996,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1040,7 +1032,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1076,7 +1068,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1112,7 +1104,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1148,7 +1140,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1184,7 +1176,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1220,7 +1212,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1256,7 +1248,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1292,7 +1284,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1328,7 +1320,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1364,7 +1356,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1400,7 +1392,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1436,7 +1428,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1472,7 +1464,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1508,7 +1500,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1544,7 +1536,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1580,7 +1572,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1616,7 +1608,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1652,7 +1644,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1688,7 +1680,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1724,7 +1716,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1760,7 +1752,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1796,7 +1788,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1832,7 +1824,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1868,7 +1860,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1904,7 +1896,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1940,7 +1932,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -1976,7 +1968,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2012,7 +2004,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2048,7 +2040,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2084,7 +2076,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2120,7 +2112,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2156,7 +2148,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2192,7 +2184,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2228,7 +2220,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2264,7 +2256,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2300,7 +2292,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2336,7 +2328,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2372,7 +2364,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2408,7 +2400,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2444,7 +2436,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2480,7 +2472,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2516,7 +2508,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2552,7 +2544,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2588,7 +2580,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2624,7 +2616,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2660,7 +2652,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2696,7 +2688,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2732,7 +2724,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2768,7 +2760,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2804,7 +2796,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2840,7 +2832,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2876,7 +2868,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2912,7 +2904,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2948,7 +2940,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -2984,7 +2976,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3020,7 +3012,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3056,7 +3048,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3092,7 +3084,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3128,7 +3120,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3164,7 +3156,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3200,7 +3192,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3236,7 +3228,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3272,7 +3264,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3308,7 +3300,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 3, 2024
 
@@ -3358,7 +3350,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3373,7 +3364,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -3427,7 +3418,6 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3442,7 +3432,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

@@ -50,7 +50,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -86,7 +86,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -122,7 +122,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -158,7 +158,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -194,7 +194,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -230,7 +230,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -266,7 +266,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -302,7 +302,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -338,7 +338,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -374,7 +374,7 @@ honey__w2.PNG honey__w2.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -410,7 +410,7 @@ honey__w2.PNG honey__w2.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 
@@ -446,7 +446,7 @@ honey__w2.PNG honey__w2.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 13, 2024 ---
 

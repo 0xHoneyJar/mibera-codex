@@ -75,7 +75,6 @@ SS3_freetekno_LA Rave Flyers.PNG
 
 **Archetype Alignment:** Rave flyers are an important aesthetic influence on Mibera.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -93,7 +92,7 @@ SS3_freetekno_LA Rave Flyers.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -150,7 +149,6 @@ SS3_freetekno_Scum Manifesto.png
 
 **Archetype Alignment:** its correlation with a Tribe Called Red (?)
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -168,7 +166,7 @@ SS3_freetekno_Scum Manifesto.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -225,7 +223,6 @@ SS2_freetekno_Mighty Hulk Toy.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -243,7 +240,7 @@ SS2_freetekno_Mighty Hulk Toy.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -301,7 +298,6 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -319,7 +315,7 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -376,7 +372,6 @@ SS3_acidhouse_Flying Saucer.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -394,7 +389,7 @@ SS3_acidhouse_Flying Saucer.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -451,7 +446,6 @@ SS3_freetekno_Peyote Rattle.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -469,7 +463,7 @@ SS3_freetekno_Peyote Rattle.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -527,7 +521,6 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -545,7 +538,7 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -604,7 +597,6 @@ SS3_Sacred Mirrors.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -622,7 +614,7 @@ SS3_Sacred Mirrors.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 7, 2024
 
@@ -679,7 +671,6 @@ SS3_Bhang.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -697,7 +688,7 @@ SS3_Bhang.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -754,7 +745,6 @@ SS3_milady_Remilia Cig Pack.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -772,7 +762,7 @@ SS3_milady_Remilia Cig Pack.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -829,7 +819,6 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -847,7 +836,7 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -904,7 +893,6 @@ SS3_Anarchist Cookbook.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -922,7 +910,7 @@ SS3_Anarchist Cookbook.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -979,7 +967,6 @@ SS3_milady_Boo Bear 2.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -997,7 +984,7 @@ SS3_milady_Boo Bear 2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -1054,7 +1041,6 @@ SS3_milady_Boo Bear 1.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1072,7 +1058,7 @@ SS3_milady_Boo Bear 1.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -1129,7 +1115,6 @@ SS3_milady_Boo Bear 3.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1147,7 +1132,7 @@ SS3_milady_Boo Bear 3.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -1204,7 +1189,6 @@ SS3_milady_Boo Bear 4.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1222,7 +1206,7 @@ SS3_milady_Boo Bear 4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -1279,7 +1263,6 @@ SS3_acidhouse_Watergun 1.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1297,7 +1280,7 @@ SS3_acidhouse_Watergun 1.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -1354,7 +1337,6 @@ SS3_acidhouse_Watergun 2.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1372,7 +1354,7 @@ SS3_acidhouse_Watergun 2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -1429,7 +1411,6 @@ SS3_Yohimbe Bark.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1447,7 +1428,7 @@ SS3_Yohimbe Bark.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -1504,7 +1485,6 @@ SS3_freetekno_Mibera Psyops Manual.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1522,7 +1502,7 @@ SS3_freetekno_Mibera Psyops Manual.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -1579,7 +1559,6 @@ SS3_freetekno_thai_Kratom.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1597,7 +1576,7 @@ SS3_freetekno_thai_Kratom.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -1654,7 +1633,6 @@ SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1672,7 +1650,7 @@ SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -1729,7 +1707,6 @@ SS3_freetekno_Club Mate.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1747,7 +1724,7 @@ SS3_freetekno_Club Mate.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -1804,7 +1781,6 @@ SS3_Triskelion Ring.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1822,7 +1798,7 @@ SS3_Triskelion Ring.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -1880,7 +1856,6 @@ SS3_Rape Sourcebook.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1898,7 +1873,7 @@ SS3_Rape Sourcebook.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 2, 2025
 
@@ -1955,7 +1930,6 @@ SS3_freetekno_ancient_greek_henbane.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1973,7 +1947,7 @@ SS3_freetekno_ancient_greek_henbane.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -2030,7 +2004,6 @@ SS3_milady_Beads.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2048,7 +2021,7 @@ SS3_milady_Beads.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -2106,7 +2079,6 @@ SS3_freetekno_Spiral Tribe.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2124,7 +2096,7 @@ SS3_freetekno_Spiral Tribe.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 3, 2024
 
@@ -2181,7 +2153,6 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2199,7 +2170,7 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -2258,7 +2229,6 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2276,7 +2246,7 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -2333,7 +2303,6 @@ SS3_chicagodetroit_Normal Bong.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2351,7 +2320,7 @@ SS3_chicagodetroit_Normal Bong.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -2408,7 +2377,6 @@ SS3_pythenians oracle.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2426,7 +2394,7 @@ SS3_pythenians oracle.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 22, 2025
 
@@ -2483,7 +2451,6 @@ SS3_Clandestine Labs.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2501,7 +2468,7 @@ SS3_Clandestine Labs.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -2558,7 +2525,6 @@ SS3_bera pudgy plushie.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2576,7 +2542,7 @@ SS3_bera pudgy plushie.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 22, 2025
 
@@ -2633,7 +2599,6 @@ SS3_milady_Maid Fumo.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2651,7 +2616,7 @@ SS3_milady_Maid Fumo.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -2708,7 +2673,6 @@ SS3_Honey Comb.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2726,7 +2690,7 @@ SS3_Honey Comb.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -2783,7 +2747,6 @@ SS3_acidhouse_Blue Meanie.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2801,7 +2764,7 @@ SS3_acidhouse_Blue Meanie.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -2858,7 +2821,6 @@ SS3_mad scientists.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2876,7 +2838,7 @@ SS3_mad scientists.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 22, 2025
 
@@ -2933,7 +2895,6 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2951,7 +2912,7 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -3008,7 +2969,6 @@ SS3_berachain mentioned.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3026,7 +2986,7 @@ SS3_berachain mentioned.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 23, 2025
 
@@ -3083,7 +3043,6 @@ SS2_The Rose of Paracelsus.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3101,7 +3060,7 @@ SS2_The Rose of Paracelsus.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 16, 2024
 
@@ -3159,7 +3118,6 @@ SS3_milady_satanists_clear pill.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3177,7 +3135,7 @@ SS3_milady_satanists_clear pill.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -3234,7 +3192,6 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3252,7 +3209,7 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 23, 2024
 
@@ -3309,7 +3266,6 @@ SS3_milady_Buy Bitcoin.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3327,7 +3283,7 @@ SS3_milady_Buy Bitcoin.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -3384,7 +3340,6 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3402,7 +3357,7 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -3459,7 +3414,6 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3477,7 +3431,7 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -3535,7 +3489,6 @@ SS3_milady_Handheld Sickle.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3553,7 +3506,7 @@ SS3_milady_Handheld Sickle.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -3611,7 +3564,6 @@ SS3_milady_hindu_ashwagandha.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3629,7 +3581,7 @@ SS3_milady_hindu_ashwagandha.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -3686,7 +3638,6 @@ SS3_milady_Band Bear 1.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3704,7 +3655,7 @@ SS3_milady_Band Bear 1.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -3761,7 +3712,6 @@ SS3_Ooga Booga Bera.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3779,7 +3729,7 @@ SS3_Ooga Booga Bera.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -3836,7 +3786,6 @@ SS3_Mascot Jani Bera.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3854,7 +3803,7 @@ SS3_Mascot Jani Bera.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -3911,7 +3860,6 @@ SS3_milady_Honey Stick.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3929,7 +3877,7 @@ SS3_milady_Honey Stick.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -3986,7 +3934,6 @@ SS3_modern_irish_Buckfast Bottle.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4004,7 +3951,7 @@ SS3_modern_irish_Buckfast Bottle.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -4061,7 +4008,6 @@ SS3_luca pudgy plushie.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4079,7 +4025,7 @@ SS3_luca pudgy plushie.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 22, 2025
 
@@ -4136,7 +4082,6 @@ SS3_THC Bear.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4154,7 +4099,7 @@ SS3_THC Bear.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 23, 2025
 
@@ -4211,7 +4156,6 @@ SS3_milady_Remilia Quarterly.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4229,7 +4173,7 @@ SS3_milady_Remilia Quarterly.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 2, 2024
 
@@ -4286,7 +4230,6 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4304,7 +4247,7 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -4361,7 +4304,6 @@ SS3_TechGnosis.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4379,7 +4321,7 @@ SS3_TechGnosis.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 16, 2024
 
@@ -4436,7 +4378,6 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4454,7 +4395,7 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -4511,7 +4452,6 @@ SS4_milady_Baby Polar Bear.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4529,7 +4469,7 @@ SS4_milady_Baby Polar Bear.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -4586,7 +4526,6 @@ SS2_milady_Pina Colada.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4604,7 +4543,7 @@ SS2_milady_Pina Colada.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -4661,7 +4600,6 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4679,7 +4617,7 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -4736,7 +4674,6 @@ SS3_freetekno_Peyote Feather Fan.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4754,7 +4691,7 @@ SS3_freetekno_Peyote Feather Fan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7 , 2024
 
@@ -4812,7 +4749,6 @@ SS1_chicagodetroit_Vape Pen.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4830,7 +4766,7 @@ SS1_chicagodetroit_Vape Pen.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -4887,7 +4823,6 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4905,7 +4840,7 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -4962,7 +4897,6 @@ SS2_acidhouse_Chillum.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4980,7 +4914,7 @@ SS2_acidhouse_Chillum.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 4, 2024
 
@@ -5037,7 +4971,6 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 
 **Archetype Alignment:** Rave flyers are an important aesthetic influence on Mibera. It also examines
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5055,7 +4988,7 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -5112,7 +5045,6 @@ SS4_milady_Bond Bear 3.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5130,7 +5062,7 @@ SS4_milady_Bond Bear 3.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -5187,7 +5119,6 @@ SS4_milady_Bond Bear 2.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5205,7 +5136,7 @@ SS4_milady_Bond Bear 2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -5262,7 +5193,6 @@ SS4_milady_Bond Bear 4.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5280,7 +5210,7 @@ SS4_milady_Bond Bear 4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -5337,7 +5267,6 @@ SS4_milady_Bond Bear 1.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5355,7 +5284,7 @@ SS4_milady_Bond Bear 1.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -5412,7 +5341,6 @@ SS2_acidhouse_Penis Envy.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5430,7 +5358,7 @@ SS2_acidhouse_Penis Envy.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 6, 2024
 
@@ -5487,7 +5415,6 @@ SS2_ancient_arabs_nutmeg.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5505,7 +5432,7 @@ SS2_ancient_arabs_nutmeg.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -5562,7 +5489,6 @@ SS4_milady_Chrome Hearts Watch.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5580,7 +5506,7 @@ SS4_milady_Chrome Hearts Watch.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -5637,7 +5563,6 @@ SS4_freetekno_Spiral Fossil.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5655,7 +5580,7 @@ SS4_freetekno_Spiral Fossil.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -5713,7 +5638,6 @@ SS3_chicagodetroit_Fan.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5731,7 +5655,7 @@ SS3_chicagodetroit_Fan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -5788,7 +5712,6 @@ SS3_acidhouse_Green Glowstick.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5806,7 +5729,7 @@ SS3_acidhouse_Green Glowstick.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 23, 2024
 
@@ -5863,7 +5786,6 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5881,7 +5803,7 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -5938,7 +5860,6 @@ SS2_milady_Radio.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5956,7 +5877,7 @@ SS2_milady_Radio.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2025
 
@@ -6013,7 +5934,6 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6031,7 +5951,7 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -6088,7 +6008,6 @@ SS2_freetekno_Male Tears Mug.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6106,7 +6025,7 @@ SS2_freetekno_Male Tears Mug.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -6163,7 +6082,6 @@ SS4_acidhouse_Jewelry.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6181,7 +6099,7 @@ SS4_acidhouse_Jewelry.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -6238,7 +6156,6 @@ SS4_milady_Baby Panda Bear.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6256,7 +6173,7 @@ SS4_milady_Baby Panda Bear.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -6313,7 +6230,6 @@ SS4_milady_Baby Bear.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6331,7 +6247,7 @@ SS4_milady_Baby Bear.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -6388,7 +6304,6 @@ SS2_Come and Take It.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6406,7 +6321,7 @@ SS2_Come and Take It.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 16, 2024
 
@@ -6463,7 +6378,6 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6481,7 +6395,7 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -6538,7 +6452,6 @@ SS3_galactic gecko tarot.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6556,7 +6469,7 @@ SS3_galactic gecko tarot.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 22, 2025
 
@@ -6613,7 +6526,6 @@ SS2_freetekno_Peyote.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6631,7 +6543,7 @@ SS2_freetekno_Peyote.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -6689,7 +6601,6 @@ SS2_acidhouse_Maracas.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6707,7 +6618,7 @@ SS2_acidhouse_Maracas.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 6, 2024
 
@@ -6764,7 +6675,6 @@ SS2_Capitalist Realism.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6782,7 +6692,7 @@ SS2_Capitalist Realism.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 7, 2024
 
@@ -6839,7 +6749,6 @@ SS4_acidhouse_Glove.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6857,7 +6766,7 @@ SS4_acidhouse_Glove.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -6914,7 +6823,6 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6932,7 +6840,7 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -6989,7 +6897,6 @@ SS4_milady_Otyken Honey.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7007,7 +6914,7 @@ SS4_milady_Otyken Honey.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 13, 2024
 
@@ -7065,7 +6972,6 @@ SS2_acidhouse_Golden Teacher.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7083,7 +6989,7 @@ SS2_acidhouse_Golden Teacher.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 6, 2024
 
@@ -7140,7 +7046,6 @@ SS2_acidhouse_Cubensis.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7158,7 +7063,7 @@ SS2_acidhouse_Cubensis.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 6, 2024
 
@@ -7215,7 +7120,6 @@ SS4_milady_Mog Hand.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7233,7 +7137,7 @@ SS4_milady_Mog Hand.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -7290,7 +7194,6 @@ SS2_tomato.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7308,7 +7211,7 @@ SS2_tomato.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -7365,7 +7268,6 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7383,7 +7285,7 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 16, 2025
 
@@ -7440,7 +7342,6 @@ SS4_milady_Radbro Plushie.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7458,7 +7359,7 @@ SS4_milady_Radbro Plushie.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -7515,7 +7416,6 @@ SS4_LSD My Problem Child.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7533,7 +7433,7 @@ SS4_LSD My Problem Child.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -7590,7 +7490,6 @@ SS2_milady_Remilia Case.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7608,7 +7507,7 @@ SS2_milady_Remilia Case.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 23, 2024
 
@@ -7665,7 +7564,6 @@ SS4_Ccru.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7683,7 +7581,7 @@ SS4_Ccru.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 7, 2024
 
@@ -7740,7 +7638,6 @@ SS4_milady_BERAVE Fan.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7758,7 +7655,7 @@ SS4_milady_BERAVE Fan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 15, 2024
 
@@ -7815,7 +7712,6 @@ SS3_freetekno_UK Rave Flyers.PNG
 
 **Archetype Alignment:** Rave flyers are an important aesthetic influence on Mibera. It also examines
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7833,7 +7729,7 @@ SS3_freetekno_UK Rave Flyers.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -7890,7 +7786,6 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7908,7 +7803,7 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -7965,7 +7860,6 @@ SS4_freetekno_90s Brick Phone.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7983,7 +7877,7 @@ SS4_freetekno_90s Brick Phone.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -8040,7 +7934,6 @@ SS2_acidhouse_Whistle.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8058,7 +7951,7 @@ SS2_acidhouse_Whistle.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 23, 2024
 
@@ -8115,7 +8008,6 @@ SS4_acidhouse_Whippet Cracker.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8133,7 +8025,7 @@ SS4_acidhouse_Whippet Cracker.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -8190,7 +8082,6 @@ SS2_freetekno_Rolling Tobacco Tin.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8208,7 +8099,7 @@ SS2_freetekno_Rolling Tobacco Tin.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -8265,7 +8156,6 @@ SS4_Gold Apollo AR942.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8283,7 +8173,7 @@ SS4_Gold Apollo AR942.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -8340,7 +8230,6 @@ SS3_chicagodetroit_Weed Nug.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8358,7 +8247,7 @@ SS3_chicagodetroit_Weed Nug.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -8415,7 +8304,6 @@ SS4_hotdog.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8433,7 +8321,7 @@ SS4_hotdog.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 25, 2025
 
@@ -8490,7 +8378,6 @@ SS4_freetekno_Pihkal.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8508,7 +8395,7 @@ SS4_freetekno_Pihkal.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -8566,7 +8453,6 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8584,7 +8470,7 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -8642,7 +8528,6 @@ SS4_milady_acidhouse_MDMA Handbook.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8660,7 +8545,7 @@ SS4_milady_acidhouse_MDMA Handbook.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -8717,7 +8602,6 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8735,7 +8619,7 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -8792,7 +8676,6 @@ SS2_chicagodetroit_glass of whiskey.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8810,7 +8693,7 @@ SS2_chicagodetroit_glass of whiskey.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 16, 2025
 
@@ -8867,7 +8750,6 @@ SS4_freetekno_Sheet Of Acid.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8885,7 +8767,7 @@ SS4_freetekno_Sheet Of Acid.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -8942,7 +8824,6 @@ SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8960,7 +8841,7 @@ SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 16, 2025
 
@@ -9017,7 +8898,6 @@ SS2_acidhouse_Subaeruginosa.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9035,7 +8915,7 @@ SS2_acidhouse_Subaeruginosa.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 6, 2024
 
@@ -9092,7 +8972,6 @@ SS4_chicagodetroit_Drum.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9110,7 +8989,7 @@ SS4_chicagodetroit_Drum.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -9167,7 +9046,6 @@ SS3_chicagodetroit_Blunt.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9185,7 +9063,7 @@ SS3_chicagodetroit_Blunt.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -9242,7 +9120,6 @@ SS2_milady_Plum Onigiri.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9260,7 +9137,7 @@ SS2_milady_Plum Onigiri.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -9317,7 +9194,6 @@ SS4_milady_Baby Sun Bear.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9335,7 +9211,7 @@ SS4_milady_Baby Sun Bear.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -9392,7 +9268,6 @@ SS3_Cypherpunk.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9410,7 +9285,7 @@ SS3_Cypherpunk.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -9467,7 +9342,6 @@ SS4_freetekno_Tihkal.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9485,7 +9359,7 @@ SS4_freetekno_Tihkal.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -9543,7 +9417,6 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9561,7 +9434,7 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -9618,7 +9491,6 @@ SS2_milady_ancient_thai_kwao krua.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9636,7 +9508,7 @@ SS2_milady_ancient_thai_kwao krua.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -9693,7 +9565,6 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9711,7 +9582,7 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -9768,7 +9639,6 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9786,7 +9656,7 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -9843,7 +9713,6 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9861,7 +9730,7 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -9918,7 +9787,6 @@ SS2_milady_Gumiberas.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9936,7 +9804,7 @@ SS2_milady_Gumiberas.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -9993,7 +9861,6 @@ SS2_acidhouse_Fidget.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10011,7 +9878,7 @@ SS2_acidhouse_Fidget.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 6, 2024
 
@@ -10068,7 +9935,6 @@ SS2_acidhouse_Liberty Caps.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10086,7 +9952,7 @@ SS2_acidhouse_Liberty Caps.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 6, 2024
 
@@ -10143,7 +10009,6 @@ SS2_milady_sober water.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10161,7 +10026,7 @@ SS2_milady_sober water.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -10218,7 +10083,6 @@ SS2_milady_Onigiri.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10236,7 +10100,7 @@ SS2_milady_Onigiri.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -10293,7 +10157,6 @@ SS4_chicagodetroit_Teal Bong.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10311,7 +10174,7 @@ SS4_chicagodetroit_Teal Bong.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -10368,7 +10231,6 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10386,7 +10248,7 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -10443,7 +10305,6 @@ SS2_milady_Mibera Mate.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10461,7 +10322,7 @@ SS2_milady_Mibera Mate.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -10518,7 +10379,6 @@ SS2_chicagodetroit_Cassette.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10536,7 +10396,7 @@ SS2_chicagodetroit_Cassette.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -10593,7 +10453,6 @@ SS4_freetekno_PS1 Controller.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10611,7 +10470,7 @@ SS4_freetekno_PS1 Controller.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -10668,7 +10527,6 @@ SS2_acidhouse_Mexicana.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10686,7 +10544,7 @@ SS2_acidhouse_Mexicana.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 6, 2024
 
@@ -10743,7 +10601,6 @@ SS3_Fanged Noumena.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10761,7 +10618,7 @@ SS3_Fanged Noumena.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 7, 2024
 
@@ -10818,7 +10675,6 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10836,7 +10692,7 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -10893,7 +10749,6 @@ SS2_chicagodetroit_Porridge.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10911,7 +10766,7 @@ SS2_chicagodetroit_Porridge.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -10968,7 +10823,6 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -10986,7 +10840,7 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -11043,7 +10897,6 @@ SS2_freetekno_Walkman.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11061,7 +10914,7 @@ SS2_freetekno_Walkman.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -11119,7 +10972,6 @@ SS2_chicagodetroit_Colorful Bong.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11137,7 +10989,7 @@ SS2_chicagodetroit_Colorful Bong.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -11194,7 +11046,6 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11212,7 +11063,7 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -11269,7 +11120,6 @@ SS4_acidhouse_Spiral Bera Balloon.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11287,7 +11137,7 @@ SS4_acidhouse_Spiral Bera Balloon.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -11344,7 +11194,6 @@ SS5_acidhouse_modern_sami_Sami Pouch.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11362,7 +11211,7 @@ SS5_acidhouse_modern_sami_Sami Pouch.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -11419,7 +11268,6 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11437,7 +11285,7 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -11494,7 +11342,6 @@ SS3_acidhouse_Fly Agaric.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11512,7 +11359,7 @@ SS3_acidhouse_Fly Agaric.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -11569,7 +11416,6 @@ SS2_milady_Golden Flower.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11587,7 +11433,7 @@ SS2_milady_Golden Flower.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -11644,7 +11490,6 @@ SS3_chicagodetroit_Syringe.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11662,7 +11507,7 @@ SS3_chicagodetroit_Syringe.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -11719,7 +11564,6 @@ SS5_bitcoin popcorn.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11737,7 +11581,7 @@ SS5_bitcoin popcorn.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 28, 2025
 
@@ -11794,7 +11638,6 @@ SS1_milady_How to stay in hell.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11812,7 +11655,7 @@ SS1_milady_How to stay in hell.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -11869,7 +11712,6 @@ SS5_milady_Remilia Gun.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11887,7 +11729,7 @@ SS5_milady_Remilia Gun.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 13, 2024
 
@@ -11944,7 +11786,6 @@ SS5_milady_Mad Hani Buttplug.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -11962,7 +11803,7 @@ SS5_milady_Mad Hani Buttplug.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 13, 2024
 
@@ -12019,7 +11860,6 @@ SS1_freetekno_Lighter.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12037,7 +11877,7 @@ SS1_freetekno_Lighter.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 4, 2024
 
@@ -12094,7 +11934,6 @@ SS3_freetekno_Fishing Rod.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12112,7 +11951,7 @@ SS3_freetekno_Fishing Rod.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -12169,7 +12008,6 @@ SS1_milady_Mibera Sweat.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12187,7 +12025,7 @@ SS1_milady_Mibera Sweat.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 4, 2024
 
@@ -12244,7 +12082,6 @@ SS2_freetekno_Special Brew.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12262,7 +12099,7 @@ SS2_freetekno_Special Brew.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -12319,7 +12156,6 @@ SS5_Controlled Substances.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12337,7 +12173,7 @@ SS5_Controlled Substances.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 7, 2024
 
@@ -12394,7 +12230,6 @@ SS5_apDAO Ring 2.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12412,7 +12247,7 @@ SS5_apDAO Ring 2.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -12469,7 +12304,6 @@ SS5_chicagodetroit_Chrome Nails.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12487,7 +12321,7 @@ SS5_chicagodetroit_Chrome Nails.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -12544,7 +12378,6 @@ SS5_chicagodetroit_Chrome Nails.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12562,7 +12395,7 @@ SS5_chicagodetroit_Chrome Nails.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -12619,7 +12452,6 @@ SS5_apDAO Ring 1.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12637,7 +12469,7 @@ SS5_apDAO Ring 1.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -12694,7 +12526,6 @@ SS5_freetekno_AK47.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12712,7 +12543,7 @@ SS5_freetekno_AK47.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 13, 2024
 
@@ -12769,7 +12600,6 @@ SS1_Monster Ultra.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12787,7 +12617,7 @@ SS1_Monster Ultra.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -12844,7 +12674,6 @@ SS1_acidhouse_Blue Glowstick.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12862,7 +12691,7 @@ SS1_acidhouse_Blue Glowstick.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 23, 2024
 
@@ -12919,7 +12748,6 @@ SS5_freetekno_Baggie Of Pills.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -12937,7 +12765,7 @@ SS5_freetekno_Baggie Of Pills.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 13, 2024
 
@@ -12994,7 +12822,6 @@ SS3_acidhouse_Apple Bag.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13012,7 +12839,7 @@ SS3_acidhouse_Apple Bag.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -13069,7 +12896,6 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13087,7 +12913,7 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -13144,7 +12970,6 @@ SS3_chicagodetroit_Vape Bag.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13162,7 +12987,7 @@ SS3_chicagodetroit_Vape Bag.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 7, 2024
 
@@ -13219,7 +13044,6 @@ SS1_milady_sex health and long life.PNG
 
 **Archetype Alignment:** its correlation with Milady community (need to look into this more) Was in Cfang’s blog - I think an arena blog. Will
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13237,7 +13061,7 @@ SS1_milady_sex health and long life.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -13294,7 +13118,6 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13312,7 +13135,7 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -13370,7 +13193,6 @@ SS5_chicagodetroit_303 Drum Machine.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13388,7 +13210,7 @@ SS5_chicagodetroit_303 Drum Machine.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -13445,7 +13267,6 @@ SS5_chicagodetroit_Keyboard Guitar.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13463,7 +13284,7 @@ SS5_chicagodetroit_Keyboard Guitar.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 13, 2024
 
@@ -13520,7 +13341,6 @@ SS1_acidhouse_Purple Glowstick.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13538,7 +13358,7 @@ SS1_acidhouse_Purple Glowstick.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 23, 2024
 
@@ -13595,7 +13415,6 @@ SS5_freetekno_Pepperoni Pizza.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13613,7 +13432,7 @@ SS5_freetekno_Pepperoni Pizza.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 13, 2024
 
@@ -13670,7 +13489,6 @@ SS5_leaf erickson.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13688,7 +13506,7 @@ SS5_leaf erickson.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 12, 2025
 
@@ -13745,7 +13563,6 @@ SS1_milady_Lawsuit.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13763,7 +13580,7 @@ SS1_milady_Lawsuit.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -13820,7 +13637,6 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13838,7 +13654,7 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -13895,7 +13711,6 @@ SS3_milady_banana.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13913,7 +13728,7 @@ SS3_milady_banana.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -13970,7 +13785,6 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -13988,7 +13802,7 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -14045,7 +13859,6 @@ SS1_acidhouse_Bear Alchemist Tool.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14063,7 +13876,7 @@ SS1_acidhouse_Bear Alchemist Tool.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 16, 2024
 
@@ -14120,7 +13933,6 @@ SS1_freetekno_Phone.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14138,7 +13950,7 @@ SS1_freetekno_Phone.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -14195,7 +14007,6 @@ SS1_freetekno_Pitchfork.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14213,7 +14024,7 @@ SS1_freetekno_Pitchfork.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -14270,7 +14081,6 @@ SS1_chicagodetroit_joint.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14288,7 +14098,7 @@ SS1_chicagodetroit_joint.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -14345,7 +14155,6 @@ SS5_Cody Wilson AR-15.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14363,7 +14172,7 @@ SS5_Cody Wilson AR-15.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 16, 2024
 
@@ -14420,7 +14229,6 @@ SS1_chicagodetroit_Crack Pipe.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14438,7 +14246,7 @@ SS1_chicagodetroit_Crack Pipe.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 4, 2024
 
@@ -14495,7 +14303,6 @@ SS5_The Liberator.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14513,7 +14320,7 @@ SS5_The Liberator.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 16, 2024
 
@@ -14570,7 +14377,6 @@ SS5_Henlo Cash.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14588,7 +14394,7 @@ SS5_Henlo Cash.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -14645,7 +14451,6 @@ SS5_milady_Diamond Paws.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14663,7 +14468,7 @@ SS5_milady_Diamond Paws.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 13, 2024
 
@@ -14720,7 +14525,6 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14738,7 +14542,7 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -14795,7 +14599,6 @@ SS1_milady_Honey Jar.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14813,7 +14616,7 @@ SS1_milady_Honey Jar.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -14870,7 +14673,6 @@ SS3_Honey Baddie.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14888,7 +14690,7 @@ SS3_Honey Baddie.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -14945,7 +14747,6 @@ SS3_Babybera Recorder.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -14963,7 +14764,7 @@ SS3_Babybera Recorder.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -15020,7 +14821,6 @@ SS3_sprodcast.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15038,7 +14838,7 @@ SS3_sprodcast.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 11, 2025
 
@@ -15095,7 +14895,6 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15113,7 +14912,7 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** January 10, 2025
 
@@ -15170,7 +14969,6 @@ SS3_Babybera Yeet Pipe.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15188,7 +14986,7 @@ SS3_Babybera Yeet Pipe.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -15245,7 +15043,6 @@ SS3_Babybera Yeet Pipe.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15263,7 +15060,7 @@ SS3_Babybera Yeet Pipe.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -15320,7 +15117,6 @@ SS2_milady_Sudoswap Owen Plushie.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15338,7 +15134,7 @@ SS2_milady_Sudoswap Owen Plushie.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -15395,7 +15191,6 @@ SS3_freetekno_Shin Ramyun.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15413,7 +15208,7 @@ SS3_freetekno_Shin Ramyun.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -15470,7 +15265,6 @@ SS3_freetekno_Shin Ramyun.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15488,7 +15282,7 @@ SS3_freetekno_Shin Ramyun.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -15545,7 +15339,6 @@ SS1_chicagodetroit_Cigar.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15563,7 +15356,7 @@ SS1_chicagodetroit_Cigar.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -15621,7 +15414,6 @@ SS2_Beramarket Big Brain.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15639,7 +15431,7 @@ SS2_Beramarket Big Brain.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -15696,7 +15488,6 @@ SS4_milady_THC iPod.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15714,7 +15505,7 @@ SS4_milady_THC iPod.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -15771,7 +15562,6 @@ SS3_milady_The Pencil.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15789,7 +15579,7 @@ SS3_milady_The Pencil.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -15846,7 +15636,6 @@ SS3_Puffpaw Smokey.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15864,7 +15653,7 @@ SS3_Puffpaw Smokey.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -15921,7 +15710,6 @@ SS3_Berapunk.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -15939,7 +15727,7 @@ SS3_Berapunk.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -15996,7 +15784,6 @@ SS4_milady_Beradoge.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16014,7 +15801,7 @@ SS4_milady_Beradoge.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 11, 2024
 
@@ -16071,7 +15858,6 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16089,7 +15875,7 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2025
 
@@ -16146,7 +15932,6 @@ SS3_Yuzu.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16164,7 +15949,7 @@ SS3_Yuzu.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16221,7 +16006,6 @@ SS4_milady_THC Mic.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16239,7 +16023,7 @@ SS4_milady_THC Mic.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -16296,7 +16080,6 @@ SS3_Smilee.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16314,7 +16097,7 @@ SS3_Smilee.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16371,7 +16154,6 @@ SS3_Puffpaw THJ.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16389,7 +16171,7 @@ SS3_Puffpaw THJ.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16446,7 +16228,6 @@ SS5_chicagodetroit_cocaine baggie.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16464,7 +16245,7 @@ SS5_chicagodetroit_cocaine baggie.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16521,7 +16302,6 @@ SS3_Beratone Bera.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16539,7 +16319,7 @@ SS3_Beratone Bera.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16596,7 +16376,6 @@ SS3_Yeeted.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16614,7 +16393,7 @@ SS3_Yeeted.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 10, 2024
 
@@ -16671,7 +16450,6 @@ SS3_milady_Scatter Cat.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16689,7 +16467,7 @@ SS3_milady_Scatter Cat.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16746,7 +16524,6 @@ SS3_Pink Baddie.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16764,7 +16541,7 @@ SS3_Pink Baddie.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16821,7 +16598,6 @@ SS3_Bullas Plush.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16839,7 +16615,7 @@ SS3_Bullas Plush.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16896,7 +16672,6 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16914,7 +16689,7 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -16971,7 +16746,6 @@ SS3_Steady.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -16989,7 +16763,7 @@ SS3_Steady.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -17046,7 +16820,6 @@ SS3_Berakin.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17064,7 +16837,7 @@ SS3_Berakin.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -17121,7 +16894,6 @@ SS3_babybera plush.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17139,7 +16911,7 @@ SS3_babybera plush.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 11, 2025
 
@@ -17196,7 +16968,6 @@ SS3_freetekno_Babybera Janny Pack.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17214,7 +16985,7 @@ SS3_freetekno_Babybera Janny Pack.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -17271,7 +17042,6 @@ SS2_milady_Ursadom Plush.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17289,7 +17059,7 @@ SS2_milady_Ursadom Plush.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -17346,7 +17116,6 @@ SS4_Ooga Booga Credit.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17364,7 +17133,7 @@ SS4_Ooga Booga Credit.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -17421,7 +17190,6 @@ SS3_milady_Beratone Plushie.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17439,7 +17207,7 @@ SS3_milady_Beratone Plushie.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 9, 2024
 
@@ -17496,7 +17264,6 @@ SS3_Beramonium.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17514,7 +17281,7 @@ SS3_Beramonium.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -17571,7 +17338,6 @@ SS3_Beraborrow.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17589,7 +17355,7 @@ SS3_Beraborrow.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -17646,7 +17412,6 @@ SS3_Vase.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17664,7 +17429,7 @@ SS3_Vase.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -17721,7 +17486,6 @@ SS3_Puffpaw Mibera.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17739,7 +17503,7 @@ SS3_Puffpaw Mibera.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -17796,7 +17560,6 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17814,7 +17577,7 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** February 28, 2025
 
@@ -17871,7 +17634,6 @@ SS4_milady_Kittykaki Plushie.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17889,7 +17651,7 @@ SS4_milady_Kittykaki Plushie.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 12, 2024
 
@@ -17946,7 +17708,6 @@ SS3_Bullas Whip.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -17964,7 +17725,7 @@ SS3_Bullas Whip.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -18021,7 +17782,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -18039,7 +17799,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 23, 2024
 
@@ -18094,7 +17854,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18109,7 +17868,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18163,7 +17922,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18178,7 +17936,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18232,7 +17990,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18247,7 +18004,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18301,7 +18058,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18316,7 +18072,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18370,7 +18126,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18385,7 +18140,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18439,7 +18194,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18454,7 +18208,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18508,7 +18262,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18523,7 +18276,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18577,7 +18330,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18592,7 +18344,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18646,7 +18398,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18661,7 +18412,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18715,7 +18466,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18730,7 +18480,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18784,7 +18534,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18799,7 +18548,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18853,7 +18602,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18868,7 +18616,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18922,7 +18670,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -18937,7 +18684,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -18991,7 +18738,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -19006,7 +18752,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -19060,7 +18806,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -19075,7 +18820,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -19129,7 +18874,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -19144,7 +18888,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -19198,7 +18942,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -19213,7 +18956,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -19267,7 +19010,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -19282,7 +19024,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -19336,7 +19078,6 @@ SS1_milady_Sudo Chan.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -19351,7 +19092,7 @@ SS1_milady_Sudo Chan.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

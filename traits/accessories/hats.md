@@ -80,7 +80,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -98,7 +97,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -155,7 +154,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -173,7 +171,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -230,7 +228,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -248,7 +245,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -305,7 +302,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -323,7 +319,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -380,7 +376,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -398,7 +393,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -456,7 +451,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -474,7 +468,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -531,7 +525,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -549,7 +542,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -607,7 +600,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** Part of CFang and Milady trait / lore.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -625,7 +617,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -682,7 +674,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -700,7 +691,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -757,7 +748,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** In relation to a meme related to Milady, which is one of Mibera’s archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -775,7 +765,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -832,7 +822,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -850,7 +839,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -907,7 +896,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -925,7 +913,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -982,7 +970,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1000,7 +987,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1057,7 +1044,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1075,7 +1061,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1132,7 +1118,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1150,7 +1135,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1207,7 +1192,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1225,7 +1209,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1283,7 +1267,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1301,7 +1284,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -1360,7 +1343,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1378,7 +1360,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1436,7 +1418,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1454,7 +1435,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -1511,7 +1492,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1529,7 +1509,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -1587,7 +1567,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1605,7 +1584,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1663,7 +1642,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1681,7 +1659,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1739,7 +1717,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1757,7 +1734,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -1814,7 +1791,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1832,7 +1808,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -1890,7 +1866,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1908,7 +1883,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -1965,7 +1940,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1983,7 +1957,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2040,7 +2014,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2058,7 +2031,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2115,7 +2088,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2133,7 +2105,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -2190,7 +2162,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2208,7 +2179,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2265,7 +2236,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2283,7 +2253,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2340,7 +2310,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2358,7 +2327,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -2415,7 +2384,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2433,7 +2401,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2490,7 +2458,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2508,7 +2475,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -2567,7 +2534,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2585,7 +2551,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -2643,7 +2609,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2661,7 +2626,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -2719,7 +2684,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2737,7 +2701,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2794,7 +2758,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2812,7 +2775,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2869,7 +2832,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2887,7 +2849,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -2945,7 +2907,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2963,7 +2924,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3020,7 +2981,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3038,7 +2998,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3095,7 +3055,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3113,7 +3072,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3171,7 +3130,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3189,7 +3147,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3246,7 +3204,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3264,7 +3221,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3322,7 +3279,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3340,7 +3296,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3397,7 +3353,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3415,7 +3370,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3472,7 +3427,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3490,7 +3444,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -3547,7 +3501,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3565,7 +3518,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3623,7 +3576,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3641,7 +3593,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3698,7 +3650,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3716,7 +3667,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3773,7 +3724,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3791,7 +3741,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 25, 2024
 
@@ -3848,7 +3798,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3866,7 +3815,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -3923,7 +3872,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3941,7 +3889,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -3998,7 +3946,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4016,7 +3963,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -4073,7 +4020,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4091,7 +4037,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -4148,7 +4094,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4166,7 +4111,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -4223,7 +4168,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4241,7 +4185,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 18, 2025
 
@@ -4298,7 +4242,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4316,7 +4259,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -4373,7 +4316,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4391,7 +4333,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -4448,7 +4390,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4466,7 +4407,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -4523,7 +4464,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4541,7 +4481,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -4598,7 +4538,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4616,7 +4555,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -4674,7 +4613,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4692,7 +4630,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -4749,7 +4687,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4767,7 +4704,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 2, 2024
 
@@ -4824,7 +4761,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4842,7 +4778,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4899,7 +4835,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4917,7 +4852,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4974,7 +4909,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4992,7 +4926,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5049,7 +4983,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5067,7 +5000,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5124,7 +5057,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5142,7 +5074,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5199,7 +5131,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5217,7 +5148,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5275,7 +5206,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5293,7 +5223,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -5350,7 +5280,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5368,7 +5297,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -5426,7 +5355,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5444,7 +5372,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -5501,7 +5429,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5519,7 +5446,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5577,7 +5504,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5595,7 +5521,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5652,7 +5578,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** Tez was a big part of Mibera building and creation.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5670,7 +5595,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 11, 2025
 
@@ -5727,7 +5652,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5745,7 +5669,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5802,7 +5726,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5820,7 +5743,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5877,7 +5800,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5895,7 +5817,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -5953,7 +5875,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -5971,7 +5892,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -6028,7 +5949,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6046,7 +5966,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -6104,7 +6024,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6122,7 +6041,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -6181,7 +6100,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6199,7 +6117,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -6256,7 +6174,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6274,7 +6191,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -6331,7 +6248,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6349,7 +6265,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -6406,7 +6322,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6424,7 +6339,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 19, 2024
 
@@ -6481,7 +6396,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6499,7 +6413,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -6556,7 +6470,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6574,7 +6487,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -6631,7 +6544,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6649,7 +6561,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -6706,7 +6618,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6724,7 +6635,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** May 4, 2025
 
@@ -6781,7 +6692,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6799,7 +6709,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -6856,7 +6766,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6874,7 +6783,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -6931,7 +6840,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -6949,7 +6857,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -7007,7 +6915,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7025,7 +6932,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7082,7 +6989,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7100,7 +7006,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -7157,7 +7063,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7175,7 +7080,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7232,7 +7137,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7250,7 +7154,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7307,7 +7211,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7325,7 +7228,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7382,7 +7285,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7400,7 +7302,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7457,7 +7359,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7475,7 +7376,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 26, 2024
 
@@ -7532,7 +7433,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7550,7 +7450,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7607,7 +7507,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7625,7 +7524,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7682,7 +7581,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7700,7 +7598,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7757,7 +7655,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7775,7 +7672,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -7832,7 +7729,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7850,7 +7746,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -7907,7 +7803,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -7925,7 +7820,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -7982,7 +7877,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8000,7 +7894,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8057,7 +7951,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8075,7 +7968,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8132,7 +8025,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8150,7 +8042,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 23, 2025
 
@@ -8207,7 +8099,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8225,7 +8116,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -8282,7 +8173,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8300,7 +8190,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 11, 2025
 
@@ -8357,7 +8247,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8375,7 +8264,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -8432,7 +8321,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8450,7 +8338,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8507,7 +8395,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8525,7 +8412,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -8582,7 +8469,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8600,7 +8486,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -8657,7 +8543,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8675,7 +8560,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -8732,7 +8617,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8750,7 +8634,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 14, 2025
 
@@ -8807,7 +8691,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8825,7 +8708,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -8882,7 +8765,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8900,7 +8782,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -8957,7 +8839,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -8975,7 +8856,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** March 10, 2025
 
@@ -9032,7 +8913,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9050,7 +8930,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 24, 2024
 
@@ -9107,7 +8987,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9125,7 +9004,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 27, 2024
 
@@ -9182,7 +9061,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9200,7 +9078,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** July 28, 2024
 
@@ -9257,7 +9135,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -9275,7 +9152,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -9330,7 +9207,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9345,7 +9221,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9399,7 +9275,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9414,7 +9289,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9468,7 +9343,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9483,7 +9357,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9537,7 +9411,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9552,7 +9425,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -9606,7 +9479,6 @@ SS{score}_{archetype}_{name}
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -9621,7 +9493,7 @@ SS{score}_{archetype}_{name}
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

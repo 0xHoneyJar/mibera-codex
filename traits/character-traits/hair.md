@@ -63,7 +63,7 @@ Messy Bob Blue__w17.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -99,7 +99,7 @@ Short Messy Black__w24.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -135,7 +135,7 @@ Normal Brown__w24.png Normal Brown__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -171,7 +171,7 @@ Normal Blue__w22.png Normal Blue__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -207,7 +207,7 @@ Short Messy Blonde__w20.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -243,7 +243,7 @@ Messy Bob Brown__w20.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -279,7 +279,7 @@ Cottage Brown__w20.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -315,7 +315,7 @@ Braided Green__w16.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -351,7 +351,7 @@ Normal Blonde__w20.png Normal Blonde__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -387,7 +387,7 @@ Short Flared Blue__w20.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -423,7 +423,7 @@ Classic Brown__w20.PNG Classic Brown__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -459,7 +459,7 @@ Cottage Blonde__w18.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -495,7 +495,7 @@ Cottage Blue__w15.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -531,7 +531,7 @@ Short Flared Neon Orange__w16.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -567,7 +567,7 @@ Long Wavy Brown__w16.png Long Wavy Brown__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -603,7 +603,7 @@ Hime Brown__w16.png Hime Brown__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -639,7 +639,7 @@ Hime Blonde__w14.png Hime Blonde__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -675,7 +675,7 @@ Cottage Green__w14.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -711,7 +711,7 @@ Braided Brown__w15.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -747,7 +747,7 @@ Classic Blonde__w14.PNG Classic Blonde__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -783,7 +783,7 @@ Long Wavy Blonde__w14.png Long Wavy Blonde__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -819,7 +819,7 @@ prepared.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -855,7 +855,7 @@ Long Wavy Black__w14.png Long Wavy Black__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -891,7 +891,7 @@ Messy Bob Blonde__w14.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -927,7 +927,7 @@ Classic Black__w16.PNG Classic Black__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -963,7 +963,7 @@ Classic Blue__w12.PNG Classic Blue__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -999,7 +999,7 @@ Short Messy Brown__w16.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1035,7 +1035,7 @@ Braided Blonde__w12.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1071,7 +1071,7 @@ Short Messy Blue__w14.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1107,7 +1107,7 @@ Braided Black__w11.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1143,7 +1143,7 @@ Dreamy Blonde__w8.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1179,7 +1179,7 @@ Dreamy Blonde__w8.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1215,7 +1215,7 @@ Fae Blue__w12.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1251,7 +1251,7 @@ Short Pale Blonde__w11.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1287,7 +1287,7 @@ Short Pink__w11.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1323,7 +1323,7 @@ Short Purple__w11.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1359,7 +1359,7 @@ Cottage Magenta__w12.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1395,7 +1395,7 @@ Classic Green__w10.PNG Classic Green__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1431,7 +1431,7 @@ Relaxed Blonde__w12.PNG Relaxed Blonde__z-32.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1467,7 +1467,7 @@ Relaxed Brown__w10.PNG Relaxed Brown__z-32.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1503,7 +1503,7 @@ Relaxed Green__w8.PNG Relaxed Green__z-32.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1539,7 +1539,7 @@ Short Green__w11.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1575,7 +1575,7 @@ Medium Wavy Brown__w10.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1611,7 +1611,7 @@ Hime Blue__w12.png Hime Blue__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1647,7 +1647,7 @@ Normal Black__w11.png Normal Black__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -1683,7 +1683,7 @@ Braided Blue__w9.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1719,7 +1719,7 @@ Messy Bob Green__w8.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1755,7 +1755,7 @@ Short Blue__w8.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1791,7 +1791,7 @@ Short Blonde__w4.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1827,7 +1827,7 @@ Medium Wavy Green__w8.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1863,7 +1863,7 @@ Medium Wavy Blonde__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1899,7 +1899,7 @@ Medium Wavy Blue__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1935,7 +1935,7 @@ Medium Wavy Black__w4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -1971,7 +1971,7 @@ Medium Wavy Orange__w4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2007,7 +2007,7 @@ Medium Wavy Red__w4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2043,7 +2043,7 @@ Medium Wavy Magenta__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2079,7 +2079,7 @@ Peekaboo Blonde__w8.png Peekaboo Blonde__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2115,7 +2115,7 @@ Long Wavy Blue__w8.png Long Wavy Blue__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2151,7 +2151,7 @@ Short Messy Green__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2187,7 +2187,7 @@ Long Wavy Green__w6.png Long Wavy Green__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2223,7 +2223,7 @@ Braided Purple__w6.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2259,7 +2259,7 @@ Classic Orange__w5.PNG Classic Orange__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2295,7 +2295,7 @@ Cottage Orange__w5.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2331,7 +2331,7 @@ Normal Orange__w5.png Normal Orange__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2367,7 +2367,7 @@ Dreamy Blue__w4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2403,7 +2403,7 @@ Fae Green__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2439,7 +2439,7 @@ Hime Orange__w6.png Hime Orange__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2475,7 +2475,7 @@ Braided Red__w5.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2511,7 +2511,7 @@ Normal Magenta__w6.png Normal Magenta__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2547,7 +2547,7 @@ Cottage Red__w5.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2583,7 +2583,7 @@ Messy Bob Orange__w4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2619,7 +2619,7 @@ Relaxed Orange__w6.PNG Relaxed Orange__z-32.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2655,7 +2655,7 @@ Classic Pink__w4.PNG Classic Pink__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2691,7 +2691,7 @@ Hime Green__w4.png Hime Green__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2727,7 +2727,7 @@ Cottage Purple__w4.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2763,7 +2763,7 @@ Fae Pink__w4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2799,7 +2799,7 @@ Braided Orange__w4.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2835,7 +2835,7 @@ Relaxed Purple__w4.PNG Relaxed Purple__z-32.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2871,7 +2871,7 @@ Short Messy Magenta__w4.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -2904,7 +2904,6 @@ Normal Green__w4.png Normal Green__z-32.png
 
 **Archetype Alignment:** There is green hair within the original milady collection. https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Hair%22,%22values **%22:** %5B%22bowl+green%22%5D%7D%5D
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2920,7 +2919,7 @@ Normal Green__w4.png Normal Green__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2956,7 +2955,7 @@ Hime Black__w4.png Hime Black__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -2992,7 +2991,7 @@ Classic Purple__w4.PNG Classic Purple__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3028,7 +3027,7 @@ Short Messy Orange__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3064,7 +3063,7 @@ Middle Purple__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3100,7 +3099,7 @@ Middle Green__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3136,7 +3135,7 @@ Middle Orange__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3172,7 +3171,7 @@ Middle Pink__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3208,7 +3207,7 @@ Normal Purple__w4.png Normal Purple__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3244,7 +3243,7 @@ Long Wavy Red__w2.png Long Wavy Red__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3280,7 +3279,7 @@ Braided Oil Spill__w4.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3316,7 +3315,7 @@ Short Messy Purple__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3352,7 +3351,7 @@ Middle Brown__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3388,7 +3387,7 @@ Middle Blue__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3424,7 +3423,7 @@ Middle Blonde__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3460,7 +3459,7 @@ Middle Black__w6.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3496,7 +3495,7 @@ Dreamy Green__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3532,7 +3531,7 @@ Long Wavy Purple__w2.png Long Wavy Purple__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3568,7 +3567,7 @@ Hime Purple__w2.png Hime Purple__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3604,7 +3603,7 @@ Fae Purple__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3640,7 +3639,7 @@ Hime Experimental__w2.png Hime Experimental__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3676,7 +3675,7 @@ Dreamy Purple__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3712,7 +3711,7 @@ Hime Pink__w2.png Hime Pink__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3748,7 +3747,7 @@ Long Wavy Magenta__w2.png Long Wavy Magenta__z-32.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 22, 2024
 
@@ -3784,7 +3783,7 @@ Messy Bob Purple__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3820,7 +3819,7 @@ Rave Green__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3856,7 +3855,7 @@ Relaxed Red__w2.PNG Relaxed Red__z-32.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3892,7 +3891,7 @@ Double Green__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3928,7 +3927,7 @@ Rave Blonde__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -3964,7 +3963,7 @@ Double Purple__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4000,7 +3999,7 @@ Double White__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4036,7 +4035,7 @@ Double White__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4072,7 +4071,7 @@ Fauxhawk Blonde__w2.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4108,7 +4107,7 @@ Rave Pink__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4144,7 +4143,7 @@ Rave Blue__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4180,7 +4179,7 @@ Lain__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 5, 2024
 
@@ -4216,7 +4215,7 @@ Double Pink__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4252,7 +4251,7 @@ Rave Purple__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4288,7 +4287,7 @@ Rave Orange__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4324,7 +4323,7 @@ Rave Black__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4360,7 +4359,7 @@ Double Blue__w2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4396,7 +4395,7 @@ Fauxhawk Green__w2.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4432,7 +4431,7 @@ Fauxhawk Red__w2.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 15, 2024
 
@@ -4468,7 +4467,7 @@ stylish.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4504,7 +4503,7 @@ afro.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4554,7 +4553,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4569,7 +4567,7 @@ afro.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4623,7 +4621,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4638,7 +4635,7 @@ afro.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4692,7 +4689,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4707,7 +4703,7 @@ afro.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4761,7 +4757,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4776,7 +4771,7 @@ afro.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4830,7 +4825,6 @@ afro.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4845,7 +4839,7 @@ afro.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

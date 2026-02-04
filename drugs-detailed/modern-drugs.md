@@ -6329,7 +6329,6 @@ earthy bitter odor.
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -6344,7 +6343,7 @@ earthy bitter odor.
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

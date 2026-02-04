@@ -77,7 +77,7 @@ Numerical rating determining a Mibera's rank. Calculated from:
 2. Archetype coherence (tribe alignment)
 3. Ancestor trait threshold
 
-See: [Ranking & Scoring](overlays/ranking.md)
+See: [Ranking & Scoring](traits/overlays/ranking.md)
 
 ### Swag Score Tiers (SS)
 Rarity classification for individual traits:

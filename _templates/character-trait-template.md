@@ -44,7 +44,6 @@
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -59,7 +58,7 @@
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:**
 
@@ -110,26 +109,6 @@
 - cultural symbols
 - modern designs
 - ancestral references
-
-## Vibe Tags Glossary
-
-| Tag | Meaning |
-|-----|---------|
-| underground | DIY, illegal, anti-mainstream |
-| euphoric | peak energy, hands-in-the-air |
-| nostalgic | references past eras, vintage feel |
-| psychedelic | trippy, altered states, visuals |
-| minimal | stripped back, subtle, refined |
-| aggressive | hard, intense, confrontational |
-| dreamy | soft, ethereal, floating |
-| playful | fun, irreverent, humorous |
-| dark | moody, nocturnal, shadowy |
-| spiritual | transcendent, ritualistic, sacred |
-| rebellious | anti-authority, countercultural |
-| chill | laid-back, after-hours, mellow |
-| chaotic | frenetic, unpredictable, wild |
-| introspective | internal, contemplative, deep |
-| celebratory | joyful, communal, festive |
 
 ## Archetype Quick Reference
 

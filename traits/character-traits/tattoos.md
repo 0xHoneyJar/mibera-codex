@@ -71,7 +71,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -87,7 +86,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -143,7 +142,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -159,7 +157,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -215,7 +213,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -231,7 +228,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -287,7 +284,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -303,7 +299,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -359,7 +355,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -375,7 +370,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -431,7 +426,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -447,7 +441,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -503,7 +497,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -519,7 +512,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -575,7 +568,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -591,7 +583,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -648,7 +640,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -664,7 +655,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 6, 2024
 
@@ -722,7 +713,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -738,7 +728,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -794,7 +784,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** - https://discord.com/channels/1133935527855399053/1260863409134637136/12608646906498 25311
 
@@ -810,7 +799,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 6, 2024
 
@@ -866,7 +855,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -882,7 +870,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -938,7 +926,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -954,7 +941,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -1010,7 +997,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1026,7 +1012,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 6, 2024
 
@@ -1082,7 +1068,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1098,7 +1083,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -1154,7 +1139,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1170,7 +1154,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 6, 2024
 
@@ -1228,7 +1212,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1244,7 +1227,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 6, 2024
 
@@ -1300,7 +1283,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1316,7 +1298,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 6, 2024
 
@@ -1372,7 +1354,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1388,7 +1369,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -1444,7 +1425,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1460,7 +1440,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -1516,7 +1496,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1532,7 +1511,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -1588,7 +1567,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1604,7 +1582,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -1660,7 +1638,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1676,7 +1653,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -1732,7 +1709,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1748,7 +1724,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -1804,7 +1780,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1820,7 +1795,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -1876,7 +1851,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** To showcase a modern rendering of an ancient deity.
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1892,7 +1866,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -1948,7 +1922,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -1964,7 +1937,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -2020,7 +1993,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2036,7 +2008,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -2092,7 +2064,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2108,7 +2079,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -2165,7 +2136,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2181,7 +2151,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -2237,7 +2207,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2253,7 +2222,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 6, 2024
 
@@ -2309,7 +2278,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2325,7 +2293,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -2381,7 +2349,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2397,7 +2364,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -2453,7 +2420,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2469,7 +2435,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -2525,7 +2491,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2541,7 +2506,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -2597,7 +2562,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** ---
 
@@ -2613,7 +2577,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2669,7 +2633,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2685,7 +2648,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -2741,7 +2704,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2757,7 +2719,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -2813,7 +2775,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2829,7 +2790,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -2885,7 +2846,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2901,7 +2861,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 10, 2024
 
@@ -2957,7 +2917,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -2973,7 +2932,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -3029,7 +2988,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -3045,7 +3003,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** August 9, 2024
 
@@ -3101,7 +3059,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:** Default option for characters without body art. ---
 
-**Vibe Tags:**
 
 **Swag Score:** 
 
@@ -3117,7 +3074,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** 
 
@@ -3172,7 +3129,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3187,7 +3143,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -3241,7 +3197,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3256,7 +3211,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -3310,7 +3265,6 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -3325,7 +3279,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 

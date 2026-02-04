@@ -65,7 +65,6 @@ SS3_golden hoop.PNG
 
 **Archetype Alignment:** Aligned culture, related to the 90s rave
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -83,7 +82,7 @@ SS3_golden hoop.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 9, 2024
 
@@ -141,7 +140,6 @@ SS3_dopamine.png
 
 **Archetype Alignment:** “Feel-good” chemical produced by the brain itself that’s more related to driving behavior towards rewards than direct happiness.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -159,7 +157,7 @@ SS3_dopamine.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -216,7 +214,6 @@ SS3_acidhouse_Beramilia.png
 
 **Archetype Alignment:** Main iconography for Mibera
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -234,7 +231,7 @@ SS3_acidhouse_Beramilia.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -291,7 +288,6 @@ SS3_milady_Strawberry.png
 
 **Archetype Alignment:** Correlation with Milady as part of their traits.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -309,7 +305,7 @@ SS3_milady_Strawberry.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -367,7 +363,6 @@ SS3_purple lolipop.png
 
 **Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -385,7 +380,7 @@ SS3_purple lolipop.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -443,7 +438,6 @@ SS1_green lolipop.png
 
 **Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -461,7 +455,7 @@ SS1_green lolipop.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -519,7 +513,6 @@ SS3_green gummy bear.png
 
 **Archetype Alignment:** Relation to drugs and a nod to Gumi’s name.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -537,7 +530,7 @@ SS3_green gummy bear.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -594,7 +587,6 @@ SS3_freetekno_Spiral 3.png
 
 **Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -612,7 +604,7 @@ SS3_freetekno_Spiral 3.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -669,7 +661,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -687,7 +678,7 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -744,7 +735,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Archetype Alignment:** Aesthetically symbolizing ‘Spiral Tribe’ in a literal way. Spiral Tribe is a big influence within Mibera lore.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -762,7 +752,7 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -819,7 +809,6 @@ SS3_rainbow ring.png
 
 **Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -837,7 +826,7 @@ SS3_rainbow ring.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -894,7 +883,6 @@ SS3_milady_Meta Earrings.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -912,7 +900,7 @@ SS3_milady_Meta Earrings.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 19, 2024
 
@@ -969,7 +957,6 @@ SS3_freetekno_Paperclip 2.png
 
 **Archetype Alignment:** It carries a long-standing history rooted in the punk and counterculture movement. Which is very much aligned with Mibera culture in general.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -987,7 +974,7 @@ SS3_freetekno_Paperclip 2.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -1044,7 +1031,6 @@ SS3_rainbow.png
 
 **Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1062,7 +1048,7 @@ SS3_rainbow.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1119,7 +1105,6 @@ SS3_capsule.PNG
 
 **Archetype Alignment:** Its relation to drugs / medication.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1137,7 +1122,7 @@ SS3_capsule.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1194,7 +1179,6 @@ SS3_marijuana leaf.png
 
 **Archetype Alignment:** Bong bear leaning aesthetics.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1212,7 +1196,7 @@ SS3_marijuana leaf.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1271,7 +1255,6 @@ SS3_milady_ancient_mayan_Egyptian.png
 
 **Archetype Alignment:** In relation / within an aligned aesthetic to ancient Egyptian as one of Mibera’s ancestors, as well as the Mayan tribe.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1289,7 +1272,7 @@ SS3_milady_ancient_mayan_Egyptian.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -1347,7 +1330,6 @@ SS3_pyramid.png
 
 **Archetype Alignment:** In relation / within an aligned aesthetic to ancient Egyptian as one of Mibera’s ancestors. Also in relation to Sun Ra.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1365,7 +1347,7 @@ SS3_pyramid.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1422,7 +1404,6 @@ SS3_serotonin.png
 
 **Archetype Alignment:** Chemical that’s found in the brain, gut, and blood platelets. Related to many drugs and drug users behavior in general.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1440,7 +1421,7 @@ SS3_serotonin.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1497,7 +1478,6 @@ SS3_lightning bolt.png
 
 **Archetype Alignment:** In relation to the rave culture as well as a slight Zeus reference.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1515,7 +1495,7 @@ SS3_lightning bolt.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1572,7 +1552,6 @@ SS3_bera heart.png
 
 **Archetype Alignment:** Its relation to the overall theme of the Berachain ecosystem.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1590,7 +1569,7 @@ SS3_bera heart.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1647,7 +1626,6 @@ SS3_red gummy bear.png
 
 **Archetype Alignment:** Relation to drugs and a nod to Gumi’s name.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1665,7 +1643,7 @@ SS3_red gummy bear.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -1722,7 +1700,6 @@ SS3_dog bone.PNG
 
 **Archetype Alignment:** In relation to the “Dog Bone Village” meme within the Milady Maker NFT community around the end of 2024
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1740,7 +1717,7 @@ SS3_dog bone.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1800,7 +1777,6 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
 **Archetype Alignment:** Lee Scratch Perry had an indirect but foundational influence on Chicago house and Detroit techno cultures through his pioneering dub techniques and experimental sound manipulation in the 1970s.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1818,7 +1794,7 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -1876,7 +1852,6 @@ SS3_milady_Chrome Kitty.png
 
 **Archetype Alignment:** Babybera influence, Hello Kitty inspired item.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1894,7 +1869,7 @@ SS3_milady_Chrome Kitty.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -1951,7 +1926,6 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 
 **Archetype Alignment:** Aesthetically in relation / alignment to one of Mibera’s ancestors, the Greek.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -1969,7 +1943,7 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2026,7 +2000,6 @@ SS3_acidhouse_ufo.png
 
 **Archetype Alignment:** In relation to Acidhouse, one of Mibera’s archetypes.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2044,7 +2017,7 @@ SS3_acidhouse_ufo.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2103,7 +2076,6 @@ SS3_baddie double gold.png
 
 **Archetype Alignment:** Bera Baddies inspired item.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2121,7 +2093,7 @@ SS3_baddie double gold.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2178,7 +2150,6 @@ SS1_baddie double blue.png
 
 **Archetype Alignment:** Bera Baddies inspired item.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2196,7 +2167,7 @@ SS1_baddie double blue.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2253,7 +2224,6 @@ SS3_spiky pink.png
 
 **Archetype Alignment:** In relation to the rave culture, especially in the 2000s, which is very much aligned with Mibera.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2271,7 +2241,7 @@ SS3_spiky pink.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2328,7 +2298,6 @@ SS3_milady_orange slice.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2346,7 +2315,7 @@ SS3_milady_orange slice.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2403,7 +2372,6 @@ SS2_purple blossom.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2421,7 +2389,7 @@ SS2_purple blossom.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2478,7 +2446,6 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
 **Archetype Alignment:** Its relation to Native American culture and fashion having it being one of Mibera’s ancestor types.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2496,7 +2463,7 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -2554,7 +2521,6 @@ SS2_grateful dead forest green.png
 
 **Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2572,7 +2538,7 @@ SS2_grateful dead forest green.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -2629,7 +2595,6 @@ SS3_Gumball.PNG
 
 **Archetype Alignment:** Fellow bera brojekt
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2647,7 +2612,7 @@ SS3_Gumball.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2705,7 +2670,6 @@ SS2_red lolipop.png
 
 **Archetype Alignment:** Relation to drug-use and users, as well as rave culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2723,7 +2687,7 @@ SS2_red lolipop.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2781,7 +2745,6 @@ SS2_bera flower.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2799,7 +2762,7 @@ SS2_bera flower.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2856,7 +2819,6 @@ SS4_acidhouse_Triskelion.png
 
 **Archetype Alignment:** The triskelion’s dynamic, swirling design resonates with rave culture’s emphasis on movement, energy, and unity. It appears in rave art, jewelry, and tattoos, symbolizing the cyclical nature of music and dance, personal growth, and interconnectedness among ravers. While not a core symbol, its aesthetic aligns with the subculture’s vibrant, spiritual vibe.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2874,7 +2836,7 @@ SS4_acidhouse_Triskelion.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -2933,7 +2895,6 @@ SS2_milady_lemon slice.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -2951,7 +2912,7 @@ SS2_milady_lemon slice.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3008,7 +2969,6 @@ SS4_industrial.png
 
 **Archetype Alignment:** Its relation to rave culture, which aligns with Mibera.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3026,7 +2986,7 @@ SS4_industrial.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3083,7 +3043,6 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 
 **Archetype Alignment:** In relation to modern culture of the Native American, which is one of Mibera’s ancestor traits.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3101,7 +3060,7 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -3158,7 +3117,6 @@ SS4_grateful dead magenta.png
 
 **Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3176,7 +3134,7 @@ SS4_grateful dead magenta.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3233,7 +3191,6 @@ SS4_freetekno_stars.png
 
 **Archetype Alignment:** Its relation with rave culture which ties back to Mibera.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3251,7 +3208,7 @@ SS4_freetekno_stars.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3308,7 +3265,6 @@ SS2_golden cuff.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3326,7 +3282,7 @@ SS2_golden cuff.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3383,7 +3339,6 @@ SS2_smol ring.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3401,7 +3356,7 @@ SS2_smol ring.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3458,7 +3413,6 @@ SS2_Black Ring.PNG
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3476,7 +3430,7 @@ SS2_Black Ring.PNG
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3533,7 +3487,6 @@ SS4_grateful dead yellow.png
 
 **Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3551,7 +3504,7 @@ SS4_grateful dead yellow.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3608,7 +3561,6 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3626,7 +3578,7 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3683,7 +3635,6 @@ SS4_adderall.png
 
 **Archetype Alignment:** Drugs being a big part of Mibera’s culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3701,7 +3652,7 @@ SS4_adderall.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -3758,7 +3709,6 @@ SS4_toothy.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3776,7 +3726,7 @@ SS4_toothy.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3833,7 +3783,6 @@ SS2_pearl.png
 
 **Archetype Alignment:** Inspired by Ron Hardy’s look in an article with Redbull Music Academy, making it related to Chicago Detroit culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3851,7 +3800,7 @@ SS2_pearl.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -3909,7 +3858,6 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
 **Archetype Alignment:** Its relation to one of Mibera’s archetypes: Chicago Detroit, as it is heavily tied to the ballroom scene / culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -3927,7 +3875,7 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -3985,7 +3933,6 @@ SS2_alien.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4003,7 +3950,7 @@ SS2_alien.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4060,7 +4007,6 @@ SS5_freetekno_Paperclip 1.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4078,7 +4024,7 @@ SS5_freetekno_Paperclip 1.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -4135,7 +4081,6 @@ SS5_freetekno_multiple.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4153,7 +4098,7 @@ SS5_freetekno_multiple.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4210,7 +4155,6 @@ SS5_tribal bera.png
 
 **Archetype Alignment:** Its alignment in theme with the Berachain ecosystem and partially Mibera’s tribal aesthetic.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4228,7 +4172,7 @@ SS5_tribal bera.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4285,7 +4229,6 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
 **Archetype Alignment:** 
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4303,7 +4246,7 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -4360,7 +4303,6 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
 **Archetype Alignment:** Its alignment to one of Mibera’s ancestors: Mongolian.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4378,7 +4320,7 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -4438,7 +4380,6 @@ SS1_acidhouse_Day Glowstick.png
 
 **Archetype Alignment:** Big part of the rave culture as accessories, which is aligned with Mibera culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4456,7 +4397,7 @@ SS1_acidhouse_Day Glowstick.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** November 28, 2023
 
@@ -4513,7 +4454,6 @@ SS1_peace heart.png
 
 **Archetype Alignment:** Its relation to the rave culture as an iconic symbolism and accessories.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4531,7 +4471,7 @@ SS1_peace heart.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** June 4, 2024
 
@@ -4588,7 +4528,6 @@ SS5_rainbow spiky ball.png
 
 **Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4606,7 +4545,7 @@ SS5_rainbow spiky ball.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4663,7 +4602,6 @@ SS3_experimental.png
 
 **Archetype Alignment:** Symbolizing the general process of drug creation. Drugs are a big part of Mibera culture in general.
 
-**Vibe Tags:**
 
 **Setting:**
 
@@ -4681,7 +4619,7 @@ SS3_experimental.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** December 10, 2024
 
@@ -4736,7 +4674,6 @@ SS3_experimental.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4751,7 +4688,7 @@ SS3_experimental.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
@@ -4805,7 +4742,6 @@ SS3_experimental.png
 
 **Archetype Alignment:**
 
-**Vibe Tags:**
 
 **Swag Score:**
 
@@ -4820,7 +4756,7 @@ SS3_experimental.png
 
 ---
 
-### Attribution & Sources
+### Attribution
 
 **Date Added:** Auto-generated
 
