@@ -4,18 +4,6 @@
 
 ---
 
-## Quick Stats
-
-| Metric | Value |
-|--------|-------|
-| Total Miberas | 10,000 |
-| Archetypes | 4 |
-| Ancestors | 33 |
-| Legendary (SSS) | 0 |
-| Elite (SS/S) | 500 |
-
----
-
 ## Browse By
 
 ### [By Archetype →](by-archetype.md)
@@ -50,6 +38,8 @@
 
 | Rank | Count |
 |------|-------|
+| SSS | 100 |
+| SS | 250 |
 | S | 500 |
 | A | 1,000 |
 | B | 3,500 |

@@ -10,8 +10,6 @@
 
 **Era:** Bronze Age Beginnings (4963 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -23,11 +21,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:20 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -37,8 +31,6 @@
 
 **Era:** Bronze Age Beginnings (4889 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -50,11 +42,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -64,8 +52,6 @@
 
 **Era:** Bronze Age Beginnings (4686 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -77,11 +63,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -91,8 +73,6 @@
 
 **Era:** Bronze Age Beginnings (4666 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -104,11 +84,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -118,8 +94,6 @@
 
 **Era:** Bronze Age Beginnings (4535 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -131,11 +105,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:44 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -145,8 +115,6 @@
 
 **Era:** Bronze Age Beginnings (4443 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -158,11 +126,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -172,8 +136,6 @@
 
 **Era:** Bronze Age Beginnings (4435 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -185,11 +147,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -199,8 +157,6 @@
 
 **Era:** Bronze Age Beginnings (4421 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -212,11 +168,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -226,8 +178,6 @@
 
 **Era:** Bronze Age Beginnings (4339 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -239,11 +189,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -253,8 +199,6 @@
 
 **Era:** Bronze Age Beginnings (3990 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -266,11 +210,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -280,8 +220,6 @@
 
 **Era:** Bronze Age Beginnings (3880 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -293,11 +231,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -307,8 +241,6 @@
 
 **Era:** Bronze Age Beginnings (3872 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -320,11 +252,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 07:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -334,8 +262,6 @@
 
 **Era:** Bronze Age Beginnings (3862 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -347,11 +273,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -361,8 +283,6 @@
 
 **Era:** Bronze Age Beginnings (3816 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -374,11 +294,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -388,8 +304,6 @@
 
 **Era:** Bronze Age Beginnings (3770 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -401,11 +315,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -415,8 +325,6 @@
 
 **Era:** Bronze Age Beginnings (3743 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -428,11 +336,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -442,8 +346,6 @@
 
 **Era:** Bronze Age Beginnings (3734 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -455,11 +357,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -469,8 +367,6 @@
 
 **Era:** Bronze Age Beginnings (3653 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -482,11 +378,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -496,8 +388,6 @@
 
 **Era:** Bronze Age Beginnings (3653 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -509,11 +399,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -523,8 +409,6 @@
 
 **Era:** Bronze Age Beginnings (3588 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -536,11 +420,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -550,8 +430,6 @@
 
 **Era:** Bronze Age Beginnings (3459 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -563,11 +441,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -577,8 +451,6 @@
 
 **Era:** Bronze Age Beginnings (3360 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -590,11 +462,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:53 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -604,8 +472,6 @@
 
 **Era:** Bronze Age Beginnings (3267 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -617,11 +483,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -631,8 +493,6 @@
 
 **Era:** Bronze Age Beginnings (3221 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -644,11 +504,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -658,8 +514,6 @@
 
 **Era:** Bronze Age Beginnings (3143 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -671,11 +525,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -685,8 +535,6 @@
 
 **Era:** Bronze Age Beginnings (3137 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -698,11 +546,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -712,8 +556,6 @@
 
 **Era:** Bronze Age Beginnings (3036 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -725,11 +567,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -739,8 +577,6 @@
 
 **Era:** Bronze Age Beginnings (3030 BCE)
 
-*Early civilizations emerging. Sumeria, Egypt awakening. Writing invented. First cities.*
-
 ---
 
 ### Astrological Snapshot
@@ -752,11 +588,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -766,8 +598,6 @@
 
 **Era:** Bronze Age (2866 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -779,11 +609,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -793,8 +619,6 @@
 
 **Era:** Bronze Age (2840 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -806,11 +630,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -820,8 +640,6 @@
 
 **Era:** Bronze Age (2789 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -833,11 +651,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -847,8 +661,6 @@
 
 **Era:** Bronze Age (2789 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -860,11 +672,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -874,8 +682,6 @@
 
 **Era:** Bronze Age (2609 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -887,11 +693,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -901,8 +703,6 @@
 
 **Era:** Bronze Age (2599 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -914,11 +714,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -928,8 +724,6 @@
 
 **Era:** Bronze Age (2587 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -941,11 +735,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -955,8 +745,6 @@
 
 **Era:** Bronze Age (2558 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -968,11 +756,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -982,8 +766,6 @@
 
 **Era:** Bronze Age (2550 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -995,11 +777,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:44 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1009,8 +787,6 @@
 
 **Era:** Bronze Age (2522 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1022,11 +798,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:48 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1036,8 +808,6 @@
 
 **Era:** Bronze Age (2502 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1049,11 +819,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:17 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1063,8 +829,6 @@
 
 **Era:** Bronze Age (2444 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1076,11 +840,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1090,8 +850,6 @@
 
 **Era:** Bronze Age (2422 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1103,11 +861,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:55 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1117,8 +871,6 @@
 
 **Era:** Bronze Age (2419 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1130,11 +882,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1144,8 +892,6 @@
 
 **Era:** Bronze Age (2410 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1157,11 +903,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1171,8 +913,6 @@
 
 **Era:** Bronze Age (2348 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1184,11 +924,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1198,8 +934,6 @@
 
 **Era:** Bronze Age (2292 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1211,11 +945,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1225,8 +955,6 @@
 
 **Era:** Bronze Age (2265 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1238,11 +966,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1252,8 +976,6 @@
 
 **Era:** Bronze Age (2251 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1265,11 +987,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1279,8 +997,6 @@
 
 **Era:** Bronze Age (2245 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1292,11 +1008,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 07:40 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1306,8 +1018,6 @@
 
 **Era:** Bronze Age (2227 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1319,11 +1029,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1333,8 +1039,6 @@
 
 **Era:** Bronze Age (2215 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1346,11 +1050,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1360,8 +1060,6 @@
 
 **Era:** Bronze Age (2182 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1373,11 +1071,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1387,8 +1081,6 @@
 
 **Era:** Bronze Age (2147 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1400,11 +1092,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1414,8 +1102,6 @@
 
 **Era:** Bronze Age (2086 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1427,11 +1113,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1441,8 +1123,6 @@
 
 **Era:** Bronze Age (2079 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1454,11 +1134,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:45 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1468,8 +1144,6 @@
 
 **Era:** Bronze Age (2076 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1481,11 +1155,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1495,8 +1165,6 @@
 
 **Era:** Bronze Age (2063 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1508,11 +1176,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1522,8 +1186,6 @@
 
 **Era:** Bronze Age (2061 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1535,11 +1197,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:48 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1549,8 +1207,6 @@
 
 **Era:** Bronze Age (2059 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1562,11 +1218,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1576,8 +1228,6 @@
 
 **Era:** Bronze Age (2057 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1589,11 +1239,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1603,8 +1249,6 @@
 
 **Era:** Bronze Age (2052 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1616,11 +1260,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1630,8 +1270,6 @@
 
 **Era:** Bronze Age (2051 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1643,11 +1281,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1657,8 +1291,6 @@
 
 **Era:** Bronze Age (2047 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1670,11 +1302,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1684,8 +1312,6 @@
 
 **Era:** Bronze Age (2040 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1697,11 +1323,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1711,8 +1333,6 @@
 
 **Era:** Bronze Age (2035 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1724,11 +1344,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1738,8 +1354,6 @@
 
 **Era:** Bronze Age (2029 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1751,11 +1365,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1765,8 +1375,6 @@
 
 **Era:** Bronze Age (2024 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1778,11 +1386,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:40 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1792,8 +1396,6 @@
 
 **Era:** Bronze Age (2003 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1805,11 +1407,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1819,8 +1417,6 @@
 
 **Era:** Bronze Age (2001 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1832,11 +1428,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:44 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1846,8 +1438,6 @@
 
 **Era:** Bronze Age (2000 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1859,11 +1449,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1873,8 +1459,6 @@
 
 **Era:** Bronze Age (2000 BCE)
 
-*Great empires expand. Babylon, Minoan Crete, Shang Dynasty. Epic poetry, astrology develops.*
-
 ---
 
 ### Astrological Snapshot
@@ -1886,11 +1470,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1900,8 +1480,6 @@
 
 **Era:** Late Bronze Age Collapse (1996 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -1913,11 +1491,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1927,8 +1501,6 @@
 
 **Era:** Late Bronze Age Collapse (1990 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -1940,11 +1512,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1954,8 +1522,6 @@
 
 **Era:** Late Bronze Age Collapse (1986 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -1967,11 +1533,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:24 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1981,8 +1543,6 @@
 
 **Era:** Late Bronze Age Collapse (1971 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -1994,11 +1554,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2008,8 +1564,6 @@
 
 **Era:** Late Bronze Age Collapse (1971 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2021,11 +1575,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2035,8 +1585,6 @@
 
 **Era:** Late Bronze Age Collapse (1969 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2048,11 +1596,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2062,8 +1606,6 @@
 
 **Era:** Late Bronze Age Collapse (1958 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2075,11 +1617,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2089,8 +1627,6 @@
 
 **Era:** Late Bronze Age Collapse (1954 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2102,11 +1638,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2116,8 +1648,6 @@
 
 **Era:** Late Bronze Age Collapse (1952 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2129,11 +1659,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2143,8 +1669,6 @@
 
 **Era:** Late Bronze Age Collapse (1949 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2156,11 +1680,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2170,8 +1690,6 @@
 
 **Era:** Late Bronze Age Collapse (1936 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2183,11 +1701,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2197,8 +1711,6 @@
 
 **Era:** Late Bronze Age Collapse (1935 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2210,11 +1722,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2224,8 +1732,6 @@
 
 **Era:** Late Bronze Age Collapse (1931 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2237,11 +1743,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2251,8 +1753,6 @@
 
 **Era:** Late Bronze Age Collapse (1926 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2264,11 +1764,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2278,8 +1774,6 @@
 
 **Era:** Late Bronze Age Collapse (1917 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2291,11 +1785,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2305,8 +1795,6 @@
 
 **Era:** Late Bronze Age Collapse (1914 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2318,11 +1806,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2332,8 +1816,6 @@
 
 **Era:** Late Bronze Age Collapse (1914 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2345,11 +1827,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2359,8 +1837,6 @@
 
 **Era:** Late Bronze Age Collapse (1914 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2372,11 +1848,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2386,8 +1858,6 @@
 
 **Era:** Late Bronze Age Collapse (1903 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2399,11 +1869,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2413,8 +1879,6 @@
 
 **Era:** Late Bronze Age Collapse (1902 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2426,11 +1890,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2440,8 +1900,6 @@
 
 **Era:** Late Bronze Age Collapse (1902 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2453,11 +1911,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2467,8 +1921,6 @@
 
 **Era:** Late Bronze Age Collapse (1901 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2480,11 +1932,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2494,8 +1942,6 @@
 
 **Era:** Late Bronze Age Collapse (1893 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2507,11 +1953,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2521,8 +1963,6 @@
 
 **Era:** Late Bronze Age Collapse (1893 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2534,11 +1974,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2548,8 +1984,6 @@
 
 **Era:** Late Bronze Age Collapse (1890 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2561,11 +1995,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:29 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2575,8 +2005,6 @@
 
 **Era:** Late Bronze Age Collapse (1886 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2588,11 +2016,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2602,8 +2026,6 @@
 
 **Era:** Late Bronze Age Collapse (1877 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2615,11 +2037,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2629,8 +2047,6 @@
 
 **Era:** Late Bronze Age Collapse (1875 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2642,11 +2058,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2656,8 +2068,6 @@
 
 **Era:** Late Bronze Age Collapse (1874 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2669,11 +2079,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2683,8 +2089,6 @@
 
 **Era:** Late Bronze Age Collapse (1872 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2696,11 +2100,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2710,8 +2110,6 @@
 
 **Era:** Late Bronze Age Collapse (1870 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2723,11 +2121,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2737,8 +2131,6 @@
 
 **Era:** Late Bronze Age Collapse (1866 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2750,11 +2142,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2764,8 +2152,6 @@
 
 **Era:** Late Bronze Age Collapse (1857 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2777,11 +2163,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:52 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2791,8 +2173,6 @@
 
 **Era:** Late Bronze Age Collapse (1849 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2804,11 +2184,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2818,8 +2194,6 @@
 
 **Era:** Late Bronze Age Collapse (1841 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2831,11 +2205,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2845,8 +2215,6 @@
 
 **Era:** Late Bronze Age Collapse (1838 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2858,11 +2226,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2872,8 +2236,6 @@
 
 **Era:** Late Bronze Age Collapse (1837 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2885,11 +2247,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2899,8 +2257,6 @@
 
 **Era:** Late Bronze Age Collapse (1836 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2912,11 +2268,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2926,8 +2278,6 @@
 
 **Era:** Late Bronze Age Collapse (1834 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2939,11 +2289,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2953,8 +2299,6 @@
 
 **Era:** Late Bronze Age Collapse (1832 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2966,11 +2310,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2980,8 +2320,6 @@
 
 **Era:** Late Bronze Age Collapse (1821 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -2993,11 +2331,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3007,8 +2341,6 @@
 
 **Era:** Late Bronze Age Collapse (1811 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3020,11 +2352,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3034,8 +2362,6 @@
 
 **Era:** Late Bronze Age Collapse (1806 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3047,11 +2373,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3061,8 +2383,6 @@
 
 **Era:** Late Bronze Age Collapse (1799 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3074,11 +2394,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3088,8 +2404,6 @@
 
 **Era:** Late Bronze Age Collapse (1781 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3101,11 +2415,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3115,8 +2425,6 @@
 
 **Era:** Late Bronze Age Collapse (1776 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3128,11 +2436,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3142,8 +2446,6 @@
 
 **Era:** Late Bronze Age Collapse (1772 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3155,11 +2457,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3169,8 +2467,6 @@
 
 **Era:** Late Bronze Age Collapse (1759 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3182,11 +2478,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3196,8 +2488,6 @@
 
 **Era:** Late Bronze Age Collapse (1751 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3209,11 +2499,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3223,8 +2509,6 @@
 
 **Era:** Late Bronze Age Collapse (1747 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3236,11 +2520,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3250,8 +2530,6 @@
 
 **Era:** Late Bronze Age Collapse (1744 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3263,11 +2541,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3277,8 +2551,6 @@
 
 **Era:** Late Bronze Age Collapse (1734 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3290,11 +2562,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3304,8 +2572,6 @@
 
 **Era:** Late Bronze Age Collapse (1732 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3317,11 +2583,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:25 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3331,8 +2593,6 @@
 
 **Era:** Late Bronze Age Collapse (1728 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3344,11 +2604,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3358,8 +2614,6 @@
 
 **Era:** Late Bronze Age Collapse (1720 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3371,11 +2625,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:39 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3385,8 +2635,6 @@
 
 **Era:** Late Bronze Age Collapse (1713 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3398,11 +2646,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3412,8 +2656,6 @@
 
 **Era:** Late Bronze Age Collapse (1710 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3425,11 +2667,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3439,8 +2677,6 @@
 
 **Era:** Late Bronze Age Collapse (1707 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3452,11 +2688,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3466,8 +2698,6 @@
 
 **Era:** Late Bronze Age Collapse (1697 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3479,11 +2709,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3493,8 +2719,6 @@
 
 **Era:** Late Bronze Age Collapse (1687 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3506,11 +2730,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:55 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3520,8 +2740,6 @@
 
 **Era:** Late Bronze Age Collapse (1686 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3533,11 +2751,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3547,8 +2761,6 @@
 
 **Era:** Late Bronze Age Collapse (1685 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3560,11 +2772,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3574,8 +2782,6 @@
 
 **Era:** Late Bronze Age Collapse (1674 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3587,11 +2793,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3601,8 +2803,6 @@
 
 **Era:** Late Bronze Age Collapse (1666 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3614,11 +2814,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3628,8 +2824,6 @@
 
 **Era:** Late Bronze Age Collapse (1665 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3641,11 +2835,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3655,8 +2845,6 @@
 
 **Era:** Late Bronze Age Collapse (1662 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3668,11 +2856,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:37 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3682,8 +2866,6 @@
 
 **Era:** Late Bronze Age Collapse (1661 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3695,11 +2877,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3709,8 +2887,6 @@
 
 **Era:** Late Bronze Age Collapse (1657 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3722,11 +2898,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3736,8 +2908,6 @@
 
 **Era:** Late Bronze Age Collapse (1652 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3749,11 +2919,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3763,8 +2929,6 @@
 
 **Era:** Late Bronze Age Collapse (1650 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3776,11 +2940,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3790,8 +2950,6 @@
 
 **Era:** Late Bronze Age Collapse (1646 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3803,11 +2961,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3817,8 +2971,6 @@
 
 **Era:** Late Bronze Age Collapse (1646 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3830,11 +2982,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:51 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3844,8 +2992,6 @@
 
 **Era:** Late Bronze Age Collapse (1639 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3857,11 +3003,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3871,8 +3013,6 @@
 
 **Era:** Late Bronze Age Collapse (1639 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3884,11 +3024,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3898,8 +3034,6 @@
 
 **Era:** Late Bronze Age Collapse (1634 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3911,11 +3045,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3925,8 +3055,6 @@
 
 **Era:** Late Bronze Age Collapse (1612 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3938,11 +3066,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3952,8 +3076,6 @@
 
 **Era:** Late Bronze Age Collapse (1610 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3965,11 +3087,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3979,8 +3097,6 @@
 
 **Era:** Late Bronze Age Collapse (1607 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -3992,11 +3108,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 15:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4006,8 +3118,6 @@
 
 **Era:** Late Bronze Age Collapse (1594 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4019,11 +3129,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4033,8 +3139,6 @@
 
 **Era:** Late Bronze Age Collapse (1569 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4046,11 +3150,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:56 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4060,8 +3160,6 @@
 
 **Era:** Late Bronze Age Collapse (1558 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4073,11 +3171,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4087,8 +3181,6 @@
 
 **Era:** Late Bronze Age Collapse (1528 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4100,11 +3192,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4114,8 +3202,6 @@
 
 **Era:** Late Bronze Age Collapse (1485 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4127,11 +3213,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4141,8 +3223,6 @@
 
 **Era:** Late Bronze Age Collapse (1461 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4154,11 +3234,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 04:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4168,8 +3244,6 @@
 
 **Era:** Late Bronze Age Collapse (1454 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4181,11 +3255,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4195,8 +3265,6 @@
 
 **Era:** Late Bronze Age Collapse (1448 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4208,11 +3276,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:40 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4222,8 +3286,6 @@
 
 **Era:** Late Bronze Age Collapse (1389 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4235,11 +3297,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:31 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4249,8 +3307,6 @@
 
 **Era:** Late Bronze Age Collapse (1382 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4262,11 +3318,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4276,8 +3328,6 @@
 
 **Era:** Late Bronze Age Collapse (1369 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4289,11 +3339,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4303,8 +3349,6 @@
 
 **Era:** Late Bronze Age Collapse (1343 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4316,11 +3360,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 21:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4330,8 +3370,6 @@
 
 **Era:** Late Bronze Age Collapse (1337 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4343,11 +3381,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4357,8 +3391,6 @@
 
 **Era:** Late Bronze Age Collapse (1331 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4370,11 +3402,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4384,8 +3412,6 @@
 
 **Era:** Late Bronze Age Collapse (1302 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4397,11 +3423,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4411,8 +3433,6 @@
 
 **Era:** Late Bronze Age Collapse (1300 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4424,11 +3444,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4438,8 +3454,6 @@
 
 **Era:** Late Bronze Age Collapse (1295 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4451,11 +3465,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4465,8 +3475,6 @@
 
 **Era:** Late Bronze Age Collapse (1279 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4478,11 +3486,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:17 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4492,8 +3496,6 @@
 
 **Era:** Late Bronze Age Collapse (1275 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4505,11 +3507,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4519,8 +3517,6 @@
 
 **Era:** Late Bronze Age Collapse (1273 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4532,11 +3528,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:32 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4546,8 +3538,6 @@
 
 **Era:** Late Bronze Age Collapse (1252 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -4559,11 +3549,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4572,8 +3558,6 @@
 **Mibera(s):** [#6059](../miberas/6059.md)
 
 **Era:** Late Bronze Age Collapse (1247 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4586,11 +3570,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4599,8 +3579,6 @@
 **Mibera(s):** [#6915](../miberas/6915.md)
 
 **Era:** Late Bronze Age Collapse (1209 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4613,11 +3591,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4626,8 +3600,6 @@
 **Mibera(s):** [#6828](../miberas/6828.md)
 
 **Era:** Late Bronze Age Collapse (1209 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4640,11 +3612,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4653,8 +3621,6 @@
 **Mibera(s):** [#9985](../miberas/9985.md)
 
 **Era:** Late Bronze Age Collapse (1201 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4667,11 +3633,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4680,8 +3642,6 @@
 **Mibera(s):** [#1135](../miberas/1135.md)
 
 **Era:** Late Bronze Age Collapse (1198 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4694,11 +3654,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:42 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4707,8 +3663,6 @@
 **Mibera(s):** [#2261](../miberas/2261.md)
 
 **Era:** Late Bronze Age Collapse (1192 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4721,11 +3675,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:16 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4734,8 +3684,6 @@
 **Mibera(s):** [#7134](../miberas/7134.md)
 
 **Era:** Late Bronze Age Collapse (1190 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4748,11 +3696,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4761,8 +3705,6 @@
 **Mibera(s):** [#6232](../miberas/6232.md)
 
 **Era:** Late Bronze Age Collapse (1179 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4775,11 +3717,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4788,8 +3726,6 @@
 **Mibera(s):** [#5853](../miberas/5853.md)
 
 **Era:** Late Bronze Age Collapse (1176 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4802,11 +3738,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4815,8 +3747,6 @@
 **Mibera(s):** [#555](../miberas/0555.md)
 
 **Era:** Late Bronze Age Collapse (1175 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4829,11 +3759,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:42 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4842,8 +3768,6 @@
 **Mibera(s):** [#8309](../miberas/8309.md)
 
 **Era:** Late Bronze Age Collapse (1172 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4856,11 +3780,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4869,8 +3789,6 @@
 **Mibera(s):** [#2260](../miberas/2260.md)
 
 **Era:** Late Bronze Age Collapse (1163 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4883,11 +3801,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4896,8 +3810,6 @@
 **Mibera(s):** [#18](../miberas/0018.md)
 
 **Era:** Late Bronze Age Collapse (1142 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4910,11 +3822,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4923,8 +3831,6 @@
 **Mibera(s):** [#4392](../miberas/4392.md)
 
 **Era:** Late Bronze Age Collapse (1132 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4937,11 +3843,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4950,8 +3852,6 @@
 **Mibera(s):** [#7090](../miberas/7090.md)
 
 **Era:** Late Bronze Age Collapse (1107 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4964,11 +3864,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4977,8 +3873,6 @@
 **Mibera(s):** [#5225](../miberas/5225.md)
 
 **Era:** Late Bronze Age Collapse (1106 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -4991,11 +3885,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5004,8 +3894,6 @@
 **Mibera(s):** [#8341](../miberas/8341.md)
 
 **Era:** Late Bronze Age Collapse (1095 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5018,11 +3906,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5031,8 +3915,6 @@
 **Mibera(s):** [#8011](../miberas/8011.md)
 
 **Era:** Late Bronze Age Collapse (1089 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5045,11 +3927,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5058,8 +3936,6 @@
 **Mibera(s):** [#158](../miberas/0158.md)
 
 **Era:** Late Bronze Age Collapse (1089 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5072,11 +3948,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5085,8 +3957,6 @@
 **Mibera(s):** [#4786](../miberas/4786.md)
 
 **Era:** Late Bronze Age Collapse (1083 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5099,11 +3969,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5113,8 +3979,6 @@
 
 **Era:** Late Bronze Age Collapse (1083 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -5126,11 +3990,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5140,8 +4000,6 @@
 
 **Era:** Late Bronze Age Collapse (1083 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -5153,11 +4011,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5166,8 +4020,6 @@
 **Mibera(s):** [#499](../miberas/0499.md)
 
 **Era:** Late Bronze Age Collapse (1077 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5180,11 +4032,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5193,8 +4041,6 @@
 **Mibera(s):** [#9509](../miberas/9509.md)
 
 **Era:** Late Bronze Age Collapse (1070 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5207,11 +4053,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5220,8 +4062,6 @@
 **Mibera(s):** [#4227](../miberas/4227.md)
 
 **Era:** Late Bronze Age Collapse (1064 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5234,11 +4074,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5248,8 +4084,6 @@
 
 **Era:** Late Bronze Age Collapse (1059 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -5261,11 +4095,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:21 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5275,8 +4105,6 @@
 
 **Era:** Late Bronze Age Collapse (1024 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -5288,11 +4116,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5302,8 +4126,6 @@
 
 **Era:** Late Bronze Age Collapse (1018 BCE)
 
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
-
 ---
 
 ### Astrological Snapshot
@@ -5315,11 +4137,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5328,8 +4146,6 @@
 **Mibera(s):** [#5170](../miberas/5170.md)
 
 **Era:** Late Bronze Age Collapse (1016 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5342,11 +4158,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5355,8 +4167,6 @@
 **Mibera(s):** [#4785](../miberas/4785.md)
 
 **Era:** Late Bronze Age Collapse (1011 BCE)
-
-*Civilizations fall and reform. Iron emerges. Phoenicians sail. Vedas composed.*
 
 ---
 
@@ -5369,10 +4179,6 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---

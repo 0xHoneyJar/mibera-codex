@@ -10,8 +10,6 @@
 
 **Era:** High Medieval (1001 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -23,11 +21,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -37,8 +31,6 @@
 
 **Era:** High Medieval (1001 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -50,11 +42,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -64,8 +52,6 @@
 
 **Era:** High Medieval (1007 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -77,11 +63,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -91,8 +73,6 @@
 
 **Era:** High Medieval (1008 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -104,11 +84,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -118,8 +94,6 @@
 
 **Era:** High Medieval (1008 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -131,11 +105,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -145,8 +115,6 @@
 
 **Era:** High Medieval (1009 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -158,11 +126,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -172,8 +136,6 @@
 
 **Era:** High Medieval (1010 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -185,11 +147,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -199,8 +157,6 @@
 
 **Era:** High Medieval (1010 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -212,11 +168,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -226,8 +178,6 @@
 
 **Era:** High Medieval (1011 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -239,11 +189,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -253,8 +199,6 @@
 
 **Era:** High Medieval (1011 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -266,11 +210,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -280,8 +220,6 @@
 
 **Era:** High Medieval (1012 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -293,11 +231,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -307,8 +241,6 @@
 
 **Era:** High Medieval (1013 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -320,11 +252,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -334,8 +262,6 @@
 
 **Era:** High Medieval (1018 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -347,11 +273,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -361,8 +283,6 @@
 
 **Era:** High Medieval (1018 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -374,11 +294,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -388,8 +304,6 @@
 
 **Era:** High Medieval (1018 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -401,11 +315,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:22 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -415,8 +325,6 @@
 
 **Era:** High Medieval (1019 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -428,11 +336,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -442,8 +346,6 @@
 
 **Era:** High Medieval (1019 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -455,11 +357,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -469,8 +367,6 @@
 
 **Era:** High Medieval (1021 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -482,11 +378,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:14 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -496,8 +388,6 @@
 
 **Era:** High Medieval (1022 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -509,11 +399,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -523,8 +409,6 @@
 
 **Era:** High Medieval (1024 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -536,11 +420,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -550,8 +430,6 @@
 
 **Era:** High Medieval (1025 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -563,11 +441,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -577,8 +451,6 @@
 
 **Era:** High Medieval (1026 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -590,11 +462,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -604,8 +472,6 @@
 
 **Era:** High Medieval (1026 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -617,11 +483,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -631,8 +493,6 @@
 
 **Era:** High Medieval (1029 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -644,11 +504,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -658,8 +514,6 @@
 
 **Era:** High Medieval (1035 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -671,11 +525,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -685,8 +535,6 @@
 
 **Era:** High Medieval (1038 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -698,11 +546,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -712,8 +556,6 @@
 
 **Era:** High Medieval (1039 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -725,11 +567,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -739,8 +577,6 @@
 
 **Era:** High Medieval (1039 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -752,11 +588,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -766,8 +598,6 @@
 
 **Era:** High Medieval (1042 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -779,11 +609,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -793,8 +619,6 @@
 
 **Era:** High Medieval (1043 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -806,11 +630,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -820,8 +640,6 @@
 
 **Era:** High Medieval (1045 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -833,11 +651,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:24 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -847,8 +661,6 @@
 
 **Era:** High Medieval (1047 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -860,11 +672,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -874,8 +682,6 @@
 
 **Era:** High Medieval (1049 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -887,11 +693,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -901,8 +703,6 @@
 
 **Era:** High Medieval (1053 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -914,11 +714,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -928,8 +724,6 @@
 
 **Era:** High Medieval (1054 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -941,11 +735,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -955,8 +745,6 @@
 
 **Era:** High Medieval (1056 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -968,11 +756,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:32 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -982,8 +766,6 @@
 
 **Era:** High Medieval (1057 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -995,11 +777,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1009,8 +787,6 @@
 
 **Era:** High Medieval (1057 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1022,11 +798,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1036,8 +808,6 @@
 
 **Era:** High Medieval (1057 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1049,11 +819,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1063,8 +829,6 @@
 
 **Era:** High Medieval (1058 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1076,11 +840,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1090,8 +850,6 @@
 
 **Era:** High Medieval (1059 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1103,11 +861,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:01 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1117,8 +871,6 @@
 
 **Era:** High Medieval (1060 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1130,11 +882,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1144,8 +892,6 @@
 
 **Era:** High Medieval (1062 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1157,11 +903,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1171,8 +913,6 @@
 
 **Era:** High Medieval (1066 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1184,11 +924,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1198,8 +934,6 @@
 
 **Era:** High Medieval (1067 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1211,11 +945,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1225,8 +955,6 @@
 
 **Era:** High Medieval (1069 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1238,11 +966,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1252,8 +976,6 @@
 
 **Era:** High Medieval (1070 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1265,11 +987,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1279,8 +997,6 @@
 
 **Era:** High Medieval (1071 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1292,11 +1008,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1306,8 +1018,6 @@
 
 **Era:** High Medieval (1071 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1319,11 +1029,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:21 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1333,8 +1039,6 @@
 
 **Era:** High Medieval (1071 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1346,11 +1050,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1360,8 +1060,6 @@
 
 **Era:** High Medieval (1071 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1373,11 +1071,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1387,8 +1081,6 @@
 
 **Era:** High Medieval (1072 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1400,11 +1092,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1414,8 +1102,6 @@
 
 **Era:** High Medieval (1077 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1427,11 +1113,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1441,8 +1123,6 @@
 
 **Era:** High Medieval (1079 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1454,11 +1134,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1468,8 +1144,6 @@
 
 **Era:** High Medieval (1079 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1481,11 +1155,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1495,8 +1165,6 @@
 
 **Era:** High Medieval (1080 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1508,11 +1176,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1522,8 +1186,6 @@
 
 **Era:** High Medieval (1084 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1535,11 +1197,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:09 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1549,8 +1207,6 @@
 
 **Era:** High Medieval (1086 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1562,11 +1218,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:34 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1576,8 +1228,6 @@
 
 **Era:** High Medieval (1086 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1589,11 +1239,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1603,8 +1249,6 @@
 
 **Era:** High Medieval (1086 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1616,11 +1260,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1630,8 +1270,6 @@
 
 **Era:** High Medieval (1089 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1643,11 +1281,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1657,8 +1291,6 @@
 
 **Era:** High Medieval (1089 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1670,11 +1302,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1684,8 +1312,6 @@
 
 **Era:** High Medieval (1089 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1697,11 +1323,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1711,8 +1333,6 @@
 
 **Era:** High Medieval (1091 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1724,11 +1344,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1738,8 +1354,6 @@
 
 **Era:** High Medieval (1092 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1751,11 +1365,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1765,8 +1375,6 @@
 
 **Era:** High Medieval (1092 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1778,11 +1386,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1792,8 +1396,6 @@
 
 **Era:** High Medieval (1092 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1805,11 +1407,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1819,8 +1417,6 @@
 
 **Era:** High Medieval (1093 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1832,11 +1428,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1846,8 +1438,6 @@
 
 **Era:** High Medieval (1095 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1859,11 +1449,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1873,8 +1459,6 @@
 
 **Era:** High Medieval (1095 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1886,11 +1470,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1900,8 +1480,6 @@
 
 **Era:** High Medieval (1097 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1913,11 +1491,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1927,8 +1501,6 @@
 
 **Era:** High Medieval (1098 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1940,11 +1512,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1954,8 +1522,6 @@
 
 **Era:** High Medieval (1100 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1967,11 +1533,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:37 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1981,8 +1543,6 @@
 
 **Era:** High Medieval (1100 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -1994,11 +1554,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2008,8 +1564,6 @@
 
 **Era:** High Medieval (1100 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2021,11 +1575,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 11:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2035,8 +1585,6 @@
 
 **Era:** High Medieval (1100 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2048,11 +1596,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:54 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2062,8 +1606,6 @@
 
 **Era:** High Medieval (1100 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2075,11 +1617,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2089,8 +1627,6 @@
 
 **Era:** High Medieval (1101 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2102,11 +1638,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2116,8 +1648,6 @@
 
 **Era:** High Medieval (1101 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2129,11 +1659,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2143,8 +1669,6 @@
 
 **Era:** High Medieval (1102 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2156,11 +1680,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2170,8 +1690,6 @@
 
 **Era:** High Medieval (1103 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2183,11 +1701,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2197,8 +1711,6 @@
 
 **Era:** High Medieval (1104 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2210,11 +1722,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2224,8 +1732,6 @@
 
 **Era:** High Medieval (1104 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2237,11 +1743,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2251,8 +1753,6 @@
 
 **Era:** High Medieval (1105 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2264,11 +1764,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:13 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2278,8 +1774,6 @@
 
 **Era:** High Medieval (1106 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2291,11 +1785,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2305,8 +1795,6 @@
 
 **Era:** High Medieval (1106 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2318,11 +1806,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2332,8 +1816,6 @@
 
 **Era:** High Medieval (1107 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2345,11 +1827,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2359,8 +1837,6 @@
 
 **Era:** High Medieval (1107 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2372,11 +1848,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2386,8 +1858,6 @@
 
 **Era:** High Medieval (1109 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2399,11 +1869,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:26 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2413,8 +1879,6 @@
 
 **Era:** High Medieval (1111 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2426,11 +1890,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2440,8 +1900,6 @@
 
 **Era:** High Medieval (1111 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2453,11 +1911,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2467,8 +1921,6 @@
 
 **Era:** High Medieval (1111 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2480,11 +1932,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2494,8 +1942,6 @@
 
 **Era:** High Medieval (1111 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2507,11 +1953,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2521,8 +1963,6 @@
 
 **Era:** High Medieval (1111 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2534,11 +1974,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2548,8 +1984,6 @@
 
 **Era:** High Medieval (1112 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2561,11 +1995,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2575,8 +2005,6 @@
 
 **Era:** High Medieval (1114 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2588,11 +2016,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2602,8 +2026,6 @@
 
 **Era:** High Medieval (1114 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2615,11 +2037,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2629,8 +2047,6 @@
 
 **Era:** High Medieval (1115 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2642,11 +2058,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2656,8 +2068,6 @@
 
 **Era:** High Medieval (1115 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2669,11 +2079,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2683,8 +2089,6 @@
 
 **Era:** High Medieval (1116 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2696,11 +2100,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2710,8 +2110,6 @@
 
 **Era:** High Medieval (1116 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2723,11 +2121,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2737,8 +2131,6 @@
 
 **Era:** High Medieval (1116 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2750,11 +2142,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:17 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2764,8 +2152,6 @@
 
 **Era:** High Medieval (1116 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2777,11 +2163,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2791,8 +2173,6 @@
 
 **Era:** High Medieval (1117 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2804,11 +2184,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2818,8 +2194,6 @@
 
 **Era:** High Medieval (1118 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2831,11 +2205,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2845,8 +2215,6 @@
 
 **Era:** High Medieval (1119 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2858,11 +2226,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2872,8 +2236,6 @@
 
 **Era:** High Medieval (1119 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2885,11 +2247,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2899,8 +2257,6 @@
 
 **Era:** High Medieval (1119 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2912,11 +2268,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2926,8 +2278,6 @@
 
 **Era:** High Medieval (1120 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2939,11 +2289,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2953,8 +2299,6 @@
 
 **Era:** High Medieval (1120 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2966,11 +2310,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2980,8 +2320,6 @@
 
 **Era:** High Medieval (1120 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -2993,11 +2331,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:26 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3007,8 +2341,6 @@
 
 **Era:** High Medieval (1121 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3020,11 +2352,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:40 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3034,8 +2362,6 @@
 
 **Era:** High Medieval (1123 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3047,11 +2373,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3061,8 +2383,6 @@
 
 **Era:** High Medieval (1123 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3074,11 +2394,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3088,8 +2404,6 @@
 
 **Era:** High Medieval (1125 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3101,11 +2415,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3115,8 +2425,6 @@
 
 **Era:** High Medieval (1126 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3128,11 +2436,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3142,8 +2446,6 @@
 
 **Era:** High Medieval (1126 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3155,11 +2457,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:22 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3169,8 +2467,6 @@
 
 **Era:** High Medieval (1127 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3182,11 +2478,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3196,8 +2488,6 @@
 
 **Era:** High Medieval (1127 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3209,11 +2499,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:54 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3223,8 +2509,6 @@
 
 **Era:** High Medieval (1129 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3236,11 +2520,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:35 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3250,8 +2530,6 @@
 
 **Era:** High Medieval (1130 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3263,11 +2541,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3277,8 +2551,6 @@
 
 **Era:** High Medieval (1131 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3290,11 +2562,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3304,8 +2572,6 @@
 
 **Era:** High Medieval (1133 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3317,11 +2583,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3331,8 +2593,6 @@
 
 **Era:** High Medieval (1133 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3344,11 +2604,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3358,8 +2614,6 @@
 
 **Era:** High Medieval (1133 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3371,11 +2625,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3385,8 +2635,6 @@
 
 **Era:** High Medieval (1133 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3398,11 +2646,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3412,8 +2656,6 @@
 
 **Era:** High Medieval (1134 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3425,11 +2667,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3439,8 +2677,6 @@
 
 **Era:** High Medieval (1135 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3452,11 +2688,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3466,8 +2698,6 @@
 
 **Era:** High Medieval (1135 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3479,11 +2709,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:29 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3493,8 +2719,6 @@
 
 **Era:** High Medieval (1135 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3506,11 +2730,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3520,8 +2740,6 @@
 
 **Era:** High Medieval (1135 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3533,11 +2751,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3547,8 +2761,6 @@
 
 **Era:** High Medieval (1135 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3560,11 +2772,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 23:17 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3574,8 +2782,6 @@
 
 **Era:** High Medieval (1136 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3587,11 +2793,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:05 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3601,8 +2803,6 @@
 
 **Era:** High Medieval (1138 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3614,11 +2814,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3628,8 +2824,6 @@
 
 **Era:** High Medieval (1139 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3641,11 +2835,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3655,8 +2845,6 @@
 
 **Era:** High Medieval (1139 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3668,11 +2856,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:49 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -3682,8 +2866,6 @@
 
 **Era:** High Medieval (1141 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3695,11 +2877,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3709,8 +2887,6 @@
 
 **Era:** High Medieval (1141 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3722,11 +2898,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3736,8 +2908,6 @@
 
 **Era:** High Medieval (1142 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3749,11 +2919,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3763,8 +2929,6 @@
 
 **Era:** High Medieval (1143 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3776,11 +2940,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:01 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3790,8 +2950,6 @@
 
 **Era:** High Medieval (1143 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3803,11 +2961,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3817,8 +2971,6 @@
 
 **Era:** High Medieval (1144 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3830,11 +2982,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:52 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3844,8 +2992,6 @@
 
 **Era:** High Medieval (1144 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3857,11 +3003,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3871,8 +3013,6 @@
 
 **Era:** High Medieval (1144 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3884,11 +3024,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3898,8 +3034,6 @@
 
 **Era:** High Medieval (1145 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3911,11 +3045,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:57 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3925,8 +3055,6 @@
 
 **Era:** High Medieval (1146 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3938,11 +3066,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3952,8 +3076,6 @@
 
 **Era:** High Medieval (1146 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3965,11 +3087,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3979,8 +3097,6 @@
 
 **Era:** High Medieval (1147 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -3992,11 +3108,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4006,8 +3118,6 @@
 
 **Era:** High Medieval (1147 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4019,11 +3129,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4033,8 +3139,6 @@
 
 **Era:** High Medieval (1148 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4046,11 +3150,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4060,8 +3160,6 @@
 
 **Era:** High Medieval (1149 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4073,11 +3171,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4087,8 +3181,6 @@
 
 **Era:** High Medieval (1150 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4100,11 +3192,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4114,8 +3202,6 @@
 
 **Era:** High Medieval (1150 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4127,11 +3213,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4141,8 +3223,6 @@
 
 **Era:** High Medieval (1151 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4154,11 +3234,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:15 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4168,8 +3244,6 @@
 
 **Era:** High Medieval (1151 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4181,11 +3255,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4195,8 +3265,6 @@
 
 **Era:** High Medieval (1151 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4208,11 +3276,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4222,8 +3286,6 @@
 
 **Era:** High Medieval (1151 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4235,11 +3297,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:09 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4249,8 +3307,6 @@
 
 **Era:** High Medieval (1152 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4262,11 +3318,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4276,8 +3328,6 @@
 
 **Era:** High Medieval (1153 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4289,11 +3339,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4303,8 +3349,6 @@
 
 **Era:** High Medieval (1153 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4316,11 +3360,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4330,8 +3370,6 @@
 
 **Era:** High Medieval (1153 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4343,11 +3381,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4357,8 +3391,6 @@
 
 **Era:** High Medieval (1154 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4370,11 +3402,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:22 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4384,8 +3412,6 @@
 
 **Era:** High Medieval (1154 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4397,11 +3423,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4411,8 +3433,6 @@
 
 **Era:** High Medieval (1155 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4424,11 +3444,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4438,8 +3454,6 @@
 
 **Era:** High Medieval (1155 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4451,11 +3465,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4465,8 +3475,6 @@
 
 **Era:** High Medieval (1155 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4478,11 +3486,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4492,8 +3496,6 @@
 
 **Era:** High Medieval (1155 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4505,11 +3507,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4519,8 +3517,6 @@
 
 **Era:** High Medieval (1156 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4532,11 +3528,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4546,8 +3538,6 @@
 
 **Era:** High Medieval (1157 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4559,11 +3549,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4573,8 +3559,6 @@
 
 **Era:** High Medieval (1157 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4586,11 +3570,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4600,8 +3580,6 @@
 
 **Era:** High Medieval (1157 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4613,11 +3591,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4627,8 +3601,6 @@
 
 **Era:** High Medieval (1157 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4640,11 +3612,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4654,8 +3622,6 @@
 
 **Era:** High Medieval (1157 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4667,11 +3633,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 13:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4681,8 +3643,6 @@
 
 **Era:** High Medieval (1158 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4694,11 +3654,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4708,8 +3664,6 @@
 
 **Era:** High Medieval (1160 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4721,11 +3675,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4735,8 +3685,6 @@
 
 **Era:** High Medieval (1163 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4748,11 +3696,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4762,8 +3706,6 @@
 
 **Era:** High Medieval (1163 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4775,11 +3717,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4789,8 +3727,6 @@
 
 **Era:** High Medieval (1164 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4802,11 +3738,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4816,8 +3748,6 @@
 
 **Era:** High Medieval (1165 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4829,11 +3759,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4843,8 +3769,6 @@
 
 **Era:** High Medieval (1167 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4856,11 +3780,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4870,8 +3790,6 @@
 
 **Era:** High Medieval (1167 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4883,11 +3801,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4897,8 +3811,6 @@
 
 **Era:** High Medieval (1167 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4910,11 +3822,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4924,8 +3832,6 @@
 
 **Era:** High Medieval (1168 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4937,11 +3843,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4951,8 +3853,6 @@
 
 **Era:** High Medieval (1169 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4964,11 +3864,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:32 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4978,8 +3874,6 @@
 
 **Era:** High Medieval (1169 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -4991,11 +3885,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5005,8 +3895,6 @@
 
 **Era:** High Medieval (1170 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5018,11 +3906,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:21 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5032,8 +3916,6 @@
 
 **Era:** High Medieval (1171 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5045,11 +3927,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:21 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5059,8 +3937,6 @@
 
 **Era:** High Medieval (1172 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5072,11 +3948,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5086,8 +3958,6 @@
 
 **Era:** High Medieval (1172 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5099,11 +3969,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:55 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5113,8 +3979,6 @@
 
 **Era:** High Medieval (1174 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5126,11 +3990,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5140,8 +4000,6 @@
 
 **Era:** High Medieval (1175 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5153,11 +4011,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5167,8 +4021,6 @@
 
 **Era:** High Medieval (1175 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5180,11 +4032,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5194,8 +4042,6 @@
 
 **Era:** High Medieval (1176 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5207,11 +4053,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:55 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5221,8 +4063,6 @@
 
 **Era:** High Medieval (1177 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5234,11 +4074,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:52 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5248,8 +4084,6 @@
 
 **Era:** High Medieval (1177 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5261,11 +4095,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5275,8 +4105,6 @@
 
 **Era:** High Medieval (1177 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5288,11 +4116,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5302,8 +4126,6 @@
 
 **Era:** High Medieval (1177 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5315,11 +4137,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5329,8 +4147,6 @@
 
 **Era:** High Medieval (1180 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5342,11 +4158,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:31 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5356,8 +4168,6 @@
 
 **Era:** High Medieval (1181 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5369,11 +4179,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:22 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5383,8 +4189,6 @@
 
 **Era:** High Medieval (1181 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5396,11 +4200,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5410,8 +4210,6 @@
 
 **Era:** High Medieval (1181 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5423,11 +4221,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5437,8 +4231,6 @@
 
 **Era:** High Medieval (1182 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5450,11 +4242,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5464,8 +4252,6 @@
 
 **Era:** High Medieval (1183 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5477,11 +4263,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5491,8 +4273,6 @@
 
 **Era:** High Medieval (1184 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5504,11 +4284,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:57 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5518,8 +4294,6 @@
 
 **Era:** High Medieval (1184 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5531,11 +4305,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5545,8 +4315,6 @@
 
 **Era:** High Medieval (1184 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5558,11 +4326,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5572,8 +4336,6 @@
 
 **Era:** High Medieval (1184 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5585,11 +4347,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5599,8 +4357,6 @@
 
 **Era:** High Medieval (1185 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5612,11 +4368,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:09 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5626,8 +4378,6 @@
 
 **Era:** High Medieval (1186 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5639,11 +4389,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5653,8 +4399,6 @@
 
 **Era:** High Medieval (1187 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5666,11 +4410,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5680,8 +4420,6 @@
 
 **Era:** High Medieval (1188 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5693,11 +4431,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5707,8 +4441,6 @@
 
 **Era:** High Medieval (1189 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5720,11 +4452,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5734,8 +4462,6 @@
 
 **Era:** High Medieval (1190 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5747,11 +4473,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5761,8 +4483,6 @@
 
 **Era:** High Medieval (1190 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5774,11 +4494,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5788,8 +4504,6 @@
 
 **Era:** High Medieval (1192 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5801,11 +4515,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5815,8 +4525,6 @@
 
 **Era:** High Medieval (1192 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5828,11 +4536,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5842,8 +4546,6 @@
 
 **Era:** High Medieval (1193 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5855,11 +4557,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5869,8 +4567,6 @@
 
 **Era:** High Medieval (1193 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5882,11 +4578,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5896,8 +4588,6 @@
 
 **Era:** High Medieval (1193 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5909,11 +4599,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5923,8 +4609,6 @@
 
 **Era:** High Medieval (1194 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5936,11 +4620,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5950,8 +4630,6 @@
 
 **Era:** High Medieval (1195 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5963,11 +4641,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5977,8 +4651,6 @@
 
 **Era:** High Medieval (1195 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -5990,11 +4662,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6004,8 +4672,6 @@
 
 **Era:** High Medieval (1197 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -6017,11 +4683,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6031,8 +4693,6 @@
 
 **Era:** High Medieval (1198 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -6044,11 +4704,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6058,8 +4714,6 @@
 
 **Era:** High Medieval (1200 CE)
 
-*Crusades. Cathedral building. Troubadours. Paper reaches Europe.*
-
 ---
 
 ### Astrological Snapshot
@@ -6071,11 +4725,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6085,8 +4735,6 @@
 
 **Era:** Late Medieval (1201 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6098,11 +4746,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6112,8 +4756,6 @@
 
 **Era:** Late Medieval (1201 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6125,11 +4767,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:20 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6139,8 +4777,6 @@
 
 **Era:** Late Medieval (1202 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6152,11 +4788,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6166,8 +4798,6 @@
 
 **Era:** Late Medieval (1203 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6179,11 +4809,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6193,8 +4819,6 @@
 
 **Era:** Late Medieval (1203 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6206,11 +4830,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:24 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6220,8 +4840,6 @@
 
 **Era:** Late Medieval (1203 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6233,11 +4851,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6247,8 +4861,6 @@
 
 **Era:** Late Medieval (1204 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6260,11 +4872,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:44 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6274,8 +4882,6 @@
 
 **Era:** Late Medieval (1204 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6287,11 +4893,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6301,8 +4903,6 @@
 
 **Era:** Late Medieval (1204 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6314,11 +4914,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:19 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6328,8 +4924,6 @@
 
 **Era:** Late Medieval (1206 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6341,11 +4935,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6355,8 +4945,6 @@
 
 **Era:** Late Medieval (1206 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6368,11 +4956,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6382,8 +4966,6 @@
 
 **Era:** Late Medieval (1206 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6395,11 +4977,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6409,8 +4987,6 @@
 
 **Era:** Late Medieval (1208 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6422,11 +4998,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6436,8 +5008,6 @@
 
 **Era:** Late Medieval (1208 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6449,11 +5019,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6463,8 +5029,6 @@
 
 **Era:** Late Medieval (1208 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6476,11 +5040,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6490,8 +5050,6 @@
 
 **Era:** Late Medieval (1208 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6503,11 +5061,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6517,8 +5071,6 @@
 
 **Era:** Late Medieval (1208 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6530,11 +5082,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6544,8 +5092,6 @@
 
 **Era:** Late Medieval (1208 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6557,11 +5103,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6571,8 +5113,6 @@
 
 **Era:** Late Medieval (1209 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6584,11 +5124,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6598,8 +5134,6 @@
 
 **Era:** Late Medieval (1210 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6611,11 +5145,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6625,8 +5155,6 @@
 
 **Era:** Late Medieval (1210 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6638,11 +5166,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6652,8 +5176,6 @@
 
 **Era:** Late Medieval (1211 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6665,11 +5187,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:45 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6679,8 +5197,6 @@
 
 **Era:** Late Medieval (1211 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6692,11 +5208,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6706,8 +5218,6 @@
 
 **Era:** Late Medieval (1212 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6719,11 +5229,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6733,8 +5239,6 @@
 
 **Era:** Late Medieval (1212 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6746,11 +5250,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6760,8 +5260,6 @@
 
 **Era:** Late Medieval (1212 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6773,11 +5271,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6787,8 +5281,6 @@
 
 **Era:** Late Medieval (1212 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6800,11 +5292,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6814,8 +5302,6 @@
 
 **Era:** Late Medieval (1212 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6827,11 +5313,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6841,8 +5323,6 @@
 
 **Era:** Late Medieval (1213 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6854,11 +5334,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6868,8 +5344,6 @@
 
 **Era:** Late Medieval (1213 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6881,11 +5355,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6895,8 +5365,6 @@
 
 **Era:** Late Medieval (1214 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6908,11 +5376,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6922,8 +5386,6 @@
 
 **Era:** Late Medieval (1214 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6935,11 +5397,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6949,8 +5407,6 @@
 
 **Era:** Late Medieval (1216 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6962,11 +5418,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6976,8 +5428,6 @@
 
 **Era:** Late Medieval (1216 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -6989,11 +5439,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7003,8 +5449,6 @@
 
 **Era:** Late Medieval (1217 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7016,11 +5460,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7030,8 +5470,6 @@
 
 **Era:** Late Medieval (1218 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7043,11 +5481,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7057,8 +5491,6 @@
 
 **Era:** Late Medieval (1218 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7070,11 +5502,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7084,8 +5512,6 @@
 
 **Era:** Late Medieval (1219 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7097,11 +5523,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 23:44 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7111,8 +5533,6 @@
 
 **Era:** Late Medieval (1220 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7124,11 +5544,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7138,8 +5554,6 @@
 
 **Era:** Late Medieval (1220 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7151,11 +5565,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7165,8 +5575,6 @@
 
 **Era:** Late Medieval (1221 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7178,11 +5586,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7192,8 +5596,6 @@
 
 **Era:** Late Medieval (1221 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7205,11 +5607,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7219,8 +5617,6 @@
 
 **Era:** Late Medieval (1221 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7232,11 +5628,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7246,8 +5638,6 @@
 
 **Era:** Late Medieval (1222 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7259,11 +5649,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7273,8 +5659,6 @@
 
 **Era:** Late Medieval (1222 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7286,11 +5670,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:11 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7300,8 +5680,6 @@
 
 **Era:** Late Medieval (1222 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7313,11 +5691,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7327,8 +5701,6 @@
 
 **Era:** Late Medieval (1222 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7340,11 +5712,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7354,8 +5722,6 @@
 
 **Era:** Late Medieval (1222 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7367,11 +5733,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7381,8 +5743,6 @@
 
 **Era:** Late Medieval (1222 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7394,11 +5754,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7408,8 +5764,6 @@
 
 **Era:** Late Medieval (1222 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7421,11 +5775,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7435,8 +5785,6 @@
 
 **Era:** Late Medieval (1222 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7448,11 +5796,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7462,8 +5806,6 @@
 
 **Era:** Late Medieval (1223 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7475,11 +5817,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 09:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7489,8 +5827,6 @@
 
 **Era:** Late Medieval (1223 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7502,11 +5838,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 22:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7516,8 +5848,6 @@
 
 **Era:** Late Medieval (1223 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7529,11 +5859,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7543,8 +5869,6 @@
 
 **Era:** Late Medieval (1224 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7556,11 +5880,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7570,8 +5890,6 @@
 
 **Era:** Late Medieval (1224 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7583,11 +5901,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7597,8 +5911,6 @@
 
 **Era:** Late Medieval (1225 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7610,11 +5922,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7624,8 +5932,6 @@
 
 **Era:** Late Medieval (1225 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7637,11 +5943,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7651,8 +5953,6 @@
 
 **Era:** Late Medieval (1225 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7664,11 +5964,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7678,8 +5974,6 @@
 
 **Era:** Late Medieval (1225 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7691,11 +5985,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:24 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7705,8 +5995,6 @@
 
 **Era:** Late Medieval (1226 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7718,11 +6006,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7732,8 +6016,6 @@
 
 **Era:** Late Medieval (1226 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7745,11 +6027,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:39 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7759,8 +6037,6 @@
 
 **Era:** Late Medieval (1226 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7772,11 +6048,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:57 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7786,8 +6058,6 @@
 
 **Era:** Late Medieval (1228 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7799,11 +6069,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7813,8 +6079,6 @@
 
 **Era:** Late Medieval (1229 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7826,11 +6090,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:44 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -7840,8 +6100,6 @@
 
 **Era:** Late Medieval (1229 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7853,11 +6111,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7867,8 +6121,6 @@
 
 **Era:** Late Medieval (1230 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7880,11 +6132,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7894,8 +6142,6 @@
 
 **Era:** Late Medieval (1231 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7907,11 +6153,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7921,8 +6163,6 @@
 
 **Era:** Late Medieval (1232 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7934,11 +6174,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7948,8 +6184,6 @@
 
 **Era:** Late Medieval (1232 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7961,11 +6195,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7975,8 +6205,6 @@
 
 **Era:** Late Medieval (1232 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -7988,11 +6216,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8002,8 +6226,6 @@
 
 **Era:** Late Medieval (1233 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8015,11 +6237,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8029,8 +6247,6 @@
 
 **Era:** Late Medieval (1233 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8042,11 +6258,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8056,8 +6268,6 @@
 
 **Era:** Late Medieval (1233 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8069,11 +6279,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8083,8 +6289,6 @@
 
 **Era:** Late Medieval (1234 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8096,11 +6300,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8110,8 +6310,6 @@
 
 **Era:** Late Medieval (1234 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8123,11 +6321,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8137,8 +6331,6 @@
 
 **Era:** Late Medieval (1234 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8150,11 +6342,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8164,8 +6352,6 @@
 
 **Era:** Late Medieval (1234 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8177,11 +6363,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8191,8 +6373,6 @@
 
 **Era:** Late Medieval (1235 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8204,11 +6384,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8218,8 +6394,6 @@
 
 **Era:** Late Medieval (1235 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8231,11 +6405,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8245,8 +6415,6 @@
 
 **Era:** Late Medieval (1235 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8258,11 +6426,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:16 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8272,8 +6436,6 @@
 
 **Era:** Late Medieval (1235 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8285,11 +6447,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 09:41 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8299,8 +6457,6 @@
 
 **Era:** Late Medieval (1235 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8312,11 +6468,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8326,8 +6478,6 @@
 
 **Era:** Late Medieval (1236 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8339,11 +6489,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:41 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8353,8 +6499,6 @@
 
 **Era:** Late Medieval (1236 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8366,11 +6510,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8380,8 +6520,6 @@
 
 **Era:** Late Medieval (1236 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8393,11 +6531,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:37 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8407,8 +6541,6 @@
 
 **Era:** Late Medieval (1237 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8420,11 +6552,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:52 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8434,8 +6562,6 @@
 
 **Era:** Late Medieval (1237 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8447,11 +6573,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8461,8 +6583,6 @@
 
 **Era:** Late Medieval (1237 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8474,11 +6594,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8488,8 +6604,6 @@
 
 **Era:** Late Medieval (1237 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8501,11 +6615,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8515,8 +6625,6 @@
 
 **Era:** Late Medieval (1238 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8528,11 +6636,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8542,8 +6646,6 @@
 
 **Era:** Late Medieval (1238 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8555,11 +6657,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8569,8 +6667,6 @@
 
 **Era:** Late Medieval (1238 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8582,11 +6678,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8596,8 +6688,6 @@
 
 **Era:** Late Medieval (1239 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8609,11 +6699,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8623,8 +6709,6 @@
 
 **Era:** Late Medieval (1239 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8636,11 +6720,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8650,8 +6730,6 @@
 
 **Era:** Late Medieval (1239 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8663,11 +6741,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:27 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8677,8 +6751,6 @@
 
 **Era:** Late Medieval (1239 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8690,11 +6762,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8704,8 +6772,6 @@
 
 **Era:** Late Medieval (1239 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8717,11 +6783,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8731,8 +6793,6 @@
 
 **Era:** Late Medieval (1239 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8744,11 +6804,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:13 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8758,8 +6814,6 @@
 
 **Era:** Late Medieval (1240 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8771,11 +6825,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8785,8 +6835,6 @@
 
 **Era:** Late Medieval (1241 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8798,11 +6846,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8812,8 +6856,6 @@
 
 **Era:** Late Medieval (1242 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8825,11 +6867,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:29 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8839,8 +6877,6 @@
 
 **Era:** Late Medieval (1242 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8852,11 +6888,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:07 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8866,8 +6898,6 @@
 
 **Era:** Late Medieval (1243 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8879,11 +6909,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8893,8 +6919,6 @@
 
 **Era:** Late Medieval (1244 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8906,11 +6930,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8920,8 +6940,6 @@
 
 **Era:** Late Medieval (1244 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8933,11 +6951,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8947,8 +6961,6 @@
 
 **Era:** Late Medieval (1245 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8960,11 +6972,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:14 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8974,8 +6982,6 @@
 
 **Era:** Late Medieval (1246 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -8987,11 +6993,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9001,8 +7003,6 @@
 
 **Era:** Late Medieval (1246 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9014,11 +7014,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9028,8 +7024,6 @@
 
 **Era:** Late Medieval (1246 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9041,11 +7035,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9055,8 +7045,6 @@
 
 **Era:** Late Medieval (1247 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9068,11 +7056,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9082,8 +7066,6 @@
 
 **Era:** Late Medieval (1248 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9095,11 +7077,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9109,8 +7087,6 @@
 
 **Era:** Late Medieval (1248 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9122,11 +7098,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9136,8 +7108,6 @@
 
 **Era:** Late Medieval (1248 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9149,11 +7119,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9163,8 +7129,6 @@
 
 **Era:** Late Medieval (1249 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9176,11 +7140,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9190,8 +7150,6 @@
 
 **Era:** Late Medieval (1249 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9203,11 +7161,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9217,8 +7171,6 @@
 
 **Era:** Late Medieval (1249 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9230,11 +7182,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9244,8 +7192,6 @@
 
 **Era:** Late Medieval (1249 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9257,11 +7203,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9271,8 +7213,6 @@
 
 **Era:** Late Medieval (1249 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9284,11 +7224,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9298,8 +7234,6 @@
 
 **Era:** Late Medieval (1249 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9311,11 +7245,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9325,8 +7255,6 @@
 
 **Era:** Late Medieval (1250 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9338,11 +7266,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:19 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9352,8 +7276,6 @@
 
 **Era:** Late Medieval (1250 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9365,11 +7287,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9379,8 +7297,6 @@
 
 **Era:** Late Medieval (1250 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9392,11 +7308,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9406,8 +7318,6 @@
 
 **Era:** Late Medieval (1252 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9419,11 +7329,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9433,8 +7339,6 @@
 
 **Era:** Late Medieval (1252 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9446,11 +7350,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9460,8 +7360,6 @@
 
 **Era:** Late Medieval (1252 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9473,11 +7371,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9487,8 +7381,6 @@
 
 **Era:** Late Medieval (1252 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9500,11 +7392,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9514,8 +7402,6 @@
 
 **Era:** Late Medieval (1252 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9527,11 +7413,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:35 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9541,8 +7423,6 @@
 
 **Era:** Late Medieval (1252 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9554,11 +7434,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9568,8 +7444,6 @@
 
 **Era:** Late Medieval (1253 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9581,11 +7455,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9595,8 +7465,6 @@
 
 **Era:** Late Medieval (1253 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9608,11 +7476,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9622,8 +7486,6 @@
 
 **Era:** Late Medieval (1253 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9635,11 +7497,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9649,8 +7507,6 @@
 
 **Era:** Late Medieval (1253 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9662,11 +7518,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9676,8 +7528,6 @@
 
 **Era:** Late Medieval (1253 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9689,11 +7539,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9703,8 +7549,6 @@
 
 **Era:** Late Medieval (1254 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9716,11 +7560,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:04 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9730,8 +7570,6 @@
 
 **Era:** Late Medieval (1254 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9743,11 +7581,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9757,8 +7591,6 @@
 
 **Era:** Late Medieval (1254 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9770,11 +7602,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9784,8 +7612,6 @@
 
 **Era:** Late Medieval (1255 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9797,11 +7623,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:20 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9811,8 +7633,6 @@
 
 **Era:** Late Medieval (1256 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9824,11 +7644,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9838,8 +7654,6 @@
 
 **Era:** Late Medieval (1256 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9851,11 +7665,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:52 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9865,8 +7675,6 @@
 
 **Era:** Late Medieval (1256 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9878,11 +7686,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:37 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9892,8 +7696,6 @@
 
 **Era:** Late Medieval (1256 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9905,11 +7707,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9919,8 +7717,6 @@
 
 **Era:** Late Medieval (1257 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9932,11 +7728,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9946,8 +7738,6 @@
 
 **Era:** Late Medieval (1257 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9959,11 +7749,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:38 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9973,8 +7759,6 @@
 
 **Era:** Late Medieval (1259 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -9986,11 +7770,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10000,8 +7780,6 @@
 
 **Era:** Late Medieval (1260 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10013,11 +7791,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10027,8 +7801,6 @@
 
 **Era:** Late Medieval (1260 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10040,11 +7812,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10054,8 +7822,6 @@
 
 **Era:** Late Medieval (1260 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10067,11 +7833,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10081,8 +7843,6 @@
 
 **Era:** Late Medieval (1261 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10094,11 +7854,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10108,8 +7864,6 @@
 
 **Era:** Late Medieval (1261 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10121,11 +7875,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:32 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10135,8 +7885,6 @@
 
 **Era:** Late Medieval (1261 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10148,11 +7896,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:58 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10162,8 +7906,6 @@
 
 **Era:** Late Medieval (1261 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10175,11 +7917,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10189,8 +7927,6 @@
 
 **Era:** Late Medieval (1262 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10202,11 +7938,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10216,8 +7948,6 @@
 
 **Era:** Late Medieval (1263 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10229,11 +7959,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10243,8 +7969,6 @@
 
 **Era:** Late Medieval (1263 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10256,11 +7980,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10270,8 +7990,6 @@
 
 **Era:** Late Medieval (1264 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10283,11 +8001,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:08 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10297,8 +8011,6 @@
 
 **Era:** Late Medieval (1264 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10310,11 +8022,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 18:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10324,8 +8032,6 @@
 
 **Era:** Late Medieval (1264 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10337,11 +8043,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10351,8 +8053,6 @@
 
 **Era:** Late Medieval (1265 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10364,11 +8064,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10378,8 +8074,6 @@
 
 **Era:** Late Medieval (1266 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10391,11 +8085,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10405,8 +8095,6 @@
 
 **Era:** Late Medieval (1266 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10418,11 +8106,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10432,8 +8116,6 @@
 
 **Era:** Late Medieval (1267 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10445,11 +8127,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10459,8 +8137,6 @@
 
 **Era:** Late Medieval (1267 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10472,11 +8148,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10486,8 +8158,6 @@
 
 **Era:** Late Medieval (1268 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10499,11 +8169,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10513,8 +8179,6 @@
 
 **Era:** Late Medieval (1269 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10526,11 +8190,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10540,8 +8200,6 @@
 
 **Era:** Late Medieval (1269 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10553,11 +8211,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 04:30 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10567,8 +8221,6 @@
 
 **Era:** Late Medieval (1270 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10580,11 +8232,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 12:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10594,8 +8242,6 @@
 
 **Era:** Late Medieval (1270 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10607,11 +8253,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10621,8 +8263,6 @@
 
 **Era:** Late Medieval (1270 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10634,11 +8274,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:25 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10648,8 +8284,6 @@
 
 **Era:** Late Medieval (1271 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10661,11 +8295,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10675,8 +8305,6 @@
 
 **Era:** Late Medieval (1271 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10688,11 +8316,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10702,8 +8326,6 @@
 
 **Era:** Late Medieval (1272 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10715,11 +8337,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:31 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10729,8 +8347,6 @@
 
 **Era:** Late Medieval (1272 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10742,11 +8358,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10756,8 +8368,6 @@
 
 **Era:** Late Medieval (1272 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10769,11 +8379,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:29 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10783,8 +8389,6 @@
 
 **Era:** Late Medieval (1273 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10796,11 +8400,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:10 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10810,8 +8410,6 @@
 
 **Era:** Late Medieval (1273 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10823,11 +8421,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10837,8 +8431,6 @@
 
 **Era:** Late Medieval (1273 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10850,11 +8442,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10864,8 +8452,6 @@
 
 **Era:** Late Medieval (1275 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10877,11 +8463,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10891,8 +8473,6 @@
 
 **Era:** Late Medieval (1275 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10904,11 +8484,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10918,8 +8494,6 @@
 
 **Era:** Late Medieval (1275 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10931,11 +8505,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10945,8 +8515,6 @@
 
 **Era:** Late Medieval (1276 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10958,11 +8526,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10972,8 +8536,6 @@
 
 **Era:** Late Medieval (1276 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -10985,11 +8547,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10999,8 +8557,6 @@
 
 **Era:** Late Medieval (1276 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11012,11 +8568,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:16 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11026,8 +8578,6 @@
 
 **Era:** Late Medieval (1276 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11039,11 +8589,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11053,8 +8599,6 @@
 
 **Era:** Late Medieval (1276 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11066,11 +8610,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11080,8 +8620,6 @@
 
 **Era:** Late Medieval (1277 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11093,11 +8631,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11107,8 +8641,6 @@
 
 **Era:** Late Medieval (1277 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11120,11 +8652,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11134,8 +8662,6 @@
 
 **Era:** Late Medieval (1277 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11147,11 +8673,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11161,8 +8683,6 @@
 
 **Era:** Late Medieval (1278 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11174,11 +8694,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11188,8 +8704,6 @@
 
 **Era:** Late Medieval (1278 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11201,11 +8715,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11215,8 +8725,6 @@
 
 **Era:** Late Medieval (1278 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11228,11 +8736,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11242,8 +8746,6 @@
 
 **Era:** Late Medieval (1278 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11255,11 +8757,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11269,8 +8767,6 @@
 
 **Era:** Late Medieval (1279 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11282,11 +8778,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11296,8 +8788,6 @@
 
 **Era:** Late Medieval (1280 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11309,11 +8799,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:28 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11323,8 +8809,6 @@
 
 **Era:** Late Medieval (1281 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11336,11 +8820,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11350,8 +8830,6 @@
 
 **Era:** Late Medieval (1281 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11363,11 +8841,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11377,8 +8851,6 @@
 
 **Era:** Late Medieval (1281 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11390,11 +8862,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11404,8 +8872,6 @@
 
 **Era:** Late Medieval (1281 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11417,11 +8883,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:48 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11431,8 +8893,6 @@
 
 **Era:** Late Medieval (1282 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11444,11 +8904,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11458,8 +8914,6 @@
 
 **Era:** Late Medieval (1283 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11471,11 +8925,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11485,8 +8935,6 @@
 
 **Era:** Late Medieval (1283 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11498,11 +8946,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11512,8 +8956,6 @@
 
 **Era:** Late Medieval (1283 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11525,11 +8967,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11539,8 +8977,6 @@
 
 **Era:** Late Medieval (1283 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11552,11 +8988,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11566,8 +8998,6 @@
 
 **Era:** Late Medieval (1284 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11579,11 +9009,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11593,8 +9019,6 @@
 
 **Era:** Late Medieval (1284 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11606,11 +9030,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11620,8 +9040,6 @@
 
 **Era:** Late Medieval (1284 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11633,11 +9051,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11647,8 +9061,6 @@
 
 **Era:** Late Medieval (1284 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11660,11 +9072,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11674,8 +9082,6 @@
 
 **Era:** Late Medieval (1285 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11687,11 +9093,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11701,8 +9103,6 @@
 
 **Era:** Late Medieval (1285 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11714,11 +9114,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11728,8 +9124,6 @@
 
 **Era:** Late Medieval (1285 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11741,11 +9135,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:39 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11755,8 +9145,6 @@
 
 **Era:** Late Medieval (1286 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11768,11 +9156,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11782,8 +9166,6 @@
 
 **Era:** Late Medieval (1286 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11795,11 +9177,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11809,8 +9187,6 @@
 
 **Era:** Late Medieval (1286 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11822,11 +9198,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:19 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11836,8 +9208,6 @@
 
 **Era:** Late Medieval (1286 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11849,11 +9219,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11863,8 +9229,6 @@
 
 **Era:** Late Medieval (1287 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11876,11 +9240,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11890,8 +9250,6 @@
 
 **Era:** Late Medieval (1287 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11903,11 +9261,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11917,8 +9271,6 @@
 
 **Era:** Late Medieval (1287 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11930,11 +9282,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 02:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11944,8 +9292,6 @@
 
 **Era:** Late Medieval (1287 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11957,11 +9303,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 05:57 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11971,8 +9313,6 @@
 
 **Era:** Late Medieval (1288 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -11984,11 +9324,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11998,8 +9334,6 @@
 
 **Era:** Late Medieval (1289 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12011,11 +9345,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12025,8 +9355,6 @@
 
 **Era:** Late Medieval (1289 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12038,11 +9366,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:14 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12052,8 +9376,6 @@
 
 **Era:** Late Medieval (1289 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12065,11 +9387,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12079,8 +9397,6 @@
 
 **Era:** Late Medieval (1290 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12092,11 +9408,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12106,8 +9418,6 @@
 
 **Era:** Late Medieval (1290 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12119,11 +9429,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12133,8 +9439,6 @@
 
 **Era:** Late Medieval (1291 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12146,11 +9450,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12160,8 +9460,6 @@
 
 **Era:** Late Medieval (1291 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12173,11 +9471,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 17:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12187,8 +9481,6 @@
 
 **Era:** Late Medieval (1293 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12200,11 +9492,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12214,8 +9502,6 @@
 
 **Era:** Late Medieval (1293 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12227,11 +9513,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12241,8 +9523,6 @@
 
 **Era:** Late Medieval (1294 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12254,11 +9534,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 07:22 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12268,8 +9544,6 @@
 
 **Era:** Late Medieval (1294 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12281,11 +9555,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12295,8 +9565,6 @@
 
 **Era:** Late Medieval (1294 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12308,11 +9576,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12322,8 +9586,6 @@
 
 **Era:** Late Medieval (1295 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12335,11 +9597,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12349,8 +9607,6 @@
 
 **Era:** Late Medieval (1295 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12362,11 +9618,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12376,8 +9628,6 @@
 
 **Era:** Late Medieval (1296 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12389,11 +9639,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12403,8 +9649,6 @@
 
 **Era:** Late Medieval (1299 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12416,11 +9660,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12430,8 +9670,6 @@
 
 **Era:** Late Medieval (1300 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12443,11 +9681,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12457,8 +9691,6 @@
 
 **Era:** Late Medieval (1300 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12470,11 +9702,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12484,8 +9712,6 @@
 
 **Era:** Late Medieval (1300 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12497,11 +9723,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:29 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12511,8 +9733,6 @@
 
 **Era:** Late Medieval (1302 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12524,11 +9744,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12538,8 +9754,6 @@
 
 **Era:** Late Medieval (1303 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12551,11 +9765,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12565,8 +9775,6 @@
 
 **Era:** Late Medieval (1303 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12578,11 +9786,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 18:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12592,8 +9796,6 @@
 
 **Era:** Late Medieval (1304 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12605,11 +9807,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12619,8 +9817,6 @@
 
 **Era:** Late Medieval (1306 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12632,11 +9828,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12646,8 +9838,6 @@
 
 **Era:** Late Medieval (1307 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12659,11 +9849,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12673,8 +9859,6 @@
 
 **Era:** Late Medieval (1309 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12686,11 +9870,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12700,8 +9880,6 @@
 
 **Era:** Late Medieval (1309 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12713,11 +9891,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12727,8 +9901,6 @@
 
 **Era:** Late Medieval (1311 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12740,11 +9912,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12754,8 +9922,6 @@
 
 **Era:** Late Medieval (1312 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12767,11 +9933,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12781,8 +9943,6 @@
 
 **Era:** Late Medieval (1312 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12794,11 +9954,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12808,8 +9964,6 @@
 
 **Era:** Late Medieval (1312 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12821,11 +9975,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:23 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12835,8 +9985,6 @@
 
 **Era:** Late Medieval (1314 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12848,11 +9996,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12862,8 +10006,6 @@
 
 **Era:** Late Medieval (1314 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12875,11 +10017,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:16 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12889,8 +10027,6 @@
 
 **Era:** Late Medieval (1315 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12902,11 +10038,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12916,8 +10048,6 @@
 
 **Era:** Late Medieval (1315 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12929,11 +10059,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 12:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12943,8 +10069,6 @@
 
 **Era:** Late Medieval (1316 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12956,11 +10080,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12970,8 +10090,6 @@
 
 **Era:** Late Medieval (1316 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -12983,11 +10101,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12997,8 +10111,6 @@
 
 **Era:** Late Medieval (1316 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13010,11 +10122,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13024,8 +10132,6 @@
 
 **Era:** Late Medieval (1317 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13037,11 +10143,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13051,8 +10153,6 @@
 
 **Era:** Late Medieval (1318 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13064,11 +10164,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13078,8 +10174,6 @@
 
 **Era:** Late Medieval (1320 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13091,11 +10185,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13105,8 +10195,6 @@
 
 **Era:** Late Medieval (1321 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13118,11 +10206,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13132,8 +10216,6 @@
 
 **Era:** Late Medieval (1322 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13145,11 +10227,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13159,8 +10237,6 @@
 
 **Era:** Late Medieval (1322 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13172,11 +10248,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13186,8 +10258,6 @@
 
 **Era:** Late Medieval (1325 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13199,11 +10269,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13213,8 +10279,6 @@
 
 **Era:** Late Medieval (1326 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13226,11 +10290,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13240,8 +10300,6 @@
 
 **Era:** Late Medieval (1327 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13253,11 +10311,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:26 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13267,8 +10321,6 @@
 
 **Era:** Late Medieval (1327 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13280,11 +10332,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13294,8 +10342,6 @@
 
 **Era:** Late Medieval (1332 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13307,11 +10353,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13321,8 +10363,6 @@
 
 **Era:** Late Medieval (1332 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13334,11 +10374,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13348,8 +10384,6 @@
 
 **Era:** Late Medieval (1335 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13361,11 +10395,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13374,8 +10404,6 @@
 **Mibera(s):** [#6862](../miberas/6862.md)
 
 **Era:** Late Medieval (1335 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13388,11 +10416,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13401,8 +10425,6 @@
 **Mibera(s):** [#3077](../miberas/3077.md)
 
 **Era:** Late Medieval (1336 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13415,11 +10437,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 20:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13428,8 +10446,6 @@
 **Mibera(s):** [#6170](../miberas/6170.md)
 
 **Era:** Late Medieval (1337 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13442,11 +10458,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13455,8 +10467,6 @@
 **Mibera(s):** [#3923](../miberas/3923.md)
 
 **Era:** Late Medieval (1339 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13469,11 +10479,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13482,8 +10488,6 @@
 **Mibera(s):** [#9205](../miberas/9205.md)
 
 **Era:** Late Medieval (1340 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13496,11 +10500,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13509,8 +10509,6 @@
 **Mibera(s):** [#1844](../miberas/1844.md)
 
 **Era:** Late Medieval (1340 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13523,11 +10521,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 18:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13536,8 +10530,6 @@
 **Mibera(s):** [#6178](../miberas/6178.md)
 
 **Era:** Late Medieval (1341 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13550,11 +10542,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13563,8 +10551,6 @@
 **Mibera(s):** [#9713](../miberas/9713.md)
 
 **Era:** Late Medieval (1342 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13577,11 +10563,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13591,8 +10573,6 @@
 
 **Era:** Late Medieval (1343 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13604,11 +10584,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:42 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13618,8 +10594,6 @@
 
 **Era:** Late Medieval (1349 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13631,11 +10605,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13645,8 +10615,6 @@
 
 **Era:** Late Medieval (1349 CE)
 
-*Mongol Empire. Dante writes. Universities flourish.*
-
 ---
 
 ### Astrological Snapshot
@@ -13658,11 +10626,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13671,8 +10635,6 @@
 **Mibera(s):** [#4875](../miberas/4875.md)
 
 **Era:** Late Medieval (1349 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13685,11 +10647,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:17 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13698,8 +10656,6 @@
 **Mibera(s):** [#9947](../miberas/9947.md)
 
 **Era:** Late Medieval (1350 CE)
-
-*Mongol Empire. Dante writes. Universities flourish.*
 
 ---
 
@@ -13712,11 +10668,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13725,8 +10677,6 @@
 **Mibera(s):** [#9937](../miberas/9937.md)
 
 **Era:** Black Death & Renaissance Dawn (1351 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13739,11 +10689,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13752,8 +10698,6 @@
 **Mibera(s):** [#2327](../miberas/2327.md)
 
 **Era:** Black Death & Renaissance Dawn (1351 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13766,11 +10710,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:44 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13779,8 +10719,6 @@
 **Mibera(s):** [#8738](../miberas/8738.md)
 
 **Era:** Black Death & Renaissance Dawn (1352 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13793,11 +10731,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:10 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13806,8 +10740,6 @@
 **Mibera(s):** [#1](../miberas/0001.md)
 
 **Era:** Black Death & Renaissance Dawn (1352 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13820,11 +10752,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:47 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13833,8 +10761,6 @@
 **Mibera(s):** [#7615](../miberas/7615.md)
 
 **Era:** Black Death & Renaissance Dawn (1353 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13847,11 +10773,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13860,8 +10782,6 @@
 **Mibera(s):** [#3532](../miberas/3532.md)
 
 **Era:** Black Death & Renaissance Dawn (1354 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13874,11 +10794,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13887,8 +10803,6 @@
 **Mibera(s):** [#4066](../miberas/4066.md)
 
 **Era:** Black Death & Renaissance Dawn (1354 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13901,11 +10815,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:17 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13914,8 +10824,6 @@
 **Mibera(s):** [#1630](../miberas/1630.md)
 
 **Era:** Black Death & Renaissance Dawn (1355 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13928,11 +10836,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13941,8 +10845,6 @@
 **Mibera(s):** [#3916](../miberas/3916.md)
 
 **Era:** Black Death & Renaissance Dawn (1358 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -13955,11 +10857,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13969,8 +10867,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1358 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -13982,11 +10878,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13996,8 +10888,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1358 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -14009,11 +10899,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14022,8 +10908,6 @@
 **Mibera(s):** [#6910](../miberas/6910.md)
 
 **Era:** Black Death & Renaissance Dawn (1360 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14036,11 +10920,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:49 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14049,8 +10929,6 @@
 **Mibera(s):** [#5413](../miberas/5413.md)
 
 **Era:** Black Death & Renaissance Dawn (1361 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14063,11 +10941,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14076,8 +10950,6 @@
 **Mibera(s):** [#359](../miberas/0359.md)
 
 **Era:** Black Death & Renaissance Dawn (1361 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14090,11 +10962,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14103,8 +10971,6 @@
 **Mibera(s):** [#3073](../miberas/3073.md)
 
 **Era:** Black Death & Renaissance Dawn (1362 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14117,11 +10983,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14130,8 +10992,6 @@
 **Mibera(s):** [#4586](../miberas/4586.md)
 
 **Era:** Black Death & Renaissance Dawn (1363 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14144,11 +11004,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14157,8 +11013,6 @@
 **Mibera(s):** [#9314](../miberas/9314.md)
 
 **Era:** Black Death & Renaissance Dawn (1364 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14171,11 +11025,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14184,8 +11034,6 @@
 **Mibera(s):** [#4634](../miberas/4634.md)
 
 **Era:** Black Death & Renaissance Dawn (1365 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14198,11 +11046,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14211,8 +11055,6 @@
 **Mibera(s):** [#1914](../miberas/1914.md)
 
 **Era:** Black Death & Renaissance Dawn (1367 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14225,11 +11067,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 06:07 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14238,8 +11076,6 @@
 **Mibera(s):** [#9331](../miberas/9331.md)
 
 **Era:** Black Death & Renaissance Dawn (1370 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14252,11 +11088,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14265,8 +11097,6 @@
 **Mibera(s):** [#8128](../miberas/8128.md)
 
 **Era:** Black Death & Renaissance Dawn (1374 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14279,11 +11109,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14292,8 +11118,6 @@
 **Mibera(s):** [#9560](../miberas/9560.md)
 
 **Era:** Black Death & Renaissance Dawn (1375 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14306,11 +11130,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14319,8 +11139,6 @@
 **Mibera(s):** [#5402](../miberas/5402.md)
 
 **Era:** Black Death & Renaissance Dawn (1380 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14333,11 +11151,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:51 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14346,8 +11160,6 @@
 **Mibera(s):** [#1610](../miberas/1610.md)
 
 **Era:** Black Death & Renaissance Dawn (1380 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14360,11 +11172,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14373,8 +11181,6 @@
 **Mibera(s):** [#509](../miberas/0509.md)
 
 **Era:** Black Death & Renaissance Dawn (1383 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14387,11 +11193,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:16 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14400,8 +11202,6 @@
 **Mibera(s):** [#1097](../miberas/1097.md)
 
 **Era:** Black Death & Renaissance Dawn (1386 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14414,11 +11214,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:25 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14428,8 +11224,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1386 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -14441,11 +11235,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:57 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14455,8 +11245,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1388 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -14468,11 +11256,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:27 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14481,8 +11265,6 @@
 **Mibera(s):** [#3161](../miberas/3161.md)
 
 **Era:** Black Death & Renaissance Dawn (1389 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14495,11 +11277,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14508,8 +11286,6 @@
 **Mibera(s):** [#2854](../miberas/2854.md)
 
 **Era:** Black Death & Renaissance Dawn (1391 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14522,11 +11298,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14535,8 +11307,6 @@
 **Mibera(s):** [#291](../miberas/0291.md)
 
 **Era:** Black Death & Renaissance Dawn (1391 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14549,11 +11319,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14562,8 +11328,6 @@
 **Mibera(s):** [#4177](../miberas/4177.md)
 
 **Era:** Black Death & Renaissance Dawn (1392 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14576,11 +11340,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14589,8 +11349,6 @@
 **Mibera(s):** [#7007](../miberas/7007.md)
 
 **Era:** Black Death & Renaissance Dawn (1396 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14603,11 +11361,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14616,8 +11370,6 @@
 **Mibera(s):** [#1604](../miberas/1604.md)
 
 **Era:** Black Death & Renaissance Dawn (1396 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14630,11 +11382,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:52 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14643,8 +11391,6 @@
 **Mibera(s):** [#1676](../miberas/1676.md)
 
 **Era:** Black Death & Renaissance Dawn (1397 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14657,11 +11403,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:55 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14670,8 +11412,6 @@
 **Mibera(s):** [#2661](../miberas/2661.md)
 
 **Era:** Black Death & Renaissance Dawn (1402 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14684,11 +11424,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14697,8 +11433,6 @@
 **Mibera(s):** [#6223](../miberas/6223.md)
 
 **Era:** Black Death & Renaissance Dawn (1404 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14711,11 +11445,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14724,8 +11454,6 @@
 **Mibera(s):** [#8530](../miberas/8530.md)
 
 **Era:** Black Death & Renaissance Dawn (1405 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14738,11 +11466,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:44 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14751,8 +11475,6 @@
 **Mibera(s):** [#7349](../miberas/7349.md)
 
 **Era:** Black Death & Renaissance Dawn (1408 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14765,11 +11487,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14778,8 +11496,6 @@
 **Mibera(s):** [#8494](../miberas/8494.md)
 
 **Era:** Black Death & Renaissance Dawn (1409 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14792,11 +11508,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14805,8 +11517,6 @@
 **Mibera(s):** [#8077](../miberas/8077.md)
 
 **Era:** Black Death & Renaissance Dawn (1409 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14819,11 +11529,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:51 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14833,8 +11539,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1411 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -14846,11 +11550,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14860,8 +11560,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1412 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -14873,11 +11571,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:45 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14886,8 +11580,6 @@
 **Mibera(s):** [#6991](../miberas/6991.md)
 
 **Era:** Black Death & Renaissance Dawn (1412 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14900,11 +11592,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 22:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14913,8 +11601,6 @@
 **Mibera(s):** [#6370](../miberas/6370.md)
 
 **Era:** Black Death & Renaissance Dawn (1414 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -14927,11 +11613,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:28 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14941,8 +11623,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1415 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -14954,11 +11634,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:27 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14968,8 +11644,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1416 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -14981,11 +11655,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:16 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14994,8 +11664,6 @@
 **Mibera(s):** [#6666](../miberas/6666.md)
 
 **Era:** Black Death & Renaissance Dawn (1417 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15008,11 +11676,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:08 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15021,8 +11685,6 @@
 **Mibera(s):** [#5047](../miberas/5047.md)
 
 **Era:** Black Death & Renaissance Dawn (1417 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15035,11 +11697,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15048,8 +11706,6 @@
 **Mibera(s):** [#7716](../miberas/7716.md)
 
 **Era:** Black Death & Renaissance Dawn (1418 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15062,11 +11718,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15075,8 +11727,6 @@
 **Mibera(s):** [#2848](../miberas/2848.md)
 
 **Era:** Black Death & Renaissance Dawn (1418 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15089,11 +11739,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15102,8 +11748,6 @@
 **Mibera(s):** [#4098](../miberas/4098.md)
 
 **Era:** Black Death & Renaissance Dawn (1419 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15116,11 +11760,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15129,8 +11769,6 @@
 **Mibera(s):** [#3159](../miberas/3159.md)
 
 **Era:** Black Death & Renaissance Dawn (1419 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15143,11 +11781,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:52 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15156,8 +11790,6 @@
 **Mibera(s):** [#381](../miberas/0381.md)
 
 **Era:** Black Death & Renaissance Dawn (1420 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15170,11 +11802,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 00:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15183,8 +11811,6 @@
 **Mibera(s):** [#6113](../miberas/6113.md)
 
 **Era:** Black Death & Renaissance Dawn (1423 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15197,11 +11823,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 15:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15210,8 +11832,6 @@
 **Mibera(s):** [#3700](../miberas/3700.md)
 
 **Era:** Black Death & Renaissance Dawn (1423 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15224,11 +11844,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15237,8 +11853,6 @@
 **Mibera(s):** [#7703](../miberas/7703.md)
 
 **Era:** Black Death & Renaissance Dawn (1426 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15251,11 +11865,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:34 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15264,8 +11874,6 @@
 **Mibera(s):** [#7350](../miberas/7350.md)
 
 **Era:** Black Death & Renaissance Dawn (1427 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15278,11 +11886,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15291,8 +11895,6 @@
 **Mibera(s):** [#532](../miberas/0532.md)
 
 **Era:** Black Death & Renaissance Dawn (1427 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15305,11 +11907,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15318,8 +11916,6 @@
 **Mibera(s):** [#8325](../miberas/8325.md)
 
 **Era:** Black Death & Renaissance Dawn (1428 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15332,11 +11928,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15345,8 +11937,6 @@
 **Mibera(s):** [#5932](../miberas/5932.md)
 
 **Era:** Black Death & Renaissance Dawn (1430 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15359,11 +11949,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:19 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15372,8 +11958,6 @@
 **Mibera(s):** [#5096](../miberas/5096.md)
 
 **Era:** Black Death & Renaissance Dawn (1432 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15386,11 +11970,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15399,8 +11979,6 @@
 **Mibera(s):** [#9376](../miberas/9376.md)
 
 **Era:** Black Death & Renaissance Dawn (1432 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15413,11 +11991,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15427,8 +12001,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1432 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15440,11 +12012,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:42 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15454,8 +12022,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1433 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15467,11 +12033,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:44 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15481,8 +12043,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1437 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15494,11 +12054,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15508,8 +12064,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1437 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15521,11 +12075,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 00:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15535,8 +12085,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1437 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15548,11 +12096,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15561,8 +12105,6 @@
 **Mibera(s):** [#2773](../miberas/2773.md)
 
 **Era:** Black Death & Renaissance Dawn (1439 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15575,11 +12117,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15588,8 +12126,6 @@
 **Mibera(s):** [#8143](../miberas/8143.md)
 
 **Era:** Black Death & Renaissance Dawn (1439 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15602,11 +12138,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15616,8 +12148,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1440 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15629,11 +12159,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15643,8 +12169,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1441 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15656,11 +12180,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 08:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15669,8 +12189,6 @@
 **Mibera(s):** [#7624](../miberas/7624.md)
 
 **Era:** Black Death & Renaissance Dawn (1443 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15683,11 +12201,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:23 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15696,8 +12210,6 @@
 **Mibera(s):** [#854](../miberas/0854.md)
 
 **Era:** Black Death & Renaissance Dawn (1443 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15710,11 +12222,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15723,8 +12231,6 @@
 **Mibera(s):** [#1202](../miberas/1202.md)
 
 **Era:** Black Death & Renaissance Dawn (1443 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15737,11 +12243,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15751,8 +12253,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1448 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15764,11 +12264,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15778,8 +12274,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1450 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15791,11 +12285,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15804,8 +12294,6 @@
 **Mibera(s):** [#1204](../miberas/1204.md)
 
 **Era:** Black Death & Renaissance Dawn (1451 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15818,11 +12306,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15831,8 +12315,6 @@
 **Mibera(s):** [#8621](../miberas/8621.md)
 
 **Era:** Black Death & Renaissance Dawn (1451 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15845,11 +12327,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15859,8 +12337,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1452 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15872,11 +12348,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:04 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15886,8 +12358,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1455 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15899,11 +12369,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:31 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15913,8 +12379,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1456 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15926,11 +12390,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15940,8 +12400,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1458 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -15953,11 +12411,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:34 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15966,8 +12420,6 @@
 **Mibera(s):** [#3047](../miberas/3047.md)
 
 **Era:** Black Death & Renaissance Dawn (1459 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -15980,11 +12432,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15993,8 +12441,6 @@
 **Mibera(s):** [#3858](../miberas/3858.md)
 
 **Era:** Black Death & Renaissance Dawn (1467 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16007,11 +12453,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:31 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16020,8 +12462,6 @@
 **Mibera(s):** [#9001](../miberas/9001.md)
 
 **Era:** Black Death & Renaissance Dawn (1469 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16034,11 +12474,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16048,8 +12484,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1472 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -16061,11 +12495,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:36 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16075,8 +12505,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1474 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -16088,11 +12516,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:41 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16101,8 +12525,6 @@
 **Mibera(s):** [#7976](../miberas/7976.md)
 
 **Era:** Black Death & Renaissance Dawn (1477 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16115,11 +12537,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:09 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16128,8 +12546,6 @@
 **Mibera(s):** [#1588](../miberas/1588.md)
 
 **Era:** Black Death & Renaissance Dawn (1479 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16142,11 +12558,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16155,8 +12567,6 @@
 **Mibera(s):** [#9270](../miberas/9270.md)
 
 **Era:** Black Death & Renaissance Dawn (1482 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16169,11 +12579,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:37 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16182,8 +12588,6 @@
 **Mibera(s):** [#8869](../miberas/8869.md)
 
 **Era:** Black Death & Renaissance Dawn (1484 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16196,11 +12600,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16209,8 +12609,6 @@
 **Mibera(s):** [#3702](../miberas/3702.md)
 
 **Era:** Black Death & Renaissance Dawn (1491 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16223,11 +12621,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16237,8 +12631,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1492 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -16250,11 +12642,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16264,8 +12652,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1492 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -16277,11 +12663,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:08 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16290,8 +12672,6 @@
 **Mibera(s):** [#5613](../miberas/5613.md)
 
 **Era:** Black Death & Renaissance Dawn (1493 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16304,11 +12684,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16317,8 +12693,6 @@
 **Mibera(s):** [#3829](../miberas/3829.md)
 
 **Era:** Black Death & Renaissance Dawn (1493 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16331,11 +12705,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16344,8 +12714,6 @@
 **Mibera(s):** [#2796](../miberas/2796.md)
 
 **Era:** Black Death & Renaissance Dawn (1493 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16358,11 +12726,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:38 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16371,8 +12735,6 @@
 **Mibera(s):** [#1434](../miberas/1434.md)
 
 **Era:** Black Death & Renaissance Dawn (1497 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16385,11 +12747,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16399,8 +12757,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1498 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -16412,11 +12768,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16426,8 +12778,6 @@
 
 **Era:** Black Death & Renaissance Dawn (1499 CE)
 
-*Plague reshapes society. Renaissance begins. Printing press invented.*
-
 ---
 
 ### Astrological Snapshot
@@ -16439,11 +12789,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16452,8 +12798,6 @@
 **Mibera(s):** [#8429](../miberas/8429.md)
 
 **Era:** Black Death & Renaissance Dawn (1500 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16466,11 +12810,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16479,8 +12819,6 @@
 **Mibera(s):** [#7212](../miberas/7212.md)
 
 **Era:** Black Death & Renaissance Dawn (1500 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16493,11 +12831,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16506,8 +12840,6 @@
 **Mibera(s):** [#9198](../miberas/9198.md)
 
 **Era:** Black Death & Renaissance Dawn (1500 CE)
-
-*Plague reshapes society. Renaissance begins. Printing press invented.*
 
 ---
 
@@ -16520,10 +12852,6 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:50 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---

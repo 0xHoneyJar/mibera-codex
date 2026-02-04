@@ -10,8 +10,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -23,11 +21,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:36 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -37,8 +31,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -50,11 +42,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -64,8 +52,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -77,11 +63,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -91,8 +73,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -104,11 +84,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:27 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -118,8 +94,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -131,11 +105,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -145,8 +115,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -158,11 +126,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -172,8 +136,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -185,11 +147,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -199,8 +157,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -212,11 +168,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -226,8 +178,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -239,11 +189,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -253,8 +199,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -266,11 +210,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:46 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -280,8 +220,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -293,11 +231,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -307,8 +241,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -320,11 +252,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -334,8 +262,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -347,11 +273,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -361,8 +283,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -374,11 +294,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:43 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -388,8 +304,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -401,11 +315,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 05:56 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -415,8 +325,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -428,11 +336,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -442,8 +346,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -455,11 +357,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -469,8 +367,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -482,11 +378,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -496,8 +388,6 @@
 
 **Era:** Early Industrial (1801 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -509,11 +399,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:25 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -523,8 +409,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -536,11 +420,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:25 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -550,8 +430,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -563,11 +441,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:12 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -577,8 +451,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -590,11 +462,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:16 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -604,8 +472,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -617,11 +483,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:43 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -631,8 +493,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -644,11 +504,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:18 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -658,8 +514,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -671,11 +525,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -685,8 +535,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -698,11 +546,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -712,8 +556,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -725,11 +567,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -739,8 +577,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -752,11 +588,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -766,8 +598,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -779,11 +609,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -793,8 +619,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -806,11 +630,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -820,8 +640,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -833,11 +651,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -847,8 +661,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -860,11 +672,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -874,8 +682,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -887,11 +693,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -901,8 +703,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -914,11 +714,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:29 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -928,8 +724,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -941,11 +735,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -955,8 +745,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -968,11 +756,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:22 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -982,8 +766,6 @@
 
 **Era:** Early Industrial (1802 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -995,11 +777,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:09 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1009,8 +787,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1022,11 +798,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1036,8 +808,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1049,11 +819,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1063,8 +829,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1076,11 +840,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1090,8 +850,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1103,11 +861,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1117,8 +871,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1130,11 +882,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1144,8 +892,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1157,11 +903,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1171,8 +913,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1184,11 +924,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1198,8 +934,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1211,11 +945,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1225,8 +955,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1238,11 +966,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1252,8 +976,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1265,11 +987,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1279,8 +997,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1292,11 +1008,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1306,8 +1018,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1319,11 +1029,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1333,8 +1039,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1346,11 +1050,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:14 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1360,8 +1060,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1373,11 +1071,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:55 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1387,8 +1081,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1400,11 +1092,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:12 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1414,8 +1102,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1427,11 +1113,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -1441,8 +1123,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1454,11 +1134,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1468,8 +1144,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1481,11 +1155,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1495,8 +1165,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1508,11 +1176,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1522,8 +1186,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1535,11 +1197,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1549,8 +1207,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1562,11 +1218,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1576,8 +1228,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1589,11 +1239,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -1603,8 +1249,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1616,11 +1260,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1630,8 +1270,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1643,11 +1281,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1657,8 +1291,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1670,11 +1302,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1684,8 +1312,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1697,11 +1323,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1711,8 +1333,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1724,11 +1344,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -1738,8 +1354,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1751,11 +1365,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 01:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1765,8 +1375,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1778,11 +1386,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -1792,8 +1396,6 @@
 
 **Era:** Early Industrial (1803 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1805,11 +1407,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1819,8 +1417,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1832,11 +1428,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -1846,8 +1438,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1859,11 +1449,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:02 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1873,8 +1459,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1886,11 +1470,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -1900,8 +1480,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1913,11 +1491,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1927,8 +1501,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1940,11 +1512,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 02:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -1954,8 +1522,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1967,11 +1533,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -1981,8 +1543,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -1994,11 +1554,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 15:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2008,8 +1564,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2021,11 +1575,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:03 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2035,8 +1585,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2048,11 +1596,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:38 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2062,8 +1606,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2075,11 +1617,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2089,8 +1627,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2102,11 +1638,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2116,8 +1648,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2129,11 +1659,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2143,8 +1669,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2156,11 +1680,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:23 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2170,8 +1690,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2183,11 +1701,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2197,8 +1711,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2210,11 +1722,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2224,8 +1732,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2237,11 +1743,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2251,8 +1753,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2264,11 +1764,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2278,8 +1774,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2291,11 +1785,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:47 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2305,8 +1795,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2318,11 +1806,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:08 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2332,8 +1816,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2345,11 +1827,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2359,8 +1837,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2372,11 +1848,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2386,8 +1858,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2399,11 +1869,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:32 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2413,8 +1879,6 @@
 
 **Era:** Early Industrial (1804 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2426,11 +1890,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2440,8 +1900,6 @@
 
 **Era:** Early Industrial (1805 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2453,11 +1911,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2467,8 +1921,6 @@
 
 **Era:** Early Industrial (1805 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2480,11 +1932,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2494,8 +1942,6 @@
 
 **Era:** Early Industrial (1805 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2507,11 +1953,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2521,8 +1963,6 @@
 
 **Era:** Early Industrial (1806 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2534,11 +1974,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:25 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2548,8 +1984,6 @@
 
 **Era:** Early Industrial (1806 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2561,11 +1995,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -2575,8 +2005,6 @@
 
 **Era:** Early Industrial (1806 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2588,11 +2016,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2602,8 +2026,6 @@
 
 **Era:** Early Industrial (1807 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2615,11 +2037,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2629,8 +2047,6 @@
 
 **Era:** Early Industrial (1807 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2642,11 +2058,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2656,8 +2068,6 @@
 
 **Era:** Early Industrial (1807 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2669,11 +2079,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2683,8 +2089,6 @@
 
 **Era:** Early Industrial (1808 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2696,11 +2100,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:20 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2710,8 +2110,6 @@
 
 **Era:** Early Industrial (1808 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2723,11 +2121,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -2737,8 +2131,6 @@
 
 **Era:** Early Industrial (1808 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2750,11 +2142,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:00 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2764,8 +2152,6 @@
 
 **Era:** Early Industrial (1808 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2777,11 +2163,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2791,8 +2173,6 @@
 
 **Era:** Early Industrial (1808 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2804,11 +2184,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -2818,8 +2194,6 @@
 
 **Era:** Early Industrial (1808 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2831,11 +2205,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:41 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -2845,8 +2215,6 @@
 
 **Era:** Early Industrial (1808 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2858,11 +2226,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -2872,8 +2236,6 @@
 
 **Era:** Early Industrial (1809 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2885,11 +2247,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -2899,8 +2257,6 @@
 
 **Era:** Early Industrial (1809 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2912,11 +2268,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2926,8 +2278,6 @@
 
 **Era:** Early Industrial (1809 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2939,11 +2289,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:56 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -2953,8 +2299,6 @@
 
 **Era:** Early Industrial (1809 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2966,11 +2310,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:25 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -2980,8 +2320,6 @@
 
 **Era:** Early Industrial (1809 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -2993,11 +2331,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3007,8 +2341,6 @@
 
 **Era:** Early Industrial (1809 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3020,11 +2352,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3034,8 +2362,6 @@
 
 **Era:** Early Industrial (1809 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3047,11 +2373,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:42 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3061,8 +2383,6 @@
 
 **Era:** Early Industrial (1809 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3074,11 +2394,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 01:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3088,8 +2404,6 @@
 
 **Era:** Early Industrial (1810 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3101,11 +2415,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3115,8 +2425,6 @@
 
 **Era:** Early Industrial (1810 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3128,11 +2436,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:51 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3142,8 +2446,6 @@
 
 **Era:** Early Industrial (1811 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3155,11 +2457,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3169,8 +2467,6 @@
 
 **Era:** Early Industrial (1811 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3182,11 +2478,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3196,8 +2488,6 @@
 
 **Era:** Early Industrial (1811 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3209,11 +2499,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3223,8 +2509,6 @@
 
 **Era:** Early Industrial (1811 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3236,11 +2520,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 02:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3250,8 +2530,6 @@
 
 **Era:** Early Industrial (1812 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3263,11 +2541,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3277,8 +2551,6 @@
 
 **Era:** Early Industrial (1812 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3290,11 +2562,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3304,8 +2572,6 @@
 
 **Era:** Early Industrial (1812 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3317,11 +2583,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3331,8 +2593,6 @@
 
 **Era:** Early Industrial (1812 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3344,11 +2604,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:25 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3358,8 +2614,6 @@
 
 **Era:** Early Industrial (1812 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3371,11 +2625,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3385,8 +2635,6 @@
 
 **Era:** Early Industrial (1813 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3398,11 +2646,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3412,8 +2656,6 @@
 
 **Era:** Early Industrial (1813 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3425,11 +2667,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3439,8 +2677,6 @@
 
 **Era:** Early Industrial (1813 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3452,11 +2688,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:05 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3466,8 +2698,6 @@
 
 **Era:** Early Industrial (1813 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3479,11 +2709,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3493,8 +2719,6 @@
 
 **Era:** Early Industrial (1813 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3506,11 +2730,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3520,8 +2740,6 @@
 
 **Era:** Early Industrial (1813 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3533,11 +2751,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3547,8 +2761,6 @@
 
 **Era:** Early Industrial (1814 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3560,11 +2772,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:27 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3574,8 +2782,6 @@
 
 **Era:** Early Industrial (1814 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3587,11 +2793,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3601,8 +2803,6 @@
 
 **Era:** Early Industrial (1815 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3614,11 +2814,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3628,8 +2824,6 @@
 
 **Era:** Early Industrial (1815 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3641,11 +2835,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3655,8 +2845,6 @@
 
 **Era:** Early Industrial (1815 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3668,11 +2856,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 12:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3682,8 +2866,6 @@
 
 **Era:** Early Industrial (1815 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3695,11 +2877,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:48 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3709,8 +2887,6 @@
 
 **Era:** Early Industrial (1815 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3722,11 +2898,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -3736,8 +2908,6 @@
 
 **Era:** Early Industrial (1815 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3749,11 +2919,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:03 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -3763,8 +2929,6 @@
 
 **Era:** Early Industrial (1817 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3776,11 +2940,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -3790,8 +2950,6 @@
 
 **Era:** Early Industrial (1817 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3803,11 +2961,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3817,8 +2971,6 @@
 
 **Era:** Early Industrial (1817 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3830,11 +2982,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -3844,8 +2992,6 @@
 
 **Era:** Early Industrial (1817 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3857,11 +3003,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3871,8 +3013,6 @@
 
 **Era:** Early Industrial (1817 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3884,11 +3024,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 06:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -3898,8 +3034,6 @@
 
 **Era:** Early Industrial (1817 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3911,11 +3045,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:25 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3925,8 +3055,6 @@
 
 **Era:** Early Industrial (1818 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3938,11 +3066,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -3952,8 +3076,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3965,11 +3087,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:43 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -3979,8 +3097,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -3992,11 +3108,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:14 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4006,8 +3118,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4019,11 +3129,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4033,8 +3139,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4046,11 +3150,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4060,8 +3160,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4073,11 +3171,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:32 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4087,8 +3181,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4100,11 +3192,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4114,8 +3202,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4127,11 +3213,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4141,8 +3223,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4154,11 +3234,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 07:25 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4168,8 +3244,6 @@
 
 **Era:** Early Industrial (1819 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4181,11 +3255,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:22 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -4195,8 +3265,6 @@
 
 **Era:** Early Industrial (1820 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4208,11 +3276,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4222,8 +3286,6 @@
 
 **Era:** Early Industrial (1821 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4235,11 +3297,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4249,8 +3307,6 @@
 
 **Era:** Early Industrial (1821 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4262,11 +3318,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4276,8 +3328,6 @@
 
 **Era:** Early Industrial (1821 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4289,11 +3339,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4303,8 +3349,6 @@
 
 **Era:** Early Industrial (1821 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4316,11 +3360,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4330,8 +3370,6 @@
 
 **Era:** Early Industrial (1821 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4343,11 +3381,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:56 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4357,8 +3391,6 @@
 
 **Era:** Early Industrial (1821 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4370,11 +3402,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:10 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4384,8 +3412,6 @@
 
 **Era:** Early Industrial (1822 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4397,11 +3423,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:07 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4411,8 +3433,6 @@
 
 **Era:** Early Industrial (1822 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4424,11 +3444,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4438,8 +3454,6 @@
 
 **Era:** Early Industrial (1822 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4451,11 +3465,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:48 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4465,8 +3475,6 @@
 
 **Era:** Early Industrial (1822 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4478,11 +3486,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4492,8 +3496,6 @@
 
 **Era:** Early Industrial (1822 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4505,11 +3507,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:13 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4519,8 +3517,6 @@
 
 **Era:** Early Industrial (1822 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4532,11 +3528,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4546,8 +3538,6 @@
 
 **Era:** Early Industrial (1822 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4559,11 +3549,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4573,8 +3559,6 @@
 
 **Era:** Early Industrial (1822 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4586,11 +3570,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:46 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4600,8 +3580,6 @@
 
 **Era:** Early Industrial (1823 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4613,11 +3591,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:27 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4627,8 +3601,6 @@
 
 **Era:** Early Industrial (1823 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4640,11 +3612,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:54 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -4654,8 +3622,6 @@
 
 **Era:** Early Industrial (1823 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4667,11 +3633,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:53 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4681,8 +3643,6 @@
 
 **Era:** Early Industrial (1823 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4694,11 +3654,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 13:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4708,8 +3664,6 @@
 
 **Era:** Early Industrial (1823 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4721,11 +3675,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -4735,8 +3685,6 @@
 
 **Era:** Early Industrial (1823 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4748,11 +3696,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:53 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4762,8 +3706,6 @@
 
 **Era:** Early Industrial (1824 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4775,11 +3717,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:30 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4789,8 +3727,6 @@
 
 **Era:** Early Industrial (1824 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4802,11 +3738,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -4816,8 +3748,6 @@
 
 **Era:** Early Industrial (1824 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4829,11 +3759,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4843,8 +3769,6 @@
 
 **Era:** Early Industrial (1824 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4856,11 +3780,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:52 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4870,8 +3790,6 @@
 
 **Era:** Early Industrial (1825 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4883,11 +3801,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -4897,8 +3811,6 @@
 
 **Era:** Early Industrial (1825 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4910,11 +3822,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -4924,8 +3832,6 @@
 
 **Era:** Early Industrial (1825 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4937,11 +3843,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:57 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -4951,8 +3853,6 @@
 
 **Era:** Early Industrial (1825 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4964,11 +3864,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:33 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -4978,8 +3874,6 @@
 
 **Era:** Early Industrial (1826 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -4991,11 +3885,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:32 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5005,8 +3895,6 @@
 
 **Era:** Early Industrial (1827 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5018,11 +3906,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5032,8 +3916,6 @@
 
 **Era:** Early Industrial (1827 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5045,11 +3927,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5059,8 +3937,6 @@
 
 **Era:** Early Industrial (1827 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5072,11 +3948,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:55 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5086,8 +3958,6 @@
 
 **Era:** Early Industrial (1828 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5099,11 +3969,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5113,8 +3979,6 @@
 
 **Era:** Early Industrial (1829 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5126,11 +3990,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5140,8 +4000,6 @@
 
 **Era:** Early Industrial (1829 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5153,11 +4011,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5167,8 +4021,6 @@
 
 **Era:** Early Industrial (1829 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5180,11 +4032,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5194,8 +4042,6 @@
 
 **Era:** Early Industrial (1830 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5207,11 +4053,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5221,8 +4063,6 @@
 
 **Era:** Early Industrial (1830 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5234,11 +4074,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5248,8 +4084,6 @@
 
 **Era:** Early Industrial (1830 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5261,11 +4095,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:41 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5275,8 +4105,6 @@
 
 **Era:** Early Industrial (1830 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5288,11 +4116,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:26 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -5302,8 +4126,6 @@
 
 **Era:** Early Industrial (1831 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5315,11 +4137,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:30 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5329,8 +4147,6 @@
 
 **Era:** Early Industrial (1831 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5342,11 +4158,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:02 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5356,8 +4168,6 @@
 
 **Era:** Early Industrial (1831 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5369,11 +4179,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5383,8 +4189,6 @@
 
 **Era:** Early Industrial (1831 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5396,11 +4200,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:36 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5410,8 +4210,6 @@
 
 **Era:** Early Industrial (1832 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5423,11 +4221,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:40 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5437,8 +4231,6 @@
 
 **Era:** Early Industrial (1832 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5450,11 +4242,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5464,8 +4252,6 @@
 
 **Era:** Early Industrial (1832 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5477,11 +4263,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5491,8 +4273,6 @@
 
 **Era:** Early Industrial (1833 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5504,11 +4284,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:53 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5518,8 +4294,6 @@
 
 **Era:** Early Industrial (1833 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5531,11 +4305,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:38 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5545,8 +4315,6 @@
 
 **Era:** Early Industrial (1833 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5558,11 +4326,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 05:50 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5572,8 +4336,6 @@
 
 **Era:** Early Industrial (1834 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5585,11 +4347,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5599,8 +4357,6 @@
 
 **Era:** Early Industrial (1834 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5612,11 +4368,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 03:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -5626,8 +4378,6 @@
 
 **Era:** Early Industrial (1834 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5639,11 +4389,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5653,8 +4399,6 @@
 
 **Era:** Early Industrial (1835 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5666,11 +4410,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5680,8 +4420,6 @@
 
 **Era:** Early Industrial (1835 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5693,11 +4431,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 21:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -5707,8 +4441,6 @@
 
 **Era:** Early Industrial (1836 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5720,11 +4452,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:37 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5734,8 +4462,6 @@
 
 **Era:** Early Industrial (1836 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5747,11 +4473,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -5761,8 +4483,6 @@
 
 **Era:** Early Industrial (1836 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5774,11 +4494,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5788,8 +4504,6 @@
 
 **Era:** Early Industrial (1836 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5801,11 +4515,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 10:12 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -5815,8 +4525,6 @@
 
 **Era:** Early Industrial (1836 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5828,11 +4536,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5842,8 +4546,6 @@
 
 **Era:** Early Industrial (1836 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5855,11 +4557,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:01 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5869,8 +4567,6 @@
 
 **Era:** Early Industrial (1836 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5882,11 +4578,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5896,8 +4588,6 @@
 
 **Era:** Early Industrial (1836 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5909,11 +4599,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:46 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -5923,8 +4609,6 @@
 
 **Era:** Early Industrial (1837 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5936,11 +4620,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -5950,8 +4630,6 @@
 
 **Era:** Early Industrial (1837 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5963,11 +4641,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -5977,8 +4651,6 @@
 
 **Era:** Early Industrial (1837 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -5990,11 +4662,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:34 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6004,8 +4672,6 @@
 
 **Era:** Early Industrial (1838 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6017,11 +4683,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:37 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6031,8 +4693,6 @@
 
 **Era:** Early Industrial (1838 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6044,11 +4704,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6058,8 +4714,6 @@
 
 **Era:** Early Industrial (1838 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6071,11 +4725,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6085,8 +4735,6 @@
 
 **Era:** Early Industrial (1838 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6098,11 +4746,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6112,8 +4756,6 @@
 
 **Era:** Early Industrial (1838 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6125,11 +4767,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6139,8 +4777,6 @@
 
 **Era:** Early Industrial (1839 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6152,11 +4788,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 17:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -6166,8 +4798,6 @@
 
 **Era:** Early Industrial (1840 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6179,11 +4809,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:05 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6193,8 +4819,6 @@
 
 **Era:** Early Industrial (1840 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6206,11 +4830,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6220,8 +4840,6 @@
 
 **Era:** Early Industrial (1840 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6233,11 +4851,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6247,8 +4861,6 @@
 
 **Era:** Early Industrial (1840 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6260,11 +4872,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6274,8 +4882,6 @@
 
 **Era:** Early Industrial (1840 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6287,11 +4893,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:43 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6301,8 +4903,6 @@
 
 **Era:** Early Industrial (1840 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6314,11 +4914,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 23:13 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6328,8 +4924,6 @@
 
 **Era:** Early Industrial (1841 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6341,11 +4935,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:35 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6355,8 +4945,6 @@
 
 **Era:** Early Industrial (1842 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6368,11 +4956,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6382,8 +4966,6 @@
 
 **Era:** Early Industrial (1842 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6395,11 +4977,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:38 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6409,8 +4987,6 @@
 
 **Era:** Early Industrial (1842 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6422,11 +4998,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6436,8 +5008,6 @@
 
 **Era:** Early Industrial (1843 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6449,11 +5019,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6463,8 +5029,6 @@
 
 **Era:** Early Industrial (1843 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6476,11 +5040,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:20 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6490,8 +5050,6 @@
 
 **Era:** Early Industrial (1843 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6503,11 +5061,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6517,8 +5071,6 @@
 
 **Era:** Early Industrial (1843 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6530,11 +5082,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:41 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6544,8 +5092,6 @@
 
 **Era:** Early Industrial (1844 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6557,11 +5103,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6571,8 +5113,6 @@
 
 **Era:** Early Industrial (1844 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6584,11 +5124,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6598,8 +5134,6 @@
 
 **Era:** Early Industrial (1844 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6611,11 +5145,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:07 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6625,8 +5155,6 @@
 
 **Era:** Early Industrial (1844 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6638,11 +5166,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 09:09 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6652,8 +5176,6 @@
 
 **Era:** Early Industrial (1845 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6665,11 +5187,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:12 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6679,8 +5197,6 @@
 
 **Era:** Early Industrial (1845 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6692,11 +5208,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6706,8 +5218,6 @@
 
 **Era:** Early Industrial (1846 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6719,11 +5229,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:22 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6733,8 +5239,6 @@
 
 **Era:** Early Industrial (1846 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6746,11 +5250,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:25 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6760,8 +5260,6 @@
 
 **Era:** Early Industrial (1846 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6773,11 +5271,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -6787,8 +5281,6 @@
 
 **Era:** Early Industrial (1846 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6800,11 +5292,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 04:33 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -6814,8 +5302,6 @@
 
 **Era:** Early Industrial (1847 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6827,11 +5313,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:37 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -6841,8 +5323,6 @@
 
 **Era:** Early Industrial (1847 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6854,11 +5334,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6868,8 +5344,6 @@
 
 **Era:** Early Industrial (1847 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6881,11 +5355,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -6895,8 +5365,6 @@
 
 **Era:** Early Industrial (1847 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6908,11 +5376,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -6922,8 +5386,6 @@
 
 **Era:** Early Industrial (1848 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6935,11 +5397,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:33 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -6949,8 +5407,6 @@
 
 **Era:** Early Industrial (1848 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6962,11 +5418,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:56 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -6976,8 +5428,6 @@
 
 **Era:** Early Industrial (1848 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -6989,11 +5439,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 18:58 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7003,8 +5449,6 @@
 
 **Era:** Early Industrial (1848 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7016,11 +5460,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7030,8 +5470,6 @@
 
 **Era:** Early Industrial (1848 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7043,11 +5481,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 20:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7057,8 +5491,6 @@
 
 **Era:** Early Industrial (1849 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7070,11 +5502,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:32 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7084,8 +5512,6 @@
 
 **Era:** Early Industrial (1849 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7097,11 +5523,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7111,8 +5533,6 @@
 
 **Era:** Early Industrial (1850 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7124,11 +5544,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 00:41 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7138,8 +5554,6 @@
 
 **Era:** Early Industrial (1850 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7151,11 +5565,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7165,8 +5575,6 @@
 
 **Era:** Early Industrial (1850 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7178,11 +5586,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 06:18 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7192,8 +5596,6 @@
 
 **Era:** Early Industrial (1850 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7205,11 +5607,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7219,8 +5617,6 @@
 
 **Era:** Early Industrial (1850 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7232,11 +5628,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7246,8 +5638,6 @@
 
 **Era:** Early Industrial (1850 CE)
 
-*Steam power transforms. Romanticism. Nationalism rises.*
-
 ---
 
 ### Astrological Snapshot
@@ -7259,11 +5649,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:06 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7273,8 +5659,6 @@
 
 **Era:** Victorian Era (1851 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7286,11 +5670,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:52 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7300,8 +5680,6 @@
 
 **Era:** Victorian Era (1851 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7313,11 +5691,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7327,8 +5701,6 @@
 
 **Era:** Victorian Era (1851 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7340,11 +5712,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:14 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7354,8 +5722,6 @@
 
 **Era:** Victorian Era (1851 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7367,11 +5733,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:58 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -7381,8 +5743,6 @@
 
 **Era:** Victorian Era (1852 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7394,11 +5754,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7408,8 +5764,6 @@
 
 **Era:** Victorian Era (1852 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7421,11 +5775,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:18 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7435,8 +5785,6 @@
 
 **Era:** Victorian Era (1852 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7448,11 +5796,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7462,8 +5806,6 @@
 
 **Era:** Victorian Era (1852 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7475,11 +5817,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 19:39 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7489,8 +5827,6 @@
 
 **Era:** Victorian Era (1852 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7502,11 +5838,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7516,8 +5848,6 @@
 
 **Era:** Victorian Era (1852 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7529,11 +5859,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:23 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7543,8 +5869,6 @@
 
 **Era:** Victorian Era (1852 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7556,11 +5880,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7570,8 +5890,6 @@
 
 **Era:** Victorian Era (1852 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7583,11 +5901,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:23 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7597,8 +5911,6 @@
 
 **Era:** Victorian Era (1853 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7610,11 +5922,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7624,8 +5932,6 @@
 
 **Era:** Victorian Era (1853 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7637,11 +5943,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7651,8 +5953,6 @@
 
 **Era:** Victorian Era (1854 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7664,11 +5964,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7678,8 +5974,6 @@
 
 **Era:** Victorian Era (1854 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7691,11 +5985,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7705,8 +5995,6 @@
 
 **Era:** Victorian Era (1854 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7718,11 +6006,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:34 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7732,8 +6016,6 @@
 
 **Era:** Victorian Era (1854 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7745,11 +6027,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -7759,8 +6037,6 @@
 
 **Era:** Victorian Era (1854 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7772,11 +6048,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -7786,8 +6058,6 @@
 
 **Era:** Victorian Era (1854 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7799,11 +6069,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -7813,8 +6079,6 @@
 
 **Era:** Victorian Era (1854 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7826,11 +6090,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7840,8 +6100,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7853,11 +6111,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:33 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7867,8 +6121,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7880,11 +6132,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7894,8 +6142,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7907,11 +6153,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:07 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -7921,8 +6163,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7934,11 +6174,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -7948,8 +6184,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7961,11 +6195,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -7975,8 +6205,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -7988,11 +6216,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:31 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8002,8 +6226,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8015,11 +6237,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8029,8 +6247,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8042,11 +6258,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:02 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8056,8 +6268,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8069,11 +6279,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:58 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8083,8 +6289,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8096,11 +6300,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8110,8 +6310,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8123,11 +6321,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8137,8 +6331,6 @@
 
 **Era:** Victorian Era (1855 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8150,11 +6342,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:14 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8164,8 +6352,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8177,11 +6363,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8191,8 +6373,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8204,11 +6384,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8218,8 +6394,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8231,11 +6405,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:06 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8245,8 +6415,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8258,11 +6426,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8272,8 +6436,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8285,11 +6447,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 14:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8299,8 +6457,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8312,11 +6468,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8326,8 +6478,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8339,11 +6489,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8353,8 +6499,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8366,11 +6510,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:19 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8380,8 +6520,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8393,11 +6531,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8407,8 +6541,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8420,11 +6552,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8434,8 +6562,6 @@
 
 **Era:** Victorian Era (1856 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8447,11 +6573,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:07 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -8461,8 +6583,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8474,11 +6594,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:41 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8488,8 +6604,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8501,11 +6615,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8515,8 +6625,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8528,11 +6636,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8542,8 +6646,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8555,11 +6657,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -8569,8 +6667,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8582,11 +6678,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 14:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8596,8 +6688,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8609,11 +6699,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8623,8 +6709,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8636,11 +6720,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -8650,8 +6730,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8663,11 +6741,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 00:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8677,8 +6751,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8690,11 +6762,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8704,8 +6772,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8717,11 +6783,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:14 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8731,8 +6793,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8744,11 +6804,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 22:36 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -8758,8 +6814,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8771,11 +6825,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 07:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8785,8 +6835,6 @@
 
 **Era:** Victorian Era (1857 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8798,11 +6846,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8812,8 +6856,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8825,11 +6867,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8839,8 +6877,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8852,11 +6888,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:20 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8866,8 +6898,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8879,11 +6909,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -8893,8 +6919,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8906,11 +6930,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -8920,8 +6940,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8933,11 +6951,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:01 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -8947,8 +6961,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8960,11 +6972,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -8974,8 +6982,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -8987,11 +6993,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9001,8 +7003,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9014,11 +7014,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9028,8 +7024,6 @@
 
 **Era:** Victorian Era (1858 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9041,11 +7035,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9055,8 +7045,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9068,11 +7056,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:49 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9082,8 +7066,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9095,11 +7077,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9109,8 +7087,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9122,11 +7098,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9136,8 +7108,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9149,11 +7119,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9163,8 +7129,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9176,11 +7140,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9190,8 +7150,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9203,11 +7161,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9217,8 +7171,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9230,11 +7182,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:56 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9244,8 +7192,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9257,11 +7203,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 19:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9271,8 +7213,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9284,11 +7224,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9298,8 +7234,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9311,11 +7245,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9325,8 +7255,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9338,11 +7266,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:07 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9352,8 +7276,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9365,11 +7287,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:39 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -9379,8 +7297,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9392,11 +7308,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9406,8 +7318,6 @@
 
 **Era:** Victorian Era (1859 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9419,11 +7329,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 01:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9433,8 +7339,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9446,11 +7350,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9460,8 +7360,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9473,11 +7371,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -9487,8 +7381,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9500,11 +7392,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9514,8 +7402,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9527,11 +7413,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:52 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9541,8 +7423,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9554,11 +7434,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 19:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9568,8 +7444,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9581,11 +7455,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:34 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9595,8 +7465,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9608,11 +7476,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 00:35 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9622,8 +7486,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9635,11 +7497,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -9649,8 +7507,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9662,11 +7518,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:33 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9676,8 +7528,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9689,11 +7539,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:44 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9703,8 +7549,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9716,11 +7560,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:32 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9730,8 +7570,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9743,11 +7581,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9757,8 +7591,6 @@
 
 **Era:** Victorian Era (1860 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9770,11 +7602,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -9784,8 +7612,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9797,11 +7623,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9811,8 +7633,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9824,11 +7644,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -9838,8 +7654,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9851,11 +7665,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:52 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9865,8 +7675,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9878,11 +7686,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 22:54 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9892,8 +7696,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9905,11 +7707,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -9919,8 +7717,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9932,11 +7728,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 21:58 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -9946,8 +7738,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9959,11 +7749,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -9973,8 +7759,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -9986,11 +7770,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:42 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10000,8 +7780,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10013,11 +7791,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10027,8 +7801,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10040,11 +7812,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:42 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10054,8 +7822,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10067,11 +7833,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10081,8 +7843,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10094,11 +7854,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:43 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10108,8 +7864,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10121,11 +7875,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 22:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10135,8 +7885,6 @@
 
 **Era:** Victorian Era (1861 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10148,11 +7896,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 08:35 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10162,8 +7906,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10175,11 +7917,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 15:55 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -10189,8 +7927,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10202,11 +7938,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:44 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10216,8 +7948,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10229,11 +7959,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10243,8 +7969,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10256,11 +7980,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10270,8 +7990,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10283,11 +8001,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10297,8 +8011,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10310,11 +8022,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 22:15 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10324,8 +8032,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10337,11 +8043,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:21 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10351,8 +8053,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10364,11 +8064,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -10378,8 +8074,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10391,11 +8085,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:42 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10405,8 +8095,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10418,11 +8106,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:37 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10432,8 +8116,6 @@
 
 **Era:** Victorian Era (1862 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10445,11 +8127,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:10 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10459,8 +8137,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10472,11 +8148,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10486,8 +8158,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10499,11 +8169,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 13:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10513,8 +8179,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10526,11 +8190,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 00:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10540,8 +8200,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10553,11 +8211,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10567,8 +8221,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10580,11 +8232,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10594,8 +8242,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10607,11 +8253,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10621,8 +8263,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10634,11 +8274,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10648,8 +8284,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10661,11 +8295,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:57 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10675,8 +8305,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10688,11 +8316,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:04 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10702,8 +8326,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10715,11 +8337,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:58 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -10729,8 +8347,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10742,11 +8358,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:46 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10756,8 +8368,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10769,11 +8379,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:49 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -10783,8 +8389,6 @@
 
 **Era:** Victorian Era (1863 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10796,11 +8400,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 12:29 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -10810,8 +8410,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10823,11 +8421,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:36 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10837,8 +8431,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10850,11 +8442,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10864,8 +8452,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10877,11 +8463,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 02:30 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -10891,8 +8473,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10904,11 +8484,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 21:44 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10918,8 +8494,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10931,11 +8505,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 08:33 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -10945,8 +8515,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10958,11 +8526,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:59 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10972,8 +8536,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -10985,11 +8547,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 23:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -10999,8 +8557,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11012,11 +8568,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 01:22 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11026,8 +8578,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11039,11 +8589,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11053,8 +8599,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11066,11 +8610,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 13:05 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11080,8 +8620,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11093,11 +8631,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11107,8 +8641,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11120,11 +8652,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11134,8 +8662,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11147,11 +8673,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11161,8 +8683,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11174,11 +8694,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 15:13 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11188,8 +8704,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11201,11 +8715,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:32 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11215,8 +8725,6 @@
 
 **Era:** Victorian Era (1864 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11228,11 +8736,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11242,8 +8746,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11255,11 +8757,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11269,8 +8767,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11282,11 +8778,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:22 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11296,8 +8788,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11309,11 +8799,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 10:06 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11323,8 +8809,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11336,11 +8820,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11350,8 +8830,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11363,11 +8841,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11377,8 +8851,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11390,11 +8862,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:09 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11404,8 +8872,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11417,11 +8883,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:37 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11431,8 +8893,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11444,11 +8904,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11458,8 +8914,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11471,11 +8925,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -11485,8 +8935,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11498,11 +8946,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 16:44 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11512,8 +8956,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11525,11 +8967,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 13:02 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11539,8 +8977,6 @@
 
 **Era:** Victorian Era (1865 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11552,11 +8988,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 00:29 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11566,8 +8998,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11579,11 +9009,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11593,8 +9019,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11606,11 +9030,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 21:44 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11620,8 +9040,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11633,11 +9051,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11647,8 +9061,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11660,11 +9072,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 13:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11674,8 +9082,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11687,11 +9093,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 03:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11701,8 +9103,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11714,11 +9114,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11728,8 +9124,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11741,11 +9135,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11755,8 +9145,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11768,11 +9156,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11782,8 +9166,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11795,11 +9177,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:22 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -11809,8 +9187,6 @@
 
 **Era:** Victorian Era (1866 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11822,11 +9198,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 21:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -11836,8 +9208,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11849,11 +9219,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:03 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -11863,8 +9229,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11876,11 +9240,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 04:30 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -11890,8 +9250,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11903,11 +9261,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 07:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11917,8 +9271,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11930,11 +9282,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 02:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -11944,8 +9292,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11957,11 +9303,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 09:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -11971,8 +9313,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -11984,11 +9324,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 08:06 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -11998,8 +9334,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12011,11 +9345,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:51 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12025,8 +9355,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12038,11 +9366,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12052,8 +9376,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12065,11 +9387,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 08:43 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12079,8 +9397,6 @@
 
 **Era:** Victorian Era (1867 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12092,11 +9408,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 11:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12106,8 +9418,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12119,11 +9429,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:49 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12133,8 +9439,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12146,11 +9450,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:58 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12160,8 +9460,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12173,11 +9471,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12187,8 +9481,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12200,11 +9492,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:45 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12214,8 +9502,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12227,11 +9513,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:06 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12241,8 +9523,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12254,11 +9534,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 19:59 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12268,8 +9544,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12281,11 +9555,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:17 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12295,8 +9565,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12308,11 +9576,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:21 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12322,8 +9586,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12335,11 +9597,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 10:55 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12349,8 +9607,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12362,11 +9618,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12376,8 +9628,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12389,11 +9639,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 00:28 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12403,8 +9649,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12416,11 +9660,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12430,8 +9670,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12443,11 +9681,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12457,8 +9691,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12470,11 +9702,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:09 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12484,8 +9712,6 @@
 
 **Era:** Victorian Era (1868 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12497,11 +9723,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:57 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -12511,8 +9733,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12524,11 +9744,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 01:03 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12538,8 +9754,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12551,11 +9765,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 23:35 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -12565,8 +9775,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12578,11 +9786,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12592,8 +9796,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12605,11 +9807,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:19 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12619,8 +9817,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12632,11 +9828,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12646,8 +9838,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12659,11 +9849,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:18 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12673,8 +9859,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12686,11 +9870,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 12:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12700,8 +9880,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12713,11 +9891,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -12727,8 +9901,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12740,11 +9912,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:56 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12754,8 +9922,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12767,11 +9933,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12781,8 +9943,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12794,11 +9954,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 18:45 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12808,8 +9964,6 @@
 
 **Era:** Victorian Era (1869 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12821,11 +9975,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:05 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12835,8 +9985,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12848,11 +9996,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 14:39 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -12862,8 +10006,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12875,11 +10017,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -12889,8 +10027,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12902,11 +10038,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:26 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12916,8 +10048,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12929,11 +10059,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -12943,8 +10069,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12956,11 +10080,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:36 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -12970,8 +10090,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -12983,11 +10101,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:14 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -12997,8 +10111,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13010,11 +10122,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13024,8 +10132,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13037,11 +10143,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:04 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13051,8 +10153,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13064,11 +10164,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:49 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13078,8 +10174,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13091,11 +10185,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:33 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13105,8 +10195,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13118,11 +10206,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 17:31 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13132,8 +10216,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13145,11 +10227,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:23 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13159,8 +10237,6 @@
 
 **Era:** Victorian Era (1870 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13172,11 +10248,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:16 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13186,8 +10258,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13199,11 +10269,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:51 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13213,8 +10279,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13226,11 +10290,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13240,8 +10300,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13253,11 +10311,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:21 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13267,8 +10321,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13280,11 +10332,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13294,8 +10342,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13307,11 +10353,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 04:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13321,8 +10363,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13334,11 +10374,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:48 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13348,8 +10384,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13361,11 +10395,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 06:46 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -13375,8 +10405,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13388,11 +10416,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13402,8 +10426,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13415,11 +10437,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13429,8 +10447,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13442,11 +10458,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:21 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13456,8 +10468,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13469,11 +10479,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:18 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13483,8 +10489,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13496,11 +10500,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 05:20 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13510,8 +10510,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13523,11 +10521,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -13537,8 +10531,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13550,11 +10542,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13564,8 +10552,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13577,11 +10563,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 03:33 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13591,8 +10573,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13604,11 +10584,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 09:04 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13618,8 +10594,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13631,11 +10605,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13645,8 +10615,6 @@
 
 **Era:** Victorian Era (1871 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13658,11 +10626,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:00 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13672,8 +10636,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13685,11 +10647,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:48 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13699,8 +10657,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13712,11 +10668,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:52 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13726,8 +10678,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13739,11 +10689,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:59 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13753,8 +10699,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13766,11 +10710,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:36 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -13780,8 +10720,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13793,11 +10731,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 02:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13807,8 +10741,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13820,11 +10752,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -13834,8 +10762,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13847,11 +10773,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 01:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -13861,8 +10783,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13874,11 +10794,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:04 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13888,8 +10804,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13901,11 +10815,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 23:56 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13915,8 +10825,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13928,11 +10836,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 22:15 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -13942,8 +10846,6 @@
 
 **Era:** Victorian Era (1872 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13955,11 +10857,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 15:50 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -13969,8 +10867,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -13982,11 +10878,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 20:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -13996,8 +10888,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14009,11 +10899,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:20 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14023,8 +10909,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14036,11 +10920,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 11:41 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14050,8 +10930,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14063,11 +10941,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14077,8 +10951,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14090,11 +10962,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14104,8 +10972,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14117,11 +10983,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 20:31 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14131,8 +10993,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14144,11 +11004,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 02:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14158,8 +11014,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14171,11 +11025,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 15:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14185,8 +11035,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14198,11 +11046,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:14 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14212,8 +11056,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14225,11 +11067,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 23:42 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14239,8 +11077,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14252,11 +11088,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 06:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14266,8 +11098,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14279,11 +11109,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 13:26 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14293,8 +11119,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14306,11 +11130,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 21:53 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -14320,8 +11140,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14333,11 +11151,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 16:58 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14347,8 +11161,6 @@
 
 **Era:** Victorian Era (1873 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14360,11 +11172,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:23 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14374,8 +11182,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14387,11 +11193,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 17:06 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14401,8 +11203,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14414,11 +11214,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:15 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -14428,8 +11224,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14441,11 +11235,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14455,8 +11245,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14468,11 +11256,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:22 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14482,8 +11266,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14495,11 +11277,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:52 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14509,8 +11287,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14522,11 +11298,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14536,8 +11308,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14549,11 +11319,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14563,8 +11329,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14576,11 +11340,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14590,8 +11350,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14603,11 +11361,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 20:32 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14617,8 +11371,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14630,11 +11382,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 14:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14644,8 +11392,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14657,11 +11403,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 11:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14671,8 +11413,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14684,11 +11424,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 09:40 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -14698,8 +11434,6 @@
 
 **Era:** Victorian Era (1874 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14711,11 +11445,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:08 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14725,8 +11455,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14738,11 +11466,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -14752,8 +11476,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14765,11 +11487,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14779,8 +11497,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14792,11 +11508,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:23 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14806,8 +11518,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14819,11 +11529,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -14833,8 +11539,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14846,11 +11550,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 20:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14860,8 +11560,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14873,11 +11571,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14887,8 +11581,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14900,11 +11592,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:04 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14914,8 +11602,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14927,11 +11613,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 19:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -14941,8 +11623,6 @@
 
 **Era:** Victorian Era (1875 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14954,11 +11634,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:53 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -14968,8 +11644,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -14981,11 +11655,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -14995,8 +11665,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15008,11 +11676,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 13:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15022,8 +11686,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15035,11 +11697,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:59 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15049,8 +11707,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15062,11 +11718,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:31 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15076,8 +11728,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15089,11 +11739,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:53 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15103,8 +11749,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15116,11 +11760,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 20:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15130,8 +11770,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15143,11 +11781,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 09:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15157,8 +11791,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15170,11 +11802,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 22:34 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15184,8 +11812,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15197,11 +11823,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 18:12 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15211,8 +11833,6 @@
 
 **Era:** Victorian Era (1876 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15224,11 +11844,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15238,8 +11854,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15251,11 +11865,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:01 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15265,8 +11875,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15278,11 +11886,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15292,8 +11896,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15305,11 +11907,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15319,8 +11917,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15332,11 +11928,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:47 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15346,8 +11938,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15359,11 +11949,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:51 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15373,8 +11959,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15386,11 +11970,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:40 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15400,8 +11980,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15413,11 +11991,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:38 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15427,8 +12001,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15440,11 +12012,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 00:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15454,8 +12022,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15467,11 +12033,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15481,8 +12043,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15494,11 +12054,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 15:02 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -15508,8 +12064,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15521,11 +12075,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:37 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15535,8 +12085,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15548,11 +12096,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15562,8 +12106,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15575,11 +12117,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15589,8 +12127,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15602,11 +12138,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15616,8 +12148,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15629,11 +12159,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15643,8 +12169,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15656,11 +12180,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 12:17 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15670,8 +12190,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15683,11 +12201,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15697,8 +12211,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15710,11 +12222,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15724,8 +12232,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15737,11 +12243,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:20 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -15751,8 +12253,6 @@
 
 **Era:** Victorian Era (1877 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15764,11 +12264,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15778,8 +12274,6 @@
 
 **Era:** Victorian Era (1878 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15791,11 +12285,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:59 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -15805,8 +12295,6 @@
 
 **Era:** Victorian Era (1878 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15818,11 +12306,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:27 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -15832,8 +12316,6 @@
 
 **Era:** Victorian Era (1878 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15845,11 +12327,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15859,8 +12337,6 @@
 
 **Era:** Victorian Era (1878 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15872,11 +12348,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 08:03 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15886,8 +12358,6 @@
 
 **Era:** Victorian Era (1878 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15899,11 +12369,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 06:02 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -15913,8 +12379,6 @@
 
 **Era:** Victorian Era (1878 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15926,11 +12390,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 02:50 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -15940,8 +12400,6 @@
 
 **Era:** Victorian Era (1878 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15953,11 +12411,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 14:15 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -15967,8 +12421,6 @@
 
 **Era:** Victorian Era (1878 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -15980,11 +12432,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -15994,8 +12442,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16007,11 +12453,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16021,8 +12463,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16034,11 +12474,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 13:50 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16048,8 +12484,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16061,11 +12495,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:43 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16075,8 +12505,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16088,11 +12516,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:16 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16102,8 +12526,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16115,11 +12537,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:36 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16129,8 +12547,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16142,11 +12558,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 16:30 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16156,8 +12568,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16169,11 +12579,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 04:19 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16183,8 +12589,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16196,11 +12600,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 02:05 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16210,8 +12610,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16223,11 +12621,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 17:32 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16237,8 +12631,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16250,11 +12642,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:18 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16264,8 +12652,6 @@
 
 **Era:** Victorian Era (1879 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16277,11 +12663,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:49 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16291,8 +12673,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16304,11 +12684,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:20 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -16318,8 +12694,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16331,11 +12705,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16345,8 +12715,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16358,11 +12726,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:45 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16372,8 +12736,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16385,11 +12747,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16399,8 +12757,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16412,11 +12768,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 17:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16426,8 +12778,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16439,11 +12789,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 11:07 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16453,8 +12799,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16466,11 +12810,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 01:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16480,8 +12820,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16493,11 +12831,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 01:46 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16507,8 +12841,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16520,11 +12852,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 08:16 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16534,8 +12862,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16547,11 +12873,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:18 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16561,8 +12883,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16574,11 +12894,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 03:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16588,8 +12904,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16601,11 +12915,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 18:43 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16615,8 +12925,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16628,11 +12936,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 21:01 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -16642,8 +12946,6 @@
 
 **Era:** Victorian Era (1880 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16655,11 +12957,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:52 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16669,8 +12967,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16682,11 +12978,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 19:28 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -16696,8 +12988,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16709,11 +12999,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 15:49 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16723,8 +13009,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16736,11 +13020,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16750,8 +13030,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16763,11 +13041,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16777,8 +13051,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16790,11 +13062,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 03:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -16804,8 +13072,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16817,11 +13083,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 17:39 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16831,8 +13093,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16844,11 +13104,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:40 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16858,8 +13114,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16871,11 +13125,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:59 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -16885,8 +13135,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16898,11 +13146,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 17:48 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -16912,8 +13156,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16925,11 +13167,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:56 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16939,8 +13177,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16952,11 +13188,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -16966,8 +13198,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -16979,11 +13209,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -16993,8 +13219,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17006,11 +13230,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 19:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17020,8 +13240,6 @@
 
 **Era:** Victorian Era (1881 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17033,11 +13251,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 22:39 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17047,8 +13261,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17060,11 +13272,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 09:26 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17074,8 +13282,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17087,11 +13293,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 10:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17101,8 +13303,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17114,11 +13314,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:38 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17128,8 +13324,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17141,11 +13335,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:49 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17155,8 +13345,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17168,11 +13356,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:11 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17182,8 +13366,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17195,11 +13377,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 08:54 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17209,8 +13387,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17222,11 +13398,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:39 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17236,8 +13408,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17249,11 +13419,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 01:40 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17263,8 +13429,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17276,11 +13440,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 04:57 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17290,8 +13450,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17303,11 +13461,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:49 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17317,8 +13471,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17330,11 +13482,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 14:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17344,8 +13492,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17357,11 +13503,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:17 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17371,8 +13513,6 @@
 
 **Era:** Victorian Era (1882 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17384,11 +13524,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17398,8 +13534,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17411,11 +13545,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 14:27 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17425,8 +13555,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17438,11 +13566,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:24 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -17452,8 +13576,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17465,11 +13587,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:03 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17479,8 +13597,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17492,11 +13608,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17506,8 +13618,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17519,11 +13629,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 17:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17533,8 +13639,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17546,11 +13650,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:05 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17560,8 +13660,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17573,11 +13671,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:30 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17587,8 +13681,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17600,11 +13692,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:10 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17614,8 +13702,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17627,11 +13713,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17641,8 +13723,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17654,11 +13734,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17668,8 +13744,6 @@
 
 **Era:** Victorian Era (1883 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17681,11 +13755,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 16:08 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17695,8 +13765,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17708,11 +13776,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17722,8 +13786,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17735,11 +13797,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 03:39 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17749,8 +13807,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17762,11 +13818,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 02:55 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -17776,8 +13828,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17789,11 +13839,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 07:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -17803,8 +13849,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17816,11 +13860,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 11:21 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -17830,8 +13870,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17843,11 +13881,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:47 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17857,8 +13891,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17870,11 +13902,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 18:18 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17884,8 +13912,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17897,11 +13923,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -17911,8 +13933,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17924,11 +13944,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:59 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -17938,8 +13954,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17951,11 +13965,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 20:14 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -17965,8 +13975,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -17978,11 +13986,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 21:30 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -17992,8 +13996,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18005,11 +14007,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 05:37 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18019,8 +14017,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18032,11 +14028,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 07:15 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18046,8 +14038,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18059,11 +14049,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:37 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18073,8 +14059,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18086,11 +14070,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 04:27 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18100,8 +14080,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18113,11 +14091,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 13:45 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18127,8 +14101,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18140,11 +14112,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 10:35 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18154,8 +14122,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18167,11 +14133,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 21:40 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18181,8 +14143,6 @@
 
 **Era:** Victorian Era (1884 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18194,11 +14154,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18208,8 +14164,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18221,11 +14175,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18235,8 +14185,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18248,11 +14196,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 03:56 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18262,8 +14206,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18275,11 +14217,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:31 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18289,8 +14227,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18302,11 +14238,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 19:21 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18316,8 +14248,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18329,11 +14259,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:35 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18343,8 +14269,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18356,11 +14280,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:01 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18370,8 +14290,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18383,11 +14301,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 23:43 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18397,8 +14311,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18410,11 +14322,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 19:35 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18424,8 +14332,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18437,11 +14343,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:44 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18451,8 +14353,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18464,11 +14364,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18478,8 +14374,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18491,11 +14385,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:37 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18505,8 +14395,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18518,11 +14406,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 04:24 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18532,8 +14416,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18545,11 +14427,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18559,8 +14437,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18572,11 +14448,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 07:05 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18586,8 +14458,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18599,11 +14469,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 06:36 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18613,8 +14479,6 @@
 
 **Era:** Victorian Era (1885 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18626,11 +14490,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 00:08 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -18640,8 +14500,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18653,11 +14511,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 20:17 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -18667,8 +14521,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18680,11 +14532,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 05:13 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18694,8 +14542,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18707,11 +14553,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 09:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18721,8 +14563,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18734,11 +14574,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:11 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18748,8 +14584,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18761,11 +14595,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:12 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18775,8 +14605,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18788,11 +14616,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 22:03 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -18802,8 +14626,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18815,11 +14637,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 07:31 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18829,8 +14647,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18842,11 +14658,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 09:11 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -18856,8 +14668,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18869,11 +14679,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 08:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -18883,8 +14689,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18896,11 +14700,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 17:28 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18910,8 +14710,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18923,11 +14721,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 05:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -18937,8 +14731,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18950,11 +14742,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 14:06 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -18964,8 +14752,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -18977,11 +14763,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:09 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -18991,8 +14773,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19004,11 +14784,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:20 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19018,8 +14794,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19031,11 +14805,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 16:54 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19045,8 +14815,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19058,11 +14826,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 10:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19072,8 +14836,6 @@
 
 **Era:** Victorian Era (1886 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19085,11 +14847,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 04:34 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19099,8 +14857,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19112,11 +14868,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:28 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19126,8 +14878,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19139,11 +14889,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 23:21 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19153,8 +14899,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19166,11 +14910,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 22:19 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19180,8 +14920,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19193,11 +14931,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 07:26 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19207,8 +14941,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19220,11 +14952,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 23:57 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19234,8 +14962,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19247,11 +14973,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:47 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19261,8 +14983,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19274,11 +14994,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 05:39 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19288,8 +15004,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19301,11 +15015,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:00 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19315,8 +15025,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19328,11 +15036,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 14:16 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19342,8 +15046,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19355,11 +15057,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 06:47 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19369,8 +15067,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19382,11 +15078,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:43 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19396,8 +15088,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19409,11 +15099,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 16:38 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19423,8 +15109,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19436,11 +15120,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19450,8 +15130,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19463,11 +15141,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 05:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19477,8 +15151,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19490,11 +15162,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 10:41 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19504,8 +15172,6 @@
 
 **Era:** Victorian Era (1887 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19517,11 +15183,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 11:00 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19531,8 +15193,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19544,11 +15204,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 05:15 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -19558,8 +15214,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19571,11 +15225,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 15:33 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19585,8 +15235,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19598,11 +15246,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 11:46 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19612,8 +15256,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19625,11 +15267,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 01:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19639,8 +15277,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19652,11 +15288,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 06:55 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19666,8 +15298,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19679,11 +15309,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 11:01 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19693,8 +15319,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19706,11 +15330,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 02:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19720,8 +15340,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19733,11 +15351,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 19:55 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -19747,8 +15361,6 @@
 
 **Era:** Victorian Era (1888 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19760,11 +15372,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:48 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -19774,8 +15382,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19787,11 +15393,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:19 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19801,8 +15403,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19814,11 +15414,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 02:25 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19828,8 +15424,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19841,11 +15435,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:57 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19855,8 +15445,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19868,11 +15456,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 07:00 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -19882,8 +15466,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19895,11 +15477,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 00:11 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -19909,8 +15487,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19922,11 +15498,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -19936,8 +15508,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19949,11 +15519,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 21:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -19963,8 +15529,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -19976,11 +15540,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 11:15 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -19990,8 +15550,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20003,11 +15561,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 03:09 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -20017,8 +15571,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20030,11 +15582,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 12:40 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20044,8 +15592,6 @@
 
 **Era:** Victorian Era (1889 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20057,11 +15603,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:49 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20071,8 +15613,6 @@
 
 **Era:** Victorian Era (1890 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20084,11 +15624,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:02 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -20098,8 +15634,6 @@
 
 **Era:** Victorian Era (1890 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20111,11 +15645,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 03:06 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -20125,8 +15655,6 @@
 
 **Era:** Victorian Era (1891 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20138,11 +15666,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 18:10 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20151,8 +15675,6 @@
 **Mibera(s):** [#84](../miberas/0084.md)
 
 **Era:** Victorian Era (1892 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20165,11 +15687,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 12:07 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20178,8 +15696,6 @@
 **Mibera(s):** [#7938](../miberas/7938.md)
 
 **Era:** Victorian Era (1892 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20192,11 +15708,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 03:19 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -20205,8 +15717,6 @@
 **Mibera(s):** [#8419](../miberas/8419.md)
 
 **Era:** Victorian Era (1892 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20219,11 +15729,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 15:04 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -20232,8 +15738,6 @@
 **Mibera(s):** [#4356](../miberas/4356.md)
 
 **Era:** Victorian Era (1893 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20246,11 +15750,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 16:12 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -20259,8 +15759,6 @@
 **Mibera(s):** [#1017](../miberas/1017.md)
 
 **Era:** Victorian Era (1893 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20273,11 +15771,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 09:16 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -20286,8 +15780,6 @@
 **Mibera(s):** [#8222](../miberas/8222.md)
 
 **Era:** Victorian Era (1893 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20300,11 +15792,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:30 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20313,8 +15801,6 @@
 **Mibera(s):** [#8511](../miberas/8511.md)
 
 **Era:** Victorian Era (1894 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20327,11 +15813,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 08:08 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20341,8 +15823,6 @@
 
 **Era:** Victorian Era (1894 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20354,11 +15834,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 20:11 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20368,8 +15844,6 @@
 
 **Era:** Victorian Era (1894 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20381,11 +15855,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 10:59 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -20394,8 +15864,6 @@
 **Mibera(s):** [#6402](../miberas/6402.md)
 
 **Era:** Victorian Era (1894 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20408,11 +15876,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 13:30 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20421,8 +15885,6 @@
 **Mibera(s):** [#5905](../miberas/5905.md)
 
 **Era:** Victorian Era (1894 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20435,11 +15897,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 14:00 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20448,8 +15906,6 @@
 **Mibera(s):** [#5066](../miberas/5066.md)
 
 **Era:** Victorian Era (1895 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20462,11 +15918,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:15 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20475,8 +15927,6 @@
 **Mibera(s):** [#6396](../miberas/6396.md)
 
 **Era:** Victorian Era (1895 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20489,11 +15939,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 10:56 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -20503,8 +15949,6 @@
 
 **Era:** Victorian Era (1895 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20516,11 +15960,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 12:54 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20530,8 +15970,6 @@
 
 **Era:** Victorian Era (1895 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20543,11 +15981,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 16:10 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -20556,8 +15990,6 @@
 **Mibera(s):** [#2950](../miberas/2950.md)
 
 **Era:** Victorian Era (1895 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20570,11 +16002,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 18:03 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20583,8 +16011,6 @@
 **Mibera(s):** [#3868](../miberas/3868.md)
 
 **Era:** Victorian Era (1895 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20597,11 +16023,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 20:51 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20610,8 +16032,6 @@
 **Mibera(s):** [#8492](../miberas/8492.md)
 
 **Era:** Victorian Era (1895 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20624,11 +16044,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 04:56 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -20637,8 +16053,6 @@
 **Mibera(s):** [#5239](../miberas/5239.md)
 
 **Era:** Victorian Era (1896 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20651,11 +16065,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 17:45 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -20664,8 +16074,6 @@
 **Mibera(s):** [#9619](../miberas/9619.md)
 
 **Era:** Victorian Era (1896 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20678,11 +16086,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 06:50 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20691,8 +16095,6 @@
 **Mibera(s):** [#137](../miberas/0137.md)
 
 **Era:** Victorian Era (1896 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20705,11 +16107,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 06:39 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20718,8 +16116,6 @@
 **Mibera(s):** [#978](../miberas/0978.md)
 
 **Era:** Victorian Era (1896 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20732,11 +16128,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 14:53 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20745,8 +16137,6 @@
 **Mibera(s):** [#7297](../miberas/7297.md)
 
 **Era:** Victorian Era (1896 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20759,11 +16149,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 07:24 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20773,8 +16159,6 @@
 
 **Era:** Victorian Era (1896 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20786,11 +16170,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 19:57 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -20800,8 +16180,6 @@
 
 **Era:** Victorian Era (1897 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20813,11 +16191,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 08:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -20827,8 +16201,6 @@
 
 **Era:** Victorian Era (1897 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20840,11 +16212,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 04:02 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -20854,8 +16222,6 @@
 
 **Era:** Victorian Era (1897 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20867,11 +16233,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 16:14 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -20881,8 +16243,6 @@
 
 **Era:** Victorian Era (1897 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20894,11 +16254,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 12:12 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -20908,8 +16264,6 @@
 
 **Era:** Victorian Era (1897 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -20921,11 +16275,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 00:32 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -20934,8 +16284,6 @@
 **Mibera(s):** [#9005](../miberas/9005.md)
 
 **Era:** Victorian Era (1897 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20948,11 +16296,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 16:39 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -20961,8 +16305,6 @@
 **Mibera(s):** [#2273](../miberas/2273.md)
 
 **Era:** Victorian Era (1897 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -20975,11 +16317,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:54 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -20988,8 +16326,6 @@
 **Mibera(s):** [#5089](../miberas/5089.md)
 
 **Era:** Victorian Era (1898 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21002,11 +16338,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 18:13 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -21015,8 +16347,6 @@
 **Mibera(s):** [#3716](../miberas/3716.md)
 
 **Era:** Victorian Era (1898 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21029,11 +16359,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 07:48 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -21042,8 +16368,6 @@
 **Mibera(s):** [#5866](../miberas/5866.md)
 
 **Era:** Victorian Era (1898 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21056,11 +16380,7 @@
 - **Ruler:** Mercury
 - **Traits:** curious, adaptable, communicative, quick-witted
 
-*dual nature, mental agility, eternal youth*
-
 **Time of Birth:** 05:10 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -21069,8 +16389,6 @@
 **Mibera(s):** [#3126](../miberas/3126.md)
 
 **Era:** Victorian Era (1898 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21083,11 +16401,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 13:56 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21096,8 +16410,6 @@
 **Mibera(s):** [#7239](../miberas/7239.md)
 
 **Era:** Victorian Era (1898 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21110,11 +16422,7 @@
 - **Ruler:** Mercury
 - **Traits:** analytical, service-oriented, precise, humble
 
-*sacred craft, healing hands, devotion to detail*
-
 **Time of Birth:** 03:13 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -21123,8 +16431,6 @@
 **Mibera(s):** [#4410](../miberas/4410.md)
 
 **Era:** Victorian Era (1898 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21137,11 +16443,7 @@
 - **Ruler:** Venus
 - **Traits:** harmonious, diplomatic, aesthetic, partnership-focused
 
-*scales of justice, beauty seeker, bridge builder*
-
 **Time of Birth:** 23:11 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -21150,8 +16452,6 @@
 **Mibera(s):** [#7536](../miberas/7536.md)
 
 **Era:** Victorian Era (1898 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21164,11 +16464,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 22:47 (Evening)
-
-*Lunar ascent. Dreams stir, intuition deepens.*
 
 ---
 
@@ -21177,8 +16473,6 @@
 **Mibera(s):** [#1650](../miberas/1650.md)
 
 **Era:** Victorian Era (1899 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21191,11 +16485,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 01:00 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -21204,8 +16494,6 @@
 **Mibera(s):** [#1031](../miberas/1031.md)
 
 **Era:** Victorian Era (1899 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21218,11 +16506,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 14:01 (Midday)
-
-*Peak solar power. Maximum visibility and vitality.*
 
 ---
 
@@ -21231,8 +16515,6 @@
 **Mibera(s):** [#2473](../miberas/2473.md)
 
 **Era:** Victorian Era (1899 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21245,11 +16527,7 @@
 - **Ruler:** Sun
 - **Traits:** confident, creative, generous, dramatic
 
-*radiant presence, heart-centered leadership, divine spark*
-
 **Time of Birth:** 11:03 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -21258,8 +16536,6 @@
 **Mibera(s):** [#1467](../miberas/1467.md)
 
 **Era:** Victorian Era (1899 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21272,11 +16548,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 03:20 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -21286,8 +16558,6 @@
 
 **Era:** Victorian Era (1899 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -21299,11 +16569,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 18:50 (Dusk)
-
-*Threshold time. Reflection, transition, letting go.*
 
 ---
 
@@ -21313,8 +16579,6 @@
 
 **Era:** Victorian Era (1900 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -21326,11 +16590,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 01:15 (Midnight)
-
-*Deepest night. Mysteries, secrets, the unconscious.*
 
 ---
 
@@ -21340,8 +16600,6 @@
 
 **Era:** Victorian Era (1900 CE)
 
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
-
 ---
 
 ### Astrological Snapshot
@@ -21353,11 +16611,7 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 09:58 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -21366,8 +16620,6 @@
 **Mibera(s):** [#33](../miberas/0033.md)
 
 **Era:** Victorian Era (1900 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21380,11 +16632,7 @@
 - **Ruler:** Uranus/Saturn
 - **Traits:** innovative, humanitarian, eccentric, visionary
 
-*future architect, collective awakening, electric rebellion*
-
 **Time of Birth:** 06:27 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -21393,8 +16641,6 @@
 **Mibera(s):** [#4141](../miberas/4141.md)
 
 **Era:** Victorian Era (1900 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21407,11 +16653,7 @@
 - **Ruler:** Neptune/Jupiter
 - **Traits:** compassionate, artistic, dreamy, spiritually attuned
 
-*oceanic consciousness, mystic dissolution, universal love*
-
 **Time of Birth:** 16:07 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -21420,8 +16662,6 @@
 **Mibera(s):** [#1510](../miberas/1510.md)
 
 **Era:** Victorian Era (1900 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21434,11 +16674,7 @@
 - **Ruler:** Mars
 - **Traits:** bold, pioneering, competitive, courageous
 
-*initiating force, warrior spirit, raw vitality*
-
 **Time of Birth:** 05:55 (Pre Dawn)
-
-*Liminal hour between worlds. The veil thins.*
 
 ---
 
@@ -21447,8 +16683,6 @@
 **Mibera(s):** [#7920](../miberas/7920.md)
 
 **Era:** Victorian Era (1900 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21461,11 +16695,7 @@
 - **Ruler:** Venus
 - **Traits:** grounded, sensual, persistent, patient
 
-*steadfast presence, material mastery, enduring strength*
-
 **Time of Birth:** 08:57 (Dawn)
-
-*Solar emergence. Fresh potential, new beginnings.*
 
 ---
 
@@ -21474,8 +16704,6 @@
 **Mibera(s):** [#9305](../miberas/9305.md)
 
 **Era:** Victorian Era (1900 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21488,11 +16716,7 @@
 - **Ruler:** Moon
 - **Traits:** nurturing, protective, intuitive, emotional depth
 
-*ancestral memory, tidal emotions, sanctuary keeper*
-
 **Time of Birth:** 10:42 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---
 
@@ -21501,8 +16725,6 @@
 **Mibera(s):** [#6286](../miberas/6286.md)
 
 **Era:** Victorian Era (1900 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21515,11 +16737,7 @@
 - **Ruler:** Pluto/Mars
 - **Traits:** intense, transformative, mysterious, powerful
 
-*death and rebirth, shadow work, psychic depths*
-
 **Time of Birth:** 15:46 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -21528,8 +16746,6 @@
 **Mibera(s):** [#8066](../miberas/8066.md)
 
 **Era:** Victorian Era (1900 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21542,11 +16758,7 @@
 - **Ruler:** Jupiter
 - **Traits:** adventurous, philosophical, optimistic, freedom-loving
 
-*truth seeker, cosmic wanderer, expansion of consciousness*
-
 **Time of Birth:** 17:11 (Afternoon)
-
-*Mature light. Integration and manifestation.*
 
 ---
 
@@ -21555,8 +16767,6 @@
 **Mibera(s):** [#8357](../miberas/8357.md)
 
 **Era:** Victorian Era (1900 CE)
-
-*Empire and industry. Darwin, Marx. Telegraph connects world.*
 
 ---
 
@@ -21569,10 +16779,6 @@
 - **Ruler:** Saturn
 - **Traits:** ambitious, disciplined, responsible, strategic
 
-*mountain climber, time keeper, legacy builder*
-
 **Time of Birth:** 11:23 (Morning)
-
-*Rising energy. Clarity and momentum build.*
 
 ---

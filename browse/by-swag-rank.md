@@ -4,22 +4,20 @@
 
 ---
 
-| Rank | Count | Description |
-|------|-------|-------------|
-| SSS | 0 | Legendary, iconic, undeniable presence |
-| SS | 0 | Remarkable, memorable, stands out anywhere |
-| S | 500 | Strong presence, natural confidence |
-| A | 1000 | Above average, comfortable in their skin |
-| B | 3500 | Solid, reliable presence |
-| C | 2500 | Average, functional |
-| D | 1500 | Diminished, uncertain |
-| F | 650 | Struggling, needs support |
+| Rank | Count |
+|------|-------|
+| SSS | 100 |
+| SS | 250 |
+| S | 500 |
+| A | 1000 |
+| B | 3500 |
+| C | 2500 |
+| D | 1500 |
+| F | 650 |
 
 ---
 
 ## Rank S
-
-*Strong swag. Natural leaders and tastemakers.*
 
 **500 Miberas**
 
@@ -35,8 +33,6 @@
 
 ## Rank A
 
-*Above the crowd. Confident and capable.*
-
 **1,000 Miberas**
 
 **Acidhouse:** [#5536](../miberas/5536.md) [#7019](../miberas/7019.md) [#7265](../miberas/7265.md) [#1985](../miberas/1985.md) [#2619](../miberas/2619.md) [#3441](../miberas/3441.md) [#4895](../miberas/4895.md) [#6036](../miberas/6036.md) [#7273](../miberas/7273.md) [#7354](../miberas/7354.md) [#8139](../miberas/8139.md) [#8251](../miberas/8251.md) [#9437](../miberas/9437.md) [#1078](../miberas/1078.md) [#2106](../miberas/2106.md) [#2458](../miberas/2458.md) [#2842](../miberas/2842.md) [#3949](../miberas/3949.md) [#6275](../miberas/6275.md) [#6495](../miberas/6495.md) [#7820](../miberas/7820.md) [#8537](../miberas/8537.md) [#9517](../miberas/9517.md) [#1118](../miberas/1118.md) [#3034](../miberas/3034.md) (+167)
@@ -50,8 +46,6 @@
 ---
 
 ## Rank B
-
-*Solid vibes. Reliable energy.*
 
 **3,500 Miberas**
 
@@ -67,8 +61,6 @@
 
 ## Rank C
 
-*Middle of the pack. Getting by.*
-
 **2,500 Miberas**
 
 **Acidhouse:** [#0093](../miberas/0093.md) [#0094](../miberas/0094.md) [#0141](../miberas/0141.md) [#0176](../miberas/0176.md) [#0407](../miberas/0407.md) [#0483](../miberas/0483.md) [#0509](../miberas/0509.md) [#0902](../miberas/0902.md) [#1221](../miberas/1221.md) [#1448](../miberas/1448.md) [#1484](../miberas/1484.md) [#1604](../miberas/1604.md) [#1605](../miberas/1605.md) [#1811](../miberas/1811.md) [#2094](../miberas/2094.md) [#2412](../miberas/2412.md) [#2469](../miberas/2469.md) [#3060](../miberas/3060.md) [#3082](../miberas/3082.md) [#3368](../miberas/3368.md) [#3817](../miberas/3817.md) [#4242](../miberas/4242.md) [#4433](../miberas/4433.md) [#4444](../miberas/4444.md) [#4738](../miberas/4738.md) (+491)
@@ -83,8 +75,6 @@
 
 ## Rank D
 
-*Struggling with presence. Still finding themselves.*
-
 **1,500 Miberas**
 
 **Acidhouse:** [#0643](../miberas/0643.md) [#0662](../miberas/0662.md) [#1401](../miberas/1401.md) [#1904](../miberas/1904.md) [#2191](../miberas/2191.md) [#3001](../miberas/3001.md) [#4474](../miberas/4474.md) [#5156](../miberas/5156.md) [#5589](../miberas/5589.md) [#5678](../miberas/5678.md) [#6487](../miberas/6487.md) [#6561](../miberas/6561.md) [#6890](../miberas/6890.md) [#7219](../miberas/7219.md) [#7274](../miberas/7274.md) [#7808](../miberas/7808.md) [#8800](../miberas/8800.md) [#9067](../miberas/9067.md) [#0116](../miberas/0116.md) [#0163](../miberas/0163.md) [#0173](../miberas/0173.md) [#0235](../miberas/0235.md) [#0599](../miberas/0599.md) [#0611](../miberas/0611.md) [#0759](../miberas/0759.md) (+356)
@@ -98,8 +88,6 @@
 ---
 
 ## Rank F
-
-*The underdogs. Sometimes the most interesting stories.*
 
 **650 Miberas**
 
