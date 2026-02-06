@@ -214,9 +214,9 @@ Routing.
 
 ---
 
-## Galactic Geckos Space Garace
+## Galactic Geckos Space Garage
 
-**Name:** Galactic Gecko Space Garace
+**Name:** Galactic Gecko Space Garage
 **Type of Project:** NFT
 
 **Brief Description on Project:** Galactic Gecko Space Garage (GGSG) is a Solana-based NFT social adventure club featuring 10,000 generative space-racing gecko NFTs divided into four factions, with immersive lore, community DAO governance, staking for $CRED rewards, and exclusive utilities like airdrops and events.
@@ -265,7 +265,7 @@ Honey Cast and Sproto Gremlin.
 ## GumBall
 
 **Name:** GumBall
-**Brief Description on Project:** GumBall Protocol is a Berachaain ecosystem project powering multiple dApps.
+**Brief Description on Project:** GumBall Protocol is a Berachain ecosystem project powering multiple dApps.
 
 **Link to Files:** SS3_Gumball.PNG
 **Link to Project:**

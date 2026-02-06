@@ -238,7 +238,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 ![Beige](https://mibera.fsn1.your-objectstorage.com/components/body__z40/beige__z80.webp)
 
 
-**Visual Description:** beige skin, warm light to medium shade, neutral appearance, and resembling a pale tan or light sand. It has a subtle golden yellowish undertones
+**Visual Description:** beige skin, warm light to medium shade, neutral appearance, and resembling a pale tan or light sand. It has subtle golden yellowish undertones
 
 **Dominant Colors:** 
 
