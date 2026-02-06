@@ -789,7 +789,7 @@ prepared.png
 
 ### Visual Properties
 
-**Name:** long wavy blonde
+**Name:** long wavy black
 
 **Image Files:**
 Long Wavy Black__w14.png Long Wavy Black__z-32.png
@@ -1061,7 +1061,7 @@ Braided Black__w11.PNG
 
 ### Visual Properties
 
-**Name:** dreamy blonde
+**Name:** dreamy brown
 
 **Image Files:**
 Dreamy Blonde__w8.png
@@ -1203,7 +1203,7 @@ Short Pale Blonde__w11.PNG
 Short Pink__w11.PNG
 
 
-**Visual Description:** an oval pixie cut in pale soft pale pink.
+**Visual Description:** an oval pixie cut in soft pale pink.
 
 **Dominant Colors:** pale pink
 
@@ -1273,7 +1273,7 @@ Cottage Magenta__w12.PNG
 
 **Visual Description:** a deep magenta hair braided traditionally on one side, with short curtain bangs curved inwards.
 
-**Dominant Colors:** forest green
+**Dominant Colors:** deep magenta
 
 ---
 

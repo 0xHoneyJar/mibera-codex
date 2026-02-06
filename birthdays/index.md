@@ -30,6 +30,8 @@ The birthday system connects each Mibera to:
 
 **Total:** 9,995 unique birthdays
 
+→ **[Timeline & Distribution](timeline.md)** — Visualization, density analysis, and clustering patterns across all eras.
+
 ---
 
 ## Ancient vs Modern Distribution

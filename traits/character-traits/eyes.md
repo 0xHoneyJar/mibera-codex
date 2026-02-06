@@ -1808,7 +1808,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-## ecstasty brown
+## ecstasy brown
 
 ### Visual Properties
 
@@ -2046,7 +2046,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ---
 
-## cying ocean
+## crying ocean
 
 ### Visual Properties
 

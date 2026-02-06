@@ -69,7 +69,7 @@ This allows the scoring algorithm to automatically calculate tribe coherence per
 
 **Color:** Green / Lime Green
 
-**Condition:** a hexagonal pill with a letter 'A' on it, in a perfect condition.
+**Condition:** a hexagonal pill with a letter 'A' on it, in perfect condition.
 
 ---
 
@@ -141,7 +141,7 @@ This allows the scoring algorithm to automatically calculate tribe coherence per
 
 **Color:** a vibrant dark shade of blue
 
-**Condition:** a star pill with a letter 'S' on it, in a perfect condition.
+**Condition:** a star pill with a letter 'S' on it, in perfect condition.
 
 ---
 
@@ -155,7 +155,7 @@ This allows the scoring algorithm to automatically calculate tribe coherence per
 
 **Color:** a vibrant dark shade of purple
 
-**Condition:** a heart pill with the letter 'SS' on it, in a perfect condition.
+**Condition:** a heart pill with the letter 'SS' on it, in perfect condition.
 
 ---
 
@@ -169,6 +169,6 @@ This allows the scoring algorithm to automatically calculate tribe coherence per
 
 **Color:** a vibrant shade of bright purple
 
-**Condition:** a bear-head shaped pill with the triple letter of 'SSS' on it, in a perfect condition.
+**Condition:** a bear-head shaped pill with the triple letter of 'SSS' on it, in perfect condition.
 
 ---

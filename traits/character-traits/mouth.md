@@ -312,7 +312,7 @@ Some mouth expressions reference altered states:
 ![toothpick](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/toothpick__w5.webp)
 
 
-**Visual Description:** a mouth portrayed by a nearly-straight line, holding a toothpick..
+**Visual Description:** a mouth portrayed by a nearly-straight line, holding a toothpick.
 
 **Dominant Colors:** black, yellow
 

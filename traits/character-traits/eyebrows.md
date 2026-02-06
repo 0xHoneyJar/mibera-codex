@@ -148,7 +148,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 ![Short](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Short.webp)
 
 
-**Visual Description:** short thick eyebrows that’s thicker at the inner side and grows thinner towards the end. Slightly arched upwards on the outer ends..
+**Visual Description:** short thick eyebrows that are thicker at the inner side and grow thinner towards the end. Slightly arched upwards on the outer ends.
 
 **Dominant Colors:** Black
 
@@ -174,7 +174,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 ![Normal](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Normal.webp)
 
 
-**Visual Description:** thin eyebrows, slightly curved with no arch..
+**Visual Description:** thin eyebrows, slightly curved with no arch.
 
 **Dominant Colors:** Black
 
@@ -200,7 +200,7 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 ![Normal Thick](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Normal%20Thick.webp)
 
 
-**Visual Description:** thicker eyebrows, slightly curved with no arch..
+**Visual Description:** thicker eyebrows, slightly curved with no arch.
 
 **Dominant Colors:** Black
 

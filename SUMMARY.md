@@ -67,6 +67,7 @@
   * [By Swag Rank](browse/by-swag-rank.md)
 * [All Miberas](miberas/index.md)
 * [Birthdays](birthdays/index.md)
+  * [Timeline & Distribution](birthdays/timeline.md)
   * [Prehistoric Era](birthdays/prehistoric.md)
   * [Ancient World](birthdays/ancient-bce.md)
   * [Classical Antiquity BCE](birthdays/classical-bce.md)
