@@ -81,3 +81,7 @@
 
 ## VI. The Ecosystem
 * [Featured Projects & Partners](special-collections/featured.md)
+
+## VII. Behind the Scenes
+* [Creative Process](behind-the-scenes/creative-process.md)
+* [Team History](behind-the-scenes/team-history.md)

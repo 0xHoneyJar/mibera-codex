@@ -230,7 +230,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "we'll need a trucker cap too" — Tez, Sep 2023, #hats
 
 **Sources:**
 
@@ -634,7 +634,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Tez (the WAGMI), Jani (the crossing line)
 
-**Team Notes:** 
+**Team Notes:** "on this jani hard agrees with charlotte and co. wagmi is a plague of a mindset and just not tru" — Jani, Aug 2023, #headwear | "Fair, I remember Charlotte saying they hate the WAGMI mindset hence why I thought it would be a fun trope to subvert" — Tez, Aug 2023, #headwear | "Maybe a wagmi cap with a line through it" — Jani, Aug 2023, #headwear
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143684092467093684/11458861583336
@@ -768,7 +768,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "23 isn't a reference to the year, its a reference to the number 23. if you look at the spiral tribe face logo it's actually a 2 3" — Jani, Oct 2023, #rrb23 | "will say want this whole look in there glasses, jacket and 303 as massive hat tip to spiral tribe" — Jani, Sep 2023, #items-accessories
 
 **Sources:**
 
@@ -969,7 +969,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Fedor
 
-**Team Notes:** 
+**Team Notes:** "Just remembered they're drinking some trippy shroom tea in Midsommar. Can a crown of flowers be a good idea?" — Puerhood, Oct 2023, #ancestors
 
 **Sources:**
 
@@ -1036,7 +1036,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "remilia corporation hat... rem con tokyo pink cap... remilia yellow cap... working like a dog all day on Milady cap" — Jani, Oct 2023, #hats
 
 **Sources:**
 - https://x.com/who_anon_/status/1682805589179609095?s=20
@@ -1375,7 +1375,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "no world as fucked as mine hat" — Jani, Oct 2023, #hats (received fire emoji)
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11679259368266
@@ -1579,7 +1579,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Jani / Gods
 
-**Team Notes:** 
+**Team Notes:** "which macdonalds hat's should we do? or should we do 4, one for each tribe and we can select different eras of macdonalds?" — Jani, Nov 2023, #hats | Era mapping: "chicago/detroit: early 80s, freetekno: early late 90s, acid house: late 90s/2000s, milady: current" — Jani | "I'd go for smth from 90s as it matches the rise of rave culture" — Puerhood | "McDonald's but mibera with the macronals m" — Jani (received laughing emoji)
 
 **Sources:**
 - https://smilemakersonline.com/big-mac-retro-cap/
@@ -1781,7 +1781,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Fedor
 
-**Team Notes:** 
+**Team Notes:** "I've been thinking of Slavs and drugs and it should mainly be mushrooms. There is one which was popularized in the 90s by a cult writer Viktor Pelevin (his books are quite psychedelic too). It's amanita. Would probably make a good hat." — Puerhood, Oct 2023, #ancestors
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1158511884706779227/11624197337574
@@ -2926,7 +2926,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "working like a dog all day on Milady cap" — Jani, Oct 2023, #hats
 
 **Sources:**
 - https://store.remilia.org/cdn/shop/products/working-trucker.gif?v=1662426646
@@ -3464,7 +3464,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "cpap machine" — Jani, Oct 2023, #hats | Part of Jani's initiative to introduce disabled traits into the collection: "wanna find some ways of introducing disabled traits into the collection" — Oct 2023
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11678054971523
@@ -4134,7 +4134,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "aboriginal flag hat" — Jani, Oct 2023, #ancestors (proposed alongside "BLACK IS BEAUTIFUL tshirt")
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1158511884706779227/11586947626652
@@ -4604,7 +4604,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "got a little reference to lee scratch perry with the hat — but he's an ancestor within the chicago/detroit archetype so it works well within the collection logic" — Jani, Jan 2024, #active-miberas
 
 **Sources:**
 
@@ -5009,7 +5009,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "I also, noticed that yayo tribe is working with right-wing masculinity themes which contrasts them with more effeminate miladys" — Puerhood, Nov 2023, #active-miberas
 
 **Sources:**
 - https://www.prnewswire.com/news-releases/yayo-corporation-releases-the-companys-first-ever-
@@ -5683,7 +5683,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Fedor
 
-**Team Notes:** 
+**Team Notes:** "oooo love all those, esp the duct tape lmao" — Gumi, Apr 2024, #active-miberas
 
 **Sources:**
 
@@ -5884,7 +5884,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "aitoshi hat with berachein sumbol and bearears white" — Jani, Oct 2023, #hats | "omg love this hat. gonna fit the collection well" — Gumi, Oct 2023, #hats
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1152026958713081966/11667362632069
@@ -6018,7 +6018,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** See McDonalds 2 for era-mapping discussion. Jani proposed 4 McDonald's hats, one per tribe representing different eras of the brand. — Nov 2023, #hats
 
 **Sources:**
 
@@ -6957,7 +6957,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** sonnienft / gumi
 
-**Team Notes:** 
+**Team Notes:** "does mibera have a Crown (hat) trait... also maybe a paiting easel with the multiple colors would be doppeee" — supduh, Jan 2024, #trait-updates | "a crown might be good. and/or some runescape partyhats for the culture" — Gumi, Jan 2024 | "I spent way longer on painting this than I meant to bc figured if we threw in a crown it should be ~fancy~" — Gumi, Jan 2024, #trait-updates
 
 **Sources:**
 
@@ -7024,7 +7024,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "Given darkfi supports tor and nym we can actually legit build out tor tutorials etc for mibera" — Jani, Nov 2023, #website | "We can have discord as a gateway drug which is a single channel... just pointing people to the darkfi irc installation" — Jani, Nov 2023, #website
 
 **Sources:**
 
@@ -7359,7 +7359,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "RE: politics from jani's perspective it's less that we're political and more that the rave has everyfink in it. so you'll find a fascist alongside a leftist anarchist, a satanist alongside a devout jew" — Jani, Nov 2023, #active-miberas
 
 **Sources:**
 
@@ -8163,7 +8163,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "Also occurred to jani some sunra quotes about light originating from darkness will be good" — Jani, Sep 2023, #mibera-lore
 
 **Sources:**
 
@@ -8230,7 +8230,7 @@ SS{score}_{archetype}_{name}
 
 **Introduced By:** Gods
 
-**Team Notes:** 
+**Team Notes:** "before jani forgets can we change hamas band to 'there is no god I love you' in Arabic" — Jani, Nov 2023, #trait-updates | "I saw on other projects too this one but I never saw the hamas style. Even if is provocative I feel is more interesting" — team member, Oct 2023, #trait-updates
 
 **Sources:**
 
@@ -8356,11 +8356,11 @@ SS{score}_{archetype}_{name}
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -8418,11 +8418,11 @@ SS{score}_{archetype}_{name}
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -8480,11 +8480,11 @@ SS{score}_{archetype}_{name}
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -8542,11 +8542,11 @@ SS{score}_{archetype}_{name}
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -8604,11 +8604,11 @@ SS{score}_{archetype}_{name}
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 

@@ -59,7 +59,7 @@ SS3_freetekno_LA Rave Flyers.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Los Angeles rave flyers from the early 1990s documented a scene that blended West Coast psychedelia with electronic music imported from the UK and Europe. These flyers are now collected as folk art, capturing a moment when underground culture communicated through paper instead of screens.
 
 
 ---
@@ -126,7 +126,7 @@ SS3_freetekno_Scum Manifesto.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The SCUM Manifesto is Valerie Solanas' 1967 radical feminist text calling for the overthrow of patriarchal society. Its inclusion alongside other countercultural texts positions the collection's literary references across the full spectrum of revolutionary thought.
 
 
 ---
@@ -261,7 +261,7 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Tea is one of the oldest psychoactive beverages in the world, with a history of communal consumption stretching back thousands of years across Asia. The Japanese tea ceremony elevated stimulant use into a meditative art form, connecting the act of getting a buzz to mindfulness and presence.
 
 
 ---
@@ -395,7 +395,7 @@ SS3_freetekno_Peyote Rattle.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The peyote rattle is a sacred tool used in Native American Church ceremonies to guide participants through mescaline visions. It represents one of the oldest documented traditions of communal psychedelic experience.
 
 
 ---
@@ -463,7 +463,7 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Tibetan singing bowls produce harmonic overtones used in meditation and sound healing practices. Their resonant frequencies are said to induce altered states of consciousness, connecting them to the broader theme of achieving transcendence through sound.
 
 
 ---
@@ -532,7 +532,7 @@ SS3_Sacred Mirrors.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Sacred Mirrors are a series of paintings by Alex Grey depicting the human body in increasingly transcendent layers, from skeleton to universal energy. Grey's visionary art has become the dominant visual language of psychedelic culture, appearing on everything from album covers to festival stages.
 
 
 ---
@@ -599,7 +599,7 @@ SS3_Bhang.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Bhang is a cannabis-infused drink consumed in India for centuries, especially during the Hindu festival of Holi. It represents one of the world's oldest traditions of communal intoxication tied to celebration and spiritual practice.
 
 
 ---
@@ -666,7 +666,7 @@ SS3_milady_Remilia Cig Pack.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Remilia cigarette pack is sourced directly from Remilia's own merch store, embedding the parent project's branding into the collection as a held item. It turns corporate identity into a rave accessory.
 
 
 ---
@@ -698,7 +698,7 @@ SS3_milady_Remilia Cig Pack.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** Jani sourced directly from the Remilia merch store as a trait reference. — Oct 2023, #items-accessories
 
 **Sources:**
 
@@ -733,7 +733,7 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Ephedra is one of the oldest known stimulants, used for thousands of years in Chinese and Central Asian medicine. Its active compound ephedrine became the basis for amphetamines, which fueled all-night dancing from Northern Soul to acid house.
 
 
 ---
@@ -800,7 +800,7 @@ SS3_Anarchist Cookbook.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Anarchist Cookbook is a controversial 1971 manual covering everything from drug synthesis to explosives. It became an emblem of anti-establishment DIY culture, though its author later disavowed it, making it a complicated symbol of countercultural knowledge-sharing.
 
 
 ---
@@ -899,7 +899,7 @@ SS3_milady_Boo Bear 2.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "want to confirm preference before locking in — should these also be treated like 1/1s? — apdao rings — band bear plushes — boo bear plushes" — Gumi, Mar 2025, #dev-mibera-assembly
 
 **Sources:**
 
@@ -1135,7 +1135,7 @@ SS3_acidhouse_Watergun 1.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Waterguns were a fixture of outdoor raves and festivals, used to cool down overheated dancers on packed dance floors. They represent the playful, childlike energy that rave culture celebrates.
 
 
 ---
@@ -1202,7 +1202,7 @@ SS3_acidhouse_Watergun 2.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Spraying strangers with water at a rave is both a practical kindness and a social ritual. The watergun embodies the communal care that the best rave culture is built on.
 
 
 ---
@@ -1269,7 +1269,7 @@ SS3_Yohimbe Bark.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Yohimbe bark comes from a West African tree traditionally used as an aphrodisiac and stimulant. Its active compound yohimbine has real pharmacological effects, connecting traditional African medicine to modern supplement culture.
 
 
 ---
@@ -1403,7 +1403,7 @@ SS3_freetekno_thai_Kratom.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Kratom is a Southeast Asian plant that acts as a stimulant at low doses and a sedative at high ones. It occupies a contested space between traditional medicine and modern drug culture, legal in some places and banned in others.
 
 
 ---
@@ -1470,7 +1470,7 @@ SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Piper methysticum is the kava plant, used across the Pacific Islands for centuries in social and ceremonial drinking rituals. Its calming, euphoric effects make it a communal intoxicant built around shared stillness rather than the stimulant-driven movement of rave culture.
 
 
 ---
@@ -1537,7 +1537,7 @@ SS3_freetekno_Club Mate.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Club-Mate is a caffeinated mate tea that became the unofficial drink of Berlin's techno scene and hacker culture. It fuels late-night coding sessions and all-night raves equally, symbolizing the overlap between tech and electronic music.
 
 
 ---
@@ -1569,7 +1569,7 @@ SS3_freetekno_Club Mate.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "Club Mate and other similar brands are made from roasted mate which tastes a lot different from mate drunk from gourds actually" — Puerhood, Jan 2024, #milady-week | "I was disappointed that similar-looking mate drink I saw in Brazil was nothing like club mate. It was super sweet and not sparkling" — Puerhood, Jan 2024, #milady-week
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143685538075902095/11674457119740
@@ -1604,7 +1604,7 @@ SS3_Triskelion Ring.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The triskelion is a three-armed spiral symbol found across Celtic, Greek, and Sicilian traditions, representing cycles of movement and progress. Its spiral form echoes the collection's recurring spiral motif and the Spiral Tribe lineage.
 
 
 ---
@@ -1739,7 +1739,7 @@ SS3_freetekno_ancient_greek_henbane.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Henbane is a deliriant nightshade used by European witches, oracles, and healers for centuries. Some historians believe it was a key ingredient in the "flying ointments" of medieval witchcraft, connecting it to the occult threads that run through the collection.
 
 
 ---
@@ -1806,7 +1806,7 @@ SS3_milady_Beads.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Bead trading and sharing is a tradition at music festivals and raves, from Grateful Dead shows to modern kandi culture. Making and exchanging beads represents the gift economy and communal bonding that rave culture values.
 
 
 ---
@@ -1874,7 +1874,7 @@ SS3_freetekno_Spiral Tribe.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Spiral Tribe was one of the most legendary free party sound systems in history, whose illegal raves across 1990s Europe helped define the freetekno movement. A book about their story of DIY culture, police confrontation, and nomadic freedom is a key text for the Freetekno archetype.
 
 
 ---
@@ -1941,7 +1941,7 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Mad honey is produced by bees that feed on rhododendron nectar in Turkey's Black Sea region and Nepal. It contains grayanotoxin, which in small doses causes a mild intoxication, and has been used as both a weapon and a delicacy since the time of the ancient Greeks.
 
 
 ---
@@ -1973,7 +1973,7 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "had a mad honey revelation -- The way to test real honey is to put it in some water and agitate. Honey has memory so real honey will change shape back to Honeycomb." — Jani, Oct 2023, #trailer-trash | "Chaotic neutral can be taking some mad honey to the rave and offering people to try it" — Puerhood, Nov 2023, #general
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143360419927445504/11594339073521
@@ -2010,7 +2010,7 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Syrian rue contains harmine, one of the same MAO inhibitors found in ayahuasca. It has been used as a psychoactive sacrament across the Middle East and Central Asia for millennia, and some researchers believe it may be the legendary soma of ancient Vedic texts.
 
 
 ---
@@ -2077,7 +2077,7 @@ SS3_chicagodetroit_Normal Bong.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The bong uses water filtration to cool and filter smoke, a principle that originated in Asia centuries ago. It has become one of the most recognizable symbols of cannabis culture worldwide.
 
 
 ---
@@ -2144,7 +2144,7 @@ SS3_pythenians oracle.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Oracle at Delphi was the most important prophetic institution in the ancient Greek world. The idea that hidden knowledge could be accessed through trance and psychoactive substances connects directly to the collection's theme that altered consciousness can reveal deeper truths.
 
 
 ---
@@ -2211,7 +2211,7 @@ SS3_Clandestine Labs.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Clandestine chemistry labs are where many of the substances that fueled rave culture were actually made, from MDMA to LSD. This item pays tribute to the underground chemists whose work, legal or not, shaped the psychedelic landscape.
 
 
 ---
@@ -2345,7 +2345,7 @@ SS3_milady_Maid Fumo.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Fumo plush dolls originated from the Touhou Project fandom and became widely collected across otaku and online communities. They represent the soft, cute aesthetic that intersects with internet culture and the Milady archetype.
 
 
 ---
@@ -2412,7 +2412,7 @@ SS3_Honey Comb.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The honeycomb is a recurring visual motif connected to the Berachain ecosystem and The Honey Jar community. Its hexagonal structure, nature's most efficient shape, represents both the interconnectedness of the project and the natural order that underlies it.
 
 
 ---
@@ -2479,7 +2479,7 @@ SS3_acidhouse_Blue Meanie.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Blue Meanie can refer to either a potent Psilocybe cubensis strain or Panaeolus cyanescens, a distinct species. The name nods to the Beatles' Yellow Submarine, connecting psychedelic mushroom culture to the psychedelic music era.
 
 
 ---
@@ -2546,7 +2546,7 @@ SS3_mad scientists.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Mad Scientist is a potent strain of Psilocybe cubensis known for producing intense, sometimes unpredictable experiences. The name captures the experimental spirit that connects underground mycology to underground music.
 
 
 ---
@@ -2613,7 +2613,7 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Coffee is the world's most popular psychoactive substance, a legal stimulant that fuels productivity in ways that parallel the stimulants used at raves. Its inclusion is a reminder that the line between "drug" and "beverage" is culturally drawn, not pharmacologically.
 
 
 ---
@@ -2779,7 +2779,7 @@ SS2_The Rose of Paracelsus.png
 
 **Introduced By:** babybera
 
-**Team Notes:** 
+**Team Notes:** "Added Tihkal, Pihkal, and Rose of Paracelsus" — babybera, Apr 2024, #active-miberas
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1164327631655813160/12012880361561
@@ -2815,7 +2815,7 @@ SS3_milady_satanists_clear pill.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The clear pill sits alongside the red, blue, and black pills of internet culture as a provocation about perception and ideology. In the collection's framework, it suggests seeing through all narratives rather than choosing between them.
 
 
 ---
@@ -2882,7 +2882,7 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Sherlock pipe's distinctive curved shape has been transformed by modern glass artists into elaborate functional art. Glass pipes represent the intersection of craft, beauty, and drug culture.
 
 
 ---
@@ -2949,7 +2949,7 @@ SS3_milady_Buy Bitcoin.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The "Buy Bitcoin" meme became one of crypto culture's most recognizable moments when a sign with those words appeared behind Janet Yellen during a 2017 Congressional hearing. As a held item, it turns a financial movement's rallying cry into a physical prop.
 
 
 ---
@@ -3016,7 +3016,7 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Sassafras root bark contains safrole, the precursor chemical used to synthesize MDMA. The plant sits at the intersection of traditional Native American herbal medicine and the underground chemistry that gave rave culture its most iconic substance.
 
 
 ---
@@ -3083,7 +3083,7 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Khat is a stimulant plant chewed across East Africa and the Arabian Peninsula for centuries, producing effects similar to amphetamines. It represents one of many regional stimulant traditions that parallel the energy-seeking impulse at the heart of rave culture.
 
 
 ---
@@ -3151,7 +3151,7 @@ SS3_milady_Handheld Sickle.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The sickle is a symbol of agricultural labor and, when paired with the hammer, of communist revolution. As a standalone tool, it connects to agrarian traditions and the working-class roots that inform rave culture's anti-establishment ethos.
 
 
 ---
@@ -3219,7 +3219,7 @@ SS3_milady_hindu_ashwagandha.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Ashwagandha is an adaptogenic herb central to Ayurvedic medicine, used for thousands of years to reduce stress and enhance vitality. Its inclusion represents the recovery and wellness side of drug culture, where healing is as important as the high.
 
 
 ---
@@ -3487,7 +3487,7 @@ SS3_milady_Honey Stick.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Honey sticks are portable tubes of honey, connecting the collection's recurring honey motif to something practical and shareable. In the Berachain ecosystem, honey carries special significance through The Honey Jar community.
 
 
 ---
@@ -3554,7 +3554,7 @@ SS3_modern_irish_Buckfast Bottle.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Buckfast Tonic Wine, brewed by Benedictine monks in Devon, became the drink of choice for Scottish youth and party culture. Its potent mix of alcohol and caffeine earned it a reputation as both a beloved institution and a social menace.
 
 
 ---
@@ -3755,7 +3755,7 @@ SS3_milady_Remilia Quarterly.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Remilia Quarterly is a publication from the Remilia ecosystem. Holding a magazine as a rave accessory blurs the line between media, brand, and personal expression.
 
 
 ---
@@ -3822,7 +3822,7 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Mandrake has been surrounded by myth since antiquity, with its human-shaped root believed to scream when pulled from the ground. Its hallucinogenic alkaloids were used in ancient love potions and sleeping draughts, connecting it to the long history of plants that blur the line between medicine, magic, and intoxication.
 
 
 ---
@@ -3889,7 +3889,7 @@ SS3_TechGnosis.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** TechGnosis by Erik Davis explores the mystical and occult undercurrents running through the history of technology, from the telegraph to the internet. It provides the intellectual framework connecting rave culture's techno-spirituality to deeper traditions of seeking transcendence through machines.
 
 
 ---
@@ -3921,7 +3921,7 @@ SS3_TechGnosis.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "If u wanna understand occult of tech more broadly then ccru then techgnosis by erik davis is an excellent guide. More burger then bangers and mash. But more grounded then land" — Jani, Sep 2023, #mibera-lore
 
 **Sources:**
 
@@ -3956,7 +3956,7 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The blue lotus was sacred in ancient Egypt, depicted in tomb paintings and temple art as a symbol of rebirth and altered consciousness. It contains mild psychoactive alkaloids and was likely used in ritual contexts, making it one of the earliest documented entheogens.
 
 
 ---
@@ -4090,7 +4090,7 @@ SS2_milady_Pina Colada.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The pina colada evokes tropical escapism and vacation hedonism, a lighter and more playful counterpart to the collection's heavier substances. Sometimes the rave is just a beach party.
 
 
 ---
@@ -4157,7 +4157,7 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Datura is a powerful and dangerous deliriant used in shamanic traditions across the Americas, India, and Europe. Unlike most psychedelics, it produces true hallucinations indistinguishable from reality, representing the darker and more dangerous edges of the psychedelic spectrum.
 
 
 ---
@@ -4224,7 +4224,7 @@ SS3_freetekno_Peyote Feather Fan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The feather fan is used in Native American Church peyote ceremonies to direct prayers and cleanse the ritual space. It connects the psychedelic experience to a framework of spiritual discipline rather than recreation.
 
 
 ---
@@ -4292,7 +4292,7 @@ SS1_chicagodetroit_Vape Pen.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The vape pen represents the modern evolution of smoking culture, replacing combustion with vapor. In rave settings, it has become as ubiquitous as the cigarette once was.
 
 
 ---
@@ -4324,7 +4324,7 @@ SS1_chicagodetroit_Vape Pen.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "absolutely love this one tho, vape pen + cig" — Gumi, Feb 2024, #dev-mibera-assembly
 
 **Sources:**
 
@@ -4359,7 +4359,7 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Lee "Scratch" Perry was a Jamaican producer and pioneer of dub and reggae who influenced virtually every genre of electronic music that followed. His experimental studio techniques and willingness to destroy conventions prefigured the DJ and producer culture at the heart of raving.
 
 
 ---
@@ -4426,7 +4426,7 @@ SS2_acidhouse_Chillum.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The chillum is a straight pipe traditionally used by Hindu sadhus (holy men) to smoke cannabis as a spiritual practice. It connects modern recreational cannabis use to centuries of sacred use in South Asian traditions.
 
 
 ---
@@ -4493,7 +4493,7 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** New York rave flyers document the city's unique electronic music scene, which blended warehouse parties, club culture, and the downtown art world. They capture a time when the city's nightlife was both genuinely dangerous and genuinely transformative.
 
 
 ---
@@ -4592,7 +4592,7 @@ SS4_milady_Bond Bear 3.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "The microphone have Bond Bears written in it. No way scammer spend time on this" — team member, Oct 2023, #general
 
 **Sources:**
 
@@ -4828,7 +4828,7 @@ SS2_acidhouse_Penis Envy.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Penis Envy is a notably potent strain of Psilocybe cubensis, reportedly developed by Terrence McKenna from specimens collected in the Amazon. Its name and exaggerated shape have made it a meme within psychedelic culture, blurring the line between serious mycology and internet humor.
 
 
 ---
@@ -4895,7 +4895,7 @@ SS2_ancient_arabs_nutmeg.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Nutmeg contains myristicin, a compound that in large doses produces psychoactive effects sometimes compared to MDMA. It has been used as a folk intoxicant for centuries by people without access to other substances, from medieval Europeans to prisoners.
 
 
 ---
@@ -4927,7 +4927,7 @@ SS2_ancient_arabs_nutmeg.PNG
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "nutmeg... ancient version of mdma" — Jani, Nov 2023, #drugs
 
 **Sources:**
 
@@ -4962,7 +4962,7 @@ SS4_milady_Chrome Hearts Watch.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Chrome Hearts is a luxury brand known for its gothic silver jewelry and leather goods, beloved in both streetwear and music culture. Its presence connects the collection to the high-fashion side of nightlife, where designer accessories meet the dance floor.
 
 
 ---
@@ -5029,7 +5029,7 @@ SS4_freetekno_Spiral Fossil.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The ammonite spiral fossil directly inspired Spiral Tribe's iconic logo and visual identity. This simple natural form became the symbol for one of the most important free party sound systems in history, connecting prehistoric life to 1990s rave culture.
 
 
 ---
@@ -5061,7 +5061,7 @@ SS4_freetekno_Spiral Fossil.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "spiral fossil - is very important as a poster of this inspired the spiral tribe use of spirals" — Jani, Sep 2023, #items-accessories
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143685538075902095/11573042357555
@@ -5097,7 +5097,7 @@ SS3_chicagodetroit_Fan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Fans are both a practical and expressive accessory in rave culture, used to cool down on crowded dance floors and as flow toys for visual performance. They bridge centuries of Asian cultural tradition with modern electronic music scenes.
 
 
 ---
@@ -5164,7 +5164,7 @@ SS3_acidhouse_Green Glowstick.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Glowsticks became synonymous with rave culture in the 1990s, used for dancing, tracing light trails, and marking pathways through dark warehouses. Their cheap, temporary glow perfectly matched the ephemeral nature of the rave itself.
 
 
 ---
@@ -5231,7 +5231,7 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Tabernaemontana species are related to iboga and contain alkaloids used in traditional medicine across tropical regions. They represent the lesser-known branches of psychoactive botany that the collection deliberately highlights.
 
 
 ---
@@ -5298,7 +5298,7 @@ SS2_milady_Radio.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Pirate radio stations were the lifeline of early rave culture in the UK, broadcasting illegal sets and event locations to listeners who could not find the scene any other way. The radio represents that whole history of unauthorized transmission.
 
 
 ---
@@ -5365,7 +5365,7 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Sakae naa is a Southeast Asian plant related to kratom, used traditionally in Thailand as a mild stimulant and mood enhancer. It represents the lesser-known corners of ethnobotany that the collection brings to light.
 
 
 ---
@@ -5432,7 +5432,7 @@ SS2_freetekno_Male Tears Mug.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The "Male Tears" mug became an iconic accessory of online feminist culture in the 2010s, designed to provoke and amuse in equal measure. Its inclusion places internet-era gender politics alongside the collection's other countercultural artifacts.
 
 
 ---
@@ -5700,7 +5700,7 @@ SS2_Come and Take It.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** "Come and Take It" is a defiant slogan with roots in ancient Sparta and the Texas Revolution, now widely used in gun rights and libertarian circles. Its presence reflects the overlap between crypto-anarchism and Second Amendment culture.
 
 
 ---
@@ -5767,7 +5767,7 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Brahmi is a nootropic herb used in Ayurvedic medicine for thousands of years to enhance memory and cognitive function. It connects ancient plant wisdom to the modern interest in cognitive enhancement and "smart drugs."
 
 
 ---
@@ -5901,7 +5901,7 @@ SS2_freetekno_Peyote.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Peyote is a small cactus containing mescaline, used ceremonially by Indigenous peoples of the Americas for thousands of years. It represents one of humanity's oldest relationships with psychedelic plants.
 
 
 ---
@@ -5969,7 +5969,7 @@ SS2_acidhouse_Maracas.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Maracas are rooted in Indigenous Caribbean and Latin American percussion traditions. They connect the rhythmic foundations of global dance music to the cultural exchanges that have always driven new musical forms.
 
 
 ---
@@ -6036,7 +6036,7 @@ SS2_Capitalist Realism.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Capitalist Realism by Mark Fisher argues that it has become easier to imagine the end of the world than the end of capitalism. Fisher's writing connected rave culture, hauntology, and mental health in ways that deeply shaped the philosophical landscape Mibera draws from.
 
 
 ---
@@ -6068,7 +6068,7 @@ SS2_Capitalist Realism.png
 
 **Introduced By:** Tez / Gods
 
-**Team Notes:** 
+**Team Notes:** "100% backing could of been an interesting expression of acid communism. Distributing the wealth in very capitalist realism sort of way" — Tez, Sep 2023, #mibera-lore
 
 **Sources:**
 
@@ -6170,7 +6170,7 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Grateful Dead and tarot both carry deep connections to psychedelic culture and mysticism. This item sits at the crossroads of those two traditions, linking the Dead's legacy of communal psychedelic experience to the esoteric practice of divination.
 
 
 ---
@@ -6305,7 +6305,7 @@ SS2_acidhouse_Golden Teacher.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Golden Teacher is one of the most popular and widely cultivated strains of psilocybin mushrooms, known for producing introspective, visually rich experiences. Its name reflects the widespread belief that psilocybin mushrooms teach rather than merely intoxicate.
 
 
 ---
@@ -6372,7 +6372,7 @@ SS2_acidhouse_Cubensis.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Psilocybe cubensis is the most commonly cultivated magic mushroom species worldwide, found naturally across tropical climates. Its accessibility made it the gateway to psilocybin for millions and a cornerstone of the global psychedelic movement.
 
 
 ---
@@ -6506,7 +6506,7 @@ SS2_tomato.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The tomato has a long history as a projectile of protest and disapproval. Holding one at a rave suggests a readiness to critique as much as to celebrate.
 
 
 ---
@@ -6573,7 +6573,7 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Coca leaves have been chewed by Andean peoples for thousands of years to combat altitude sickness and fatigue. Before being refined into cocaine, the plant was a sacred everyday staple, and its inclusion highlights the distance between traditional use and modern excess.
 
 
 ---
@@ -6640,7 +6640,7 @@ SS4_milady_Radbro Plushie.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Radbro is a character from the broader Milady ecosystem, representing a laid-back, positive energy. The plushie format connects NFT culture to the tradition of physical mascot collectibles.
 
 
 ---
@@ -6672,7 +6672,7 @@ SS4_milady_Radbro Plushie.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** Jani sourced the Radbro plushie from the Happy UFO store (happyufo.net) as a held-item reference. — Oct 2023, #items-accessories
 
 **Sources:**
 
@@ -6707,7 +6707,7 @@ SS4_LSD My Problem Child.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** LSD: My Problem Child is Albert Hofmann's personal account of discovering LSD in 1943 and grappling with its cultural aftermath. Written by the chemist who accidentally created the most influential psychedelic ever made, it is both scientific memoir and philosophical meditation.
 
 
 ---
@@ -6774,7 +6774,7 @@ SS2_milady_Remilia Case.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Remilia phone case is branded merchandise from the parent Remilia ecosystem. Turning a utilitarian tech accessory into a held item collapses the boundary between personal device, brand loyalty, and collection trait.
 
 
 ---
@@ -6841,7 +6841,7 @@ SS4_Ccru.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The CCRU (Cybernetic Culture Research Unit) was a rogue academic collective at Warwick University in the 1990s that fused philosophy, electronic music, and occultism into a new form of theory-fiction. Its ideas about hyperstition and cultural engineering are woven into both Milady and Mibera's philosophical foundations.
 
 
 ---
@@ -6871,9 +6871,9 @@ SS4_Ccru.png
 
 **Date Added:** August 7, 2024
 
-**Introduced By:** 
+**Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "conceptually all we are doing here is introducing tensions... even with the callbacks to CCRU; one of the reasons it was the way it was is that it was a unit which had many competitive and contradicting philosophies which did not agree with each other - but there was an environment of healthy space for disagreement" — Jani, Aug 2023, #general | "which direction would be better for philosophy behind mibera wrt CCRU -- do we go for an alternate reading of nick lands acceleration relation to raves OR do we go for an alternate philosopher from CCRU with a different reading" — Jani, Aug 2023, #goldenlight
 
 **Sources:**
 
@@ -6975,7 +6975,7 @@ SS3_freetekno_UK Rave Flyers.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** UK rave flyers from the late 1980s and early 1990s are some of the most iconic pieces of underground graphic design ever produced. They served the practical purpose of communicating secret party locations while becoming an art form of their own, with bold typography and psychedelic imagery defining a visual language for the entire movement.
 
 
 ---
@@ -7042,7 +7042,7 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Tarot cards have been used for divination and self-reflection for centuries, and the Grateful Dead's connection to psychedelic mysticism makes this pairing a natural fit. It represents the overlap between countercultural music and occult practice.
 
 
 ---
@@ -7109,7 +7109,7 @@ SS4_freetekno_90s Brick Phone.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The chunky mobile phones of the 1990s were how ravers received last-minute text messages with party locations and warehouse addresses. Before smartphones and social media, a chain of SMS messages was the infrastructure that made illegal raves possible.
 
 
 ---
@@ -7176,7 +7176,7 @@ SS2_acidhouse_Whistle.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The whistle is one of the most recognizable accessories of early 1990s rave culture, blown in unison by crowds at the peak of a set. It turned individual dancers into a collective instrument.
 
 
 ---
@@ -7243,7 +7243,7 @@ SS4_acidhouse_Whippet Cracker.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Nitrous oxide crackers release laughing gas from small canisters, producing a brief, intense dissociative high. Nitrous has been a fixture at raves and festivals since the 1990s, occupying a legal gray zone between party drug and dental anesthetic.
 
 
 ---
@@ -7310,7 +7310,7 @@ SS2_freetekno_Rolling Tobacco Tin.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Hand-rolled cigarettes are a staple of European free party culture, cheaper and more communal to share than manufactured ones. The tin itself becomes a ritual object, passed around at after-parties.
 
 
 ---
@@ -7342,7 +7342,7 @@ SS2_freetekno_Rolling Tobacco Tin.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "special brew, rolling tobacco tin, lighter" — Jani, Nov 2023, #items-accessories
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143685538075902095/11696244849621
@@ -7377,7 +7377,7 @@ SS4_Gold Apollo AR942.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Gold Apollo pager became internationally notorious after the 2024 Lebanon pager attacks, in which communication devices were allegedly weaponized by intelligence services. It represents the dark potential of everyday technology being turned against its users.
 
 
 ---
@@ -7444,7 +7444,7 @@ SS3_chicagodetroit_Weed Nug.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Cannabis buds are one of the most universally recognized symbols of counterculture, present at every rave, festival, and underground gathering. Weed's mellow effects offer a counterpoint to the high-energy stimulants more commonly associated with the dance floor.
 
 
 ---
@@ -7511,7 +7511,7 @@ SS4_hotdog.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The hotdog is the universal street food of American nightlife, available from carts outside every club and venue at 3 AM. It represents the mundane, human side of going out: eventually, you just need to eat.
 
 
 ---
@@ -7578,7 +7578,7 @@ SS4_freetekno_Pihkal.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** PiHKAL (Phenethylamines I Have Known And Loved) is Alexander and Ann Shulgin's 1991 book cataloging over 170 psychoactive compounds they personally synthesized and tested. It is the encyclopedia of psychedelic chemistry and a foundational text for harm reduction.
 
 
 ---
@@ -7610,7 +7610,7 @@ SS4_freetekno_Pihkal.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "for da nerds out there we could have these two books as fings to hold" — Jani, Sep 2023, #items-accessories | "If I don't mint one, def buying on secondary. Galaxy face and pihkal and Tihkal books. And babybera traits. Gonna buy a bunch." — babybera, Jan 2024, #milady-week
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143685538075902095/11522090550881
@@ -7646,7 +7646,7 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Ayahuasca is a psychedelic brew combining DMT-containing plants with MAO inhibitors, developed by Indigenous Amazonian peoples over centuries. The fact that they discovered this precise pharmacological combination without modern chemistry speaks to a depth of botanical knowledge that science is still catching up to.
 
 
 ---
@@ -7714,7 +7714,7 @@ SS4_milady_acidhouse_MDMA Handbook.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** MDMA handbooks represent the harm reduction movement's approach to drug culture: education over prohibition. They reflect the philosophy that knowledge and safety are more effective than fear, an idea central to rave culture from its earliest days.
 
 
 ---
@@ -7781,7 +7781,7 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Sugarcane has been fermented into alcohol across tropical regions for thousands of years, producing everything from rum to cachaca. It connects to the deep history of communal drinking rituals that preceded modern rave culture by millennia.
 
 
 ---
@@ -7848,7 +7848,7 @@ SS2_chicagodetroit_glass of whiskey.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Whiskey is one of the oldest distilled spirits, with deep roots in Scottish, Irish, and American culture. As a nightlife staple that predates rave culture by centuries, it connects the modern dance floor to much older traditions of communal drinking.
 
 
 ---
@@ -7915,7 +7915,7 @@ SS4_freetekno_Sheet Of Acid.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** A sheet of LSD blotter paper contains dozens of individual doses, often printed with distinctive artwork that becomes a signature of the chemist or distributor. Blotter art is its own underground art form, combining psychedelic aesthetics with functional drug delivery.
 
 
 ---
@@ -7947,7 +7947,7 @@ SS4_freetekno_Sheet Of Acid.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "sheet of acid for spiral" — Jani, Sep 2023, #items-accessories
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143685538075902095/11573039870585
@@ -8049,7 +8049,7 @@ SS2_acidhouse_Subaeruginosa.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Psilocybe subaeruginosa is a potent psilocybin mushroom native to Australia and New Zealand. Its inclusion represents the Southern Hemisphere's unique contribution to psychedelic culture.
 
 
 ---
@@ -8116,7 +8116,7 @@ SS4_chicagodetroit_Drum.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Drums are the oldest musical instrument tied to communal trance states, used in every culture from West African ceremony to Native American ritual. The beat that drives a rave connects to the same primal impulse that has moved human bodies for millennia.
 
 
 ---
@@ -8183,7 +8183,7 @@ SS3_chicagodetroit_Blunt.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Blunts, cigars emptied and refilled with cannabis, emerged from Black American culture and became the dominant way of smoking weed in hip-hop. They represent the deep overlap between hip-hop and rave culture.
 
 
 ---
@@ -8250,7 +8250,7 @@ SS2_milady_Plum Onigiri.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Umeboshi (pickled plum) onigiri is a classic Japanese rice ball variety with sour, salty flavor. It deepens the collection's connection to Japanese food culture and the anime aesthetic embedded in the Milady lineage.
 
 
 ---
@@ -8416,7 +8416,7 @@ SS3_Cypherpunk.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:**
 
 **Sources:**
 
@@ -8451,7 +8451,7 @@ SS4_freetekno_Tihkal.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** TiHKAL (Tryptamines I Have Known And Loved) is the companion to PiHKAL, covering the tryptamine family including DMT, psilocybin, and their analogs. Together the two books form the most comprehensive personal exploration of psychoactive chemistry ever published.
 
 
 ---
@@ -8519,7 +8519,7 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Pituri is a nicotine-rich plant used by Aboriginal Australians for tens of thousands of years as a stimulant and trade good. It represents one of the oldest known psychoactive plant traditions on Earth.
 
 
 ---
@@ -8586,7 +8586,7 @@ SS2_milady_ancient_thai_kwao krua.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Kwao krua is a Thai medicinal plant traditionally used for vitality and rejuvenation. Its inclusion represents the Southeast Asian thread in the collection's global map of ethnobotany.
 
 
 ---
@@ -8653,7 +8653,7 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Lean, also known as purple drank or sizzurp, is a mix of codeine cough syrup, soda, and candy popularized in Houston's hip-hop scene in the 1990s. It represents the intersection of drug culture and music that mirrors the rave scene's own relationship with substances.
 
 
 ---
@@ -8720,7 +8720,7 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Pythia was the Oracle at Delphi, who delivered prophecies while inhaling vapors from a chasm in the earth. Some scholars believe these vapors were psychoactive, making the Oracle one of the earliest documented cases of divination through altered states.
 
 
 ---
@@ -8787,7 +8787,7 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The ayahuasca bowl is the ceremonial vessel in which the brew is traditionally served, marking the experience as something structured and guided rather than recreational. The container itself signals that context and intention are part of the medicine.
 
 
 ---
@@ -8921,7 +8921,7 @@ SS2_acidhouse_Fidget.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Fidget toys connect to the tactile, sensory-seeking behavior common at raves, where touching textures and manipulating objects with your hands enhances the experience of being in an altered state.
 
 
 ---
@@ -8988,7 +8988,7 @@ SS2_acidhouse_Liberty Caps.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Liberty caps (Psilocybe semilanceata) are the most common wild psilocybin mushroom in Europe and the UK, growing in sheep pastures and wet meadows. They are the mushroom most closely tied to British free party and festival culture.
 
 
 ---
@@ -9122,7 +9122,7 @@ SS2_milady_Onigiri.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Onigiri (rice balls) are a staple of Japanese everyday life and a recurring comfort food in anime culture. Their inclusion ties the collection to the Japanese cultural influences that run through the Milady lineage.
 
 
 ---
@@ -9189,7 +9189,7 @@ SS4_chicagodetroit_Teal Bong.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Custom-colored bongs reflect the glass art movement that turned drug paraphernalia into collectible art objects. The craft and creativity involved mirror the DIY ethos of rave culture itself.
 
 
 ---
@@ -9256,7 +9256,7 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Mucuna pruriens, the velvet bean, naturally contains L-DOPA, a direct precursor to dopamine. It has been used in Ayurvedic medicine for centuries to treat mood and neurological conditions, connecting ancient plant knowledge to modern neurochemistry.
 
 
 ---
@@ -9390,7 +9390,7 @@ SS2_chicagodetroit_Cassette.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Mixtapes on cassette were how rave culture spread before the internet, with DJs recording live sets and passing them hand to hand. A single tape could travel across a city and build an entire underground following.
 
 
 ---
@@ -9422,7 +9422,7 @@ SS2_chicagodetroit_Cassette.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** Jani referenced "based retard gang cassette" from the Remilia store as basis for this held-item trait. — Oct 2023, #items-accessories
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608814206512
@@ -9457,7 +9457,7 @@ SS4_freetekno_PS1 Controller.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The original PlayStation launched in 1994, the same era when rave culture was exploding worldwide. The PS1 controller represents the parallel rise of gaming and electronic music, two cultures that have only grown more intertwined.
 
 
 ---
@@ -9524,7 +9524,7 @@ SS2_acidhouse_Mexicana.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Psilocybe mexicana is the species used by the Mazatec people of Mexico and later studied by R. Gordon Wasson and Albert Hofmann. It is the species from which psilocybin was first isolated and named, making it foundational to psychedelic science.
 
 
 ---
@@ -9591,7 +9591,7 @@ SS3_Fanged Noumena.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Fanged Noumena collects the writings of Nick Land, the controversial CCRU philosopher whose work on acceleration and cybernetics influenced both Milady's intellectual framing and Mibera's counter-reading of the same ideas.
 
 
 ---
@@ -9623,7 +9623,7 @@ SS3_Fanged Noumena.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "We can pick alternate philosophers from ccru to put on a pedestal the way nick land is by milady" — Jani, Aug 2023, #general
 
 **Sources:**
 
@@ -9658,7 +9658,7 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Iboga is a powerful psychoactive plant from Central Africa, used in Bwiti religious ceremonies in Gabon for spiritual initiation. Its active compound ibogaine is remarkable for its ability to interrupt opioid addiction, making it one of the most medically significant psychedelics known.
 
 
 ---
@@ -9757,7 +9757,7 @@ SS2_chicagodetroit_Porridge.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "Love thatttt. We have a bowl of porridge for them too" — Gumi, May 2024, #active-miberas
 
 **Sources:**
 
@@ -9792,7 +9792,7 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Certain Acacia species contain DMT, and the tree appears throughout religious traditions from the burning bush of Exodus to the sacred groves of ancient Egypt. Some researchers speculate that acacia-derived DMT may have played a role in visionary religious experiences across the ancient world.
 
 
 ---
@@ -9859,7 +9859,7 @@ SS2_freetekno_Walkman.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Sony Walkman made music portable and personal for the first time, changing how people related to listening. For ravers, it meant the music did not have to stop when the party ended.
 
 
 ---
@@ -9927,7 +9927,7 @@ SS2_chicagodetroit_Colorful Bong.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The evolution of bongs from simple smoking tools into colorful, hand-blown glass art parallels the way rave culture transforms functional spaces into aesthetic experiences.
 
 
 ---
@@ -9994,7 +9994,7 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Aum Shinrikyo was a Japanese doomsday cult that carried out the 1995 Tokyo subway sarin gas attack. The group's apocalyptic blend of religion, science, and violence represents one of the darkest manifestations of cult-like thinking, serving as a cautionary counterpoint to the collection's more utopian countercultural references.
 
 
 ---
@@ -10195,7 +10195,7 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The playful, candy-colored aesthetics of modern glass art challenge the grimy stereotypes around drug culture. A cotton candy bong insists that getting high can be whimsical and joyful.
 
 
 ---
@@ -10262,7 +10262,7 @@ SS3_acidhouse_Fly Agaric.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The fly agaric (Amanita muscaria) is the iconic red-and-white mushroom of fairy tales and folklore. Unlike psilocybin mushrooms, it contains muscimol and produces a deliriant rather than psychedelic experience. Some scholars believe it may be the ancient soma described in Vedic texts.
 
 
 ---
@@ -10329,7 +10329,7 @@ SS2_milady_Golden Flower.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Secret of the Golden Flower is a Chinese Taoist alchemical text about meditation and spiritual transformation. It connects to the collection's recurring theme of ancient practices that sought transcendence and altered consciousness.
 
 
 ---
@@ -10396,7 +10396,7 @@ SS3_chicagodetroit_Syringe.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The syringe represents the harder edges of drug culture that rave scenes have always existed alongside. Its inclusion is an unflinching acknowledgment that the line between celebration and addiction is not always clear.
 
 
 ---
@@ -10428,7 +10428,7 @@ SS3_chicagodetroit_Syringe.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "Not an antimeme, but I'd pair it with Mibera wearing a surgical mask and holding a syringe" — Puerhood, Feb 2024, #active-miberas
 
 **Sources:**
 
@@ -10597,7 +10597,7 @@ SS5_milady_Remilia Gun.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Remilia gun is a provocative held item that combines the Remilia brand with firearm imagery. It reflects the deliberately transgressive, boundary-pushing attitude that defines the broader Milady ecosystem.
 
 
 ---
@@ -10629,7 +10629,7 @@ SS5_milady_Remilia Gun.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "remilia gun" — Jani, Oct 2023, #items-accessories
 
 **Sources:**
 - https://x.com/lilsketch/status/1712537626547466559?s=20
@@ -10696,7 +10696,7 @@ SS5_milady_Mad Hani Buttplug.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "hani vision binoculars — mad hani butt plug — diamond paws" — Jani, Oct 2023, #items-accessories
 
 **Sources:**
 
@@ -10731,7 +10731,7 @@ SS1_freetekno_Lighter.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The lighter is one of the most universal objects in counterculture, equally useful for cigarettes, joints, candles, and those spontaneous crowd moments at concerts. It crosses every subculture in the collection.
 
 
 ---
@@ -10763,7 +10763,7 @@ SS1_freetekno_Lighter.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "special brew, rolling tobacco tin, lighter" — Jani, Nov 2023, #items-accessories
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143685538075902095/11696244849621
@@ -10964,7 +10964,7 @@ SS2_freetekno_Special Brew.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "special brew, rolling tobacco tin, lighter" — Jani, Nov 2023, #items-accessories
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143685538075902095/11696244849621
@@ -10999,7 +10999,7 @@ SS5_Controlled Substances.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Drug scheduling and controlled substance laws represent the legal framework that criminalizes many of the plants and compounds in this collection. Holding a book of drug laws as a physical item turns regulation itself into an artifact worth examining alongside the substances it tries to control.
 
 
 ---
@@ -11133,7 +11133,7 @@ SS5_chicagodetroit_Chrome Nails.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Long, decorated nails have deep roots in Black femme culture and have become a broader fashion statement across nightlife scenes. Chrome nails bring that aesthetic energy into the collection's visual language.
 
 
 ---
@@ -11200,7 +11200,7 @@ SS5_chicagodetroit_Chrome Nails.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The cassette recorder was the tool that democratized music distribution, letting anyone capture and share a live set or pirate radio broadcast. In rave culture, it was the original peer-to-peer technology.
 
 
 ---
@@ -11334,7 +11334,7 @@ SS5_freetekno_AK47.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The AK-47 is the most widely produced firearm in history, appearing on national flags, album covers, and revolutionary iconography worldwide. As a symbol, it has transcended its function to become shorthand for armed resistance in almost every political context.
 
 
 ---
@@ -11401,7 +11401,7 @@ SS1_Monster Ultra.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Monster Ultra (the white can) became a meme associated with specific internet subcultures. Its zero-calorie energy buzz parallels the stimulant-fueled endurance of all-night raving.
 
 
 ---
@@ -11468,7 +11468,7 @@ SS1_acidhouse_Blue Glowstick.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** In the dark spaces where raves happened, glowsticks turned every dancer into a moving light source. They bridged practical function (finding your way) with aesthetic expression (becoming part of the visual spectacle).
 
 
 ---
@@ -11535,7 +11535,7 @@ SS5_freetekno_Baggie Of Pills.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Ecstasy pills are the most iconic drug artifact of rave culture, with their pressed logos and colors becoming collectible objects in their own right. A baggie of pills represents the communal, shared nature of MDMA use at raves.
 
 
 ---
@@ -11669,7 +11669,7 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Ololiuqui is the Aztec name for morning glory seeds, which contain LSA, a compound chemically related to LSD. They were used in Mesoamerican divination ceremonies, making them one of the oldest known sources of ergine-type psychedelics.
 
 
 ---
@@ -11803,7 +11803,7 @@ SS1_milady_sex health and long life.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** This translation of classical Chinese Taoist texts by Thomas Cleary covers longevity, sexuality, and holistic wellness. It connects to the collection's thread of ancient wisdom traditions that sought altered states and transcendence through the body.
 
 
 ---
@@ -11870,7 +11870,7 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Mead, fermented honey wine, is one of the oldest alcoholic drinks in human history, dating back at least 9,000 years. It ties the collection's honey and bear themes to the deep past of communal intoxication.
 
 
 ---
@@ -11938,7 +11938,7 @@ SS5_chicagodetroit_303 Drum Machine.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Roland TB-303 was designed as a bass accompaniment tool for solo guitarists and was a commercial failure. DJs in Chicago repurposed its squelchy, resonant sound into the defining voice of acid house, making it one of the most important accidents in music history.
 
 
 ---
@@ -11970,7 +11970,7 @@ SS5_chicagodetroit_303 Drum Machine.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "fink this is gr8 but we could TBH replace the ROLAND logo with this on stuff, rather then have it represent detroit or chicago as 303 is this timeless fing which shows up in many of the eras" — Jani, Oct 2023, #logo-designs
 
 **Sources:**
 
@@ -12005,7 +12005,7 @@ SS5_chicagodetroit_Keyboard Guitar.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The keytar blurs the line between guitar showmanship and synthesizer technology, embodying the playful, genre-crossing spirit of electronic music performance.
 
 
 ---
@@ -12072,7 +12072,7 @@ SS1_acidhouse_Purple Glowstick.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Glowstick colors became part of rave identity, with different hues signaling mood, style, or simply personal preference. As accessories, they embody the principle that everyone on the dance floor contributes to the collective experience.
 
 
 ---
@@ -12139,7 +12139,7 @@ SS5_freetekno_Pepperoni Pizza.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Pizza is the universal fuel of late-night culture, ordered in bulk at after-parties and shared among strangers. It represents the communal, low-key moments between the peaks.
 
 
 ---
@@ -12273,7 +12273,7 @@ SS1_milady_Lawsuit.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Remilia lawsuit documents the legal fallout surrounding Milady and Charlotte Fang, turning corporate legal proceedings into a cultural artifact. Holding the PDF as a physical item insists that this messy drama is as much a part of the story as the art itself.
 
 
 ---
@@ -12303,9 +12303,9 @@ SS1_milady_Lawsuit.png
 
 **Date Added:** December 9, 2024
 
-**Introduced By:** 
+**Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "do we go so far as to put da complaint on a tshirt or holding da pdf as a trait?" — Jani, Sep 2023, #milday | "thinking we should drop the lawsuit shirt, i feel like it doesn't look good w/ a lot of the items. plus we have the lawsuit item anyways" — Gumi, Feb 2024, #trait-updates | "The lawsuit being the main thing in focus tells that story. They can say what they want, but neither party will forget what happened" — Tez, Feb 2024, #active-miberas
 
 **Sources:**
 
@@ -12407,7 +12407,7 @@ SS3_milady_banana.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** The banana is an absurdist object that breaks the pattern of loaded cultural references. Not everything at the rave needs to carry deep meaning, and sometimes the funniest item is the most unexpected one.
 
 
 ---
@@ -12474,7 +12474,7 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Psychotria viridis, known as chacruna, is the DMT-containing plant in traditional Amazonian ayahuasca brews. Indigenous peoples discovered its precise pharmacological pairing with the ayahuasca vine centuries before modern science could explain why it works.
 
 
 ---
@@ -12608,7 +12608,7 @@ SS1_freetekno_Phone.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The smartphone changed how rave culture operates, replacing flyers and phone trees with social media and encrypted group chats. It is both the tool that makes modern underground events possible and the surveillance device that threatens the anonymity raves once relied on.
 
 
 ---
@@ -12675,7 +12675,7 @@ SS1_freetekno_Pitchfork.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The pitchfork is a symbol of populist uprising and rural rebellion, from medieval peasant revolts to American frontier justice. It represents the power of the crowd to challenge established order.
 
 
 ---
@@ -12742,7 +12742,7 @@ SS1_chicagodetroit_joint.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The joint is the simplest and most universal way to consume cannabis, requiring nothing but rolling paper and herb. Its democratic simplicity mirrors the rave ethos that the experience should be accessible to everyone.
 
 
 ---
@@ -12809,7 +12809,7 @@ SS5_Cody Wilson AR-15.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Cody Wilson demonstrated that firearms could be manufactured with consumer 3D printers, forcing a global confrontation between digital freedom and weapons regulation. His work applies cypherpunk principles to physical objects in the most provocative way possible.
 
 
 ---
@@ -12876,7 +12876,7 @@ SS1_chicagodetroit_Crack Pipe.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Crack cocaine devastated communities in the 1980s and 1990s, particularly in Black urban neighborhoods. The crack pipe's presence in the collection forces a confrontation with drug culture's most painful chapter.
 
 
 ---
@@ -12943,7 +12943,7 @@ SS5_The Liberator.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Liberator was the first fully 3D-printed firearm, released as open-source files by Defense Distributed in 2013. It proved that digital fabrication can route around physical regulation, a cypherpunk idea with deeply uncomfortable implications.
 
 
 ---
@@ -13042,7 +13042,7 @@ SS5_Henlo Cash.PNG
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "down to make any other changes if Jani thinks any needs to be made. for example changing the henlo cash wad to look more like real USD" — Gumi, Apr 2025, #dev-mibera-assembly
 
 **Sources:**
 
@@ -13109,7 +13109,7 @@ SS5_milady_Diamond Paws.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "hani vision binoculars — mad hani butt plug — diamond paws" — Jani, Oct 2023, #items-accessories
 
 **Sources:**
 
@@ -13144,7 +13144,7 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Mimosa tenuiflora, known as jurema, contains DMT and has been used in ceremonial contexts by Indigenous Brazilian peoples for centuries. Its bark is central to the jurema traditions of northeastern Brazil and has become a key plant in the modern psychedelic revival.
 
 
 ---
@@ -13243,7 +13243,7 @@ SS1_milady_Honey Jar.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "We should do some honey jars too" — Tez, Sep 2023, #items-accessories | "Tez work with artist to make nft series called honey jars" — Jani, Oct 2023, #active-miberas
 
 **Sources:**
 
@@ -13479,7 +13479,7 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Arundo donax, or giant reed, contains trace amounts of DMT and related tryptamines. Some researchers have speculated it may have been used in ancient Mediterranean psychedelic preparations, though this remains debated.
 
 
 ---
@@ -13747,7 +13747,7 @@ SS3_freetekno_Shin Ramyun.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Shin Ramyun is a spicy Korean instant noodle that became a global comfort food icon. It connects to the late-night eating culture that goes hand in hand with raving and the broader East Asian cultural influences in the collection.
 
 
 ---
@@ -13846,7 +13846,7 @@ SS3_freetekno_Shin Ramyun.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "this is the missing item — SS3_kodiak disposable camera" — Gumi, Apr 2025, #dev-mibera-assembly
 
 **Sources:**
 
@@ -13881,7 +13881,7 @@ SS1_chicagodetroit_Cigar.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The cigar carries associations of celebration, power, and old-world indulgence that contrast with the DIY ethos of rave culture. It represents the establishment's recreational drug of choice sitting next to the counterculture's.
 
 
 ---
@@ -14351,7 +14351,7 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** St. John's wort is one of the most widely used herbal remedies for depression, with a history stretching back to ancient Greece. It sits in the collection as a reminder that not all plant medicine is about getting high.
 
 
 ---
@@ -14686,7 +14686,7 @@ SS5_chicagodetroit_cocaine baggie.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Cocaine has been present in nightlife culture from Studio 54 to the modern club scene, existing alongside but distinct from the psychedelics more closely associated with raving. Its inclusion reflects the reality that rave spaces contain the full spectrum of drug use.
 
 
 ---
@@ -15088,7 +15088,7 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 
 
 
-**Why This Matters:**
+**Why This Matters:** Swisher Sweets are cheap flavored cigars widely used as blunt wraps in American cannabis culture. They became so associated with weed that buying them at a gas station turned into a cultural signal of its own.
 
 
 ---
@@ -16158,7 +16158,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Blue Meanie can refer to either a potent Psilocybe cubensis strain or Panaeolus cyanescens, a distinct species. The name nods to the Beatles' Yellow Submarine, connecting psychedelic mushroom culture to the psychedelic music era.
 
 
 ---
@@ -16184,11 +16184,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16220,7 +16220,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Mad Scientist is a potent strain of Psilocybe cubensis known for producing intense, sometimes unpredictable experiences. The name captures the experimental spirit that connects underground mycology to underground music.
 
 
 ---
@@ -16246,11 +16246,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16308,11 +16308,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16344,7 +16344,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Sakae naa is a Southeast Asian plant related to kratom, used traditionally in Thailand as a mild stimulant and mood enhancer. It represents the lesser-known corners of ethnobotany that the collection brings to light.
 
 
 ---
@@ -16370,11 +16370,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16406,7 +16406,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** The Grateful Dead have been intertwined with psychedelic culture since the 1960s acid tests. Pairing their iconography with tarot imagery bridges two traditions of seeking hidden meaning: one through music and chemistry, the other through symbolism and intuition.
 
 
 ---
@@ -16432,11 +16432,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16468,7 +16468,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Cannabis buds are one of the most universally recognized symbols of counterculture, present at every rave, festival, and underground gathering. Weed's mellow effects offer a counterpoint to the high-energy stimulants more commonly associated with the dance floor.
 
 
 ---
@@ -16494,11 +16494,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16530,7 +16530,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Adam Back invented Hashcash in 1997, a proof-of-work system that became the direct foundation for Bitcoin's mining mechanism. He was one of the first people Satoshi Nakamoto contacted when developing Bitcoin.
 
 
 ---
@@ -16556,11 +16556,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16592,7 +16592,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** David Chaum pioneered digital cash and anonymous communication networks in the 1980s, decades before Bitcoin existed. His company DigiCash created the first electronic money system, making him the grandfather of cryptocurrency.
 
 
 ---
@@ -16618,11 +16618,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16654,7 +16654,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Hal Finney was the first person besides Satoshi to run Bitcoin software and received the first-ever Bitcoin transaction. A brilliant cryptographer and PGP contributor, he continued working on Bitcoin even after being diagnosed with ALS.
 
 
 ---
@@ -16680,11 +16680,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16716,7 +16716,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Julian Assange founded WikiLeaks in 2006, creating a platform for anonymous whistleblowing that put cypherpunk ideals of radical transparency into practice on a global stage. His prosecution became a flashpoint for debates about press freedom, surveillance, and encrypted communication.
 
 
 ---
@@ -16742,11 +16742,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16778,7 +16778,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** John Gilmore co-founded the Electronic Frontier Foundation and the Cypherpunks mailing list. He famously said "the Net interprets censorship as damage and routes around it," helping establish the principle that digital privacy is a fundamental right.
 
 
 ---
@@ -16804,11 +16804,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16840,7 +16840,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Nick Szabo conceptualized "bit gold" in 1998, a decentralized digital currency that anticipated Bitcoin by a decade. He also invented the concept of smart contracts, which became the basis for Ethereum and the entire DeFi ecosystem.
 
 
 ---
@@ -16866,11 +16866,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16902,7 +16902,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Phil Zimmermann created PGP (Pretty Good Privacy) encryption in 1991 and faced a federal criminal investigation for making strong cryptography available to the public. His fight established the principle that ordinary people have a right to strong encryption.
 
 
 ---
@@ -16928,11 +16928,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -16964,7 +16964,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Satoshi Nakamoto is the pseudonymous creator of Bitcoin, whose 2008 whitepaper and 2009 software launch started the entire cryptocurrency movement. Their identity remains unknown, making them perhaps the ultimate cypherpunk: someone who changed the world and then vanished.
 
 
 ---
@@ -16990,11 +16990,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -17026,7 +17026,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Timothy C. May wrote "The Crypto Anarchist Manifesto" in 1988, predicting that cryptography would undermine the state's ability to control information and money. His vision of crypto-anarchy directly anticipated the world that Bitcoin, dark markets, and encrypted messaging have created.
 
 
 ---
@@ -17052,11 +17052,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -17088,7 +17088,7 @@ SS1_milady_Sudo Chan.png
 
 
 
-**Why This Matters:**
+**Why This Matters:** Wei Dai published the "b-money" proposal in 1998, describing a system for anonymous, distributed electronic cash. Satoshi Nakamoto cited b-money in the Bitcoin whitepaper, and the smallest unit of Ether is named "wei" in his honor.
 
 
 ---
@@ -17114,11 +17114,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -17176,11 +17176,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -17238,11 +17238,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -17300,11 +17300,11 @@ SS1_milady_Sudo Chan.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 

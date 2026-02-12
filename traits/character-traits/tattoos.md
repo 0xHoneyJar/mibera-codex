@@ -934,7 +934,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "Filo" — Tez, Jul 2024, #tattoos
 
 **Sources:**
 
@@ -1064,7 +1064,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Introduced By:** Jani / Tez
 
-**Team Notes:** 
+**Team Notes:** "straight edge" — Tez, Jul 2024, #tattoos
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1152388368865431582/11745383081315
@@ -1196,7 +1196,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Introduced By:** Tez
 
-**Team Notes:** 
+**Team Notes:** "sugar skulls, 2010s cliche" — Tez, Jul 2024, #tattoos
 
 **Sources:**
 - https://www.byrdie.com/sugar-skulls-history-significance-and-modern-day-tattoos-3189625
@@ -2042,7 +2042,7 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 **Introduced By:** Tez
 
-**Team Notes:** 
+**Team Notes:** "barbed wire, 90s cliche" — Tez, Jul 2024, #tattoos
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1260863409134637136/12608667500363
@@ -2881,11 +2881,11 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -2943,11 +2943,11 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -3005,11 +3005,11 @@ Each tattoo carries cultural weight and contributes to the Ancestor dimension of
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 

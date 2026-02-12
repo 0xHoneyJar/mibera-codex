@@ -2094,7 +2094,7 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "like the side ways ski goggles" — Tez, Aug 2023, #eyewear
 
 **Sources:**
 
@@ -2555,11 +2555,11 @@ Glasses range from functional eyewear to symbolic accessories, each carrying cul
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 

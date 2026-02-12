@@ -168,7 +168,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Gumi
 
-**Team Notes:** 
+**Team Notes:** "realized there was a lack of grateful dead in the collection and had to fix that" — Gumi, May 2024, #trait-updates
 
 **Sources:**
 - https://en.wikipedia.org/wiki/Grateful_Dead
@@ -375,7 +375,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "i'm so glad! is a must have. kinda want to work in another erowid trait or two" — Gumi, May 2024, #active-miberas
 
 **Sources:**
 - https://erowid.org/general/about/about_faq.shtml
@@ -583,7 +583,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Sunbera
 
-**Team Notes:** 
+**Team Notes:** "People used to wear special K shirts to raves!" — 0xuptake, Oct 2023, #mibera-lore | "Good point. Special K is a slang term for Ketamine" — Tez, Oct 2023, #mibera-lore
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1140785542720663674/11690537846605
@@ -1836,7 +1836,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "doesn't matter if we jump eras... but we could go for a bulls top from that era. gud idea." — Jani, Oct 2023, #trait-updates | "it's an interesting coincidence that Chicago's sport mascots are a bull and a bear. I also like the idea of referencing the pistons. Detroit seemed to pride its self on its automotive industry, and it was in the wake of that The house scene came to be. Parallels the empties factories in Manchester. Kaliyuga vibes" — Tez, Oct 2023, #trait-updates
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049
@@ -1975,7 +1975,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Gumi / Tez
 
-**Team Notes:** 
+**Team Notes:** Gumi uploaded tie dye assets as part of the freetekno archetype clothing batch. — Jun 2024, #final-art-assets
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1181954054339952660/12041843212385
@@ -2805,7 +2805,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "realized there was a lack of grateful dead in the collection and had to fix that" — Gumi, May 2024, #trait-updates
 
 **Sources:**
 - https://en.wikipedia.org/wiki/Grateful_Dead
@@ -3013,7 +3013,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "imagine a mibera with a jewish hat, a free palestine shirt and a nazi necklace. that wood break brains" — Jani, Oct 2023, #tops
 
 **Sources:**
 
@@ -3082,7 +3082,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** Gumi uploaded Nirvana shirt as part of the freetekno archetype clothing batch. — Jun 2024, #final-art-assets
 
 **Sources:**
 - https://en.wikipedia.org/wiki/Nirvana_(band)
@@ -3843,7 +3843,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "motor detroit tshirt — detroit in some ways harder to capture than chicago" — Jani, Oct 2023, #detroit-chicago
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608889862570
@@ -4327,7 +4327,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "just showed a friend this trait and we both swooned. I got him a shirt as a gift. No way I don't own one of these at any cost pretty much" — babybera, Jan 2024, #trait-updates
 
 **Sources:**
 
@@ -4396,7 +4396,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "I'd suggest adding some texture to the beraland print here. Now feels more like a layer put on top rather than a print" — Puerhood, Jul 2024, #active-miberas
 
 **Sources:**
 
@@ -6264,7 +6264,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "we got a buncha autistic tees but not that one specifically, think there's still room to add" — Gumi, Jun 2024, #trait-updates (in response to a DARE shirt suggestion)
 
 **Sources:**
 - https://en.m.wikipedia.org/wiki/Drug_Abuse_Resistance_Education#/media/File%3ALogo_of_Dr
@@ -6610,7 +6610,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "music box white vest — white head band — earphones old school around neck black — cassette — cigar" — Jani, Oct 2023, #detroit-chicago
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608814206512
@@ -6749,7 +6749,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "idea... 'i was reborn at the milady rave as mibera' could be a tshirt" — Jani, Oct 2023, #mibera-lore
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1153410250175676488/11699665482245
@@ -7785,7 +7785,7 @@ Many shirts reference real movements, events, or figures:
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "just to confirm for the crypto anarchist shirt do you want a representation of the whole text blurb on the shirt or something?" — Gumi, Dec 2023, #laidback-progress
 
 **Sources:**
 
@@ -8190,11 +8190,11 @@ Many shirts reference real movements, events, or figures:
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -8252,11 +8252,11 @@ Many shirts reference real movements, events, or figures:
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -8314,11 +8314,11 @@ Many shirts reference real movements, events, or figures:
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -8376,11 +8376,11 @@ Many shirts reference real movements, events, or figures:
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:** "just showed a friend this trait and we both swooned. I got him a shirt as a gift. No way I don't own one of these at any cost pretty much" — babybera, Jan 2024, #trait-updates
 
 **Sources:**
 

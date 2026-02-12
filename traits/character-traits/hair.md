@@ -3955,7 +3955,7 @@ Lain__w2.png
 
 **Introduced By:** Tez
 
-**Team Notes:** 
+**Team Notes:** "lain hair cut" — Tez, Sep 2023, #hairstyle
 
 ---
 
@@ -4261,7 +4261,7 @@ afro.png
 
 **Introduced By:** Gumi
 
-**Team Notes:** 
+**Team Notes:** Gumi documented afro as "BLACK ONLY HAIR + NO HATS" — distinct from most hairstyles which support hat layering. Afro with Pick also in this category. — Jun 2024, #trait-updates
 
 ---
 
@@ -4315,11 +4315,11 @@ afro.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -4377,11 +4377,11 @@ afro.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -4439,11 +4439,11 @@ afro.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -4501,11 +4501,11 @@ afro.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -4563,11 +4563,11 @@ afro.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 

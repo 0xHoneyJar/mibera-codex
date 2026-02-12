@@ -1,30 +1,43 @@
 # Masks
 
-*Face coverings from ritual to rave.*
+*Face coverings from ritual to rave — anonymity as identity.*
 
 ---
 
 ## Overview
 
-Masks range from functional rave gear to cultural/ritual face coverings. Many masks replace the hair layer entirely (marked `[no hair]`).
+Masks are among the most visually transformative traits in the collection. They range from functional rave gear to cultural face coverings to political statements, and many replace the hair layer entirely (marked `[no hair]`), fundamentally altering the character's silhouette.
+
+### Design Philosophy
+
+Masks occupy a unique position in the layer system. During development, Gumi identified a critical architectural challenge: masks needed to render **over** mouths but **under** certain hair layers, creating conflicts with the glasses layer they originally shared. The solution was to separate face masks, eye masks, and glasses into different categories — a late-stage technical decision that improved visual fidelity across the collection.
+
+Several masks carry the `[no hair]` tag, meaning they completely replace the hair layer. This was a deliberate artistic choice: masks like Bear Mask, Kim Jong Mask, and Hamas obscure so much of the face that hair becomes visually irrelevant. These maskless-hair combinations create the most dramatically different Miberas in the collection.
 
 ### Masks by Archetype
 
-| Archetype | Examples |
-|-----------|----------|
-| **Freetekno** | Bear Mask, MF Doom, Silver Mask, Black Mask |
-| **Milady** | Homemade Bee Mask |
-| **Acidhouse** | Kim Jong Mask, Surgical Mask |
-| **Chicago Detroit** | [Hiberanation Eye Mask](#hiberanation-eye-mask), Green Mask, White Mask, White Anonymous, Golden Anonymous, Plastic Bag Mask |
+| Archetype | Masks | Count |
+|-----------|-------|-------|
+| **Freetekno** | Bear Mask, MF Doom, Silver Mask, Black Mask, Plastic Bag Red | 5 |
+| **Milady** | Homemade Bee Mask, CFang Face, Nose Ring with Chain | 3 |
+| **Acidhouse** | Kim Jong Mask, Surgical Mask, Faceless Galaxy | 3 |
+| **Chicago Detroit** | Hiberanation Eye Mask, Green Mask, White Mask, White Anonymous, Golden Anonymous, Plastic Bag Mask | 6 |
+| **Cross-Archetype** | Cypherpunk 1/2/3, Venetian Black/Gold, Velvet, Bera Ski, Pink Bera Ski, Teddy Ski Mask, Founders Mask, Henlo Mask, Chulym Beekeeper Hat | 9+ |
 
 ### Mask Types
 
-| Type | Examples |
-|------|----------|
-| **Sleep/Eye Masks** | [Hiberanation Eye Mask](#hiberanation-eye-mask) |
-| **Full Face** | Bear Mask, MF Doom, Anonymous masks |
-| **Cultural/Ritual** | Various ancestor-linked masks |
-| **Rave Functional** | Surgical Mask |
+| Type | Examples | Cultural Thread |
+|------|----------|----------------|
+| **Anonymous/Political** | White Anonymous, Golden Anonymous, Cypherpunk series | Resistance, privacy, protest |
+| **Full Face Ritual** | Bear Mask, Venetian Black/Gold, Founders Mask | Ceremony, transformation, power |
+| **Ski Masks/Balaclavas** | Bera Ski, Pink Bera Ski, Teddy Ski Mask, Henlo Mask | Underground, illegality, rave anonymity |
+| **Cultural/Musical** | MF Doom, Kim Jong Mask, Plastic Bag (Rubberbandits) | Artist personas, performance |
+| **Functional** | Surgical Mask, Homemade Bee Mask, Chulym Beekeeper | Utility turned aesthetic |
+| **Ethereal** | Faceless Galaxy, CFang Face, Velvet | Void, absence, cosmic |
+
+### Rarity Distribution
+
+Masks span the full SS1-SS5 rarity range, with the rarest (SS5) being the most conceptually loaded: Faceless Galaxy, Venetian Gold, Founders Mask, Henlo Mask. The most common (SS1) are functional items: Surgical Mask, Cypherpunk 2, CFang Face, Silver Mask.
 
 ---
 
@@ -86,7 +99,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "Rethink location of all: face masks, eye masks. Cannot be same layer as glasses anymore. Different categories for eye and face masks maybe? Face masks need to be over mouths. Eye masks need to be below hair. Might be worth just getting rid of eye masks tho since there are very few." — Gumi, Jun 2024, #trait-updates
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1161382544617508874/11634753275997
@@ -2028,11 +2041,11 @@ SS5_Founders Mask.PNG
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -2090,11 +2103,11 @@ SS5_Founders Mask.PNG
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -2152,11 +2165,11 @@ SS5_Founders Mask.PNG
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -2214,11 +2227,11 @@ SS5_Founders Mask.PNG
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
