@@ -12,9 +12,9 @@ The collection features 12 distinct skin tones, each painted with Gumi's charact
 
 ### Design Philosophy
 
-The skin tone palette was designed to represent the full spectrum of human appearance while maintaining the collection's painterly aesthetic. Each tone was named for natural materials — earth pigments, woods, metals, and organic substances — rather than clinical or reductive labels. This connects to Mibera's broader ethnobotanical and ancestral themes: the body is earth, and earth is the body.
+The skin tone palette was designed to represent the full spectrum of human appearance while maintaining the collection's painterly aesthetic. Each tone was named for natural materials — earth pigments, woods, metals, and organic substances — rather than clinical or reductive labels.
 
-Skin tones are archetype-neutral and do not affect Swag Score calculation. A Mibera's body is its canvas, not its tribal marker.
+Skin tones are archetype-neutral and do not affect Swag Score calculation.
 
 ### Available Skin Tones
 
@@ -121,7 +121,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ### Connections
 
-**Ancestor:** Named for the organic material — a substance that sits at the intersection of beauty and ethical tension, much like many of Mibera's referenced cultural practices.
+**Ancestor:** Named for the organic material.
 
 ---
 
@@ -249,7 +249,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ### Connections
 
-**Ancestor:** From the French word for the natural color of undyed wool. Beige is the color of raw material — unprocessed, unaltered, the state before human intervention transforms a substance.
+**Ancestor:** From the French word for the natural color of undyed wool.
 
 ---
 
@@ -281,7 +281,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ### Connections
 
-**Ancestor:** The lightest tone in the collection. Porcelain-like quality connects to both East Asian ceramics traditions (Japanese ancestor lineage) and the pallor of post-rave exhaustion — the skin of someone who lives in warehouses and clubs rather than sunlight.
+**Ancestor:** The lightest tone in the collection. Porcelain-like quality. Post-rave pallor — the skin of someone who lives in warehouses and clubs rather than sunlight.
 
 ---
 
@@ -313,7 +313,7 @@ Body is the base layer (z40), rendered before all other character elements. It d
 
 ### Connections
 
-**Ancestor:** The flushed quality evokes heightened states — exertion, embarrassment, or the vasodilation caused by MDMA and other empathogens. The body as thermometer of inner experience.
+**Ancestor:** The flushed quality evokes heightened states — exertion, embarrassment, or vasodilation from MDMA.
 
 ---
 
@@ -345,7 +345,7 @@ honey__w2.PNG honey__w2.PNG
 
 ### Connections
 
-**Ancestor:** Named for the substance at the heart of the Berachain ecosystem — HONEY. The Honey Jar is the spiritual center of the Mibera project. This tone carries the golden warmth of the sacred substance that connects bears to their chain.
+**Ancestor:** Named for the substance at the heart of the Berachain ecosystem — HONEY.
 
 ---
 
@@ -377,7 +377,7 @@ honey__w2.PNG honey__w2.PNG
 
 ### Connections
 
-**Ancestor:** Named for the dense tropical hardwood prized across African, South Asian, and Southeast Asian cultures. Ebony's association with musical instruments (piano keys, African sculpture) ties it to the Chicago Detroit lineage — the Black musical tradition that made house and techno possible.
+**Ancestor:** Named for the dense tropical hardwood prized across African, South Asian, and Southeast Asian cultures. Associated with musical instruments (piano keys, African sculpture) — ties to the Chicago Detroit lineage.
 
 ---
 
@@ -409,7 +409,7 @@ honey__w2.PNG honey__w2.PNG
 
 ### Connections
 
-**Ancestor:** From the tanning of leather — one of humanity's oldest technologies, practiced across every ancestral lineage in the collection. Tan is the color of sun-worked skin and cured hide, the material of the nomad and the traveller.
+**Ancestor:** From the tanning of leather — one of humanity's oldest technologies, practiced across every ancestral lineage in the collection.
 
 ---
 

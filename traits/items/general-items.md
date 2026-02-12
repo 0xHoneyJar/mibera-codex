@@ -1202,7 +1202,7 @@ SS3_acidhouse_Watergun 2.png
 
 
 
-**Why This Matters:** Spraying strangers with water at a rave is both a practical kindness and a social ritual. The watergun embodies the communal care that the best rave culture is built on.
+**Why This Matters:** Spraying strangers with water at a rave is both a practical kindness and a social ritual.
 
 
 ---
@@ -12005,7 +12005,7 @@ SS5_chicagodetroit_Keyboard Guitar.png
 
 
 
-**Why This Matters:** The keytar blurs the line between guitar showmanship and synthesizer technology, embodying the playful, genre-crossing spirit of electronic music performance.
+**Why This Matters:** The keytar blurs the line between guitar showmanship and synthesizer technology — portable enough for stage antics, electronic enough for the scene.
 
 
 ---
@@ -12072,7 +12072,7 @@ SS1_acidhouse_Purple Glowstick.png
 
 
 
-**Why This Matters:** Glowstick colors became part of rave identity, with different hues signaling mood, style, or simply personal preference. As accessories, they embody the principle that everyone on the dance floor contributes to the collective experience.
+**Why This Matters:** Glowstick colors became part of rave identity, with different hues signaling mood, style, or simply personal preference.
 
 
 ---

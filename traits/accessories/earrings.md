@@ -2553,7 +2553,7 @@ SS4_acidhouse_Triskelion.png
 
 **Archetype:** Acidhouse
 
-**Archetype Alignment:** The triskelion’s dynamic, swirling design resonates with rave culture’s emphasis on movement, energy, and unity. It appears in rave art, jewelry, and tattoos, symbolizing the cyclical nature of music and dance, personal growth, and interconnectedness among ravers. While not a core symbol, its aesthetic aligns with the subculture’s vibrant, spiritual vibe.
+**Archetype Alignment:** The triskelion's triple-spiral design appears in rave jewelry and tattoos. Celtic origins, but the rotational symmetry fits the visual language of acid house flyers and psychedelic art.
 
 
 
@@ -2875,7 +2875,7 @@ SS4_freetekno_stars.png
 ### Cultural Context
 
 
-**Cultural Origin:** In rave culture, star-shaped accessories like necklaces, earrings, hair clips, and glowing pendants symbolize light, energy, and cosmic connection, reflecting the subculture’s vibrant, transcendent ethos. Stars evoke a sense of wonder, aligning with the PLUR (Peace, Love, Unity, Respect) philosophy and the euphoric, otherworldly vibe of raves.
+**Cultural Origin:** Star-shaped accessories — earrings, hair clips, glowing pendants — are common rave jewelry. The five-pointed star shows up across kandi, flyer art, and festival fashion.
 
 **Era:**
 
@@ -3882,7 +3882,7 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 ### Cultural Context
 
 
-**Cultural Origin:** Mongolian culture, rooted in nomadic traditions, shamanism, and vibrant art, has a subtle but growing influence on rave culture, particularly through festivals that blend traditional elements with modern electronic music. The nomadic lifestyle’s emphasis on freedom and connection to nature resonates with rave culture’s PLUR (Peace, Love, Unity, Respect) ethos. Traditional Mongolian throat singing (khoomii) and instruments like the morin khuur also occasionally appear in EDM tracks, adding spiritual and cultural depth to rave performances. Events like the Kharkhorum Visual Art & Music Festival and Nomadic Beats Festival in Mongolia fuse electronic dance music with cultural elements like horseback raves, where participants enter venues on horses, evoking Mongolia’s equestrian heritage.
+**Cultural Origin:** Mongolian nomadic culture — shamanism, throat singing (khoomii), equestrian traditions. Festivals like Kharkhorum Visual Art & Music Festival and Nomadic Beats blend electronic music with traditional elements, including horseback raves where participants enter venues on horses.
 
 **Era:**
 
@@ -4019,7 +4019,7 @@ SS1_peace heart.png
 ### Cultural Context
 
 
-**Cultural Origin:** The peace heart, , a symbol combining a heart with a peace sign, represents love, unity, and harmony in rave culture, directly embodying the PLUR ethos (Peace, Love, Unity, Respect). The peace heart’s prominence reflects rave culture’s roots in creating safe, inclusive spaces for self-expression through dance and music.
+**Cultural Origin:** Heart-and-peace-sign combo. Standard PLUR iconography — shows up on kandi, flyers, and rave jewelry since the early 90s.
 
 **Era:**
 

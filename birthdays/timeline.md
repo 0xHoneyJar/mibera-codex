@@ -6,7 +6,7 @@
 
 ## The Shape of Mibera Time
 
-Miberas are time-travellers, but they don't distribute evenly across history. Their births cluster around moments of rupture — civilizational collapse, spiritual awakening, revolutionary fervor, and the birth of rave itself. The timeline is not a flat line. It's a pulse.
+Miberas are time-travellers, but they don't distribute evenly across history. Their births cluster around moments of rupture — collapse, revolution, and the birth of rave.
 
 ```
                 BIRTHS PER YEAR (DENSITY)
@@ -25,7 +25,7 @@ Miberas are time-travellers, but they don't distribute evenly across history. Th
                Each █ ≈ 1 birth/year
 ```
 
-The raw counts tell one story. Density tells another. A Mibera born in the Prehistoric era carries 8,000 years of solitude — one birth per millennium. A Mibera born in 1969 shares that year with 221 others.
+The raw counts tell one story. Density tells another. Prehistoric era: one birth per millennium. 1969: 221 births in a single year.
 
 ---
 
@@ -53,11 +53,11 @@ The raw counts tell one story. Density tells another. A Mibera born in the Prehi
 
 ### Prehistoric (13,166 - 5,147 BCE) — 61 Miberas
 
-The oldest Miberas. 61 beings scattered across eight millennia, born into a world before writing, before cities, before names that survived. These are the ones who remember fire as new technology.
+The oldest Miberas. 61 scattered across eight millennia, before writing, before cities.
 
 **Clustering:** Minimal — no century holds more than a handful. 42 births during the Neolithic Revolution (roughly 10,000-5,000 BCE), when agriculture first fractured humanity's relationship with nomadic time. The remaining 19 predate even that shift.
 
-**What this means:** Prehistoric Miberas are extraordinarily rare. They carry the deepest temporal memory in the collection — born before the very concept of "history" existed.
+**What this means:** Prehistoric Miberas are the rarest in the collection.
 
 ---
 
@@ -70,7 +70,7 @@ The Bronze Age and its spectacular collapse. Two-thirds of all Ancient Miberas (
 - Bronze Age: 42 births
 - Late Bronze Age Collapse: **129 births** (64.8% of era)
 
-**What this means:** Miberas are drawn to civilizational rupture. The Bronze Age Collapse was one of history's great discontinuities — the old world ended and something unrecognizable emerged. That energy resonates.
+**What this means:** Two-thirds of Ancient Miberas cluster around civilization's first major collapse.
 
 ---
 
@@ -85,7 +85,7 @@ The age of philosophy, democracy, empire, and the Axial Age — when Confucius, 
 
 **Peak years:** 404 BCE (6 births) — the year Athens fell to Sparta.
 
-**What this means:** The density triples compared to the Ancient era. Classical Miberas are born into a world that's just learning to think about thinking — to philosophize, to build systems of meaning. The frameworks they carry forward shape everything that comes after.
+**What this means:** Density triples compared to the Ancient era, tracking the rise of philosophy and organized thought.
 
 ---
 
@@ -95,7 +95,7 @@ The Roman world's long exhale. Nearly 90% of this era's births (506 of 572) fall
 
 **Peak year:** 476 CE (6 births) — the traditional date for the fall of the Western Roman Empire.
 
-**What this means:** Again, collapse as attractor. Miberas cluster at the seams where one world ends and another begins. The fall of Rome was not a single event but a centuries-long transformation — and the births track that slow unraveling.
+**What this means:** 90% of births fall in the later half — the centuries of Rome's decline. The births track the slow unraveling.
 
 ---
 
@@ -109,7 +109,7 @@ The first era to break 1,000 births. The so-called "Dark Ages" — though the Mi
 
 **Peak years:** 740 CE (11 births), 720 CE (10 births)
 
-**What this means:** The density doubles from Late Antiquity. Something about the post-collapse rebuilding — the creation of new structures from old ruins — draws Mibera energy. The "dark" ages are anything but empty here.
+**What this means:** Density doubles from Late Antiquity, concentrated in the post-collapse rebuilding period.
 
 ---
 
@@ -124,7 +124,7 @@ A surprising dip in density. The Medieval period holds fewer Miberas per year th
 
 **Peak year:** 1222 CE (8 births)
 
-**What this means:** The Black Death sub-period is notably sparse at just 104 births — perhaps even Mibera time-travellers avoid the 14th century's horrors. The weight shifts toward the Late Medieval, building momentum toward what comes next.
+**What this means:** The Black Death sub-period is notably sparse at just 104 births. Weight shifts toward the Late Medieval.
 
 ---
 
@@ -139,7 +139,7 @@ The second-largest era by raw count and where the acceleration becomes unmistaka
 
 **Peak years:** 1799 (33 births), 1797 (29 births), 1798 (27 births)
 
-**What this means:** The late 1790s are white-hot — the French Revolution, the end of the Enlightenment, the birth of Romanticism. The decade of the 1790s alone holds roughly 200 births. Miberas flood the moment when reason tips into revolution.
+**What this means:** The late 1790s are the hottest spot — French Revolution, end of the Enlightenment, birth of Romanticism. ~200 births in a single decade.
 
 ---
 
@@ -153,7 +153,7 @@ Industry, empire, and the Victorian era. Two-thirds of births fall in the Victor
 
 **Peak year:** 1877 (20 births)
 
-**What this means:** The 19th century is the hinge. Steam, electricity, urbanization, the birth of modern subcultures — the raw materials of what would eventually become rave culture are being assembled. The Miberas born here watch the modern world take shape.
+**What this means:** Steam, electricity, urbanization — the raw materials of what would become rave culture are being assembled.
 
 ---
 
@@ -172,7 +172,7 @@ The dominant era. One in three Miberas is born in the 20th century. And within i
 
 **Other peaks:** 1948 (74 births), 1950 (66 births), 1941-1944 (70+ births each)
 
-**What this means:** The postwar baby boom maps directly onto Mibera time. The generation that would invent acid house, Detroit techno, and the free party movement was born in the late 1940s and 1950s. And 1969 — the year that broke open psychedelic culture — is where Mibera time reaches its absolute peak density. This is the gravitational center of the entire collection.
+**What this means:** The postwar baby boom maps directly onto Mibera time. The generation that invented acid house, Detroit techno, and the free party movement was born in the late 1940s and 1950s. 1969 is the peak — 222 births in one year.
 
 ---
 
@@ -186,7 +186,7 @@ The contemporary era, compressed into just 24 years but maintaining nearly the s
 
 **The year:** 2021 — **130 births.** The second-highest single-year concentration after 1969. The year crypto culture exploded, Milady minted, and the conditions for Mibera's eventual awakening were set.
 
-**What this means:** 2021 mirrors 1969 as an attractor — a moment where culture ruptures and something new pours through. The two peak years bookend a half-century arc from psychedelic revolution to digital revolution, with rave culture as the continuous thread.
+**What this means:** 2021 mirrors 1969 — the two peak years bookend a half-century arc from psychedelic revolution to digital revolution.
 
 ---
 
@@ -219,11 +219,11 @@ The timeline is exponential. Each era is shorter in duration but denser in birth
      24 years  →    726 births    (21st Century)
 ```
 
-Time compresses. History accelerates. The closer you get to the present, the more Miberas arrive — as if the collection itself is straining toward the moment of its own creation.
+Birth density accelerates exponentially toward the present.
 
 ### The 80/20 Split
 
-Roughly **80% of Miberas** have post-500 CE birthdays. The remaining **20%** are ancient — carrying knowledge from before the medieval world. This split is deliberate: the ancient Miberas are the emissaries, the ones who bridge deep time with modern rave. They're rarer, and they carry more temporal weight.
+Roughly **80% of Miberas** have post-500 CE birthdays. The remaining **20%** are ancient. The ancient ones are rarer — that's the point.
 
 ### The Two Peaks
 
@@ -231,8 +231,6 @@ The two tallest spikes in the entire timeline — **1969** and **2021** — are 
 
 - **1969:** The psychedelic revolution, communal living, the Woodstock generation — the spiritual and chemical roots of rave culture
 - **2021:** The digital revolution, on-chain culture, the minting of Milady — the technological and memetic conditions for Mibera's emergence
-
-Everything between is the bridge. Everything before is the preparation.
 
 ---
 
