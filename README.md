@@ -52,6 +52,11 @@ The 10,000 Miberas and their temporal identities.
 Partners and collaborations.
 - [Featured Projects](special-collections/featured.md) — Berachain ecosystem integrations
 
+### VIII. Behind the Scenes
+The people and process behind the collection.
+- [Creative Process](behind-the-scenes/creative-process.md) — How the art was made
+- [Team History](behind-the-scenes/team-history.md) — The people who built Mibera
+
 ---
 
 ## Quick Stats

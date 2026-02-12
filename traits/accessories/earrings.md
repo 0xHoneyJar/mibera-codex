@@ -81,7 +81,7 @@ SS3_golden hoop.PNG
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "hoop earrings (DiY crew)" — Jani, Oct 2023, #earrings
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1167452819809378386/11677982971933
@@ -554,7 +554,7 @@ SS3_freetekno_Spiral 3.png
 
 **Introduced By:** Gods
 
-**Team Notes:** 
+**Team Notes:** "Spiral tribe" — team member, Oct 2023, #earrings
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1167452819809378386/11674681938209
@@ -889,7 +889,7 @@ SS3_freetekno_Paperclip 2.png
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "paper clip many" — Jani, Oct 2023, #earrings
 
 **Sources:**
 
@@ -2238,7 +2238,7 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "not sure if i'm reading the image correctly, doesn't look like she has earrings on to me? unless you want earrings based on the feather on the hat?" — Gumi, Nov 2023, #trait-updates | Jani clarified the feather earring reference from a Native American dancer image. — Nov 2023
 
 **Sources:**
 - https://artinas.com/collections/feathers
@@ -3990,7 +3990,7 @@ SS1_acidhouse_Day Glowstick.png
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** Jani posted oldschool rave kid glowstick reference photos to inspire this trait. — Oct 2023, #earrings
 
 **Sources:**
 
@@ -4250,11 +4250,11 @@ SS3_experimental.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -4312,11 +4312,11 @@ SS3_experimental.png
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 

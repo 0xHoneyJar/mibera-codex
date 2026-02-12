@@ -1,36 +1,41 @@
 # Eyebrows
 
-*Expressive eyebrow styles.*
+*The micro-expressions that make a Mibera feel alive.*
 
 ---
 
 ## Overview
 
-Eyebrows add emotional expression and personality to Mibera characters. They are named by combining expression and thickness.
+Eyebrows add emotional expression and personality to Mibera characters. In a collection built on minimalist, impressionist linework, eyebrows carry outsized emotional weight — two small strokes that determine whether a Mibera looks blissed out or battle-ready.
 
-### Eyebrow Naming Convention
+### Design Philosophy
 
-Eyebrow traits are named as: `{expression} {thickness}`
+Gumi designed the eyebrow set to cover a full emotional range within the collection's painterly constraints. Each eyebrow is rendered in solid black at layer z95 — near the top of the rendering stack, sitting above eyes and hair but below glasses and hats. This high z-position means eyebrows read as the final emotional "stamp" on the face before accessories are applied.
 
-Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
+Eyebrows carry a 0X multiplier in the Swag Score system — they contribute to the character's personality but not its tribal coherence or rarity scoring. This makes them a purely expressive layer, free from the scoring pressures that shape other trait choices.
 
-### Expression Types
+### Emotional Range
 
-| Expression | Description |
-|------------|-------------|
-| Concerned | Tilted upward, worried look |
-| Raised | Lifted, surprised/skeptical |
-| Angry | Furrowed, aggressive |
-| Relaxed | Neutral, calm |
-| Sad | Drooping, melancholy |
+The 10 eyebrow styles map across an emotional spectrum:
 
-### Thickness Variations
+| Eyebrow | Emotional State | Rave Context |
+|---------|----------------|--------------|
+| [Concerned Thick](#concerned-thick) | Worried, uneasy | Coming up, uncertain |
+| [Intense](#intense) | Focused, determined | Locked into the beat |
+| [Anxious Thick](#anxious-thick) | Nervous, alert | Pre-drop tension |
+| [Concerned](#concerned) | Lightly worried | Mild unease |
+| [Short](#short) | Alert, sharp | Quick-witted |
+| [Normal](#normal) | Neutral, calm | Baseline state |
+| [Normal Thick](#normal-thick) | Grounded, steady | Settled into the groove |
+| [Anxious](#anxious) | Tense, on edge | Stimulant energy |
+| [Stern](#stern) | Serious, rigid | Bouncer energy |
+| [Raised](#raised) | Surprised, skeptical | "What did I just take?" |
 
-| Thickness | Description |
-|-----------|-------------|
-| Thin | Delicate, refined |
-| Thick | Bold, pronounced |
-| Bushy | Full, natural |
+### Naming Convention
+
+Eyebrow traits are named by combining expression and thickness where applicable: `{expression} {thickness}`
+
+Examples: [`concerned thick`](#concerned-thick), `anxious thick`, `normal thick`
 
 ---
 
@@ -277,47 +282,18 @@ Examples: [`concerned thick`](#concerned-thick), `raised thin`, `angry bushy`
 **Image Files:**
 
 
-**Visual Description:**
+**Visual Description:** Lifted eyebrows with an upward arch, conveying surprise or skepticism.
 
-**Dominant Colors:**
-
----
-
-### Cultural Context
-
-
-**Cultural Origin:**
-
-**Era:**
-
-
-
-**Why This Matters:**
-
-
----
-
-### Mibera Integration
-
-**Archetype:**
-
-**Archetype Alignment:**
-
-
-**Swag Score:**
+**Dominant Colors:** Black
 
 ---
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
-**Introduced By:**
+**Introduced By:** Gumi
 
-**Team Notes:** Entry auto-generated to fix broken anchor
-
-**Sources:**
-
-**Summary:**
+**Team Notes:** Referenced in the overview expression types table. May correspond to one of the existing thin/thick variants rendered at a higher angle.
 
 ---

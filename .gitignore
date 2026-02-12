@@ -31,3 +31,4 @@ images/
 # Mireveal image folders (hosted externally)
 mireveals/*/webp/
 mireveals/*/webp_part*/
+.obsidian/

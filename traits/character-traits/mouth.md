@@ -1,32 +1,53 @@
 # Mouth
 
-*Mouth expressions and styles.*
+*The smallest gesture that says the most — every Mibera's emotional signature.*
 
 ---
 
 ## Overview
 
-Mouth traits convey emotion and state, from euphoric smiles to drug-induced expressions.
+Mouth traits convey emotion and altered state, from euphoric smiles to the unmistakable expressions of someone deep in a rave experience. In a collection where faces are rendered with minimal linework, the mouth is often just a single stroke or small shape — but that single stroke carries the emotional truth of the entire character.
 
-### Mouth Types
+### Design Philosophy
 
-| Type | Description |
-|------|-------------|
-| [Queasy](#queasy) | Wavy/squiggly line, uneasy feeling |
-| Smile | Upturned, happy |
-| Frown | Downturned, sad/serious |
-| Open | Surprised or speaking |
-| Grin | Wide, mischievous smile |
-| Grimace | Teeth showing, uncomfortable |
-| Smirk | Asymmetrical, knowing |
-| Drool | Mouth with drool (altered state) |
+The mouth set was designed by Gumi (with queasy and toothpick by Fedor, and gurn by Jani) to capture the full arc of a night out — from anticipation through euphoria to the ragged edges of dawn. Several mouths include held objects (blunt, cigarette, toothpick, acid tab, heart) that transform the expression layer into an item layer, embedding drug culture and personality directly into the face.
+
+Mouths carry a 0X multiplier in the Swag Score system — like eyebrows, they are purely expressive and don't influence tribal coherence. This frees the mouth to be the most honest trait on any Mibera.
+
+### The Full Set (20 Expressions)
+
+| Mouth | Emotional State | Object? | Rave Arc |
+|-------|----------------|---------|----------|
+| [Queasy](#queasy) | Uneasy, nauseous | No | Coming up |
+| [Tongue](#tongue) | Playful, cheeky | No | Feeling good |
+| [Normal](#normal) | Neutral, flat | No | Baseline |
+| [Smile](#smile) | Happy, warm | No | In the groove |
+| [Content](#content) | Subtly pleased | No | Settled bliss |
+| [Sad](#sad) | Melancholy | No | Post-rave blues |
+| [Blunted](#blunted) | Mellow, stoned | Blunt | Smoking |
+| [Cig](#cig) | Cool, detached | Cigarette | Smoke break |
+| [Toothpick](#toothpick) | Nonchalant | Toothpick | After the meal |
+| [Blehhh](#blehhh) | Playful disgust | No | Tongue out |
+| [Gasp](#gasp) | Shocked, open | No | The drop |
+| [Grit](#grit) | Tense, clenched | No | Jaw-clenching |
+| [Chuffed](#chuffed) | Puffed, satisfied | No | Proud moment |
+| [Belch](#belch) | Expelling, open | No | Raw release |
+| [Drool](#drool) | Lost, deep state | No | Gone |
+| [Gurn](#gurn) | Jaw-shifting | No | MDMA signature |
+| [Heart](#heart) | Loving, ecstatic | Heart on tongue | Peak love |
+| [Acid](#acid) | Tripping, adventurous | Acid tab on tongue | Dropping acid |
+| [Biting Lip](#biting-lip) | Anxious, flirty | No | Anticipation |
+| [Meta Mouth](#meta-mouth) | Self-referential | No | Breaking the fourth wall |
 
 ### State-Based Expressions
 
-Some mouth expressions reference altered states:
-- **[Queasy](#queasy)** — Coming up on substances
-- **Drool** — Deep trance/high state
-- **Grimace** — Intense experience
+Several mouths directly reference specific altered states:
+- **[Queasy](#queasy)** — The squiggly line of someone coming up, stomach turning as the substance takes hold
+- **[Gurn](#gurn)** — The involuntary jaw movement synonymous with MDMA; the most culturally specific rave expression
+- **[Drool](#drool)** — Deep trance state, consciousness departed
+- **[Grit](#grit)** — Teeth clenched, stimulant tension
+- **[Acid](#acid)** — Blotter on tongue, the moment of commitment
+- **[Heart](#heart)** — Ecstasy's empathogenic peak, love made visible
 
 ---
 
@@ -230,7 +251,7 @@ Some mouth expressions reference altered states:
 
 **Introduced By:** Gumi
 
-**Team Notes:** 
+**Team Notes:** "they are sad cos they dropped they baby bear in a hole" — Jani, Dec 2023, #trait-updates
 
 ---
 
@@ -706,7 +727,7 @@ Some mouth expressions reference altered states:
 
 **Introduced By:** Gumi
 
-**Team Notes:** 
+**Team Notes:** "can't remember, are we just scrapping the original mouths and just doing the small mouths? or are we doing both?" — Gumi, Dec 2023, #laidback-progress | "think lets just go with small mouths" — Jani, Dec 2023, #laidback-progress | "yeah i can just draw new small mouths easily" — Gumi, Dec 2023 | "The smol mouth was a good call it seems.... really suits the character" — Jani, Nov 2023, #trait-updates
 
 ---
 
@@ -719,34 +740,9 @@ Some mouth expressions reference altered states:
 **Image Files:**
 
 
-**Visual Description:**
+**Visual Description:** A simple horizontal line serving as a minimal, neutral mouth expression.
 
-**Dominant Colors:**
-
----
-
-### Cultural Context
-
-
-**Cultural Origin:**
-
-**Era:**
-
-
-
-**Why This Matters:**
-
-
----
-
-### Mibera Integration
-
-**Archetype:**
-
-**Archetype Alignment:**
-
-
-**Swag Score:**
+**Dominant Colors:** Black
 
 ---
 
@@ -754,20 +750,14 @@ Some mouth expressions reference altered states:
 
 **Ancestor:**
 
-
-
 ---
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
-**Introduced By:**
+**Introduced By:** Gumi
 
-**Team Notes:** Entry auto-generated to fix broken anchor
-
-**Sources:**
-
-**Summary:**
+**Team Notes:** May correspond to the "normal" mouth variant — a thin, straight stroke that reads as the most neutral expression in the collection.
 
 ---

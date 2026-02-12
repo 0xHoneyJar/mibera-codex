@@ -2756,7 +2756,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Introduced By:** Gumi
 
-**Team Notes:** 
+**Team Notes:** "wanna find some ways of introducing disabled traits into the collection. so fink we can add blind eyes which are like creamy white, this CPAP one" — Jani, Oct 2023, #hats
 
 ---
 
@@ -3062,7 +3062,7 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 **Introduced By:** Gumi
 
-**Team Notes:** 
+**Team Notes:** "glowing demon eyes could be cool" — Tez, Sep 2023, #eyewear
 
 ---
 
@@ -3184,11 +3184,11 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -3246,11 +3246,11 @@ Examples: [`stoned brown`](#stoned-brown), `ecstasy sky`, `hypno gold`
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 

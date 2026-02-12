@@ -89,7 +89,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Introduced By:** Jani
 
-**Team Notes:** 
+**Team Notes:** "Thiiinking we should maybe cut down on the number of color variants for the suits? Esp considering there are two types. When I made the decision to do that many colors at the time, I think we had fewer traits planned than currently exist lmfao" — Gumi, Mar 2024, #trait-updates
 
 **Sources:**
 - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049
@@ -646,7 +646,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "fink maybe the sleev armhole needs to be bigger (they are basically haz chem suits as they did a chemical attack in the tokyo subway)" — Jani, Dec 2023, #trait-updates
 
 **Sources:**
 - https://www.vice.com/en/article/what-is-aum-shinrikyo-sarin-attack/
@@ -2030,7 +2030,7 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 **Introduced By:** 
 
-**Team Notes:** 
+**Team Notes:** "sporal tribe style jacket with bera tive logo" — Tez, Aug 2023, #tops
 
 **Sources:**
 
@@ -3615,11 +3615,11 @@ Long sleeve garments include suits, jackets, robes, and outerwear that define ch
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 

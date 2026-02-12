@@ -1,37 +1,50 @@
 # Face Accessories
 
-*Additional facial adornments and effects.*
+*The marks we carry — paint, blood, symbols, and scars.*
 
 ---
 
 ## Overview
 
-Face accessories add cultural markers, spiritual symbols, and aesthetic effects directly to the face layer.
+Face accessories add cultural markers, spiritual symbols, and aesthetic effects directly to the face layer. They are among the most culturally loaded traits in the collection, connecting individual Miberas to specific ancestor lineages, real-world movements, and the lived texture of rave culture.
+
+Face accessories sit at layer z60 — between the body and the hair front layer — meaning they are painted *onto* the skin and partially covered by hair. This layer position was a deliberate choice: face accessories are intimate, not worn on top but applied directly to the self.
+
+### Design Philosophy
+
+The face accessory set was primarily created by **Gumi**, with contributions from **Fedor** (Dots), **Sunbera** (all Fluoro variants), and **Jani** (Oil, Bindi, Red Forehead, Aboriginal markings, Hindu Swastika). Many carry ancestor-specific cultural research, making them the trait category with the deepest ethnographic documentation.
+
+Face accessories carry a 0.5X multiplier in the Swag Score system — a light touch on scoring that acknowledges their cultural significance without making them dominant in the rarity calculation.
 
 ### Face Accessories by Archetype
 
-| Archetype | Examples |
-|-----------|----------|
-| **Freetekno** | Fluoro White, Oil, Septum, Aboriginal Orange/Red |
-| **Milady** | Cross, Crescent, [Dots](#dots), Heart, Mibera, [Wartime](#wartime), Tyson, Bindi, Red Forehead |
-| **Acidhouse** | — |
-| **Chicago Detroit** | Ethiopian, Indian (face paint) |
+| Archetype | Accessories | Count |
+|-----------|-------------|-------|
+| **Freetekno** | Fluoro White/Blue/Green/Pink, Oil, Septum, Mibera Smiley, Crafty, Aboriginal Orange, Aboriginal Red | 10 |
+| **Milady** | Cross, Crescent, Dots, Heart, Hearts, Mibera, Wartime, Tyson, Bindi, Red Forehead, Teardrops, Tear Drop, Bleeding, Blush, Whiskers, Small Bandage, Bandaid, Star, Hand, Pride, Trans Flag, Mononoke, Chulym, Chulym 2 | 24 |
+| **Acidhouse** | Star Face | 1 |
+| **Chicago Detroit** | Ethiopian, Indian Paint, Clean Bandage, Bandage | 4 |
+| **Cross-Archetype** | Hindu Swastika, Joker | 2 |
 
 ### Categories
 
-| Category | Examples |
-|----------|----------|
-| **Symbols** | Cross, Crescent, Heart, Mibera |
-| **Cultural/Spiritual** | Bindi, Ethiopian, Indian, Aboriginal markings |
-| **Aesthetic Effects** | [Wartime](#wartime) (blood splatter), Oil, Fluoro White |
-| **Piercings** | Septum, Nose Ring With Chain |
-| **Tattoos** | Tyson (face tattoo) |
+| Category | Examples | Cultural Thread |
+|----------|----------|----------------|
+| **Ancestor Face Paint** | Aboriginal Red/Orange, Ethiopian, Indian Paint, Chulym/Chulym 2 | Indigenous body decoration traditions spanning 40,000+ years |
+| **Rave Culture** | Fluoro Pink/Blue/Green/White, Oil, Mibera Smiley | 90s fluorescent UV paint, festival identity |
+| **Milady Lineage** | Wartime, Dots, Teardrops, Mononoke, Whiskers | Traits referencing or adapted from the original Milady Maker collection |
+| **Spiritual/Symbolic** | Bindi, Red Forehead, Cross, Crescent, Hindu Swastika | Religious and spiritual marking traditions |
+| **Identity/Movement** | Pride, Trans Flag, Mibera | Social identity expression |
+| **Injury/Rawness** | Bleeding, Crafty, Bandage, Clean Bandage, Small Bandage, Bandaid | The physical cost of living outside |
+| **Character** | Joker, Tyson, Star, Heart/Hearts, Hand | Pop culture and personality expression |
 
-### Cultural References
+### Notable Cultural Connections
 
-- **[Wartime](#wartime)** — "Wartime Milady" 2022 blood-splatter PFP trend
-- **Bindi** — Hindu spiritual mark
-- **Aboriginal** — Indigenous Australian face paint traditions
+- **Aboriginal Red/Orange** (SS5) — Ancient Indigenous Australian ochre pigments dating back tens of thousands of years; the oldest continuous art tradition on Earth
+- **Ethiopian** (SS5) — Surma/Suri people of the Omo Valley; chalk and charcoal ceremonial markings
+- **Mononoke** (SS4) — San's wolf-warrior face paint from Hayao Miyazaki's 1997 film; red pigment symbolizing blood, life, and the boundary between human and natural worlds
+- **Wartime** (SS4) — The 2022 "Wartime Milady" movement where holders added blood splatter to their PFPs
+- **Hindu Swastika** (SS4) — The 5,000-year-old Indus Valley symbol of well-being, predating and unrelated to its 20th-century appropriation
 
 ---
 
@@ -1978,7 +1991,7 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 **Introduced By:** Sunbera
 
-**Team Notes:** 
+**Team Notes:** "Notttt sure about the white face paint trait, is there a specific look that was wanted there that I'm missing? Bc it kinda looks like something else right now lmfao" — Gumi, Oct 2023, #face | "tbh not worst fing in world if it looks like cumshot - but is more reference to DiY paint covered free party people often covered in paint" — Jani, Oct 2023, #face
 
 **Sources:**
 
@@ -2775,11 +2788,11 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
@@ -2837,11 +2850,11 @@ Face accessories add cultural markers, spiritual symbols, and aesthetic effects 
 
 ### Attribution
 
-**Date Added:** Auto-generated
+**Date Added:**
 
 **Introduced By:**
 
-**Team Notes:** Entry auto-generated to fix broken anchor
+**Team Notes:**
 
 **Sources:**
 
