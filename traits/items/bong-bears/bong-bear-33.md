@@ -1,0 +1,31 @@
+---
+name: Bong Bear 33
+image: SS5_bongbear_Bong Bear 33.png
+date_added: "December 9, 2024"
+---
+
+# Bong Bear 33
+
+## Visual Properties
+
+
+**Image Files:**
+SS5_bongbear_Bong Bear 33.png
+
+**Visual Description:** Dark brown bear with a pair of ring piercings on one ear, wearing a tie-dye rainbow colored t-shirt with a big marijuana leaf graphic in the middle, holding a white joint / rollie. On its head is a white ice cream upside down, its tongue reaching out extensively in multiple rounds and curves licking the ice-cream. A plushie based on [this Bong Bear](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/66075445032688988859229341194671037535804503065310441849644897897324755288065).
+
+**Dominant Colors:** White, black, blue, purple.
+
+
+---
+
+## Attribution
+
+**Date Added:** December 9, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+
+---

@@ -11,45 +11,45 @@ Core physical features of each Mibera.
 
 | Category | File | Description |
 |----------|------|-------------|
-| Body | [→ body.md](../character-traits/body.md) | Skin tones and body types |
-| Eyes | [→ eyes.md](../character-traits/eyes.md) | 11 types × 9 colors matrix |
-| Eyebrows | [→ eyebrows.md](../character-traits/eyebrows.md) | Brow styles and expressions |
-| Mouth | [→ mouth.md](../character-traits/mouth.md) | Expressions and mouth accessories |
-| Hair | [→ hair.md](../character-traits/hair.md) | Hairstyles across eras |
-| Tattoos | [→ tattoos.md](../character-traits/tattoos.md) | Face and body tattoos |
+| Body | [→ body.md](character-traits/body/index.md) | Skin tones and body types |
+| Eyes | [→ eyes.md](character-traits/eyes/index.md) | 11 types × 9 colors matrix |
+| Eyebrows | [→ eyebrows.md](character-traits/eyebrows/index.md) | Brow styles and expressions |
+| Mouth | [→ mouth.md](character-traits/mouth/index.md) | Expressions and mouth accessories |
+| Hair | [→ hair.md](character-traits/hair/index.md) | Hairstyles across eras |
+| Tattoos | [→ tattoos.md](character-traits/tattoos/index.md) | Face and body tattoos |
 
 ### Accessories
 Wearable items expressing personality and tribal affiliation.
 
 | Category | File | Description |
 |----------|------|-------------|
-| Hats | [→ hats.md](../accessories/hats.md) | Headwear from all eras |
-| Glasses | [→ glasses.md](../accessories/glasses.md) | Eyewear and goggles |
-| Masks | [→ masks.md](../accessories/masks.md) | Face coverings |
-| Earrings | [→ earrings.md](../accessories/earrings.md) | Ear jewelry |
-| Face Accessories | [→ face-accessories.md](../accessories/face-accessories.md) | Paint, stickers, etc. |
+| Hats | [→ hats.md](accessories/hats/index.md) | Headwear from all eras |
+| Glasses | [→ glasses.md](accessories/glasses/index.md) | Eyewear and goggles |
+| Masks | [→ masks.md](accessories/masks/index.md) | Face coverings |
+| Earrings | [→ earrings.md](accessories/earrings/index.md) | Ear jewelry |
+| Face Accessories | [→ face-accessories.md](accessories/face-accessories/index.md) | Paint, stickers, etc. |
 
 ### Clothing
 Apparel representing different rave movements.
 
 | Category | File | Description |
 |----------|------|-------------|
-| Long Sleeves | [→ long-sleeves.md](../clothing/long-sleeves.md) | Jackets, hoodies |
-| Short Sleeves | [→ short-sleeves.md](../clothing/short-sleeves.md) | T-shirts, graphic tees |
-| Simple Shirts | [→ simple-shirts.md](../clothing/simple-shirts.md) | Basic tops |
+| Long Sleeves | [→ long-sleeves.md](clothing/long-sleeves/index.md) | Jackets, hoodies |
+| Short Sleeves | [→ short-sleeves.md](clothing/short-sleeves/index.md) | T-shirts, graphic tees |
+| Simple Shirts | [→ simple-shirts.md](clothing/simple-shirts/index.md) | Basic tops |
 
 ### Items
 Handheld objects and props.
 
 | Category | File | Description |
 |----------|------|-------------|
-| General Items | [→ general-items.md](../items/general-items.md) | Props, paraphernalia, cultural items |
-| Bong Bears | [→ bong-bears.md](../items/bong-bears.md) | Special Bong Bear collaboration items |
+| General Items | [→ general-items.md](items/general-items/index.md) | Props, paraphernalia, cultural items |
+| Bong Bears | [→ bong-bears.md](items/bong-bears/index.md) | Special Bong Bear collaboration items |
 
 ### Environments
 | Category | File | Description |
 |----------|------|-------------|
-| Backgrounds | [→ backgrounds.md](../backgrounds/backgrounds.md) | Environmental backdrops |
+| Backgrounds | [→ backgrounds.md](backgrounds/index.md) | Environmental backdrops |
 
 ---
 
@@ -86,7 +86,7 @@ All traits follow the pattern:
 ```
 
 Examples:
-- `SS3_milady_Bera Headband` → [view trait](../accessories/hats.md#bera-headband)
+- `SS3_milady_Bera Headband` → [view trait](accessories/hats/index.md#bera-headband)
 - `SS4_freetekno_MF Doom`
 - `SS2_acidhouse_Mr Acid House`
 

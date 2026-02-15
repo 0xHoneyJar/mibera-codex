@@ -9,15 +9,15 @@
 
 ## II. The Framework
 * [Archetypes](core-lore/archetypes.md)
-* [Ancestors](core-lore/ancestors.md)
+* [Ancestors](core-lore/ancestors/index.md)
 
 ## III. The Mysticism
-* [Astrology](traits/overlays/astrology.md)
-* [Elements](traits/overlays/elements.md)
+* [Astrology](traits/overlays/astrology/index.md)
+* [Elements](traits/overlays/elements/index.md)
 * [The Drug-Tarot System](core-lore/drug-tarot-system.md)
-  * [Tarot Cards](core-lore/tarot-cards.md)
+  * [Tarot Cards](core-lore/tarot-cards/index.md)
   * [Drug Pairings](drugs-detailed/drug-pairings.md)
-  * [Modern Drugs](drugs-detailed/modern-drugs.md)
+  * [Drugs](drugs-detailed/index.md)
 
 ## IV. The Art
 * [All Traits Index](traits/index.md)
@@ -30,34 +30,34 @@
 * [Chicago Detroit](core-lore/archetypes.md#chicago-detroit)
 
 ### Character Traits
-* [Body](traits/character-traits/body.md)
-* [Eyes](traits/character-traits/eyes.md)
-* [Eyebrows](traits/character-traits/eyebrows.md)
-* [Mouth](traits/character-traits/mouth.md)
-* [Hair](traits/character-traits/hair.md)
-* [Tattoos](traits/character-traits/tattoos.md)
+* [Body](traits/character-traits/body/index.md)
+* [Eyes](traits/character-traits/eyes/index.md)
+* [Eyebrows](traits/character-traits/eyebrows/index.md)
+* [Mouth](traits/character-traits/mouth/index.md)
+* [Hair](traits/character-traits/hair/index.md)
+* [Tattoos](traits/character-traits/tattoos/index.md)
 
 ### Accessories
-* [Hats](traits/accessories/hats.md)
-* [Glasses](traits/accessories/glasses.md)
-* [Masks](traits/accessories/masks.md)
-* [Earrings](traits/accessories/earrings.md)
-* [Face Accessories](traits/accessories/face-accessories.md)
+* [Hats](traits/accessories/hats/index.md)
+* [Glasses](traits/accessories/glasses/index.md)
+* [Masks](traits/accessories/masks/index.md)
+* [Earrings](traits/accessories/earrings/index.md)
+* [Face Accessories](traits/accessories/face-accessories/index.md)
 
 ### Clothing
-* [Long Sleeves](traits/clothing/long-sleeves.md)
-* [Short Sleeves](traits/clothing/short-sleeves.md)
-* [Simple Shirts](traits/clothing/simple-shirts.md)
+* [Long Sleeves](traits/clothing/long-sleeves/index.md)
+* [Short Sleeves](traits/clothing/short-sleeves/index.md)
+* [Simple Shirts](traits/clothing/simple-shirts/index.md)
 
 ### Items
-* [General Items](traits/items/general-items.md)
-* [Bong Bears](traits/items/bong-bears.md)
+* [General Items](traits/items/general-items/index.md)
+* [Bong Bears](traits/items/bong-bears/index.md)
 
 ### Environments
-* [Backgrounds](traits/backgrounds/backgrounds.md)
+* [Backgrounds](traits/backgrounds/index.md)
 
 ### Overlays
-* [Ranking & Scoring](traits/overlays/ranking.md)
+* [Ranking & Scoring](traits/overlays/ranking/index.md)
 * [Molecules](traits/overlays/molecules.md)
 
 ## V. The Collection
@@ -80,7 +80,7 @@
   * [21st Century](birthdays/21st-century.md)
 
 ## VI. The Ecosystem
-* [Featured Projects & Partners](special-collections/featured.md)
+* [Featured Projects & Partners](special-collections/index.md)
 
 ## VII. Behind the Scenes
 * [Creative Process](behind-the-scenes/creative-process.md)

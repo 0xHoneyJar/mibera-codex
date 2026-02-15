@@ -1,0 +1,69 @@
+---
+name: Bera
+image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_milady_Bera.webp"
+archetype: Milady
+swag_score: 4
+date_added: "July 27, 2024"
+---
+
+# Bera
+
+## Visual Properties
+
+
+**Image Files:**
+![Bera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_milady_Bera.webp)
+
+
+**Visual Description:** Brown cap with bear face, sparkly eyes, and bear ears
+
+**Dominant Colors:** Brown, light beige
+
+
+---
+
+## Cultural Context
+
+
+**Cultural Origin:** 
+
+**Era:**
+
+
+**Why This Matters:**
+
+
+---
+
+## Mibera Integration
+
+**Archetype:** [Milady](../../../core-lore/archetypes.md#milady)
+
+**Archetype Alignment:** 
+
+
+**Swag Score:** 4
+
+
+---
+
+## Connections
+
+**Ancestor:** 
+
+---
+
+## Attribution
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---

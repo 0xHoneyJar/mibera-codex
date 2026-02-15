@@ -6,7 +6,7 @@
 
 ## Overview
 
-Mibera was built by a small, geographically distributed team operating primarily through Discord and Google Drive over 18+ months. The project originated from the intersection of the Milady NFT community and the Berachain ecosystem, funded through THJ (The Honey Jar). What follows is who did what, when, and why it mattered.
+Mibera was built by a small, geographically distributed team operating primarily through Discord and Google Drive over 18+ months. The project originated from the intersection of the Milady NFT community and the Berachain ecosystem, funded through THJ (The Honey Jar).
 
 ---
 
@@ -27,7 +27,7 @@ Jani is the mind behind Mibera's philosophical framework. He wrote the founding 
 - Called the trait pause that prevented scope creep
 - Defined THJ ownership of all IP and creative output
 
-**Philosophical fingerprint:** Jani's writing draws from CCRU (Cybernetic Culture Research Unit), Hakim Bey's Temporary Autonomous Zones, Plato's Cave allegory, and the history of rave culture as genuine countercultural resistance. His key insight was positioning Mibera not as a Milady clone but as its philosophical shadow.
+**Influences:** CCRU (Cybernetic Culture Research Unit), Hakim Bey's Temporary Autonomous Zones, Plato's Cave, rave culture history. Key insight: Mibera is not a Milady clone but its philosophical shadow.
 
 > *"Mibera is Daria but on drugs. Mibera is Lisa Simpson but on drugs."*
 
@@ -49,7 +49,7 @@ Gumi painted every single trait in the 1,337+ collection on iPad using Procreate
 - Managed tributary artist relationships
 - Wore out an Apple Pencil nib rendering hairstyles
 
-**Artistic fingerprint:** Blocks of color over linework. Visible brushstrokes. Desaturated bodies so saturated traits pop. The impressionist tradition applied to generative PFP art.
+**Style:** Blocks of color over linework. Visible brushstrokes. Desaturated bodies so saturated traits pop.
 
 > *"Genuinely think that this is exactly what I needed to get this style change grokking right in my damn head. Mibera has fire in her eyes, she's not just a laid back docile bear rendered in a cutesy scuffed way."*
 
@@ -72,7 +72,7 @@ Tez set up the original Discord server on July 27, 2023 and served as the bridge
 - Scouted real-life event connections (Dubai, Basel)
 - Flagged potential scams in the Berachain ecosystem
 
-**Cultural fingerprint:** DIY grassroots underground aesthetic. Compared Mibera to Asuka from Evangelion. Pushed for authentic rave culture references over commercial ones.
+**Aesthetic:** DIY grassroots underground. Compared Mibera to Asuka from Evangelion. Pushed for authentic rave culture references over commercial ones.
 
 > *"Milady are making a 4chan. We're making a Silk Road."*
 
@@ -120,7 +120,7 @@ Fedor was brought on specifically for marketing and became a key contributor to 
 
 **Role:** Intellectual catalyst, cultural researcher
 
-Balensci's most consequential contribution was sharing the CCRU (Cybernetic Culture Research Unit) Wikipedia article on August 2, 2023, with the directive: **"draw heavy inspo from this."** This single reference became a foundational intellectual influence on Jani's lore framework, linking Mibera to the tradition of hyperstition, accelerationism, and the dark side of techno-philosophy.
+Balensci shared the CCRU (Cybernetic Culture Research Unit) Wikipedia article on August 2, 2023, with the directive: **"draw heavy inspo from this."** This reference fed directly into Jani's lore framework — hyperstition, accelerationism, and techno-philosophy.
 
 **Active:** July — August 2023
 
@@ -204,11 +204,11 @@ Created rave flyers, After Effects animations, and meme content for the project.
 
 ### Phase 1: The Founding Circle (July 2023)
 
-The project started on July 27, 2023 when **tez33** set up the Discord server and pinged the initial crew: **balensci**, **lilbobross**, **glooming** (Kata), and **gumibera_**. These were, as Jani later described them, "the resident Milady x Bera aficionados." The group shared a conviction that something interesting existed at the intersection of Milady's aesthetic philosophy and Berachain's bear-coded culture — but they hadn't yet found the intellectual framework to articulate it.
+The project started on July 27, 2023 when **tez33** set up the Discord server and pinged the initial crew: **balensci**, **lilbobross**, **glooming** (Kata), and **gumibera_**. These were, as Jani later described them, "the resident Milady x Bera aficionados." They thought Milady and Berachain had something in common but couldn't yet articulate what.
 
 ### Phase 2: The Manifesto (August 2023)
 
-Everything changed on August 14, 2023 when Jani delivered his "MIBERA IS THE REFUSAL" session. Before this, the project was an interesting derivative concept. After, it was a philosophical movement with fire in its eyes. The team's reaction was electric — Gumi understood the art direction, Kata declared Jani had given them purpose, and lilbobross confirmed the philosophical ambition was on Charlotte Fang's level.
+On August 14, 2023, Jani delivered his "MIBERA IS THE REFUSAL" session. Gumi immediately understood the art direction, Kata declared Jani had given them purpose, and lilbobross said Jani was "on par with Charlotte philosophical word vomit... but I love it."
 
 ### Phase 3: Division of Labor (September - October 2023)
 
@@ -226,7 +226,7 @@ The project opened up for artist onboarding and marketing. **Fedor** was brought
 
 ### Phase 5: The Long Wait (April 2024 - February 2025)
 
-Berachain mainnet delays stretched the timeline from an April 2024 target to early 2025. The team maintained cohesion through this period, continuing to refine traits and coordinate tributary artists. This patience and commitment through uncertainty is a defining characteristic of the team.
+Berachain mainnet delays stretched the timeline from an April 2024 target to early 2025. The team maintained cohesion through this period, continuing to refine traits and coordinate tributary artists.
 
 ---
 

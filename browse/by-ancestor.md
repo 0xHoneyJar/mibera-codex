@@ -44,7 +44,7 @@
 
 ## Aboriginal
 
-**286 Miberas** | [Learn about Aboriginal →](../core-lore/ancestors.md#aboriginal)
+**286 Miberas** | [Learn about Aboriginal →](../core-lore/ancestors/aboriginal.md)
 
 **S:** [#1779](../miberas/1779.md) [#4714](../miberas/4714.md) [#5594](../miberas/5594.md) [#6714](../miberas/6714.md)
 
@@ -62,7 +62,7 @@
 
 ## Arabs
 
-**541 Miberas** | [Learn about Arabs →](../core-lore/ancestors.md#arabs)
+**541 Miberas** | [Learn about Arabs →](../core-lore/ancestors/arabs.md)
 
 **S:** [#0219](../miberas/0219.md) [#0337](../miberas/0337.md) [#0697](../miberas/0697.md) [#0795](../miberas/0795.md) [#0897](../miberas/0897.md) [#0907](../miberas/0907.md) [#1157](../miberas/1157.md) [#2040](../miberas/2040.md) [#2299](../miberas/2299.md) [#2623](../miberas/2623.md) [#2624](../miberas/2624.md) [#3092](../miberas/3092.md) [#3104](../miberas/3104.md) [#3157](../miberas/3157.md) [#3249](../miberas/3249.md) [#3489](../miberas/3489.md) [#3780](../miberas/3780.md) [#3796](../miberas/3796.md) [#4536](../miberas/4536.md) [#4792](../miberas/4792.md) (+21 more)
 
@@ -80,7 +80,7 @@
 
 ## Ballroom
 
-**218 Miberas** | [Learn about Ballroom →](../core-lore/ancestors.md#ballroom)
+**218 Miberas** | [Learn about Ballroom →](../core-lore/ancestors/ballroom.md)
 
 **S:** [#0307](../miberas/0307.md) [#2257](../miberas/2257.md) [#3987](../miberas/3987.md) [#4028](../miberas/4028.md) [#4105](../miberas/4105.md) [#4288](../miberas/4288.md) [#4326](../miberas/4326.md) [#4682](../miberas/4682.md) [#4971](../miberas/4971.md) [#8151](../miberas/8151.md) [#8662](../miberas/8662.md)
 
@@ -98,7 +98,7 @@
 
 ## Bong Bear
 
-**107 Miberas** | [Learn about Bong Bear →](../core-lore/ancestors.md#bong-bear)
+**107 Miberas** | [Learn about Bong Bear →](../core-lore/ancestors/bong-bear.md)
 
 **S:** [#0710](../miberas/0710.md) [#3210](../miberas/3210.md) [#3253](../miberas/3253.md) [#3822](../miberas/3822.md) [#4719](../miberas/4719.md) [#9170](../miberas/9170.md) [#9511](../miberas/9511.md)
 
@@ -112,7 +112,7 @@
 
 ## Buddhist
 
-**156 Miberas** | [Learn about Buddhist →](../core-lore/ancestors.md#buddhist)
+**156 Miberas** | [Learn about Buddhist →](../core-lore/ancestors/buddhist.md)
 
 **S:** [#0500](../miberas/0500.md) [#1107](../miberas/1107.md) [#1963](../miberas/1963.md) [#2719](../miberas/2719.md) [#2804](../miberas/2804.md) [#2837](../miberas/2837.md) [#3539](../miberas/3539.md) [#4500](../miberas/4500.md) [#4709](../miberas/4709.md) [#5664](../miberas/5664.md) [#7576](../miberas/7576.md) [#8345](../miberas/8345.md) [#8757](../miberas/8757.md) [#9366](../miberas/9366.md)
 
@@ -130,7 +130,7 @@
 
 ## Chinese
 
-**432 Miberas** | [Learn about Chinese →](../core-lore/ancestors.md#chinese)
+**432 Miberas** | [Learn about Chinese →](../core-lore/ancestors/chinese.md)
 
 **S:** [#0536](../miberas/0536.md) [#0621](../miberas/0621.md) [#1387](../miberas/1387.md) [#2118](../miberas/2118.md) [#2923](../miberas/2923.md) [#3470](../miberas/3470.md) [#3674](../miberas/3674.md) [#3776](../miberas/3776.md) [#4106](../miberas/4106.md) [#4395](../miberas/4395.md) [#5227](../miberas/5227.md) [#5807](../miberas/5807.md) [#6221](../miberas/6221.md) [#6251](../miberas/6251.md) [#6425](../miberas/6425.md) [#6535](../miberas/6535.md) [#7103](../miberas/7103.md) [#7499](../miberas/7499.md) [#7642](../miberas/7642.md) [#7709](../miberas/7709.md) (+6 more)
 
@@ -148,7 +148,7 @@
 
 ## Cypherpunk
 
-**10 Miberas** | [Learn about Cypherpunk →](../core-lore/ancestors.md#cypherpunk)
+**10 Miberas** | [Learn about Cypherpunk →](../core-lore/ancestors/cypherpunk.md)
 
 **A:** [#5528](../miberas/5528.md)
 
@@ -158,7 +158,7 @@
 
 ## Ethiopian
 
-**372 Miberas** | [Learn about Ethiopian →](../core-lore/ancestors.md#ethiopian)
+**372 Miberas** | [Learn about Ethiopian →](../core-lore/ancestors/ethiopian.md)
 
 **S:** [#0383](../miberas/0383.md) [#0531](../miberas/0531.md) [#0971](../miberas/0971.md) [#1994](../miberas/1994.md) [#2320](../miberas/2320.md) [#3720](../miberas/3720.md) [#3762](../miberas/3762.md) [#4774](../miberas/4774.md) [#5323](../miberas/5323.md) [#6452](../miberas/6452.md) [#7569](../miberas/7569.md) [#7965](../miberas/7965.md) [#8314](../miberas/8314.md) [#9133](../miberas/9133.md) [#9216](../miberas/9216.md) [#9536](../miberas/9536.md)
 
@@ -176,7 +176,7 @@
 
 ## Gabon
 
-**502 Miberas** | [Learn about Gabon →](../core-lore/ancestors.md#gabon)
+**502 Miberas** | [Learn about Gabon →](../core-lore/ancestors/gabon.md)
 
 **S:** [#0252](../miberas/0252.md) [#1123](../miberas/1123.md) [#1193](../miberas/1193.md) [#1358](../miberas/1358.md) [#2248](../miberas/2248.md) [#2567](../miberas/2567.md) [#3414](../miberas/3414.md) [#3444](../miberas/3444.md) [#5366](../miberas/5366.md) [#5382](../miberas/5382.md) [#5396](../miberas/5396.md) [#5403](../miberas/5403.md) [#6225](../miberas/6225.md) [#6435](../miberas/6435.md) [#6976](../miberas/6976.md) [#9519](../miberas/9519.md) [#9563](../miberas/9563.md) [#9664](../miberas/9664.md) [#9712](../miberas/9712.md) [#9824](../miberas/9824.md)
 
@@ -194,7 +194,7 @@
 
 ## Greek
 
-**585 Miberas** | [Learn about Greek →](../core-lore/ancestors.md#greek)
+**585 Miberas** | [Learn about Greek →](../core-lore/ancestors/greek.md)
 
 **S:** [#0101](../miberas/0101.md) [#0435](../miberas/0435.md) [#1585](../miberas/1585.md) [#3197](../miberas/3197.md) [#3435](../miberas/3435.md) [#3569](../miberas/3569.md) [#4078](../miberas/4078.md) [#5626](../miberas/5626.md) [#6252](../miberas/6252.md) [#8460](../miberas/8460.md)
 
@@ -212,7 +212,7 @@
 
 ## Haitian
 
-**267 Miberas** | [Learn about Haitian →](../core-lore/ancestors.md#haitian)
+**267 Miberas** | [Learn about Haitian →](../core-lore/ancestors/haitian.md)
 
 **S:** [#3335](../miberas/3335.md) [#6034](../miberas/6034.md) [#6274](../miberas/6274.md)
 
@@ -230,7 +230,7 @@
 
 ## Hindu
 
-**664 Miberas** | [Learn about Hindu →](../core-lore/ancestors.md#hindu)
+**664 Miberas** | [Learn about Hindu →](../core-lore/ancestors/hindu.md)
 
 **S:** [#0067](../miberas/0067.md) [#0088](../miberas/0088.md) [#0195](../miberas/0195.md) [#0411](../miberas/0411.md) [#0467](../miberas/0467.md) [#1127](../miberas/1127.md) [#1569](../miberas/1569.md) [#1574](../miberas/1574.md) [#2196](../miberas/2196.md) [#3201](../miberas/3201.md) [#3278](../miberas/3278.md) [#3366](../miberas/3366.md) [#3628](../miberas/3628.md) [#3747](../miberas/3747.md) [#3761](../miberas/3761.md) [#3968](../miberas/3968.md) [#4166](../miberas/4166.md) [#4305](../miberas/4305.md) [#4365](../miberas/4365.md) [#4403](../miberas/4403.md) (+36 more)
 
@@ -248,7 +248,7 @@
 
 ## Indian
 
-**39 Miberas** | [Learn about Indian →](../core-lore/ancestors.md#indian)
+**39 Miberas** | [Learn about Indian →](../core-lore/ancestors/indian.md)
 
 **S:** [#0951](../miberas/0951.md) [#8475](../miberas/8475.md)
 
@@ -266,7 +266,7 @@
 
 ## Irish Druids
 
-**361 Miberas** | [Learn about Irish Druids →](../core-lore/ancestors.md#irish-druids)
+**361 Miberas** | [Learn about Irish Druids →](../core-lore/ancestors/irish-druids.md)
 
 **S:** [#0584](../miberas/0584.md) [#0819](../miberas/0819.md) [#1231](../miberas/1231.md) [#1384](../miberas/1384.md) [#1628](../miberas/1628.md) [#1805](../miberas/1805.md) [#2550](../miberas/2550.md) [#3325](../miberas/3325.md) [#3408](../miberas/3408.md) [#3566](../miberas/3566.md) [#4381](../miberas/4381.md) [#4501](../miberas/4501.md) [#4954](../miberas/4954.md) [#7369](../miberas/7369.md) [#7583](../miberas/7583.md) [#7718](../miberas/7718.md) [#8193](../miberas/8193.md) [#8263](../miberas/8263.md) [#8469](../miberas/8469.md) [#8536](../miberas/8536.md) (+4 more)
 
@@ -284,7 +284,7 @@
 
 ## Japanese
 
-**276 Miberas** | [Learn about Japanese →](../core-lore/ancestors.md#japanese)
+**276 Miberas** | [Learn about Japanese →](../core-lore/ancestors/japanese.md)
 
 **S:** [#0499](../miberas/0499.md) [#0949](../miberas/0949.md) [#1650](../miberas/1650.md) [#2616](../miberas/2616.md) [#2905](../miberas/2905.md) [#3430](../miberas/3430.md) [#3536](../miberas/3536.md) [#3646](../miberas/3646.md) [#4512](../miberas/4512.md) [#5049](../miberas/5049.md) [#6356](../miberas/6356.md) [#6701](../miberas/6701.md) [#7009](../miberas/7009.md) [#7455](../miberas/7455.md) [#7763](../miberas/7763.md) [#8808](../miberas/8808.md)
 
@@ -302,7 +302,7 @@
 
 ## Mayan
 
-**634 Miberas** | [Learn about Mayan →](../core-lore/ancestors.md#mayan)
+**634 Miberas** | [Learn about Mayan →](../core-lore/ancestors/mayan.md)
 
 **S:** [#0350](../miberas/0350.md) [#0400](../miberas/0400.md) [#0587](../miberas/0587.md) [#1547](../miberas/1547.md) [#1785](../miberas/1785.md) [#2126](../miberas/2126.md) [#2438](../miberas/2438.md) [#2520](../miberas/2520.md) [#2684](../miberas/2684.md) [#2687](../miberas/2687.md) [#2758](../miberas/2758.md) [#2849](../miberas/2849.md) [#2964](../miberas/2964.md) [#3015](../miberas/3015.md) [#3020](../miberas/3020.md) [#3038](../miberas/3038.md) [#3351](../miberas/3351.md) [#3434](../miberas/3434.md) [#3891](../miberas/3891.md) [#4335](../miberas/4335.md) (+27 more)
 
@@ -320,7 +320,7 @@
 
 ## Mongolian
 
-**397 Miberas** | [Learn about Mongolian →](../core-lore/ancestors.md#mongolian)
+**397 Miberas** | [Learn about Mongolian →](../core-lore/ancestors/mongolian.md)
 
 **S:** [#0268](../miberas/0268.md) [#0574](../miberas/0574.md) [#0959](../miberas/0959.md) [#1335](../miberas/1335.md) [#1982](../miberas/1982.md) [#3177](../miberas/3177.md) [#6302](../miberas/6302.md) [#7262](../miberas/7262.md)
 
@@ -338,7 +338,7 @@
 
 ## Native American
 
-**598 Miberas** | [Learn about Native American →](../core-lore/ancestors.md#native-american)
+**598 Miberas** | [Learn about Native American →](../core-lore/ancestors/native-american.md)
 
 **S:** [#0274](../miberas/0274.md) [#0533](../miberas/0533.md) [#1144](../miberas/1144.md) [#1344](../miberas/1344.md) [#1789](../miberas/1789.md) [#2114](../miberas/2114.md) [#2269](../miberas/2269.md) [#2722](../miberas/2722.md) [#2779](../miberas/2779.md) [#2781](../miberas/2781.md) [#2922](../miberas/2922.md) [#3683](../miberas/3683.md) [#4019](../miberas/4019.md) [#4216](../miberas/4216.md) [#4623](../miberas/4623.md) [#5614](../miberas/5614.md) [#6266](../miberas/6266.md) [#6837](../miberas/6837.md) [#6961](../miberas/6961.md) [#7000](../miberas/7000.md) (+4 more)
 
@@ -356,7 +356,7 @@
 
 ## Nepal
 
-**357 Miberas** | [Learn about Nepal →](../core-lore/ancestors.md#nepal)
+**357 Miberas** | [Learn about Nepal →](../core-lore/ancestors/nepal.md)
 
 **S:** [#0039](../miberas/0039.md) [#0044](../miberas/0044.md) [#0197](../miberas/0197.md) [#0841](../miberas/0841.md) [#0876](../miberas/0876.md) [#1539](../miberas/1539.md) [#2236](../miberas/2236.md) [#4052](../miberas/4052.md) [#5692](../miberas/5692.md) [#6431](../miberas/6431.md) [#7895](../miberas/7895.md) [#7918](../miberas/7918.md)
 
@@ -374,7 +374,7 @@
 
 ## Orthodox Jew
 
-**85 Miberas** | [Learn about Orthodox Jew →](../core-lore/ancestors.md#orthodox-jew)
+**85 Miberas** | [Learn about Orthodox Jew →](../core-lore/ancestors/orthodox-jew.md)
 
 **S:** [#0304](../miberas/0304.md) [#4765](../miberas/4765.md) [#7830](../miberas/7830.md) [#9531](../miberas/9531.md)
 
@@ -392,7 +392,7 @@
 
 ## Palestinian
 
-**212 Miberas** | [Learn about Palestinian →](../core-lore/ancestors.md#palestinian)
+**212 Miberas** | [Learn about Palestinian →](../core-lore/ancestors/palestinian.md)
 
 **S:** [#0315](../miberas/0315.md) [#0490](../miberas/0490.md) [#2556](../miberas/2556.md) [#4003](../miberas/4003.md) [#4031](../miberas/4031.md) [#5121](../miberas/5121.md) [#6786](../miberas/6786.md) [#7518](../miberas/7518.md) [#7855](../miberas/7855.md) [#8686](../miberas/8686.md) [#9683](../miberas/9683.md) [#9837](../miberas/9837.md)
 
@@ -410,7 +410,7 @@
 
 ## Polynesian
 
-**159 Miberas** | [Learn about Polynesian →](../core-lore/ancestors.md#polynesian)
+**159 Miberas** | [Learn about Polynesian →](../core-lore/ancestors/polynesian.md)
 
 **B:** [#1015](../miberas/1015.md) [#1332](../miberas/1332.md) [#1474](../miberas/1474.md) [#2870](../miberas/2870.md) [#3067](../miberas/3067.md) [#3585](../miberas/3585.md) [#5979](../miberas/5979.md) [#6828](../miberas/6828.md) [#7506](../miberas/7506.md) [#7570](../miberas/7570.md) [#7732](../miberas/7732.md) [#7868](../miberas/7868.md) [#8895](../miberas/8895.md)
 
@@ -424,7 +424,7 @@
 
 ## Punjabi
 
-**111 Miberas** | [Learn about Punjabi →](../core-lore/ancestors.md#punjabi)
+**111 Miberas** | [Learn about Punjabi →](../core-lore/ancestors/punjabi.md)
 
 **S:** [#2538](../miberas/2538.md) [#5472](../miberas/5472.md) [#7178](../miberas/7178.md)
 
@@ -442,7 +442,7 @@
 
 ## Pythia
 
-**446 Miberas** | [Learn about Pythia →](../core-lore/ancestors.md#pythia)
+**446 Miberas** | [Learn about Pythia →](../core-lore/ancestors/pythia.md)
 
 **S:** [#1180](../miberas/1180.md) [#1389](../miberas/1389.md) [#1967](../miberas/1967.md) [#2818](../miberas/2818.md) [#3285](../miberas/3285.md) [#3537](../miberas/3537.md) [#4654](../miberas/4654.md) [#5379](../miberas/5379.md) [#6840](../miberas/6840.md) [#7151](../miberas/7151.md) [#7185](../miberas/7185.md) [#7487](../miberas/7487.md) [#7790](../miberas/7790.md) [#8198](../miberas/8198.md) [#8418](../miberas/8418.md) [#9215](../miberas/9215.md)
 
@@ -460,7 +460,7 @@
 
 ## Rastafarians
 
-**251 Miberas** | [Learn about Rastafarians →](../core-lore/ancestors.md#rastafarians)
+**251 Miberas** | [Learn about Rastafarians →](../core-lore/ancestors/rastafarians.md)
 
 **S:** [#3327](../miberas/3327.md) [#4702](../miberas/4702.md) [#5769](../miberas/5769.md) [#8968](../miberas/8968.md)
 
@@ -478,7 +478,7 @@
 
 ## Sami
 
-**226 Miberas** | [Learn about Sami →](../core-lore/ancestors.md#sami)
+**226 Miberas** | [Learn about Sami →](../core-lore/ancestors/sami.md)
 
 **S:** [#0412](../miberas/0412.md) [#0591](../miberas/0591.md) [#1691](../miberas/1691.md) [#1732](../miberas/1732.md) [#2442](../miberas/2442.md) [#3041](../miberas/3041.md) [#3095](../miberas/3095.md) [#3999](../miberas/3999.md) [#4064](../miberas/4064.md) [#4177](../miberas/4177.md) [#4306](../miberas/4306.md) [#4524](../miberas/4524.md) [#4684](../miberas/4684.md) [#5012](../miberas/5012.md) [#5950](../miberas/5950.md) [#6111](../miberas/6111.md) [#6476](../miberas/6476.md) [#6764](../miberas/6764.md) [#7494](../miberas/7494.md) [#7581](../miberas/7581.md) (+5 more)
 
@@ -496,7 +496,7 @@
 
 ## Satanist
 
-**276 Miberas** | [Learn about Satanist →](../core-lore/ancestors.md#satanist)
+**276 Miberas** | [Learn about Satanist →](../core-lore/ancestors/satanist.md)
 
 **S:** [#0967](../miberas/0967.md) [#1188](../miberas/1188.md) [#1883](../miberas/1883.md) [#3140](../miberas/3140.md) [#3893](../miberas/3893.md) [#4925](../miberas/4925.md) [#5336](../miberas/5336.md) [#5406](../miberas/5406.md) [#6073](../miberas/6073.md) [#6330](../miberas/6330.md) [#6784](../miberas/6784.md) [#7089](../miberas/7089.md) [#9785](../miberas/9785.md)
 
@@ -514,7 +514,7 @@
 
 ## Sicanje
 
-**257 Miberas** | [Learn about Sicanje →](../core-lore/ancestors.md#sicanje)
+**257 Miberas** | [Learn about Sicanje →](../core-lore/ancestors/sicanje.md)
 
 **S:** [#0563](../miberas/0563.md) [#4320](../miberas/4320.md) [#5161](../miberas/5161.md) [#5787](../miberas/5787.md) [#7076](../miberas/7076.md) [#7382](../miberas/7382.md) [#7954](../miberas/7954.md) [#8792](../miberas/8792.md) [#9227](../miberas/9227.md) [#9907](../miberas/9907.md)
 
@@ -532,7 +532,7 @@
 
 ## Stonewall
 
-**183 Miberas** | [Learn about Stonewall →](../core-lore/ancestors.md#stonewall)
+**183 Miberas** | [Learn about Stonewall →](../core-lore/ancestors/stonewall.md)
 
 **S:** [#0366](../miberas/0366.md) [#0629](../miberas/0629.md) [#0644](../miberas/0644.md) [#1473](../miberas/1473.md) [#2434](../miberas/2434.md) [#4143](../miberas/4143.md) [#4504](../miberas/4504.md) [#4602](../miberas/4602.md) [#5079](../miberas/5079.md) [#5091](../miberas/5091.md) [#5106](../miberas/5106.md) [#6272](../miberas/6272.md) [#6791](../miberas/6791.md) [#6814](../miberas/6814.md) [#9751](../miberas/9751.md)
 
@@ -550,7 +550,7 @@
 
 ## Sufis
 
-**252 Miberas** | [Learn about Sufis →](../core-lore/ancestors.md#sufis)
+**252 Miberas** | [Learn about Sufis →](../core-lore/ancestors/sufis.md)
 
 **S:** [#1023](../miberas/1023.md) [#1514](../miberas/1514.md) [#1678](../miberas/1678.md) [#2125](../miberas/2125.md) [#4727](../miberas/4727.md) [#5184](../miberas/5184.md) [#5714](../miberas/5714.md) [#5715](../miberas/5715.md) [#6329](../miberas/6329.md) [#6486](../miberas/6486.md) [#6931](../miberas/6931.md) [#7796](../miberas/7796.md) [#8092](../miberas/8092.md) [#8994](../miberas/8994.md) [#9248](../miberas/9248.md)
 
@@ -568,7 +568,7 @@
 
 ## Thai
 
-**409 Miberas** | [Learn about Thai →](../core-lore/ancestors.md#thai)
+**409 Miberas** | [Learn about Thai →](../core-lore/ancestors/thai.md)
 
 **S:** [#0021](../miberas/0021.md) [#1149](../miberas/1149.md) [#1423](../miberas/1423.md) [#1734](../miberas/1734.md) [#1750](../miberas/1750.md) [#2093](../miberas/2093.md) [#2645](../miberas/2645.md) [#3028](../miberas/3028.md) [#3080](../miberas/3080.md) [#3126](../miberas/3126.md) [#3190](../miberas/3190.md) [#3528](../miberas/3528.md) [#5139](../miberas/5139.md) [#5163](../miberas/5163.md) [#5175](../miberas/5175.md) [#5730](../miberas/5730.md) [#5989](../miberas/5989.md) [#6043](../miberas/6043.md) [#6504](../miberas/6504.md) [#6860](../miberas/6860.md) (+10 more)
 
@@ -586,7 +586,7 @@
 
 ## Traveller
 
-**91 Miberas** | [Learn about Traveller →](../core-lore/ancestors.md#traveller)
+**91 Miberas** | [Learn about Traveller →](../core-lore/ancestors/traveller.md)
 
 **S:** [#1900](../miberas/1900.md) [#2110](../miberas/2110.md) [#2560](../miberas/2560.md) [#2565](../miberas/2565.md) [#8016](../miberas/8016.md) [#9270](../miberas/9270.md)
 
@@ -602,7 +602,7 @@
 
 ## Turkey
 
-**240 Miberas** | [Learn about Turkey →](../core-lore/ancestors.md#turkey)
+**240 Miberas** | [Learn about Turkey →](../core-lore/ancestors/turkey.md)
 
 **S:** [#2309](../miberas/2309.md) [#5841](../miberas/5841.md) [#6244](../miberas/6244.md) [#9048](../miberas/9048.md) [#9552](../miberas/9552.md) [#9870](../miberas/9870.md)
 

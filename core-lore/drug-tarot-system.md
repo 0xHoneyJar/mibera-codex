@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Mibera Drug-Tarot System is a core mystical framework that maps the 78 cards of the traditional tarot deck to 78 psychoactive substances. Each Mibera carries a drug trait that corresponds to a specific tarot card, linking their identity to both chemical and archetypal forces.
+78 tarot cards mapped to 78 psychoactive substances. Each Mibera carries a drug trait that corresponds to a specific tarot card.
 
 > *"Rave has taught us treasure can come from trash. Taking 'failed' 303s and giving birth to a new genre — a modern take on ancient tribal ritualistic ecstasy for the connection and proliferation of network connection."*
 
@@ -29,36 +29,20 @@ Drugs are classified into three temporal categories:
 Each tarot suit corresponds to an element and carries thematic drug associations:
 
 ### Wands (Fire)
-**Energy, willpower, creativity, passion**
-
-Stimulants and energizing substances that ignite action and drive.
-
-*Examples:*
+Stimulants and energizing substances. Energy, willpower, creativity, passion.
 - Ace of Wands → Ephedra (Ancient)
 - Five of Wands → Dextroamphetamine (Modern)
 
 ### Cups (Water)
-**Emotion, intuition, relationships, flow**
-
-Empathogens, entheogens, and substances that dissolve boundaries and open the heart.
-
-*Examples:*
+Empathogens and entheogens. Emotion, intuition, relationships, flow.
 - MDMA, Psilocybin, Ayahuasca variants
 
 ### Swords (Air)
-**Intellect, truth, conflict, clarity**
-
-Nootropics, dissociatives, and substances that alter perception and thought.
-
-*Examples:*
+Nootropics and dissociatives. Intellect, truth, conflict, clarity.
 - Ketamine, LSD, various research chemicals
 
 ### Pentacles (Earth)
-**Material world, body, stability, grounding**
-
-Sedatives, relaxants, and substances that ground or affect the physical form.
-
-*Examples:*
+Sedatives and relaxants. Body, stability, grounding.
 - Two of Pentacles → Kwao Krua (Ancient)
 - Cannabis, various plant medicines
 
@@ -66,7 +50,7 @@ Sedatives, relaxants, and substances that ground or affect the physical form.
 
 ## Major Arcana
 
-The 22 Major Arcana cards carry the most significant drug associations — powerful substances that represent major archetypal forces:
+The 22 Major Arcana cards carry the most significant drug associations:
 
 | Card | Drug | Type | Molecule | Symbolism |
 |------|------|------|----------|-----------|
@@ -78,7 +62,7 @@ The 22 Major Arcana cards carry the most significant drug associations — power
 
 > *"Kronos — the god of time, chronic time. Like the Grim Reaper with his sickle and scythe, he's the harbinger of death. The instrument of murder and castration. The old hunched man with the long beard. The one who shows up when your time has come."*
 
-*[Full Major Arcana mappings in tarot-cards.md]*
+*[Full Major Arcana mappings in tarot-cards/index.md]*
 
 ---
 
@@ -95,7 +79,7 @@ Many drugs exist in pairs — an ancient plant medicine and its modern synthetic
 | Coca Leaf | Cocaine | Refined alkaloid |
 | Opium Poppy | Morphine/Heroin | Refined alkaloids |
 
-These pairings reflect the time-travelling nature of Miberas — carrying ancient wisdom into modern contexts.
+Ancient plant medicine mapped to modern synthetic descendant.
 
 ---
 
@@ -135,12 +119,12 @@ Drugs also connect to cultural Ancestors based on historical usage:
 ## Detailed References
 
 For complete card-by-card mappings:
-→ [Tarot Cards](tarot-cards.md)
+→ [Tarot Cards](tarot-cards/index.md)
 
 For drug pairing details (Ancient ↔ Modern connections):
 → [Drug Pairings](../drugs-detailed/drug-pairings.md)
 
 For individual drug profiles with molecules, effects, and history:
-→ [Modern Drugs](../drugs-detailed/modern-drugs.md)
+→ [Drugs](../drugs-detailed/index.md)
 
 ---

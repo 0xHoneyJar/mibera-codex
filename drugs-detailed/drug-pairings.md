@@ -8,11 +8,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Ephedra
+**Ancient Drug:** [Ephedra](ephedra.md)
 
-**Modern Drug:** Dextroamphetamine
+**Modern Drug:** [Dextroamphetamine](dextroamphetamine.md)
 
-**Ancestor:** Chinese, Palestinian
+**Ancestor:** [Chinese](../core-lore/ancestors/chinese.md), [Palestinian](../core-lore/ancestors/palestinian.md)
 
 **Associated Molecules:** C10H15NO, C9H13N
 
@@ -44,11 +44,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Ephedra
+**Ancient Drug:** [Ephedra](ephedra.md)
 
-**Modern Drug:** Methamphetamine
+**Modern Drug:** [Methamphetamine](methamphetamine.md)
 
-**Ancestor:** Chinese, Palestinian
+**Ancestor:** [Chinese](../core-lore/ancestors/chinese.md), [Palestinian](../core-lore/ancestors/palestinian.md)
 
 **Associated Molecules:** C10H15NO, C10H15N
 
@@ -80,11 +80,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Kwao Krua
+**Ancient Drug:** [Kwao Krua](kwao-krua.md)
 
-**Modern Drug:** Estrogen
+**Modern Drug:** [Estrogen](estrogen.md)
 
-**Ancestor:** Thai
+**Ancestor:** [Thai](../core-lore/ancestors/thai.md)
 
 **Associated Molecules:** C20H22O5, C18H24O2
 
@@ -118,11 +118,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Khat
+**Ancient Drug:** [Khat](khat.md)
 
-**Modern Drug:** M-Cat
+**Modern Drug:** [M-Cat](m-cat.md)
 
-**Ancestor:** Ethiopian
+**Ancestor:** [Ethiopian](../core-lore/ancestors/ethiopian.md)
 
 **Associated Molecules:** C9H11NO , C11H15NO
 
@@ -156,11 +156,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Ayahuasca
+**Ancient Drug:** [Ayahuasca](ayahuasca.md)
 
-**Modern Drug:** DMT
+**Modern Drug:** [DMT](dmt.md)
 
-**Ancestor:** Mayan, Aboriginal, Native American
+**Ancestor:** [Mayan](../core-lore/ancestors/mayan.md), [Aboriginal](../core-lore/ancestors/aboriginal.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C12H16N2
 
@@ -194,11 +194,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Ancestral Trance
+**Ancient Drug:** [Ancestral Trance](ancestral-trance.md)
 
-**Modern Drug:** LSD
+**Modern Drug:** [LSD](lsd.md)
 
-**Ancestor:** Mayan, Aboriginal, Native American
+**Ancestor:** [Mayan](../core-lore/ancestors/mayan.md), [Aboriginal](../core-lore/ancestors/aboriginal.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C20H25N3O
 
@@ -228,11 +228,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Mushroom
+**Ancient Drug:** [Mushroom](mushrooms.md)
 
-**Modern Drug:** Psicaletin
+**Modern Drug:** [Psicaletin](psilacetin.md)
 
-**Ancestor:** Irish Druids, Buddhist, Sami
+**Ancestor:** [Irish Druids](../core-lore/ancestors/irish-druids.md), [Buddhist](../core-lore/ancestors/buddhist.md), [Sami](../core-lore/ancestors/sami.md)
 
 **Associated Molecules:** C12H17N2O4P, C14H18N2O2
 
@@ -266,11 +266,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Ethylene
+**Ancient Drug:** [Ethylene](ethylene.md)
 
-**Modern Drug:** NOS
+**Modern Drug:** [NOS](nos.md)
 
-**Ancestor:** Pythia
+**Ancestor:** [Pythia](../core-lore/ancestors/pythia.md)
 
 **Associated Molecules:** C2H4, N2O
 
@@ -298,11 +298,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Nutmeg
+**Ancient Drug:** [Nutmeg](nutmeg.md)
 
-**Modern Drug:** MMDA
+**Modern Drug:** [MMDA](mmda.md)
 
-**Ancestor:** Arabs
+**Ancestor:** [Arabs](../core-lore/ancestors/arabs.md)
 
 **Associated Molecules:** C11H12O3, C11H15NO3
 
@@ -334,11 +334,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Tobacco
+**Ancient Drug:** [Tobacco](tobacco.md)
 
-**Modern Drug:** Nicotine
+**Modern Drug:** [Nicotine](nicotine.md)
 
-**Ancestor:** Hindu, Native American, Aboriginal
+**Ancestor:** [Hindu](../core-lore/ancestors/hindu.md), [Native American](../core-lore/ancestors/native-american.md), [Aboriginal](../core-lore/ancestors/aboriginal.md)
 
 **Associated Molecules:** C10H14N2
 
@@ -366,11 +366,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Coca
+**Ancient Drug:** [Coca](coca.md)
 
-**Modern Drug:** Cocaine
+**Modern Drug:** [Cocaine](cocaine.md)
 
-**Ancestor:** Ballroom
+**Ancestor:** [Ballroom](../core-lore/ancestors/ballroom.md)
 
 **Associated Molecules:** C17H21NO4
 
@@ -402,11 +402,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Euphoria
+**Ancient Drug:** [Euphoria](euphoria.md)
 
-**Modern Drug:** Sober
+**Modern Drug:** [Sober](sober.md)
 
-**Ancestor:** Mongolian
+**Ancestor:** [Mongolian](../core-lore/ancestors/mongolian.md)
 
 **Associated Molecules:** C8H11NO2, C10H12N2O
 
@@ -434,11 +434,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Sugarcane
+**Ancient Drug:** [Sugarcane](sugarcane.md)
 
-**Modern Drug:** Ethanol
+**Modern Drug:** [Ethanol](ethanol.md)
 
-**Ancestor:** Hindu, Sicanje
+**Ancestor:** [Hindu](../core-lore/ancestors/hindu.md), [Sicanje](../core-lore/ancestors/sicanje.md)
 
 **Associated Molecules:** C12H22O11, CH3CH2OH
 
@@ -466,11 +466,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Sassafras
+**Ancient Drug:** [Sassafras](sassafras.md)
 
-**Modern Drug:** MDMA
+**Modern Drug:** [MDMA](mdma.md)
 
-**Ancestor:** Native American
+**Ancestor:** [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C10H10O2, C11H15NO2
 
@@ -498,11 +498,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Sassafras
+**Ancient Drug:** [Sassafras](sassafras.md)
 
-**Modern Drug:** MDA
+**Modern Drug:** [MDA](mda.md)
 
-**Ancestor:** Native American
+**Ancestor:** [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C10H10O2, C10H13NO2
 
@@ -530,11 +530,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Lithium
+**Ancient Drug:** [Lithium](lithium.md)
 
-**Modern Drug:** Lamotrigine
+**Modern Drug:** [Lamotrigine](lamotrigine.md)
 
-**Ancestor:** Irish Druids
+**Ancestor:** [Irish Druids](../core-lore/ancestors/irish-druids.md)
 
 **Associated Molecules:** Li2CO3, C9H7CI2N5
 
@@ -562,11 +562,11 @@
 
 ### Pairing
 
-**Ancient Drug:** St. John's Wort
+**Ancient Drug:** [St. John's Wort](st-johns-wort.md)
 
-**Modern Drug:** Sertraline
+**Modern Drug:** [Sertraline](sertraline.md)
 
-**Ancestor:** Greek
+**Ancestor:** [Greek](../core-lore/ancestors/greek.md)
 
 **Associated Molecules:** C30H16O8, C17H17CI2N
 
@@ -596,11 +596,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Sakae Naa
+**Ancient Drug:** [Sakae Naa](sakae-naa.md)
 
-**Modern Drug:** Kratom
+**Modern Drug:** [Kratom](kratom.md)
 
-**Ancestor:** Thai
+**Ancestor:** [Thai](../core-lore/ancestors/thai.md)
 
 **Associated Molecules:** C20H20O8, C23H30N2O4
 
@@ -628,11 +628,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Brahmi
+**Ancient Drug:** [Brahmi](brahmi.md)
 
-**Modern Drug:** Piracetam
+**Modern Drug:** [Piracetam](piracetam.md)
 
-**Ancestor:** Hindu
+**Ancestor:** [Hindu](../core-lore/ancestors/hindu.md)
 
 **Associated Molecules:** C41H68O13, C6H10N2O2
 
@@ -660,11 +660,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Yohimbe
+**Ancient Drug:** [Yohimbe](yohimbine.md)
 
-**Modern Drug:** Sildenafil
+**Modern Drug:** [Sildenafil](sildenafil.md)
 
-**Ancestor:** Gabon
+**Ancestor:** [Gabon](../core-lore/ancestors/gabon.md)
 
 **Associated Molecules:** C21H26N2O3, C22H30N6O4S
 
@@ -692,11 +692,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Bhang
+**Ancient Drug:** [Bhang](bhang.md)
 
-**Modern Drug:** THC Edibles
+**Modern Drug:** [THC Edibles](thc-edibles.md)
 
-**Ancestor:** Hindu
+**Ancestor:** [Hindu](../core-lore/ancestors/hindu.md)
 
 **Associated Molecules:** C21H30O2
 
@@ -724,11 +724,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Nymphaea Caerulea
+**Ancient Drug:** [Nymphaea Caerulea](nymphaea-caerulea.md)
 
-**Modern Drug:** Poppers
+**Modern Drug:** [Poppers](poppers.md)
 
-**Ancestor:** Greek, Stonewall
+**Ancestor:** [Greek](../core-lore/ancestors/greek.md), [Stonewall](../core-lore/ancestors/stonewall.md)
 
 **Associated Molecules:** C17H17NO2, C5H11ONO
 
@@ -760,11 +760,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Ethanol
+**Ancient Drug:** [Ethanol](ethanol.md)
 
-**Modern Drug:** Alcohol
+**Modern Drug:** [Alcohol](alcohol.md)
 
-**Ancestor:** Sicanje
+**Ancestor:** [Sicanje](../core-lore/ancestors/sicanje.md)
 
 **Associated Molecules:** CH3CH2OH
 
@@ -798,11 +798,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Tea
+**Ancient Drug:** [Tea](tea.md)
 
-**Modern Drug:** Caffeine
+**Modern Drug:** [Caffeine](caffeine.md)
 
-**Ancestor:** Chinese, Japanese, Ethiopian, Arabs, Traveller, Japanese
+**Ancestor:** [Chinese](../core-lore/ancestors/chinese.md), [Japanese](../core-lore/ancestors/japanese.md), [Ethiopian](../core-lore/ancestors/ethiopian.md), [Arabs](../core-lore/ancestors/arabs.md), Traveller, [Japanese](../core-lore/ancestors/japanese.md)
 
 **Associated Molecules:** C8H10N4O2
 
@@ -832,11 +832,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Coffee
+**Ancient Drug:** [Coffee](coffee.md)
 
-**Modern Drug:** Caffeine
+**Modern Drug:** [Caffeine](caffeine.md)
 
-**Ancestor:** Ethiopian, Arabs, Traveller, Chinese, Japanese
+**Ancestor:** [Ethiopian](../core-lore/ancestors/ethiopian.md), [Arabs](../core-lore/ancestors/arabs.md), Traveller, [Chinese](../core-lore/ancestors/chinese.md), [Japanese](../core-lore/ancestors/japanese.md)
 
 **Associated Molecules:** C8H10N4O2
 
@@ -866,11 +866,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Iboga
+**Ancient Drug:** [Iboga](iboga.md)
 
-**Modern Drug:** Ibogaine
+**Modern Drug:** [Ibogaine](ibogaine.md)
 
-**Ancestor:** Gabon
+**Ancestor:** [Gabon](../core-lore/ancestors/gabon.md)
 
 **Associated Molecules:** C20H26N2O
 
@@ -896,11 +896,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Ashwagandha
+**Ancient Drug:** [Ashwagandha](ashwagandha.md)
 
-**Modern Drug:** Testosterone
+**Modern Drug:** [Testosterone](testosterone.md)
 
-**Ancestor:** Hindu
+**Ancestor:** [Hindu](../core-lore/ancestors/hindu.md)
 
 **Associated Molecules:** C28H40O8, C19H28O2
 
@@ -926,11 +926,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Kykeon
+**Ancient Drug:** [Kykeon](kykeon.md)
 
-**Modern Drug:** Shroom Tea
+**Modern Drug:** [Shroom Tea](shroom-tea.md)
 
-**Ancestor:** Greek
+**Ancestor:** [Greek](../core-lore/ancestors/greek.md)
 
 **Associated Molecules:** C33H35N5O5, C19H28O2
 
@@ -960,11 +960,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Weed
+**Ancient Drug:** [Weed](weed.md)
 
-**Modern Drug:** Weed
+**Modern Drug:** [Weed](weed.md)
 
-**Ancestor:** Rastafarians
+**Ancestor:** [Rastafarians](../core-lore/ancestors/rastafarians.md)
 
 **Associated Molecules:** C21H30O2
 
@@ -992,11 +992,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Peyote
+**Ancient Drug:** [Peyote](peyote.md)
 
-**Modern Drug:** 2C-B
+**Modern Drug:** [2C-B](2c-b.md)
 
-**Ancestor:** Native American
+**Ancestor:** [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C11H17NO3, C10H14BrNO2
 
@@ -1026,11 +1026,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Grayanotoxin
+**Ancient Drug:** [Grayanotoxin](grayanotoxin.md)
 
-**Modern Drug:** Ketamine
+**Modern Drug:** [Ketamine](ketamine.md)
 
-**Ancestor:** Nepal, Turkey
+**Ancestor:** [Nepal](../core-lore/ancestors/nepal.md), [Turkey](../core-lore/ancestors/turkey.md)
 
 **Associated Molecules:** C20H34O5, C13H16CINO
 
@@ -1058,11 +1058,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Sober
+**Ancient Drug:** [Sober](sober.md)
 
-**Modern Drug:** Clear Pill
+**Modern Drug:** [Clear Pill](clear-pill.md)
 
-**Ancestor:** Mongolian, Satanists
+**Ancestor:** [Mongolian](../core-lore/ancestors/mongolian.md), [Satanists](../core-lore/ancestors/satanist.md)
 
 **Associated Molecules:** C10H12N2O, C8H11NO2
 
@@ -1090,11 +1090,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Kava
+**Ancient Drug:** [Kava](kava.md)
 
-**Modern Drug:** CBD
+**Modern Drug:** [CBD](cbd.md)
 
-**Ancestor:** Polynesian, Aboriginal, Chinese, Native American
+**Ancestor:** [Polynesian](../core-lore/ancestors/polynesian.md), [Aboriginal](../core-lore/ancestors/aboriginal.md), [Chinese](../core-lore/ancestors/chinese.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C14H16O3, C21H30O2
 
@@ -1122,11 +1122,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Mandrake
+**Ancient Drug:** [Mandrake](mandrake.md)
 
-**Modern Drug:** Xanax
+**Modern Drug:** [Xanax](xanax.md)
 
-**Ancestor:** Greek, Arabs, Hindu
+**Ancestor:** [Greek](../core-lore/ancestors/greek.md), [Arabs](../core-lore/ancestors/arabs.md), [Hindu](../core-lore/ancestors/hindu.md)
 
 **Associated Molecules:** C17H21NO4, C17H13CIN4
 
@@ -1154,11 +1154,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Mimosa Tenuiflora
+**Ancient Drug:** [Mimosa Tenuiflora](mimosa-tenuiflora.md)
 
-**Modern Drug:** DMT
+**Modern Drug:** [DMT](dmt.md)
 
-**Ancestor:** Mayan, Aboriginal, Native American
+**Ancestor:** [Mayan](../core-lore/ancestors/mayan.md), [Aboriginal](../core-lore/ancestors/aboriginal.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C12H16N2
 
@@ -1186,11 +1186,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Ololiuqui
+**Ancient Drug:** [Ololiuqui](ololiuqui.md)
 
-**Modern Drug:** LSD
+**Modern Drug:** [LSD](lsd.md)
 
-**Ancestor:** Mayan, Aboriginal, Haitians
+**Ancestor:** [Mayan](../core-lore/ancestors/mayan.md), [Aboriginal](../core-lore/ancestors/aboriginal.md), [Haitians](../core-lore/ancestors/haitian.md)
 
 **Associated Molecules:** C20H25N3O
 
@@ -1218,11 +1218,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Pituri
+**Ancient Drug:** [Pituri](pituri.md)
 
-**Modern Drug:** Chewing Tobacco
+**Modern Drug:** [Chewing Tobacco](chewing-tobacco.md)
 
-**Ancestor:** Aboriginal, Hindu, Native American
+**Ancestor:** [Aboriginal](../core-lore/ancestors/aboriginal.md), [Hindu](../core-lore/ancestors/hindu.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C10H14N2
 
@@ -1250,11 +1250,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Acacia
+**Ancient Drug:** [Acacia](acacia.md)
 
-**Modern Drug:** DMT
+**Modern Drug:** [DMT](dmt.md)
 
-**Ancestor:** Aboriginal, Mayan, Native American
+**Ancestor:** [Aboriginal](../core-lore/ancestors/aboriginal.md), [Mayan](../core-lore/ancestors/mayan.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C12H16N2
 
@@ -1284,11 +1284,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Arundo Donax
+**Ancient Drug:** [Arundo Donax](arundo-donax.md)
 
-**Modern Drug:** DMT
+**Modern Drug:** [DMT](dmt.md)
 
-**Ancestor:** Aboriginal, Mayan, Native American
+**Ancestor:** [Aboriginal](../core-lore/ancestors/aboriginal.md), [Mayan](../core-lore/ancestors/mayan.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C12H16N2
 
@@ -1318,11 +1318,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Henbane
+**Ancient Drug:** [Henbane](henbane.md)
 
-**Modern Drug:** Scopolamine
+**Modern Drug:** [Scopolamine](scopolamine.md)
 
-**Ancestor:** Greek, Arab
+**Ancestor:** [Greek](../core-lore/ancestors/greek.md), [Arab](../core-lore/ancestors/arabs.md)
 
 **Associated Molecules:** C17H21NO4
 
@@ -1348,11 +1348,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Tabernaemontana
+**Ancient Drug:** [Tabernaemontana](tabernaemontana.md)
 
-**Modern Drug:** Ibogaine
+**Modern Drug:** [Ibogaine](ibogaine.md)
 
-**Ancestor:** Gabon
+**Ancestor:** [Gabon](../core-lore/ancestors/gabon.md)
 
 **Associated Molecules:** C21H26N2O3, C20H26N2O
 
@@ -1380,11 +1380,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Syrian Rue
+**Ancient Drug:** [Syrian Rue](syrian-rue.md)
 
-**Modern Drug:** Iproniazid
+**Modern Drug:** [Iproniazid](iproniazid.md)
 
-**Ancestor:** Sufi, Native American
+**Ancestor:** [Sufi](../core-lore/ancestors/sufis.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C13H14N2O, C9H13N3O
 
@@ -1414,11 +1414,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Bufotenine
+**Ancient Drug:** [Bufotenine](bufotenine.md)
 
-**Modern Drug:** Bufotenin
+**Modern Drug:** [Bufotenin](bufotenine.md)
 
-**Ancestor:** Native American
+**Ancestor:** [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C12H16N2O
 
@@ -1446,11 +1446,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Psychotria Viridis
+**Ancient Drug:** [Psychotria Viridis](psychotria-viridis.md)
 
-**Modern Drug:** Datura
+**Modern Drug:** [Datura](datura.md)
 
-**Ancestor:** Native American, Mayan
+**Ancestor:** [Native American](../core-lore/ancestors/native-american.md), [Mayan](../core-lore/ancestors/mayan.md)
 
 **Associated Molecules:** C12H16N2, C17H23NO3
 
@@ -1476,11 +1476,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Datura
+**Ancient Drug:** [Datura](datura.md)
 
-**Modern Drug:** Benadryl
+**Modern Drug:** [Benadryl](benadryl.md)
 
-**Ancestor:** Native American
+**Ancestor:** [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C17H23NO3, C17H21NO
 
@@ -1506,11 +1506,11 @@
 
 ### Pairing
 
-**Ancient Drug:** Mucuna Pruriens
+**Ancient Drug:** [Mucuna Pruriens](mucana-pruriens.md)
 
-**Modern Drug:** DMT
+**Modern Drug:** [DMT](dmt.md)
 
-**Ancestor:** Hindu, Mayan, Aboriginal, Native American
+**Ancestor:** [Hindu](../core-lore/ancestors/hindu.md), [Mayan](../core-lore/ancestors/mayan.md), [Aboriginal](../core-lore/ancestors/aboriginal.md), [Native American](../core-lore/ancestors/native-american.md)
 
 **Associated Molecules:** C9H11NO4, C12H16N2
 
