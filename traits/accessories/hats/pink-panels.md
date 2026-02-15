@@ -1,0 +1,69 @@
+---
+name: Pink Panels
+image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_milady_Pink%20Panels.webp"
+archetype: Milady
+swag_score: 1
+date_added: "July 27, 2024"
+---
+
+# Pink Panels
+
+## Visual Properties
+
+
+**Image Files:**
+![Pink Panels](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_milady_Pink%20Panels.webp)
+
+
+**Visual Description:** Cap in black and hot pink color divided per section.
+
+**Dominant Colors:** Black, hot pink
+
+
+---
+
+## Cultural Context
+
+
+**Cultural Origin:** 
+
+**Era:**
+
+
+**Why This Matters:**
+
+
+---
+
+## Mibera Integration
+
+**Archetype:** [Milady](../../../core-lore/archetypes.md#milady)
+
+**Archetype Alignment:** 
+
+
+**Swag Score:** 1
+
+
+---
+
+## Connections
+
+**Ancestor:** 
+
+---
+
+## Attribution
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---

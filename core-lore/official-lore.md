@@ -15,7 +15,6 @@ The Mibera lore consists of 7 official articles plus a README, published on Mirr
 - Music tracks produced by Babybera
 - Posters produced by Gods
 
-Since Mibera's birth, roughly 333 ETH has been raised across ~8,000 mints of lore articles, videos, music tracks, and posters.
 
 **Publication Timeline:**
 

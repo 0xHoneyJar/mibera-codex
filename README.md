@@ -27,7 +27,7 @@ The genesis mythology and philosophical framework.
 ### II. The Framework
 The four Rave Tribes and cultural lineages.
 - [Archetypes](core-lore/archetypes.md) — Freetekno, Milady, Chicago Detroit, Acidhouse
-- [Ancestors](core-lore/ancestors.md) — Hindu, Mayan, Greek, Native American, and more
+- [Ancestors](core-lore/ancestors/index.md) — Hindu, Mayan, Greek, Native American, and more
 
 ### III. The Mysticism
 Cosmic and chemical systems that define each Mibera.

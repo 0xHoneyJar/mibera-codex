@@ -1,0 +1,69 @@
+---
+name: club mate
+image: SS3_freetekno_Club Mate.png
+archetype: freetekno
+swag_score: 3
+date_added: "July 7, 2024"
+---
+
+# club mate
+
+## Visual Properties
+
+
+**Image Files:**
+SS3_freetekno_Club Mate.png
+
+
+**Visual Description:** a glass bottle of beverage with light orange liquid that appears fizzy, and a blue bottle lid. The beverage is labeled “CLUB-MATE”.
+
+**Dominant Colors:** light orange, blue
+
+
+---
+
+## Cultural Context
+
+
+**Cultural Origin:** 
+
+**Era:**
+
+
+**Why This Matters:** Club-Mate is a caffeinated mate tea that became the unofficial drink of Berlin's techno scene and hacker culture. It fuels late-night coding sessions and all-night raves equally, symbolizing the overlap between tech and electronic music.
+
+
+---
+
+## Mibera Integration
+
+**Archetype:** [freetekno](../../../core-lore/archetypes.md#freetekno)
+
+**Archetype Alignment:** 
+
+
+**Swag Score:** 3
+
+
+---
+
+## Connections
+
+**Ancestor:** 
+
+---
+
+## Attribution
+
+**Date Added:** July 7, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** "Club Mate and other similar brands are made from roasted mate which tastes a lot different from mate drunk from gourds actually" — Puerhood, Jan 2024, #milady-week | "I was disappointed that similar-looking mate drink I saw in Brazil was nothing like club mate. It was super sweet and not sparkling" — Puerhood, Jan 2024, #milady-week
+
+**Sources:**
+- https://discord.com/channels/1133935527855399053/1143685538075902095/11674457119740
+
+**Summary:** 
+
+---

@@ -1,0 +1,69 @@
+---
+name: Grateful Dead Yellow
+image: SS4_grateful dead yellow.png
+archetype: "**Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore."
+swag_score: 4
+date_added: "June 4, 2024"
+---
+
+# Grateful Dead Yellow
+
+## Visual Properties
+
+
+**Image Files:**
+SS4_grateful dead yellow.png
+
+
+**Visual Description:** Earring of a dancing / walking bear in yellow, with a pink scarf.
+
+**Dominant Colors:** Yellow, pink
+
+
+---
+
+## Cultural Context
+
+
+**Cultural Origin:** The Grateful Dead was an American rock band formed in 1965, known for their improvisational live performances, psychedelic sound, and dedicated fanbase, the "Deadheads." Blending rock, folk, blues, and jazz, they became counterculture icons, led by Jerry Garcia until his death in 1995.
+
+**Era:**
+
+
+**Why This Matters:**
+
+
+---
+
+## Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore.
+
+
+**Swag Score:** 4
+
+
+---
+
+## Connections
+
+**Ancestor:** 
+
+---
+
+## Attribution
+
+**Date Added:** June 4, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+- https://en.wikipedia.org/wiki/Grateful_Dead
+
+**Summary:** 
+
+---
