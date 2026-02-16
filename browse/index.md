@@ -57,10 +57,10 @@
 
 | Element | Count |
 |---------|-------|
-| Air | 4,237 |
-| Earth | 2,829 |
-| Fire | 1,586 |
-| Water | 1,348 |
+| Air | ~2,500 |
+| Earth | ~2,500 |
+| Fire | ~2,500 |
+| Water | ~2,500 |
 
 ### [By Birthday Era →](by-era.md)
 *When was this Mibera born?*
