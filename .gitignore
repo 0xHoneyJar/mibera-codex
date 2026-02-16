@@ -34,6 +34,7 @@ mireveals/*/webp_part*/
 .obsidian/
 
 # Loa framework (development tooling, not part of codex)
+CLAUDE.md
 .claude/
 .beads/
 .run/
