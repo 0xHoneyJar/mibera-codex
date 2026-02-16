@@ -3,7 +3,7 @@ name: sakae naa
 image: Ss4_milady_ancient_thai_sakae naa.PNG
 archetype: milady
 swag_score: 4
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # sakae naa

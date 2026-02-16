@@ -3,7 +3,7 @@ name: DARE Memecoins
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "June 8, 2024"
+date_added: "2024-06-08"
 ---
 
 # DARE Memecoins

@@ -3,7 +3,7 @@ name: Rainbow Spiky Ball
 image: SS5_rainbow spiky ball.png
 archetype: "**Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture."
 swag_score: 5
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Rainbow Spiky Ball

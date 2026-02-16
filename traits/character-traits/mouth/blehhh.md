@@ -1,7 +1,7 @@
 ---
 name: blehhh
 image: "https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/blehhh__w5.webp"
-date_added: "June 5, 2024"
+date_added: "2024-06-05"
 ---
 
 # blehhh

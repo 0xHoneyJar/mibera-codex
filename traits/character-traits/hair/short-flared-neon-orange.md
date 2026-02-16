@@ -1,7 +1,7 @@
 ---
 name: short flared neon orange
 image: Short Flared Neon Orange__w16.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # short flared neon orange

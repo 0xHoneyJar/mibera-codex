@@ -3,7 +3,7 @@ name: wolf head
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_milady_ancient_mongolian_Wolf%20Head.webp"
 archetype: milady
 swag_score: 5
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # wolf head

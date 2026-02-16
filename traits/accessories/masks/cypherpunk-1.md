@@ -3,7 +3,7 @@ name: Cypherpunk 1
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_Cypherpunk 1.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "July 17, 2024"
+date_added: "2024-07-17"
 ---
 
 # Cypherpunk 1

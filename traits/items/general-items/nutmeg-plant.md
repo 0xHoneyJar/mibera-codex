@@ -3,7 +3,7 @@ name: nutmeg plant
 image: SS2_ancient_arabs_nutmeg.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # nutmeg plant

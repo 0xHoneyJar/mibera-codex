@@ -1,7 +1,7 @@
 ---
 name: sleepy lilac
 image: "https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Sleepy%20Lilac__w9.webp"
-date_added: "June 3, 2024"
+date_added: "2024-06-03"
 ---
 
 # sleepy lilac

@@ -13,7 +13,7 @@
 - [Eight of Pentacles](eight-of-pentacles.md) — Brahmi
 - [Eight of Swords](eight-of-swords.md) — Acacia
 - [Eight of Wands](eight-of-wands.md) — St. John's Wort
-- [Five of Cups](five-of-cups.md) — Sakae Naa
+- [Five of Cups](five-of-cups.md) — Sakae Na
 - [Five of Pentacles](five-of-pentacles.md) — Mimosa Tenuiflora
 - [Five of Swords](five-of-swords.md) — Scopolamine
 - [Five of Wands](five-of-wands.md) — Dextroamphetamine
@@ -131,7 +131,7 @@
 
 - [Ace of Cups](ace-of-cups.md) — Bhang
 - [Eight of Cups](eight-of-cups.md) — THC Edibles
-- [Five of Cups](five-of-cups.md) — Sakae Naa
+- [Five of Cups](five-of-cups.md) — Sakae Na
 - [Four of Cups](four-of-cups.md) — Sertraline
 - [King of Cups](king-of-cups.md) — Peyote
 - [Knight of Cups](knight-of-cups.md) — Ibogaine

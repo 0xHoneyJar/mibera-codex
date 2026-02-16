@@ -1,7 +1,7 @@
 ---
 name: normal brown
 image: Normal Brown__w24.png Normal Brown__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # normal brown

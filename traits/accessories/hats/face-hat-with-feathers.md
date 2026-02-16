@@ -3,7 +3,7 @@ name: Face Hat with Feathers
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_ancient_mongolian_Face%20Hat%20With%20Feathers.webp"
 archetype: Acidhouse
 swag_score: 4
-date_added: "July 26, 2024"
+date_added: "2024-07-26"
 ---
 
 # Face Hat with Feathers

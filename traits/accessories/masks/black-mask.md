@@ -3,7 +3,7 @@ name: Black Mask
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS2_freetekno_Black Mask.webp"
 archetype: Freetekno
 swag_score: 2
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Black Mask

@@ -3,7 +3,7 @@ name: FTX Risk Management
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_acidhouse_FTX%20Risk%20Management.webp"
 archetype: Acidhouse
 swag_score: 1
-date_added: "July 26, 2024"
+date_added: "2024-07-26"
 ---
 
 # FTX Risk Management

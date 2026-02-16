@@ -3,7 +3,7 @@ name: Aboriginal Flag
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_freetekno_Aboriginal%20Flag.webp"
 archetype: Freetekno
 swag_score: 2
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Aboriginal Flag

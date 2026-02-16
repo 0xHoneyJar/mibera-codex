@@ -3,7 +3,7 @@ name: otyken honey
 image: SS4_milady_Otyken Honey.png
 archetype: milady
 swag_score: 4
-date_added: "July 13, 2024"
+date_added: "2024-07-13"
 ---
 
 # otyken honey

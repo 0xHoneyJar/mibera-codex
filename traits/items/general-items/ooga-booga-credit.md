@@ -3,7 +3,7 @@ name: ooga booga credit
 image: SS4_Ooga Booga Credit.png
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "July 12, 2024"
+date_added: "2024-07-12"
 ---
 
 # ooga booga credit

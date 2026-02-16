@@ -1,7 +1,7 @@
 ---
 name: Record Store
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/Record%20Store.webp"
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Record Store

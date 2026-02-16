@@ -3,7 +3,7 @@ name: Pearl
 image: SS2_pearl.png
 archetype: "**Archetype Alignment:** Inspired by Ron Hardy’s look in an article with Redbull Music Academy, making it related to Chicago Detroit culture."
 swag_score: 2
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Pearl

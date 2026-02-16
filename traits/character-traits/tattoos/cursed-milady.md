@@ -2,8 +2,8 @@
 name: Cursed Milady
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Cursed%20Milady.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: "- https://discord.com/channels/1133935527855399053/1260863409134637136/12608646906498 25311"
-date_added: "August 6, 2024"
+swag_score: null
+date_added: "2024-08-06"
 ---
 
 # Cursed Milady

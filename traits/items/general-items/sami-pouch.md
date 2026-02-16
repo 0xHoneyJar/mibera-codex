@@ -3,7 +3,7 @@ name: sami pouch
 image: SS5_acidhouse_modern_sami_Sami Pouch.png
 archetype: acidhouse
 swag_score: 5
-date_added: "July 12, 2024"
+date_added: "2024-07-12"
 ---
 
 # sami pouch

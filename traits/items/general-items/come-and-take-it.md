@@ -3,7 +3,7 @@ name: come and take it
 image: SS2_Come and Take It.png
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "July 16, 2024"
+date_added: "2024-07-16"
 ---
 
 # come and take it

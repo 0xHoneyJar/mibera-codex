@@ -1,7 +1,7 @@
 ---
 name: normal blonde
 image: Normal Blonde__w20.png Normal Blonde__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # normal blonde

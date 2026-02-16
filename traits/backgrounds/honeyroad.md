@@ -1,7 +1,7 @@
 ---
 name: Honeyroad
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/honeyroad.webp"
-date_added: "March 21, 2025"
+date_added: "2025-03-21"
 ---
 
 # Honeyroad

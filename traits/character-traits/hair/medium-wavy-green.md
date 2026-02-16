@@ -1,7 +1,7 @@
 ---
 name: medium wavy green
 image: Medium Wavy Green__w8.png
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # medium wavy green

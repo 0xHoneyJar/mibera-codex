@@ -2,8 +2,8 @@
 name: big 80s
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Big 80s.webp"
 archetype: chicago detroit.
-swag_score: ---
-date_added: "June 18, 2024"
+swag_score: null
+date_added: "2024-06-18"
 ---
 
 # big 80s

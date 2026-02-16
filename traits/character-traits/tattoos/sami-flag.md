@@ -2,8 +2,8 @@
 name: Sami Flag
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_sami_Sami%20Flag.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "August 10, 2024"
+swag_score: null
+date_added: "2024-08-10"
 ---
 
 # Sami Flag

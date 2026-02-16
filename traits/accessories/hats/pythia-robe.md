@@ -3,7 +3,7 @@ name: Pythia Robe
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_ancient_pythia_Pythia%20Robe.webp"
 archetype: Chicago Detroit
 swag_score: 4
-date_added: "July 26, 2024"
+date_added: "2024-07-26"
 ---
 
 # Pythia Robe

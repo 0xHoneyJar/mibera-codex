@@ -3,7 +3,7 @@ name: Black Turtleneck
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG"
 archetype: Chicago Detroit
 swag_score: 2
-date_added: "June 25, 2024"
+date_added: "2024-06-25"
 ---
 
 # Black Turtleneck

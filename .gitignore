@@ -32,3 +32,14 @@ images/
 mireveals/*/webp/
 mireveals/*/webp_part*/
 .obsidian/
+
+# Loa framework (development tooling, not part of codex)
+.claude/
+.beads/
+.run/
+.loa.config.yaml
+.loa-version.json
+.gitattributes
+PROCESS.md
+INSTALLATION.md
+grimoires/loa/

@@ -3,7 +3,7 @@ name: pituri plant
 image: SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 archetype: chicago detroit
 swag_score: 2
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # pituri plant

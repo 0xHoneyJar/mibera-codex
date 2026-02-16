@@ -1,0 +1,135 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "mibera.schema.json",
+  "title": "Mibera Entry",
+  "description": "Schema for Mibera YAML frontmatter (miberas/NNNN.md)",
+  "type": "object",
+  "required": [
+    "id", "type", "archetype", "ancestor", "time_period", "birthday",
+    "birth_coordinates", "sun_sign", "moon_sign", "ascending_sign",
+    "element", "swag_rank", "swag_score", "background", "body",
+    "eyes", "eyebrows", "mouth", "drug"
+  ],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10000,
+      "description": "Mibera numeric ID (1-10000)"
+    },
+    "type": {
+      "const": "mibera",
+      "description": "Entity type discriminator"
+    },
+    "archetype": {
+      "type": "string",
+      "enum": ["Freetekno", "Milady", "Acidhouse", "Chicago/Detroit"],
+      "description": "One of 4 archetypes"
+    },
+    "ancestor": {
+      "type": "string",
+      "description": "Cultural ancestor lineage"
+    },
+    "time_period": {
+      "type": "string",
+      "description": "Modern, Ancient, etc."
+    },
+    "birthday": {
+      "type": "string",
+      "description": "Birthday in MM/DD/YYYY Ce/Bce HH:MM format"
+    },
+    "birth_coordinates": {
+      "type": "string",
+      "description": "Latitude, longitude"
+    },
+    "sun_sign": {
+      "type": "string",
+      "description": "Zodiac sun sign"
+    },
+    "moon_sign": {
+      "type": "string",
+      "description": "Zodiac moon sign"
+    },
+    "ascending_sign": {
+      "type": "string",
+      "description": "Zodiac ascending sign"
+    },
+    "element": {
+      "type": "string",
+      "enum": ["Earth", "Fire", "Water", "Air"],
+      "description": "Classical element"
+    },
+    "swag_rank": {
+      "type": "string",
+      "enum": ["S", "A", "B", "C", "D"],
+      "description": "Swag tier ranking"
+    },
+    "swag_score": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Numeric swag score"
+    },
+    "background": {
+      "type": "string",
+      "description": "Background trait"
+    },
+    "body": {
+      "type": "string",
+      "description": "Body trait"
+    },
+    "hair": {
+      "type": ["string", "null"],
+      "description": "Hair trait (null if None)"
+    },
+    "eyes": {
+      "type": "string",
+      "description": "Eyes trait"
+    },
+    "eyebrows": {
+      "type": "string",
+      "description": "Eyebrows trait"
+    },
+    "mouth": {
+      "type": "string",
+      "description": "Mouth trait"
+    },
+    "shirt": {
+      "type": ["string", "null"],
+      "description": "Shirt trait (null if None)"
+    },
+    "hat": {
+      "type": ["string", "null"],
+      "description": "Hat trait (null if None)"
+    },
+    "glasses": {
+      "type": ["string", "null"],
+      "description": "Glasses trait (null if None)"
+    },
+    "mask": {
+      "type": ["string", "null"],
+      "description": "Mask trait (null if None)"
+    },
+    "earrings": {
+      "type": ["string", "null"],
+      "description": "Earrings trait (null if None)"
+    },
+    "face_accessory": {
+      "type": ["string", "null"],
+      "description": "Face accessory trait (null if None)"
+    },
+    "tattoo": {
+      "type": ["string", "null"],
+      "description": "Tattoo trait (null if None)"
+    },
+    "item": {
+      "type": ["string", "null"],
+      "description": "Item trait (null if None)"
+    },
+    "drug": {
+      "type": "string",
+      "description": "Associated drug"
+    }
+  },
+  "additionalProperties": false
+}

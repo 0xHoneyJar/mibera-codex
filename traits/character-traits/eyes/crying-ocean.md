@@ -1,7 +1,7 @@
 ---
 name: crying ocean
 image: "https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Crying%20Ocean__w6.webp"
-date_added: "June 3, 2024"
+date_added: "2024-06-03"
 ---
 
 # crying ocean

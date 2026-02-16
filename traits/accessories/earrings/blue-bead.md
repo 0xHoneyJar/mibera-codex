@@ -3,7 +3,7 @@ name: Blue Bead
 image: SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 archetype: Chicago Detroit
 swag_score: 5
-date_added: "November 28, 2023"
+date_added: "2023-11-28"
 ---
 
 # Blue Bead

@@ -3,7 +3,7 @@ name: No Cap
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_No%20Cap.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # No Cap

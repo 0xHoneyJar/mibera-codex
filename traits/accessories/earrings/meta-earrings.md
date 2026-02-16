@@ -3,7 +3,7 @@ name: Meta Earrings
 image: SS3_milady_Meta Earrings.png
 archetype: Milady
 swag_score: 3
-date_added: "June 19, 2024"
+date_added: "2024-06-19"
 ---
 
 # Meta Earrings

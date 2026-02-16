@@ -3,7 +3,7 @@ name: the rose of paracelsus
 image: SS2_The Rose of Paracelsus.png
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "July 16, 2024"
+date_added: "2024-07-16"
 ---
 
 # the rose of paracelsus

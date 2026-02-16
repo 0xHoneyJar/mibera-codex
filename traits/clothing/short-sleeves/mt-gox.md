@@ -3,7 +3,7 @@ name: Mt Gox
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** Its cultural relevance in web3"
 swag_score: 2
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # Mt Gox

@@ -3,7 +3,7 @@ name: Dopamine
 image: SS3_dopamine.png
 archetype: "**Archetype Alignment:** “Feel-good” chemical produced by the brain itself that’s more related to driving behavior towards rewards than direct happiness."
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Dopamine

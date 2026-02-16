@@ -2,8 +2,8 @@
 name: Red Sunglasses
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Red Sunglasses.webp"
 archetype: Chicago Detroit
-swag_score: ---
-date_added: "December 10, 2024"
+swag_score: null
+date_added: "2024-12-10"
 ---
 
 # Red Sunglasses

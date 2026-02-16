@@ -3,7 +3,7 @@ name: Head Tube
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Head%20Tube.webp"
 archetype: Chicago Detroit
 swag_score: 3
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Head Tube

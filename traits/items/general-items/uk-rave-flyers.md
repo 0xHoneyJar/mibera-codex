@@ -3,7 +3,7 @@ name: uk rave flyers
 image: SS3_freetekno_UK Rave Flyers.PNG
 archetype: Freetekno
 swag_score: 3
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # uk rave flyers

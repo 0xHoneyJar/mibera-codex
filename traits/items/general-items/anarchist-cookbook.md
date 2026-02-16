@@ -3,7 +3,7 @@ name: anarchist cookbook
 image: SS3_Anarchist Cookbook.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # anarchist cookbook

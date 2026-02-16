@@ -1,7 +1,7 @@
 ---
 name: Great Bear Lake
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/great%20bear%20lake.webp"
-date_added: "February 27, 2025"
+date_added: "2025-02-27"
 ---
 
 # Great Bear Lake

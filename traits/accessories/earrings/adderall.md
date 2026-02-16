@@ -3,7 +3,7 @@ name: Adderall
 image: SS4_adderall.png
 archetype: "**Archetype Alignment:** Drugs being a big part of Mibera’s culture."
 swag_score: 4
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # Adderall

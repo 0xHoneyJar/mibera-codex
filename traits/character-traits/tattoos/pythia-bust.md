@@ -2,8 +2,8 @@
 name: Pythia Bust
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_pythia_Pythia%20Bust.webp"
 archetype: Pythia
-swag_score: ---
-date_added: "August 10, 2024"
+swag_score: null
+date_added: "2024-08-10"
 ---
 
 # Pythia Bust

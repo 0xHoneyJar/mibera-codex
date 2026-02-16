@@ -3,7 +3,7 @@ name: babybera cloud99 tape
 image: SS3_chicagodetroit_babybera cloud99 tape.PNG
 archetype: chicago detroit
 swag_score: 3
-date_added: "February 28, 2025"
+date_added: "2025-02-28"
 ---
 
 # babybera cloud99 tape

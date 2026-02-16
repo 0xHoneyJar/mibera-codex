@@ -1,7 +1,7 @@
 ---
 name: long wavy brown
 image: Long Wavy Brown__w16.png Long Wavy Brown__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # long wavy brown

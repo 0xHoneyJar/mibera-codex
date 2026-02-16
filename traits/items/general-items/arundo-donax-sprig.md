@@ -3,7 +3,7 @@ name: arundo donax sprig
 image: SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 archetype: acidhouse
 swag_score: 1
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # arundo donax sprig

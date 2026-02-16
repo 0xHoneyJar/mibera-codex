@@ -3,7 +3,7 @@ name: Venetian Gold
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS5_Venetian Gold.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # Venetian Gold

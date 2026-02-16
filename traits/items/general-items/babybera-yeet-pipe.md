@@ -3,7 +3,7 @@ name: babybera yeet pipe
 image: SS3_Babybera Yeet Pipe.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # babybera yeet pipe

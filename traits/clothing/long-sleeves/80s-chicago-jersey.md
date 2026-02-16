@@ -1,8 +1,8 @@
 ---
 name: 80s Chicago Jersey
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "**Introduced By:**"
+swag_score: null
+date_added: null
 ---
 
 # 80s Chicago Jersey

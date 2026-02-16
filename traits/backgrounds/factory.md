@@ -1,7 +1,7 @@
 ---
 name: Factory
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/factory.webp"
-date_added: "August 14, 2024"
+date_added: "2024-08-14"
 ---
 
 # Factory

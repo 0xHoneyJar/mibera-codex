@@ -3,7 +3,7 @@ name: controlled substances
 image: SS5_Controlled Substances.png
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "August 7, 2024"
+date_added: "2024-08-07"
 ---
 
 # controlled substances

@@ -15,3 +15,12 @@ molecule: C12H16N2
 **Drug:** [Arundo Donax](../../drugs-detailed/arundo-donax.md)
 
 **Molecule:** C12H16N2
+
+<!-- @generated:backlinks-start -->
+## Miberas with this Tarot Card
+
+[#0090](../../miberas/0090.md) • [#0176](../../miberas/0176.md) • [#0178](../../miberas/0178.md) • [#0574](../../miberas/0574.md) • [#0690](../../miberas/0690.md) • [#0719](../../miberas/0719.md) • [#0857](../../miberas/0857.md) • [#0967](../../miberas/0967.md) • [#1344](../../miberas/1344.md) • [#1399](../../miberas/1399.md) • [#1457](../../miberas/1457.md) • [#1496](../../miberas/1496.md) • [#1830](../../miberas/1830.md) • [#2076](../../miberas/2076.md) • [#2206](../../miberas/2206.md) • [#2230](../../miberas/2230.md) • [#2269](../../miberas/2269.md) • [#2282](../../miberas/2282.md) • [#2296](../../miberas/2296.md) • [#2322](../../miberas/2322.md) • [#2537](../../miberas/2537.md) • [#2616](../../miberas/2616.md) • [#2619](../../miberas/2619.md) • [#2690](../../miberas/2690.md) • [#2892](../../miberas/2892.md) • [#2979](../../miberas/2979.md) • [#3241](../../miberas/3241.md) • [#3282](../../miberas/3282.md) • [#3351](../../miberas/3351.md) • [#3441](../../miberas/3441.md) • [#3465](../../miberas/3465.md) • [#3528](../../miberas/3528.md) • [#3541](../../miberas/3541.md) • [#3790](../../miberas/3790.md) • [#3957](../../miberas/3957.md) • [#4078](../../miberas/4078.md) • [#4175](../../miberas/4175.md) • [#4248](../../miberas/4248.md) • [#4275](../../miberas/4275.md) • [#4293](../../miberas/4293.md) • [#4546](../../miberas/4546.md) • [#4623](../../miberas/4623.md) • [#4778](../../miberas/4778.md) • [#4989](../../miberas/4989.md) • [#5509](../../miberas/5509.md) • [#5716](../../miberas/5716.md) • [#5731](../../miberas/5731.md) • [#6073](../../miberas/6073.md) • [#6205](../../miberas/6205.md) • [#6252](../../miberas/6252.md) • ... and 37 more
+
+*87 Miberas total*
+<!-- @generated:backlinks-end -->
+

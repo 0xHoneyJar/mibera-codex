@@ -3,7 +3,7 @@ name: I Have Mibera
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_I%20Have%20Mibera.webp"
 archetype: "**Archetype Alignment:** In relation to a meme related to Milady, which is one of Mibera’s archetypes."
 swag_score: 3
-date_added: "July 25, 2024"
+date_added: "2024-07-25"
 ---
 
 # I Have Mibera

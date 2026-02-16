@@ -2,8 +2,8 @@
 name: Sugar Skull
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Sugar%20Skull.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "August 6, 2024"
+swag_score: null
+date_added: "2024-08-06"
 ---
 
 # Sugar Skull

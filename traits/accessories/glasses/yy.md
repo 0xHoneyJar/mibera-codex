@@ -2,8 +2,8 @@
 name: YY
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_YY.webp"
 archetype: Milady
-swag_score: ---
-date_added: "June 17, 2024"
+swag_score: null
+date_added: "2024-06-17"
 ---
 
 # YY

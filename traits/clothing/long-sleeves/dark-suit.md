@@ -3,7 +3,7 @@ name: Dark Suit
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG"
 archetype: "**Archetype Alignment:** Suit and tie reflect Milady’s ‘corporation’ vibe satirically. Milady being one of our archetypes."
 swag_score: 5
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Dark Suit

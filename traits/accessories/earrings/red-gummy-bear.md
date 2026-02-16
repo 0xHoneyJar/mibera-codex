@@ -3,7 +3,7 @@ name: Red Gummy Bear
 image: SS3_red gummy bear.png
 archetype: "**Archetype Alignment:** Relation to drugs and a nod to Gumi’s name."
 swag_score: 3
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # Red Gummy Bear

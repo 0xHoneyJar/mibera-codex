@@ -3,7 +3,7 @@ name: Nazi Pedo Cult
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** Its relation to Milady culture / community and lore"
 swag_score: 4
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # Nazi Pedo Cult

@@ -3,7 +3,7 @@ name: fan
 image: SS3_chicagodetroit_Fan.png
 archetype: chicago detroit
 swag_score: 3
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # fan

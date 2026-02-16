@@ -1,7 +1,7 @@
 ---
 name: Simple Brown
 image: "https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/147_simple%20brown.webp"
-date_added: August 2024
+date_added: "2024-08"
 ---
 
 # Simple Brown

@@ -1,7 +1,7 @@
 ---
 name: fauxhawk blonde
 image: Fauxhawk Blonde__w2.PNG
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # fauxhawk blonde

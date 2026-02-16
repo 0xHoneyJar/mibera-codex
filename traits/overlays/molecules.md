@@ -163,9 +163,9 @@ Molecules contribute to the Swag Score: `total_ss = item_score * shirt_score * m
 
 ---
 
-## Bufotenine
+## Bufotenin
 
-**Drug:** Bufotenine
+**Drug:** Bufotenin
 
 **Archetype:** [Acidhouse](../../core-lore/archetypes.md#acidhouse)
 
@@ -173,9 +173,9 @@ Molecules contribute to the Swag Score: `total_ss = item_score * shirt_score * m
 
 **Tarot Card:** [The Tower](../../core-lore/tarot-cards/the-tower.md)
 
-**See Also:** [Detailed Profile](../../drugs-detailed/bufotenine.md) | [Bufotenine x Bufotenin](../../drugs-detailed/drug-pairings.md#bufotenine-x-bufotenin)
+**See Also:** [Detailed Profile](../../drugs-detailed/bufotenin.md) | [Bufotenine x Bufotenin](../../drugs-detailed/drug-pairings.md#bufotenine-x-bufotenin)
 
-![Bufotenine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_nativeAmerican_bufotenine.webp)
+![Bufotenin](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_nativeAmerican_bufotenine.webp)
 
 ---
 
@@ -557,7 +557,7 @@ Molecules contribute to the Swag Score: `total_ss = item_score * shirt_score * m
 
 **Tarot Card:** [Strength](../../core-lore/tarot-cards/strength.md)
 
-**See Also:** [Detailed Profile](../../drugs-detailed/kratom.md) | [Sakae Naa x Kratom](../../drugs-detailed/drug-pairings.md#sakae-naa-x-kratom)
+**See Also:** [Detailed Profile](../../drugs-detailed/kratom.md) | [Sakae Na x Kratom](../../drugs-detailed/drug-pairings.md#sakae-naa-x-kratom)
 
 ![Kratom](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_kratom.webp)
 
@@ -765,7 +765,7 @@ Molecules contribute to the Swag Score: `total_ss = item_score * shirt_score * m
 
 **Tarot Card:** [Queen of Wands](../../core-lore/tarot-cards/queen-of-wands.md)
 
-**See Also:** [Detailed Profile](../../drugs-detailed/mucana-pruriens.md) | [Mucuna Pruriens x DMT](../../drugs-detailed/drug-pairings.md#mucuna-pruriens-x-dmt)
+**See Also:** [Detailed Profile](../../drugs-detailed/mucuna-pruriens.md) | [Mucuna Pruriens x DMT](../../drugs-detailed/drug-pairings.md#mucuna-pruriens-x-dmt)
 
 ![Mucuna pruriens](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_hindu_mucana%20pruriens.webp)
 
@@ -963,9 +963,9 @@ Molecules contribute to the Swag Score: `total_ss = item_score * shirt_score * m
 
 ---
 
-## Sakae Naa
+## Sakae Na
 
-**Drug:** Sakae Naa
+**Drug:** Sakae Na
 
 **Archetype:** [Milady](../../core-lore/archetypes.md#milady)
 
@@ -973,9 +973,9 @@ Molecules contribute to the Swag Score: `total_ss = item_score * shirt_score * m
 
 **Tarot Card:** [Five of Cups](../../core-lore/tarot-cards/five-of-cups.md)
 
-**See Also:** [Detailed Profile](../../drugs-detailed/sakae-naa.md) | [Sakae Naa x Kratom](../../drugs-detailed/drug-pairings.md#sakae-naa-x-kratom)
+**See Also:** [Detailed Profile](../../drugs-detailed/sakae-na.md) | [Sakae Na x Kratom](../../drugs-detailed/drug-pairings.md#sakae-naa-x-kratom)
 
-![Sakae Naa](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_sakae%20naa.webp)
+![Sakae Na](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_sakae%20naa.webp)
 
 ---
 
@@ -1245,7 +1245,7 @@ Molecules contribute to the Swag Score: `total_ss = item_score * shirt_score * m
 
 **Tarot Card:** [Six of Cups](../../core-lore/tarot-cards/six-of-cups.md)
 
-**See Also:** [Detailed Profile](../../drugs-detailed/yohimbine.md) | [Yohimbe x Sildenafil](../../drugs-detailed/drug-pairings.md#yohimbe-x-sildenafil)
+**See Also:** [Detailed Profile](../../drugs-detailed/yohimbe.md) | [Yohimbe x Sildenafil](../../drugs-detailed/drug-pairings.md#yohimbe-x-sildenafil)
 
 ![Yohimbe](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_yohimbine.webp)
 

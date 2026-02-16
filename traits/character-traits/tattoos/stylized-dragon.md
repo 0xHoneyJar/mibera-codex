@@ -2,8 +2,8 @@
 name: Stylized Dragon
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_chinese_Stylized%20Dragon.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "August 10, 2024"
+swag_score: null
+date_added: "2024-08-10"
 ---
 
 # Stylized Dragon

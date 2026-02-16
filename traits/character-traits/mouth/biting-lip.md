@@ -1,7 +1,7 @@
 ---
 name: biting lip
 image: "https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/biting lip__w2.webp"
-date_added: "June 5, 2024"
+date_added: "2024-06-05"
 ---
 
 # biting lip

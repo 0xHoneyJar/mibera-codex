@@ -14,7 +14,7 @@
 - [Benadryl](benadryl.md)
 - [Bhang](bhang.md)
 - [Brahmi](brahmi.md)
-- [Bufotenine](bufotenine.md)
+- [Bufotenin](bufotenin.md)
 - [Caffeine](caffeine.md)
 - [CBD](cbd.md)
 - [Chewing Tobacco](chewing-tobacco.md)
@@ -51,7 +51,7 @@
 - [Methamphetamine](methamphetamine.md)
 - [Mimosa Tenuiflora](mimosa-tenuiflora.md)
 - [MMDA](mmda.md)
-- [Mucana Pruriens](mucana-pruriens.md)
+- [Mucuna Pruriens](mucuna-pruriens.md)
 - [Mushrooms](mushrooms.md)
 - [Nicotine](nicotine.md)
 - [NOS](nos.md)
@@ -65,7 +65,7 @@
 - [Psilacetin](psilacetin.md)
 - [Psychotria Viridis](psychotria-viridis.md)
 - [Sakae Na](sakae-na.md)
-- [Sakae Naa](sakae-naa.md)
+- [Sakae Na](sakae-na.md)
 - [Sassafras](sassafras.md)
 - [Scopolamine](scopolamine.md)
 - [Sertraline](sertraline.md)
@@ -82,19 +82,19 @@
 - [Tobacco](tobacco.md)
 - [Weed](weed.md)
 - [Xanax](xanax.md)
-- [Yohimbine](yohimbine.md)
+- [Yohimbe](yohimbe.md)
 
 ## By Archetype
 
 ### **Archetype Alignment:**
 
-- [Sakae Naa](sakae-naa.md)
+- [Sakae Na](sakae-na.md)
 
 ### Acidhouse
 
 - [Acacia](acacia.md)
 - [Arundo Donax](arundo-donax.md)
-- [Bufotenine](bufotenine.md)
+- [Bufotenin](bufotenin.md)
 - [CBD](cbd.md)
 - [DMT](dmt.md)
 - [Ethylene](ethylene.md)
@@ -104,7 +104,7 @@
 - [Lithium](lithium.md)
 - [Mimosa Tenuiflora](mimosa-tenuiflora.md)
 - [MMDA](mmda.md)
-- [Mucana Pruriens](mucana-pruriens.md)
+- [Mucuna Pruriens](mucuna-pruriens.md)
 - [NOS](nos.md)
 - [Nutmeg](nutmeg.md)
 - [Ololiuqui](ololiuqui.md)
@@ -132,7 +132,7 @@
 - [THC Edibles](thc-edibles.md)
 - [Tobacco](tobacco.md)
 - [Weed](weed.md)
-- [Yohimbine](yohimbine.md)
+- [Yohimbe](yohimbe.md)
 
 ### Chicago detroit
 

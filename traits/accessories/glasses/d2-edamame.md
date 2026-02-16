@@ -2,8 +2,8 @@
 name: d2 edamame
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/d2 edamame.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "February 28, 2024"
+swag_score: null
+date_added: "2024-02-28"
 ---
 
 # d2 edamame

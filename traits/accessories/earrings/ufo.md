@@ -3,7 +3,7 @@ name: UFO
 image: SS3_acidhouse_ufo.png
 archetype: Acidhouse
 swag_score: 3
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # UFO

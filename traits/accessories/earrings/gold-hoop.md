@@ -3,7 +3,7 @@ name: Gold Hoop
 image: SS4_acidhouse_ancient_greek_Gold Hoop.png
 archetype: Acidhouse
 swag_score: 4
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Gold Hoop

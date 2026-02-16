@@ -1,7 +1,7 @@
 ---
 name: short messy orange
 image: Short Messy Orange__w2.png
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # short messy orange

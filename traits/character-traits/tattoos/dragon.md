@@ -2,8 +2,8 @@
 name: Dragon
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_chinese_Dragon.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "August 10, 2024"
+swag_score: null
+date_added: "2024-08-10"
 ---
 
 # Dragon

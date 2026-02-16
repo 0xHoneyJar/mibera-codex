@@ -3,7 +3,7 @@ name: crack pipe
 image: SS1_chicagodetroit_Crack Pipe.png
 archetype: chicago detroit
 swag_score: 1
-date_added: "July 4, 2024"
+date_added: "2024-07-04"
 ---
 
 # crack pipe

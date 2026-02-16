@@ -3,7 +3,7 @@ name: Vaneck Intern
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_freetekno_vaneck%20intern.webp"
 archetype: Freetekno
 swag_score: 2
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Vaneck Intern

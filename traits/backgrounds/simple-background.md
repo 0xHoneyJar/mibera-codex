@@ -1,7 +1,7 @@
 ---
 name: Simple Background
 image: "https://mibera.fsn1.your-objectstorage.com/components/simple/simple%20background/57_simple%20background(4"
-date_added: "**Introduced By:**"
+date_added: null
 ---
 
 # Simple Background

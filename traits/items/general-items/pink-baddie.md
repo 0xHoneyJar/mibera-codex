@@ -3,7 +3,7 @@ name: pink baddie
 image: SS3_Pink Baddie.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # pink baddie

@@ -3,7 +3,7 @@ name: chillum
 image: SS2_acidhouse_Chillum.png
 archetype: acidhouse
 swag_score: 2
-date_added: "July 4, 2024"
+date_added: "2024-07-04"
 ---
 
 # chillum

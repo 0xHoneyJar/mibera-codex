@@ -1,7 +1,7 @@
 ---
 name: normal blue
 image: Normal Blue__w22.png Normal Blue__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # normal blue

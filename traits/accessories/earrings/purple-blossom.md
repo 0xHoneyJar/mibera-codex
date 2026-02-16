@@ -3,7 +3,7 @@ name: Purple Blossom
 image: SS2_purple blossom.png
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Purple Blossom

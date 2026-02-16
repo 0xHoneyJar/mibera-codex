@@ -1,6 +1,6 @@
 ---
 name: Line
-date_added: "**Introduced By:** Gumi"
+date_added: null
 ---
 
 # Line

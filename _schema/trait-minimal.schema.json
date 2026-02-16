@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "trait-minimal.schema.json",
+  "title": "Trait Entry (Minimal)",
+  "description": "Schema for traits with minimal metadata: character-traits (body, eyebrows, eyes, hair, mouth, tattoos), overlays (traits/{character-traits,overlays}/**/*.md)",
+  "type": "object",
+  "required": ["name"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Trait display name"
+    },
+    "image": {
+      "type": "string",
+      "description": "Image filename or URL"
+    },
+    "date_added": {
+      "type": ["string", "null"],
+      "description": "Date added in ISO format (YYYY-MM-DD) or null"
+    }
+  }
+}

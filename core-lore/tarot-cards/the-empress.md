@@ -15,3 +15,12 @@ molecule: C18H24O2
 **Drug:** [Estrogen](../../drugs-detailed/estrogen.md)
 
 **Molecule:** C18H24O2
+
+<!-- @generated:backlinks-start -->
+## Miberas with this Tarot Card
+
+[#0269](../../miberas/0269.md) • [#0278](../../miberas/0278.md) • [#0292](../../miberas/0292.md) • [#0376](../../miberas/0376.md) • [#0379](../../miberas/0379.md) • [#0432](../../miberas/0432.md) • [#0520](../../miberas/0520.md) • [#0800](../../miberas/0800.md) • [#0802](../../miberas/0802.md) • [#1078](../../miberas/1078.md) • [#1124](../../miberas/1124.md) • [#1320](../../miberas/1320.md) • [#1428](../../miberas/1428.md) • [#1550](../../miberas/1550.md) • [#1558](../../miberas/1558.md) • [#1596](../../miberas/1596.md) • [#1665](../../miberas/1665.md) • [#1686](../../miberas/1686.md) • [#1804](../../miberas/1804.md) • [#1983](../../miberas/1983.md) • [#2250](../../miberas/2250.md) • [#2394](../../miberas/2394.md) • [#2433](../../miberas/2433.md) • [#2645](../../miberas/2645.md) • [#2665](../../miberas/2665.md) • [#2725](../../miberas/2725.md) • [#2853](../../miberas/2853.md) • [#2854](../../miberas/2854.md) • [#2994](../../miberas/2994.md) • [#3154](../../miberas/3154.md) • [#3156](../../miberas/3156.md) • [#3299](../../miberas/3299.md) • [#3311](../../miberas/3311.md) • [#3401](../../miberas/3401.md) • [#3422](../../miberas/3422.md) • [#3544](../../miberas/3544.md) • [#3591](../../miberas/3591.md) • [#3622](../../miberas/3622.md) • [#3623](../../miberas/3623.md) • [#3782](../../miberas/3782.md) • [#3835](../../miberas/3835.md) • [#3858](../../miberas/3858.md) • [#3900](../../miberas/3900.md) • [#3932](../../miberas/3932.md) • [#4017](../../miberas/4017.md) • [#4020](../../miberas/4020.md) • [#4060](../../miberas/4060.md) • [#4115](../../miberas/4115.md) • [#4263](../../miberas/4263.md) • [#4303](../../miberas/4303.md) • ... and 57 more
+
+*107 Miberas total*
+<!-- @generated:backlinks-end -->
+

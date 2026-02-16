@@ -3,7 +3,7 @@ name: rape sourcebook
 image: SS3_Rape Sourcebook.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "January 2, 2025"
+date_added: "2025-01-02"
 ---
 
 # rape sourcebook

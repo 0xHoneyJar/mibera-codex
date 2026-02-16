@@ -3,7 +3,7 @@ name: Blue Velvet Suit
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG"
 archetype: Chicago Detroit
 swag_score: 3
-date_added: "June 26, 2024"
+date_added: "2024-06-26"
 ---
 
 # Blue Velvet Suit

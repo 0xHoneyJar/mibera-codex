@@ -3,7 +3,7 @@ name: mandrake plant
 image: SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 archetype: freetekno
 swag_score: 3
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # mandrake plant

@@ -3,7 +3,7 @@ name: psychotria viridis plant
 image: SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 archetype: freetekno
 swag_score: 1
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # psychotria viridis plant

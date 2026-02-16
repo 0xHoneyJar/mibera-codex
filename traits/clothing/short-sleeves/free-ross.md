@@ -3,7 +3,7 @@ name: Free Ross
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** Its symbolism in freeing Ross, referring to Ross Ulbricht and The Silk Road which were huge inspirations for Mibera’s website and culture."
 swag_score: 4
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # Free Ross

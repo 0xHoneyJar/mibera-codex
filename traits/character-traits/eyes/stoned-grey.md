@@ -1,7 +1,7 @@
 ---
 name: stoned grey
 image: "https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Stoned%20Grey__w9.webp"
-date_added: "June 3, 2024"
+date_added: "2024-06-03"
 ---
 
 # stoned grey

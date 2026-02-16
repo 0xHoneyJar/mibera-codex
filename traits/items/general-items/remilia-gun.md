@@ -3,7 +3,7 @@ name: remilia gun
 image: SS5_milady_Remilia Gun.png
 archetype: Milady
 swag_score: 5
-date_added: "July 13, 2024"
+date_added: "2024-07-13"
 ---
 
 # remilia gun

@@ -3,7 +3,7 @@ name: beratone plushie
 image: SS3_milady_Beratone Plushie.png
 archetype: milady
 swag_score: 3
-date_added: "July 9, 2024"
+date_added: "2024-07-09"
 ---
 
 # beratone plushie

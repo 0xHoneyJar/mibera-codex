@@ -3,7 +3,7 @@ name: Grateful Dead Forest Green
 image: SS2_grateful dead forest green.png
 archetype: "**Archetype Alignment:** Grateful Dead has a big influence and part in Mibera’s lore."
 swag_score: 2
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # Grateful Dead Forest Green

@@ -3,7 +3,7 @@ name: henlo cash
 image: SS5_Henlo Cash.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # henlo cash

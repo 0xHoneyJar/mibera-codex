@@ -1,7 +1,7 @@
 ---
 name: Yeet
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/Yeet.webp"
-date_added: "June 6, 2024"
+date_added: "2024-06-06"
 ---
 
 # Yeet

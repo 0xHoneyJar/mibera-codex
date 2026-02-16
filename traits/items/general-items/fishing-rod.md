@@ -3,7 +3,7 @@ name: fishing rod
 image: SS3_freetekno_Fishing Rod.png
 archetype: freetekno
 swag_score: 3
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # fishing rod

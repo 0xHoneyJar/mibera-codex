@@ -2,7 +2,7 @@
 name: ancestral trance vortex
 archetype: freetekno
 swag_score: 5
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # ancestral trance vortex

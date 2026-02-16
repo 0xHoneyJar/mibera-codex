@@ -1,7 +1,7 @@
 ---
 name: middle brown
 image: Middle Brown__w6.png
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # middle brown

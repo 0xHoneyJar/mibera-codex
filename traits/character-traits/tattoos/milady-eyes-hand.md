@@ -2,8 +2,8 @@
 name: Milady Eyes Hand
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Milady%20Eyes%20Hand.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "August 6, 2024"
+swag_score: null
+date_added: "2024-08-06"
 ---
 
 # Milady Eyes Hand

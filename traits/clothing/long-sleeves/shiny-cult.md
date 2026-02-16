@@ -3,7 +3,7 @@ name: Shiny Cult
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG"
 archetype: Freetekno
 swag_score: 3
-date_added: "June 25, 2024"
+date_added: "2024-06-25"
 ---
 
 # Shiny Cult

@@ -1,7 +1,7 @@
 ---
 name: long wavy black
 image: Long Wavy Black__w14.png Long Wavy Black__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # long wavy black

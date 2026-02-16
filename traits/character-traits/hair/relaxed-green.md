@@ -1,7 +1,7 @@
 ---
 name: relaxed green
 image: Relaxed Green__w8.PNG Relaxed Green__z-32.PNG
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # relaxed green

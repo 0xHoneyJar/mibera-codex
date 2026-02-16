@@ -2,8 +2,8 @@
 name: colourful
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Colorful.webp"
 archetype: Milady
-swag_score: ---
-date_added: "December 10, 2024"
+swag_score: null
+date_added: "2024-12-10"
 ---
 
 # colourful

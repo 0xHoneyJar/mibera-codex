@@ -3,7 +3,7 @@ name: Make Milady Fun Again
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Make%20Milady%20Fun%20Again.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Make Milady Fun Again

@@ -3,7 +3,7 @@ name: Trans Flag
 image: "https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_milady_trans flag.webp"
 archetype: Milady
 swag_score: 2
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Trans Flag

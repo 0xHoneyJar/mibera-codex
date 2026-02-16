@@ -3,7 +3,7 @@ name: Bear Heart
 image: SS3_bera heart.png
 archetype: "**Archetype Alignment:** Its relation to the overall theme of the Berachain ecosystem."
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Bear Heart

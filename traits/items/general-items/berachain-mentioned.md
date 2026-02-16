@@ -3,7 +3,7 @@ name: berachain mentioned
 image: SS3_berachain mentioned.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "March 23, 2025"
+date_added: "2025-03-23"
 ---
 
 # berachain mentioned

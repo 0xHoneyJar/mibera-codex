@@ -1,7 +1,7 @@
 ---
 name: tan
 image: "https://mibera.fsn1.your-objectstorage.com/components/body__z40/tan__z80.webp"
-date_added: "August 13, 2024"
+date_added: "2024-08-13"
 ---
 
 # tan

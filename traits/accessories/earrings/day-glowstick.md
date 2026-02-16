@@ -3,7 +3,7 @@ name: Day Glowstick
 image: SS1_acidhouse_Day Glowstick.png
 archetype: Acidhouse
 swag_score: 1
-date_added: "November 28, 2023"
+date_added: "2023-11-28"
 ---
 
 # Day Glowstick

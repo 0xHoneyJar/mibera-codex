@@ -3,7 +3,7 @@ name: Mr Acid House
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: Acidhouse
 swag_score: 2
-date_added: "June 22 , 2024"
+date_added: "2024-06-22"
 ---
 
 # Mr Acid House

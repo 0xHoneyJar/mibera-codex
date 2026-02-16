@@ -1,7 +1,7 @@
 ---
 name: long wavy green
 image: Long Wavy Green__w6.png Long Wavy Green__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # long wavy green

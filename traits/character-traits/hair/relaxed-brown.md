@@ -1,7 +1,7 @@
 ---
 name: relaxed brown
 image: Relaxed Brown__w10.PNG Relaxed Brown__z-32.PNG
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # relaxed brown

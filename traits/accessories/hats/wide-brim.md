@@ -3,7 +3,7 @@ name: Wide Brim
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Wide%20Brim.webp"
 archetype: Chicago Detroit
 swag_score: 3
-date_added: "July 25, 2024"
+date_added: "2024-07-25"
 ---
 
 # Wide Brim

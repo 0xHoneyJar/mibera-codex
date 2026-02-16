@@ -3,7 +3,7 @@ name: Sufi
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG"
 archetype: Freetekno
 swag_score: 4
-date_added: "July 28, 2024"
+date_added: "2024-07-28"
 ---
 
 # Sufi

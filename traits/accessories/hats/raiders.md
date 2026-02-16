@@ -3,7 +3,7 @@ name: Raiders
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Raiders.webp"
 archetype: Chicago Detroit
 swag_score: 4
-date_added: "August 2, 2024"
+date_added: "2024-08-02"
 ---
 
 # Raiders

@@ -592,11 +592,11 @@
 
 ---
 
-## Sakae Naa x Kratom
+## Sakae Na x Kratom
 
 ### Pairing
 
-**Ancient Drug:** [Sakae Naa](sakae-naa.md)
+**Ancient Drug:** [Sakae Na](sakae-na.md)
 
 **Modern Drug:** [Kratom](kratom.md)
 
@@ -620,7 +620,7 @@
 
 ### Context
 
-**General Connection Context:** Both Sakae Naa (Combretum quadrangulare) and Kratom (Mitragyna speciosa) are Thai plants used as traditional stimulants and analgesics, often by laborers seeking endurance for long work days. Sakae Naa leaves were historically used as a kratom substitute when kratom was unavailable. The pairing is unusual in that neither is truly "modern" — both remain primarily plant-based, representing parallel ethnobotanical traditions within the same Thai cultural context.
+**General Connection Context:** Both Sakae Na (Combretum quadrangulare) and Kratom (Mitragyna speciosa) are Thai plants used as traditional stimulants and analgesics, often by laborers seeking endurance for long work days. Sakae Na leaves were historically used as a kratom substitute when kratom was unavailable. The pairing is unusual in that neither is truly "modern" — both remain primarily plant-based, representing parallel ethnobotanical traditions within the same Thai cultural context.
 
 ---
 
@@ -660,7 +660,7 @@
 
 ### Pairing
 
-**Ancient Drug:** [Yohimbe](yohimbine.md)
+**Ancient Drug:** [Yohimbe](yohimbe.md)
 
 **Modern Drug:** [Sildenafil](sildenafil.md)
 
@@ -1414,9 +1414,9 @@
 
 ### Pairing
 
-**Ancient Drug:** [Bufotenine](bufotenine.md)
+**Ancient Drug:** [Bufotenine](bufotenin.md)
 
-**Modern Drug:** [Bufotenin](bufotenine.md)
+**Modern Drug:** [Bufotenin](bufotenin.md)
 
 **Ancestor:** [Native American](../core-lore/ancestors/native-american.md)
 
@@ -1506,7 +1506,7 @@
 
 ### Pairing
 
-**Ancient Drug:** [Mucuna Pruriens](mucana-pruriens.md)
+**Ancient Drug:** [Mucuna Pruriens](mucuna-pruriens.md)
 
 **Modern Drug:** [DMT](dmt.md)
 

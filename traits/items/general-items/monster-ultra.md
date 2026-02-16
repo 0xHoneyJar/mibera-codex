@@ -3,7 +3,7 @@ name: monster ultra
 image: SS1_Monster Ultra.png
 archetype: "**Archetype Alignment:**"
 swag_score: 1
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # monster ultra

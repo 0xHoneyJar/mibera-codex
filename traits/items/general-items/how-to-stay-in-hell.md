@@ -3,7 +3,7 @@ name: how to stay in hell
 image: SS1_milady_How to stay in hell.PNG
 archetype: milady
 swag_score: 1
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # how to stay in hell

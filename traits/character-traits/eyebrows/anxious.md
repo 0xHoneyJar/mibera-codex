@@ -1,7 +1,7 @@
 ---
 name: anxious
 image: "https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Anxious.webp"
-date_added: "July 30, 2024"
+date_added: "2024-07-30"
 ---
 
 # anxious

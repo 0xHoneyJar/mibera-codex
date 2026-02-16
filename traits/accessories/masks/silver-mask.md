@@ -3,7 +3,7 @@ name: Silver Mask
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_freetekno_Silver Mask.webp"
 archetype: Freetekno
 swag_score: 1
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # Silver Mask

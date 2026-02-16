@@ -3,7 +3,7 @@ name: babybera plush
 image: SS3_babybera plush.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "March 11, 2025"
+date_added: "2025-03-11"
 ---
 
 # babybera plush

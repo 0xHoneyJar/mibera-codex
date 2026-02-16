@@ -1,7 +1,7 @@
 ---
 name: Bong Bear 12
 image: SS5_bongbear_Bong Bear 12.PNG
-date_added: "January 24, 2025"
+date_added: "2025-01-24"
 ---
 
 # Bong Bear 12

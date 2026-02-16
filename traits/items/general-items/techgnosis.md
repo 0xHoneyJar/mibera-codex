@@ -3,7 +3,7 @@ name: techgnosis
 image: SS3_TechGnosis.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "July 16, 2024"
+date_added: "2024-07-16"
 ---
 
 # techgnosis

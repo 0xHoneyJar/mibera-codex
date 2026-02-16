@@ -3,7 +3,7 @@ name: babybera janny pack
 image: SS3_freetekno_Babybera Janny Pack.PNG
 archetype: freetekno
 swag_score: 3
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # babybera janny pack

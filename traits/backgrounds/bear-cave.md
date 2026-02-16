@@ -1,7 +1,7 @@
 ---
 name: Bear Cave
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/bear%20cave.webp"
-date_added: "August 14, 2024"
+date_added: "2024-08-14"
 ---
 
 # Bear Cave

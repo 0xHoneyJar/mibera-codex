@@ -3,7 +3,7 @@ name: THJ Bees
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_THJ%20Bees.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # THJ Bees

@@ -3,7 +3,7 @@ name: Ethiopian Headdress
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Ethiopian%20Headdress.webp"
 archetype: Milady
 swag_score: 3
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Ethiopian Headdress

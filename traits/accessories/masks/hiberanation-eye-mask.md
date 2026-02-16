@@ -3,7 +3,7 @@ name: Hiberanation Eye Mask
 image: SS3_chicagodetroit_Hiberanation Eye Mask.png
 archetype: Chicago Detroit
 swag_score: 3
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Hiberanation Eye Mask

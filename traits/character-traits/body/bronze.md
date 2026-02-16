@@ -1,7 +1,7 @@
 ---
 name: bronze
 image: "https://mibera.fsn1.your-objectstorage.com/components/body__z40/bronze__z80.webp"
-date_added: "August 13, 2024"
+date_added: "2024-08-13"
 ---
 
 # bronze

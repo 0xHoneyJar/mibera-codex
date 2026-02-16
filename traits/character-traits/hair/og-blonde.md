@@ -1,6 +1,6 @@
 ---
 name: Og Blonde
-date_added: "**Introduced By:**"
+date_added: null
 ---
 
 # Og Blonde

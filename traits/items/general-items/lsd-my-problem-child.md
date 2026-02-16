@@ -3,7 +3,7 @@ name: lsd my problem child
 image: SS4_LSD My Problem Child.png
 archetype: milady
 swag_score: 4
-date_added: "July 12, 2024"
+date_added: "2024-07-12"
 ---
 
 # lsd my problem child

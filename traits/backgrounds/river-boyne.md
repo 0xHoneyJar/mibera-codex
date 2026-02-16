@@ -1,7 +1,7 @@
 ---
 name: River Boyne
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/river%20boyne.webp"
-date_added: "February 27, 2025"
+date_added: "2025-02-27"
 ---
 
 # River Boyne

@@ -1,8 +1,8 @@
 ---
 name: Workin Like A Dog
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "**Introduced By:**"
+swag_score: null
+date_added: null
 ---
 
 # Workin Like A Dog

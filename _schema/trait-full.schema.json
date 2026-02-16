@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "trait-full.schema.json",
+  "title": "Trait Entry (Full)",
+  "description": "Schema for traits with full metadata: accessories, clothing, items, backgrounds (traits/{accessories,backgrounds,clothing,items}/**/*.md)",
+  "type": "object",
+  "required": ["name", "image"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Trait display name"
+    },
+    "image": {
+      "type": "string",
+      "description": "Image filename or URL"
+    },
+    "archetype": {
+      "type": "string",
+      "description": "Associated archetype"
+    },
+    "swag_score": {
+      "type": ["integer", "null"],
+      "description": "Rarity tier (1-5) or null"
+    },
+    "date_added": {
+      "type": ["string", "null"],
+      "description": "Date added in ISO format (YYYY-MM-DD) or null"
+    }
+  }
+}

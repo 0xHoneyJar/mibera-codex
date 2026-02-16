@@ -1,7 +1,7 @@
 ---
 name: messy bob blonde
 image: Messy Bob Blonde__w14.png
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # messy bob blonde

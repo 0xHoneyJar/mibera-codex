@@ -3,7 +3,7 @@ name: hamas
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Hamas.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "July 28, 2024"
+date_added: "2024-07-28"
 ---
 
 # hamas

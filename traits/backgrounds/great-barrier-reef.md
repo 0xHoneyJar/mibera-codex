@@ -1,7 +1,7 @@
 ---
 name: Great Barrier Reef
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/great%20barrier%20reef.webp"
-date_added: "February 27, 2025"
+date_added: "2025-02-27"
 ---
 
 # Great Barrier Reef

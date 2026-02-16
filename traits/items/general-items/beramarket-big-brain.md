@@ -3,7 +3,7 @@ name: beramarket big brain
 image: SS2_Beramarket Big Brain.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # beramarket big brain

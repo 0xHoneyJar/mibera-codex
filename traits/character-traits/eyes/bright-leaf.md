@@ -1,7 +1,7 @@
 ---
 name: bright leaf
 image: "https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Bright%20Leaf__w13.webp"
-date_added: "June 3, 2024"
+date_added: "2024-06-03"
 ---
 
 # bright leaf

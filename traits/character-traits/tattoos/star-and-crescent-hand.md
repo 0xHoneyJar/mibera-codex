@@ -2,8 +2,8 @@
 name: Star and Crescent Hand
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_turkey_Star%20and%20Crescent%20Hand.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "August 9, 2024"
+swag_score: null
+date_added: "2024-08-09"
 ---
 
 # Star and Crescent Hand

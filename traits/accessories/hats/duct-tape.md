@@ -3,7 +3,7 @@ name: Duct Tape
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_chicagodetroit_duct%20tape.webp"
 archetype: Chicago Detroit
 swag_score: 1
-date_added: "June 5, 2024"
+date_added: "2024-06-05"
 ---
 
 # Duct Tape

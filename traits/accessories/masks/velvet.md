@@ -3,7 +3,7 @@ name: Velvet
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_Velvet.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # Velvet

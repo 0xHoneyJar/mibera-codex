@@ -3,7 +3,7 @@ name: Ai Weiwei Assange
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** Its relation to movement, freedom, and art."
 swag_score: 4
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # Ai Weiwei Assange

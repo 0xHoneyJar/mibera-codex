@@ -1,7 +1,7 @@
 ---
 name: Capricornus
 image: "https://mibera.fsn1.your-objectstorage.com/components/Constellations/capricorn.webp"
-date_added: "November 23, 2024"
+date_added: "2024-11-23"
 ---
 
 # Capricornus

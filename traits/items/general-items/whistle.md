@@ -3,7 +3,7 @@ name: whistle
 image: SS2_acidhouse_Whistle.png
 archetype: acidhouse
 swag_score: 2
-date_added: "July 23, 2024"
+date_added: "2024-07-23"
 ---
 
 # whistle

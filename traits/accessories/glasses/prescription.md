@@ -2,8 +2,8 @@
 name: prescription
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Prescription.webp"
 archetype: chicago detroit.
-swag_score: ---
-date_added: "18 June, 2024"
+swag_score: null
+date_added: null
 ---
 
 # prescription

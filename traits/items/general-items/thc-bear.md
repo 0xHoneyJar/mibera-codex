@@ -3,7 +3,7 @@ name: thc bear
 image: SS3_THC Bear.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "March 23, 2025"
+date_added: "2025-03-23"
 ---
 
 # thc bear

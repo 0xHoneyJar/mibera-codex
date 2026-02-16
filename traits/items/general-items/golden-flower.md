@@ -3,7 +3,7 @@ name: golden flower
 image: SS2_milady_Golden Flower.PNG
 archetype: milady
 swag_score: 2
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # golden flower

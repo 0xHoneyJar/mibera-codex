@@ -1,0 +1,125 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-15",
+  "description": "Directory-level index for the Mibera Codex. Use for programmatic navigation.",
+  "entity_types": {
+    "mibera": {
+      "directory": "miberas/",
+      "index": "miberas/index.md",
+      "count": 10000,
+      "format": "yaml_frontmatter_and_markdown_table",
+      "naming": "{NNNN}.md (zero-padded 4-digit ID)",
+      "id_range": [1, 10000],
+      "fields": ["Archetype", "Ancestor", "Time Period", "Birthday", "Birth Coordinates", "Sun Sign", "Moon Sign", "Ascending Sign", "Element", "Swag Rank", "Swag Score", "Background", "Body", "Hair", "Eyes", "Eyebrows", "Mouth", "Shirt", "Hat", "Glasses", "Mask", "Earrings", "Face Accessory", "Tattoo", "Item", "Drug"]
+    },
+    "trait": {
+      "directory": "traits/",
+      "index": "traits/index.md",
+      "count": 1257,
+      "format": "yaml_frontmatter",
+      "subcategories": {
+        "accessories/earrings": 64,
+        "accessories/face-accessories": 42,
+        "accessories/glasses": 38,
+        "accessories/hats": 128,
+        "accessories/masks": 32,
+        "backgrounds": 73,
+        "character-traits/body": 12,
+        "character-traits/eyebrows": 10,
+        "character-traits/eyes": 90,
+        "character-traits/hair": 129,
+        "character-traits/mouth": 21,
+        "character-traits/tattoos": 46,
+        "clothing/long-sleeves": 52,
+        "clothing/short-sleeves": 121,
+        "clothing/simple-shirts": 8,
+        "items/bong-bears": 107,
+        "items/general-items": 259,
+        "overlays/astrology": 12,
+        "overlays/elements": 4,
+        "overlays/ranking": 8
+      }
+    },
+    "drug": {
+      "directory": "drugs-detailed/",
+      "index": "drugs-detailed/index.md",
+      "count": 78,
+      "format": "yaml_frontmatter",
+      "naming": "{slug}.md",
+      "reference_files": ["drugs-detailed/drug-pairings.md"]
+    },
+    "ancestor": {
+      "directory": "core-lore/ancestors/",
+      "index": "core-lore/ancestors/index.md",
+      "count": 33,
+      "format": "yaml_frontmatter"
+    },
+    "tarot_card": {
+      "directory": "core-lore/tarot-cards/",
+      "index": "core-lore/tarot-cards/index.md",
+      "count": 78,
+      "format": "yaml_frontmatter"
+    },
+    "birthday_era": {
+      "directory": "birthdays/",
+      "index": "birthdays/index.md",
+      "count": 11,
+      "format": "structured_markdown"
+    },
+    "special_collection": {
+      "directory": "special-collections/",
+      "index": "special-collections/index.md",
+      "count": 32,
+      "format": "yaml_frontmatter"
+    }
+  },
+  "browse": {
+    "directory": "browse/",
+    "index": "browse/index.md",
+    "dimensions": {
+      "by-archetype": "browse/by-archetype.md",
+      "by-ancestor": "browse/by-ancestor.md",
+      "by-swag-rank": "browse/by-swag-rank.md",
+      "by-drug": "browse/by-drug.md",
+      "by-era": "browse/by-era.md",
+      "by-element": "browse/by-element.md",
+      "by-tarot": "browse/by-tarot.md"
+    }
+  },
+  "key_files": {
+    "identity": "IDENTITY.md",
+    "philosophy": "core-lore/philosophy.md",
+    "archetypes": "core-lore/archetypes.md",
+    "drug_tarot_system": "core-lore/drug-tarot-system.md",
+    "glossary": "glossary.md",
+    "summary": "SUMMARY.md",
+    "schema": "_schema/README.md",
+    "llms": "llms.txt",
+    "llms_full": "llms-full.txt",
+    "ontology": "_schema/ontology.yaml"
+  },
+  "data_exports": {
+    "miberas_jsonl": "_data/miberas.jsonl",
+    "graph": "_data/graph.json",
+    "stats": "_data/stats.md"
+  },
+  "cluster_browse": {
+    "directory": "browse/clusters/",
+    "index": "browse/clusters/index.md",
+    "pairs": {
+      "archetype_ancestor": "browse/clusters/archetype-ancestor/",
+      "archetype_element": "browse/clusters/archetype-element/",
+      "ancestor_element": "browse/clusters/ancestor-element/"
+    },
+    "total_pages": 274
+  },
+  "schemas": {
+    "mibera": "_schema/mibera.schema.json",
+    "drug": "_schema/drug.schema.json",
+    "ancestor": "_schema/ancestor.schema.json",
+    "tarot_card": "_schema/tarot-card.schema.json",
+    "trait_full": "_schema/trait-full.schema.json",
+    "trait_minimal": "_schema/trait-minimal.schema.json",
+    "special_collection": "_schema/special-collection.schema.json"
+  }
+}

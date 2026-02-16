@@ -3,7 +3,7 @@ name: acacia sprig
 image: SS2_acidhouse_ancient_aboriginal_acacia.PNG
 archetype: acidhouse
 swag_score: 2
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # acacia sprig

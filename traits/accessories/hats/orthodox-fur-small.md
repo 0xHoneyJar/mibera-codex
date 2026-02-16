@@ -3,7 +3,7 @@ name: Orthodox Fur Small
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Small.webp"
 archetype: Chicago Detroit
 swag_score: 3
-date_added: "July 26, 2024"
+date_added: "2024-07-26"
 ---
 
 # Orthodox Fur Small

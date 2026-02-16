@@ -3,7 +3,7 @@ name: glove
 image: SS4_acidhouse_Glove.png
 archetype: acidhouse
 swag_score: 4
-date_added: "July 10, 2024"
+date_added: "2024-07-10"
 ---
 
 # glove

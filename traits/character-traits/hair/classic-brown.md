@@ -1,7 +1,7 @@
 ---
 name: classic brown
 image: Classic Brown__w20.PNG Classic Brown__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # classic brown

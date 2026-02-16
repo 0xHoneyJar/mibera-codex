@@ -3,7 +3,7 @@ name: Mibera
 image: "https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_milady_Mibera.webp"
 archetype: Milady
 swag_score: 5
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Mibera

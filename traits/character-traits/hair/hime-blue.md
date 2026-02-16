@@ -1,7 +1,7 @@
 ---
 name: hime blue
 image: Hime Blue__w12.png Hime Blue__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # hime blue

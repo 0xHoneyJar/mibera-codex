@@ -1,7 +1,7 @@
 ---
 name: braided red
 image: Braided Red__w5.PNG
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # braided red

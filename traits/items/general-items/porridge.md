@@ -3,7 +3,7 @@ name: porridge
 image: SS2_chicagodetroit_Porridge.png
 archetype: chicago detroit
 swag_score: 2
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # porridge

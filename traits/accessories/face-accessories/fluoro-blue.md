@@ -2,8 +2,8 @@
 name: Fluoro Blue
 image: "https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_Fluoro Blue.webp"
 archetype: Freetekno
-swag_score: "3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298"
-date_added: "December 10, 2024"
+swag_score: 3
+date_added: "2024-12-10"
 ---
 
 # Fluoro Blue

@@ -2,8 +2,8 @@
 name: tekno 1
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Tekno 1.webp"
 archetype: freetekno
-swag_score: ---
-date_added: "June 18, 2024"
+swag_score: null
+date_added: "2024-06-18"
 ---
 
 # tekno 1

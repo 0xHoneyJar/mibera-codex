@@ -3,7 +3,7 @@ name: sober water
 image: SS2_milady_sober water.PNG
 archetype: milady
 swag_score: 2
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # sober water

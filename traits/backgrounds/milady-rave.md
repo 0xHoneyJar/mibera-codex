@@ -1,7 +1,7 @@
 ---
 name: Milady Rave
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/Milady%20Rave.webp"
-date_added: "June 6, 2024"
+date_added: "2024-06-06"
 ---
 
 # Milady Rave

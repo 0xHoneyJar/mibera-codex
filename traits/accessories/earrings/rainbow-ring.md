@@ -3,7 +3,7 @@ name: Rainbow Ring
 image: SS3_rainbow ring.png
 archetype: "**Archetype Alignment:** In relation to pride and LGBTQ+ which is also a big part of rave culture."
 swag_score: 3
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # Rainbow Ring

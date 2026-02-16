@@ -3,7 +3,7 @@ name: sugarcane portion
 image: SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 archetype: chicago detroit
 swag_score: 3
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # sugarcane portion

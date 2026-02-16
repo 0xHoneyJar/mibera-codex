@@ -3,7 +3,7 @@ name: handheld sickle
 image: SS3_milady_Handheld Sickle.png
 archetype: milady
 swag_score: 3
-date_added: "July 10, 2024"
+date_added: "2024-07-10"
 ---
 
 # handheld sickle

@@ -3,7 +3,7 @@ name: Orthodox Fur Large
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Large.webp"
 archetype: Chicago Detroit
 swag_score: 4
-date_added: "July 26, 2024"
+date_added: "2024-07-26"
 ---
 
 # Orthodox Fur Large

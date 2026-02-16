@@ -1,7 +1,7 @@
 ---
 name: normal black
 image: Normal Black__w11.png Normal Black__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # normal black

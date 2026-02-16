@@ -3,7 +3,7 @@ name: ursadom plush
 image: SS2_milady_Ursadom Plush.png
 archetype: milady
 swag_score: 2
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # ursadom plush

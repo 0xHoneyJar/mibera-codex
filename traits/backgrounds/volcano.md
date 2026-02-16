@@ -1,7 +1,7 @@
 ---
 name: Volcano
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/volcano.webp"
-date_added: "February 28, 2025"
+date_added: "2025-02-28"
 ---
 
 # Volcano

@@ -1,7 +1,7 @@
 ---
 name: DCF
 image: SS5_bongbear_DCF.png
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # DCF

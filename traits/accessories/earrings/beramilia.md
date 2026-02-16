@@ -3,7 +3,7 @@ name: Beramilia
 image: SS3_acidhouse_Beramilia.png
 archetype: Acidhouse
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Beramilia

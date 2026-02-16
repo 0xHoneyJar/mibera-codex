@@ -3,7 +3,7 @@ name: smokey durag
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Smokey%20Durag.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "March 10, 2025"
+date_added: "2025-03-10"
 ---
 
 # smokey durag

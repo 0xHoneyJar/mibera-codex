@@ -31,8 +31,8 @@ The four Rave Tribes and cultural lineages.
 
 ### III. The Mysticism
 Cosmic and chemical systems that define each Mibera.
-- [Astrology](traits/overlays/astrology.md) — Sun, Moon, and Ascending signs
-- [Elements](traits/overlays/elements.md) — Fire, Water, Air, Earth
+- [Astrology](traits/overlays/astrology/index.md) — Sun, Moon, and Ascending signs
+- [Elements](traits/overlays/elements/index.md) — Fire, Water, Air, Earth
 - [Drug-Tarot System](core-lore/drug-tarot-system.md) — 78 cards mapped to 78 drugs
 
 ### IV. The Art
@@ -46,11 +46,11 @@ The 10,000 Miberas and their temporal identities.
 - [Birthdays](birthdays/index.md) — 9,995 unique birthdays spanning 15,000 years
 
 ### VI. The Mechanics
-- [Ranking & Scoring](traits/overlays/ranking.md) — Swag Score and tribal coherence
+- [Ranking & Scoring](traits/overlays/ranking/index.md) — Swag Score and tribal coherence
 
 ### VII. The Ecosystem
 Partners and collaborations.
-- [Featured Projects](special-collections/featured.md) — Berachain ecosystem integrations
+- [Special Collections](special-collections/index.md) — Berachain ecosystem integrations
 
 ### VIII. Behind the Scenes
 The people and process behind the collection.

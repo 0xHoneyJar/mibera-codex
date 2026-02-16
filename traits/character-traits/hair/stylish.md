@@ -1,7 +1,7 @@
 ---
 name: stylish
 image: stylish.png
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # stylish

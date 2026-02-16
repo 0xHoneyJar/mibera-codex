@@ -1,7 +1,7 @@
 ---
 name: 7Eleven
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/7Eleven.webp"
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # 7Eleven

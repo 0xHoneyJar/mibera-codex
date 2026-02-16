@@ -3,7 +3,7 @@ name: honey comb
 image: SS3_Honey Comb.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "July 9, 2024"
+date_added: "2024-07-09"
 ---
 
 # honey comb

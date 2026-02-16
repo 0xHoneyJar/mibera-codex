@@ -1,7 +1,7 @@
 ---
 name: umber
 image: "https://mibera.fsn1.your-objectstorage.com/components/body__z40/umber__z80.webp"
-date_added: "August 13, 2024"
+date_added: "2024-08-13"
 ---
 
 # umber

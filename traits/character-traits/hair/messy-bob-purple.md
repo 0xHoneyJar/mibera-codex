@@ -1,7 +1,7 @@
 ---
 name: messy bob purple
 image: Messy Bob Purple__w2.png
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # messy bob purple

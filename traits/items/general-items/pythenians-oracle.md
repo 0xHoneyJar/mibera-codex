@@ -3,7 +3,7 @@ name: pythenians oracle
 image: SS3_pythenians oracle.png
 archetype: freetekno
 swag_score: 3
-date_added: "March 22, 2025"
+date_added: "2025-03-22"
 ---
 
 # pythenians oracle

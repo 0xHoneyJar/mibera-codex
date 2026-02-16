@@ -3,7 +3,7 @@ name: coca leaves
 image: SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 archetype: chicago detroit
 swag_score: 3
-date_added: "January 16, 2025"
+date_added: "2025-01-16"
 ---
 
 # coca leaves

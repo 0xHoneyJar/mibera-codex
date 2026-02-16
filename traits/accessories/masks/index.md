@@ -73,7 +73,6 @@ Masks span the full SS1-SS5 rarity range, with the rarest (SS5) being the most c
 - [Chulym Beekeper Hat](chulym-beekeper-hat.md)
 - [Founders Mask](founders-mask.md)
 - [Faceless Galaxy](faceless-galaxy.md)
-- [Hiberanation Eye Mask](hiberanation-eye-mask-2.md)
 - [Chulym Beekeeper Hat](chulym-beekeeper-hat.md)
 - [Singapore Jani 1](singapore-jani-1.md)
 - [Singapore Jani 2](singapore-jani-2.md)

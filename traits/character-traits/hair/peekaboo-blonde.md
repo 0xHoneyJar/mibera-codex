@@ -1,7 +1,7 @@
 ---
 name: peekaboo blonde
 image: Peekaboo Blonde__w8.png Peekaboo Blonde__z-32.png
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # peekaboo blonde

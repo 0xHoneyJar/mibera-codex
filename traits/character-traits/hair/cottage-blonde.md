@@ -1,7 +1,7 @@
 ---
 name: cottage blonde
 image: Cottage Blonde__w18.PNG
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # cottage blonde

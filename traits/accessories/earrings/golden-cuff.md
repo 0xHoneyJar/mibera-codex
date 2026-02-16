@@ -3,7 +3,7 @@ name: Golden Cuff
 image: SS2_golden cuff.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Golden Cuff

@@ -3,7 +3,7 @@ name: Gold Chain
 image: SS5_freetekno_ancient_aboriginal_Gold Chain.png
 archetype: Freetekno
 swag_score: 5
-date_added: "November 28, 2023"
+date_added: "2023-11-28"
 ---
 
 # Gold Chain

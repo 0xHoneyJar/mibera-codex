@@ -3,7 +3,7 @@ name: Serotonin
 image: SS3_serotonin.png
 archetype: "**Archetype Alignment:** Chemical that’s found in the brain, gut, and blood platelets. Related to many drugs and drug users behavior in general."
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Serotonin

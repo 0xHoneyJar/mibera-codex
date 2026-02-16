@@ -1,7 +1,7 @@
 ---
 name: braided oil spill
 image: Braided Oil Spill__w4.PNG
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # braided oil spill

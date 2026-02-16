@@ -1,7 +1,7 @@
 ---
 name: cottage green
 image: Cottage Green__w14.PNG
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # cottage green

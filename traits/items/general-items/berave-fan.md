@@ -3,7 +3,7 @@ name: berave fan
 image: SS4_milady_BERAVE Fan.png
 archetype: Milady
 swag_score: 4
-date_added: "July 15, 2024"
+date_added: "2024-07-15"
 ---
 
 # berave fan

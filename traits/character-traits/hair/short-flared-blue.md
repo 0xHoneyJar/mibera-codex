@@ -1,7 +1,7 @@
 ---
 name: short flared blue
 image: Short Flared Blue__w20.PNG
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # short flared blue

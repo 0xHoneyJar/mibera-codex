@@ -3,7 +3,7 @@ name: grateful dead tarot book
 image: SS2_acidhouse_Grateful Dead Tarot Book.PNG
 archetype: acidhouse
 swag_score: 2
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # grateful dead tarot book

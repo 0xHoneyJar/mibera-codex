@@ -3,7 +3,7 @@ name: Lee Scratch 2
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_Lee%20Scratch%202.webp"
 archetype: Chicago Detroit
 swag_score: 2
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Lee Scratch 2

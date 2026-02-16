@@ -3,7 +3,7 @@ name: Pink Bera Ski
 image: SS4_pink bera ski.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "March 26, 2025"
+date_added: "2025-03-26"
 ---
 
 # Pink Bera Ski

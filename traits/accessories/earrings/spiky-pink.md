@@ -3,7 +3,7 @@ name: Spiky Pink
 image: SS3_spiky pink.png
 archetype: "**Archetype Alignment:** In relation to the rave culture, especially in the 2000s, which is very much aligned with Mibera."
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Spiky Pink

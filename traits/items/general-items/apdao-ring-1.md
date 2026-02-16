@@ -3,7 +3,7 @@ name: apdao ring 1
 image: SS5_apDAO Ring 1.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # apdao ring 1

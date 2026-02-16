@@ -3,7 +3,7 @@ name: Bitcoin 1
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Bitcoin%201.webp"
 archetype: Acidhouse
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Bitcoin 1

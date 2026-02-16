@@ -1,7 +1,7 @@
 ---
 name: normal purple
 image: Normal Purple__w4.png Normal Purple__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # normal purple

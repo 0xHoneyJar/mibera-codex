@@ -3,7 +3,7 @@ name: st johns wort
 image: SS4_freetekno_ancient_greek_st. john's wort.PNG
 archetype: freetekno
 swag_score: 4
-date_added: "December 9, 2025"
+date_added: "2025-12-09"
 ---
 
 # st johns wort

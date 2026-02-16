@@ -1,7 +1,7 @@
 ---
 name: braided black
 image: Braided Black__w11.PNG
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # braided black

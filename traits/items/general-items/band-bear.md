@@ -3,7 +3,7 @@ name: band bear
 image: SS3_milady_Band Bear 1.png
 archetype: milady
 swag_score: 3
-date_added: "July 9, 2024"
+date_added: "2024-07-09"
 ---
 
 # band bear

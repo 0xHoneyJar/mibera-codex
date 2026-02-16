@@ -2,8 +2,8 @@
 name: Ottoman Tughra
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_turkey_Ottoman%20Tughra.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "August 9, 2024"
+swag_score: null
+date_added: "2024-08-09"
 ---
 
 # Ottoman Tughra

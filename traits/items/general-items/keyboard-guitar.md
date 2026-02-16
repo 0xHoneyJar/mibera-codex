@@ -3,7 +3,7 @@ name: keyboard guitar
 image: SS5_chicagodetroit_Keyboard Guitar.png
 archetype: chicago detroit
 swag_score: 5
-date_added: "July 13, 2024"
+date_added: "2024-07-13"
 ---
 
 # keyboard guitar
