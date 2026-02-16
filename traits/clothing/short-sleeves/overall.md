@@ -3,7 +3,7 @@ name: Overall
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Overall

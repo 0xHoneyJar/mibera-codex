@@ -1,7 +1,7 @@
 ---
 name: normal
 image: "https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/normal__w10.webp"
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # normal

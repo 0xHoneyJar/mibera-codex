@@ -3,7 +3,7 @@ name: Orthodox Robe
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(ROBES"
 archetype: "**Archetype Alignment:** Its relation to Orthodox beliefs."
 swag_score: 5
-date_added: "January 2, 2025"
+date_added: "2025-01-02"
 ---
 
 # Orthodox Robe

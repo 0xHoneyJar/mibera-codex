@@ -3,7 +3,7 @@ name: golden teacher
 image: SS2_acidhouse_Golden Teacher.png
 archetype: acidhouse
 swag_score: 2
-date_added: "July 6, 2024"
+date_added: "2024-07-06"
 ---
 
 # golden teacher

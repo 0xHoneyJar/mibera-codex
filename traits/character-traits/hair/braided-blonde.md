@@ -1,7 +1,7 @@
 ---
 name: braided blonde
 image: Braided Blonde__w12.PNG
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # braided blonde

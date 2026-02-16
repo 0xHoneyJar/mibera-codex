@@ -3,7 +3,7 @@ name: ancient mead
 image: SS5_acidhouse_ancient_greek_Ancient Mead.png
 archetype: acidhouse
 swag_score: 5
-date_added: "July 12, 2024"
+date_added: "2024-07-12"
 ---
 
 # ancient mead

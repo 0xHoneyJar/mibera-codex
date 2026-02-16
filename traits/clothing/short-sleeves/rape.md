@@ -3,7 +3,7 @@ name: Rape
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: Milady
 swag_score: 3
-date_added: "**Introduced By:** Fedor"
+date_added: null
 ---
 
 # Rape

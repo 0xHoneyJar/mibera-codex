@@ -3,7 +3,7 @@ name: sudo chan
 image: SS1_milady_Sudo Chan.png
 archetype: milady
 swag_score: 1
-date_added: "July 23, 2024"
+date_added: "2024-07-23"
 ---
 
 # sudo chan

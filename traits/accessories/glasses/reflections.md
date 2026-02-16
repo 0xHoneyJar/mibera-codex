@@ -2,8 +2,8 @@
 name: Reflections
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Reflections.webp"
 archetype: Chicago Detroit
-swag_score: ---
-date_added: "August 3rd, 2024"
+swag_score: null
+date_added: "2024-08-03"
 ---
 
 # Reflections

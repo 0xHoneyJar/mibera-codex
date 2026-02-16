@@ -1,7 +1,7 @@
 ---
 name: cottage magenta
 image: Cottage Magenta__w12.PNG
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # cottage magenta

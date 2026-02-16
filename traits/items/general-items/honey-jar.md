@@ -3,7 +3,7 @@ name: honey jar
 image: SS1_milady_Honey Jar.png
 archetype: milady
 swag_score: 1
-date_added: "July 11, 2024"
+date_added: "2024-07-11"
 ---
 
 # honey jar

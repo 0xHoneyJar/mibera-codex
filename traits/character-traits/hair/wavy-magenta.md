@@ -1,6 +1,6 @@
 ---
 name: Wavy Magenta
-date_added: "**Introduced By:**"
+date_added: null
 ---
 
 # Wavy Magenta

@@ -3,7 +3,7 @@ name: datura sprig
 image: SS4_milady_ancient_nativeAmerican_datura.PNG
 archetype: milady
 swag_score: 4
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # datura sprig

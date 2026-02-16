@@ -1,7 +1,7 @@
 ---
 name: Super Lab
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10%20%28SCENE%29/super%20lab.webp"
-date_added: "March 11, 2025"
+date_added: "2025-03-11"
 ---
 
 # Super Lab

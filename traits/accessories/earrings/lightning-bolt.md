@@ -3,7 +3,7 @@ name: Lightning Bolt
 image: SS3_lightning bolt.png
 archetype: "**Archetype Alignment:** In relation to the rave culture as well as a slight Zeus reference."
 swag_score: 3
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # Lightning Bolt

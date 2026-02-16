@@ -3,7 +3,7 @@ name: Babybera
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "January 2, 2025"
+date_added: "2025-01-02"
 ---
 
 # Babybera

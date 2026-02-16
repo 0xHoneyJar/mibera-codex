@@ -3,7 +3,7 @@ name: Whiskers
 image: "https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_Whiskers.webp"
 archetype: Milady
 swag_score: 1
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Whiskers

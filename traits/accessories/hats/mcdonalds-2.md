@@ -3,7 +3,7 @@ name: McDonalds 2
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Mcdonalds%202.webp"
 archetype: Milady
 swag_score: 3
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # McDonalds 2

@@ -1,8 +1,8 @@
 ---
 name: Criminal Records Vest
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "**Introduced By:**"
+swag_score: null
+date_added: null
 ---
 
 # Criminal Records Vest

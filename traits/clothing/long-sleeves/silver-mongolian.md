@@ -3,7 +3,7 @@ name: Silver Mongolian
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG"
 archetype: Chicago Detroit
 swag_score: 3
-date_added: "April 3, 2025"
+date_added: "2025-04-03"
 ---
 
 # Silver Mongolian

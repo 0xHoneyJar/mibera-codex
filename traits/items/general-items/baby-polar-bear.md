@@ -3,7 +3,7 @@ name: baby polar bear
 image: SS4_milady_Baby Polar Bear.png
 archetype: milady
 swag_score: 4
-date_added: "July 11, 2024"
+date_added: "2024-07-11"
 ---
 
 # baby polar bear

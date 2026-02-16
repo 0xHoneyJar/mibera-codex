@@ -3,7 +3,7 @@ name: the liberator
 image: SS5_The Liberator.png
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "July 16, 2024"
+date_added: "2024-07-16"
 ---
 
 # the liberator

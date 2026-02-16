@@ -2,8 +2,8 @@
 name: squad
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Squad.webp"
 archetype: Acidhouse
-swag_score: ---
-date_added: "June 17, 2024"
+swag_score: null
+date_added: "2024-06-17"
 ---
 
 # squad

@@ -3,7 +3,7 @@ name: cody wilson ar-15
 image: SS5_Cody Wilson AR-15.png
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "July 16, 2024"
+date_added: "2024-07-16"
 ---
 
 # cody wilson ar-15

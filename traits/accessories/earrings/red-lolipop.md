@@ -3,7 +3,7 @@ name: Red Lolipop
 image: SS2_red lolipop.png
 archetype: "**Archetype Alignment:** Relation to drug-use and users, as well as rave culture."
 swag_score: 2
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Red Lolipop

@@ -3,7 +3,7 @@ name: Remcon
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Remcon.webp"
 archetype: Acidhouse
 swag_score: 3
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Remcon

@@ -3,7 +3,7 @@ name: buy bitcoin
 image: SS3_milady_Buy Bitcoin.png
 archetype: milady
 swag_score: 3
-date_added: "July 10, 2024"
+date_added: "2024-07-10"
 ---
 
 # buy bitcoin

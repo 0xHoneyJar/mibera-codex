@@ -3,7 +3,7 @@ name: K-Holed
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** Its way of poking / referencing Milady Maker 333."
 swag_score: 2
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # K-Holed

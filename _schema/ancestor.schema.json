@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "ancestor.schema.json",
+  "title": "Ancestor Entry",
+  "description": "Schema for ancestor YAML frontmatter (core-lore/ancestors/*.md)",
+  "type": "object",
+  "required": ["name", "period_ancient", "period_modern", "locations"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Ancestor culture name"
+    },
+    "period_ancient": {
+      "type": "string",
+      "description": "Ancient period date range (e.g., '-480 - -323')"
+    },
+    "period_modern": {
+      "type": "string",
+      "description": "Modern period date range (e.g., '330 - 1453')"
+    },
+    "locations": {
+      "type": "string",
+      "description": "Comma-separated geographic regions"
+    }
+  }
+}

@@ -3,7 +3,7 @@ name: Spiral 3
 image: SS3_freetekno_Spiral 3.png
 archetype: Freetekno
 swag_score: 3
-date_added: "November 28, 2023"
+date_added: "2023-11-28"
 ---
 
 # Spiral 3

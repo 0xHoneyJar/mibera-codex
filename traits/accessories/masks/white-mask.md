@@ -3,7 +3,7 @@ name: White Mask
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS2_chicagodetroit_White Mask.webp"
 archetype: Chicago Detroit
 swag_score: 2
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # White Mask

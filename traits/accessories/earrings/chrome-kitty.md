@@ -3,7 +3,7 @@ name: Chrome Kitty
 image: SS3_milady_Chrome Kitty.png
 archetype: Milady
 swag_score: 3
-date_added: "November 28, 2023"
+date_added: "2023-11-28"
 ---
 
 # Chrome Kitty

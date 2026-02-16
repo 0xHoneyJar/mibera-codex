@@ -1,8 +1,8 @@
 ---
 name: Bera Nyan
 archetype: "**Archetype Alignment:** Bera version of Nyan Cat, cultural relevance and impact in the space."
-swag_score: ---
-date_added: "**Introduced By:**"
+swag_score: null
+date_added: null
 ---
 
 # Bera Nyan

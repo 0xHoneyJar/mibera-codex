@@ -3,7 +3,7 @@ name: chrome hearts watch
 image: SS4_milady_Chrome Hearts Watch.png
 archetype: milady
 swag_score: 4
-date_added: "July 11, 2024"
+date_added: "2024-07-11"
 ---
 
 # chrome hearts watch

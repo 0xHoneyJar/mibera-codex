@@ -3,7 +3,7 @@ name: White Thick
 image: SS2_freetekno_modern_nativeAmerican_White Thick.png
 archetype: Freetekno
 swag_score: 2
-date_added: "November 28, 2023"
+date_added: "2023-11-28"
 ---
 
 # White Thick

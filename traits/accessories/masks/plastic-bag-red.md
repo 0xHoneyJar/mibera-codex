@@ -3,7 +3,7 @@ name: Plastic Bag Red
 image: SS4_freetekno_modern_irish_Plastic Bag Red.png
 archetype: Freetekno
 swag_score: 4
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Plastic Bag Red

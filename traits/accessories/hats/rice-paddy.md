@@ -3,7 +3,7 @@ name: Rice Paddy
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_Rice%20Paddy.webp"
 archetype: Acidhouse
 swag_score: 4
-date_added: "July 26, 2024"
+date_added: "2024-07-26"
 ---
 
 # Rice Paddy

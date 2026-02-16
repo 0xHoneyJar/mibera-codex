@@ -1,7 +1,7 @@
 ---
 name: short pink
 image: Short Pink__w11.PNG
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # short pink

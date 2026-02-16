@@ -1,7 +1,7 @@
 ---
 name: relaxed orange
 image: Relaxed Orange__w6.PNG Relaxed Orange__z-32.PNG
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # relaxed orange

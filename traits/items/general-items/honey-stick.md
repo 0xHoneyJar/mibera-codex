@@ -3,7 +3,7 @@ name: honey stick
 image: SS3_milady_Honey Stick.png
 archetype: milady
 swag_score: 3
-date_added: "July 10, 2024"
+date_added: "2024-07-10"
 ---
 
 # honey stick

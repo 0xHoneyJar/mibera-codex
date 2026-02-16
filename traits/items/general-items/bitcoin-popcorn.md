@@ -3,7 +3,7 @@ name: bitcoin popcorn
 image: SS5_bitcoin popcorn.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "March 28, 2025"
+date_added: "2025-03-28"
 ---
 
 # bitcoin popcorn

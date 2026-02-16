@@ -3,7 +3,7 @@ name: Spiky Lee Scratch
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_chicagodetroit_Lee%20Scratch.webp"
 archetype: Chicago Detroit
 swag_score: 5
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Spiky Lee Scratch

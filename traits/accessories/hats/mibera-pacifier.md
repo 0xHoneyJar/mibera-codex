@@ -3,7 +3,7 @@ name: Mibera Pacifier
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_Mibera%20Pacifier.webp"
 archetype: Chicago Detroit
 swag_score: 2
-date_added: "June 19, 2024"
+date_added: "2024-06-19"
 ---
 
 # Mibera Pacifier

@@ -3,7 +3,7 @@ name: Founders Mask
 image: SS5_Founders Mask.PNG
 archetype: "**Archetype Alignment:** Jani’s mask from Singapore (Token 2024)"
 swag_score: 5
-date_added: "March 15, 2025"
+date_added: "2025-03-15"
 ---
 
 # Founders Mask

@@ -3,7 +3,7 @@ name: tibetan singing bowl
 image: SS3_acidhouse_Tibetan Singing Bowl.png
 archetype: acidhouse
 swag_score: 3
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # tibetan singing bowl

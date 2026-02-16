@@ -1,6 +1,6 @@
 ---
 name: Bowl Slate
-date_added: "**Introduced By:**"
+date_added: null
 ---
 
 # Bowl Slate

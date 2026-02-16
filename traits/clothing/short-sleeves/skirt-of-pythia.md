@@ -3,7 +3,7 @@ name: Skirt of Pythia
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: Acidhouse
 swag_score: 3
-date_added: "March 13, 2025"
+date_added: "2025-03-13"
 ---
 
 # Skirt of Pythia

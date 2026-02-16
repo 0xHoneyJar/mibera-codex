@@ -3,7 +3,7 @@ name: tomato
 image: SS2_tomato.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "July 12, 2024"
+date_added: "2024-07-12"
 ---
 
 # tomato

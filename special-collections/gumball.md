@@ -1,8 +1,11 @@
 ---
 name: GumBall
+type: "DeFi"
 ---
 
 # GumBall
+
+**Type:** DeFi
 
 Berachain ecosystem project powering multiple dApps.
 

@@ -1,8 +1,11 @@
 ---
 name: Berakin
+type: "NFT"
 ---
 
 # Berakin
+
+**Type:** NFT
 
 **Link to Files:** SS3_Berakin.PNG
 

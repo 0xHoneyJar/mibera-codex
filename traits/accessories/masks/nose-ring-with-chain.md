@@ -3,7 +3,7 @@ name: Nose Ring with Chain
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_milady_Nose Ring With Chain.webp"
 archetype: Milady
 swag_score: 3
-date_added: "June 19, 2024"
+date_added: "2024-06-19"
 ---
 
 # Nose Ring with Chain

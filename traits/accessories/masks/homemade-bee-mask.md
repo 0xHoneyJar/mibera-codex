@@ -3,7 +3,7 @@ name: Homemade Bee Mask
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_milady_Homemade Bee Mask.webp"
 archetype: Milady
 swag_score: 3
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Homemade Bee Mask

@@ -3,7 +3,7 @@ name: Marijuana Leaf
 image: SS3_marijuana leaf.png
 archetype: "**Archetype Alignment:** Bong bear leaning aesthetics."
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Marijuana Leaf

@@ -3,7 +3,7 @@ name: Kim Jong Mask
 image: SS4_acidhouse_Kim Jong Mask.png
 archetype: Acidhouse
 swag_score: 4
-date_added: "July 26, 2024"
+date_added: "2024-07-26"
 ---
 
 # Kim Jong Mask

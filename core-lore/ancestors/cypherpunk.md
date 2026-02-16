@@ -38,3 +38,12 @@ Drugs Representations / Associated
 - https://en.wikipedia.org/wiki/Cypherpunk
 - https://en.wikipedia.org/wiki/Satoshi_Nakamoto
 - https://nakamotoinstitute.org/crypto-anarchist-manifesto/
+
+<!-- @generated:backlinks-start -->
+## Miberas with this Ancestor
+
+[#1037](../../miberas/1037.md) • [#2576](../../miberas/2576.md) • [#3168](../../miberas/3168.md) • [#3410](../../miberas/3410.md) • [#3653](../../miberas/3653.md) • [#5528](../../miberas/5528.md) • [#8107](../../miberas/8107.md) • [#8788](../../miberas/8788.md) • [#9051](../../miberas/9051.md) • [#9499](../../miberas/9499.md)
+
+*10 Miberas total*
+<!-- @generated:backlinks-end -->
+

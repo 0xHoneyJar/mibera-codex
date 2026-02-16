@@ -3,7 +3,7 @@ name: Faceless Galaxy
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS5_acidhouse_Faceless Galaxy.webp"
 archetype: Acidhouse
 swag_score: 5
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Faceless Galaxy

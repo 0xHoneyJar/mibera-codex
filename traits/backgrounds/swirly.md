@@ -1,7 +1,7 @@
 ---
 name: Swirly
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/swirly.webp"
-date_added: "August 14, 2024"
+date_added: "2024-08-14"
 ---
 
 # Swirly

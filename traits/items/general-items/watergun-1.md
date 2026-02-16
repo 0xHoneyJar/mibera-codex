@@ -3,7 +3,7 @@ name: watergun 1
 image: SS3_acidhouse_Watergun 1.png
 archetype: acidhouse
 swag_score: 3
-date_added: "June 5, 2024"
+date_added: "2024-06-05"
 ---
 
 # watergun 1

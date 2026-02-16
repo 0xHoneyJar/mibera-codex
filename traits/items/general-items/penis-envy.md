@@ -3,7 +3,7 @@ name: penis envy
 image: SS2_acidhouse_Penis Envy.png
 archetype: acidhouse
 swag_score: 2
-date_added: "July 6, 2024"
+date_added: "2024-07-06"
 ---
 
 # penis envy

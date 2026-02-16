@@ -3,7 +3,7 @@ name: Maid
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: Milady
 swag_score: 5
-date_added: "June 5, 2024"
+date_added: "2024-06-05"
 ---
 
 # Maid

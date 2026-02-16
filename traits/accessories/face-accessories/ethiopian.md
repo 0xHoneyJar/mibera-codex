@@ -3,7 +3,7 @@ name: Ethiopian
 image: "https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_chicagodetroit_ancient_ethiopian_Ethiopian.webp"
 archetype: Chicago Detroit
 swag_score: 5
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Ethiopian

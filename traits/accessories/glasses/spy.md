@@ -2,8 +2,8 @@
 name: spy
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Spy.webp"
 archetype: milady
-swag_score: ---
-date_added: "June 16, 2024"
+swag_score: null
+date_added: "2024-06-16"
 ---
 
 # spy

@@ -3,7 +3,7 @@ name: White Anonymous
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_White Anonymous.webp"
 archetype: Chicago Detroit
 swag_score: 4
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # White Anonymous

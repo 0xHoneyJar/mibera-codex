@@ -3,7 +3,7 @@ name: galactic gecko tarot
 image: SS3_galactic gecko tarot.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "March 22, 2025"
+date_added: "2025-03-22"
 ---
 
 # galactic gecko tarot

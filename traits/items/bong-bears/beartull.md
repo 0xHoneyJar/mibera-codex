@@ -1,7 +1,7 @@
 ---
 name: Beartull
 image: SS5_bongbear_Beartull.png
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # Beartull

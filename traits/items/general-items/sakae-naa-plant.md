@@ -1,11 +1,11 @@
 ---
-name: Sakae Naa Plant
+name: Sakae Na Plant
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "**Introduced By:**"
+swag_score: null
+date_added: null
 ---
 
-# Sakae Naa Plant
+# Sakae Na Plant
 
 ## Visual Properties
 

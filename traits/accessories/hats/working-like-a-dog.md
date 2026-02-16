@@ -3,7 +3,7 @@ name: Working Like a Dog
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Workin%20Like%20A%20Dog.webp"
 archetype: Acidhouse
 swag_score: 2
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Working Like a Dog

@@ -3,7 +3,7 @@ name: Tight Turban
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_modern_sufi_Tight%20Turban.webp"
 archetype: chicago detroit
 swag_score: 2
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Tight Turban

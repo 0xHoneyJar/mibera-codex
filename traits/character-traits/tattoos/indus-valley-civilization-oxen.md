@@ -2,8 +2,8 @@
 name: Indus Valley Civilization Oxen
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_punjabi_Indus%20Valley%20Civilization%20Oxen.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "August 9, 2024"
+swag_score: null
+date_added: "2024-08-09"
 ---
 
 # Indus Valley Civilization Oxen

@@ -3,7 +3,7 @@ name: ashwagandha sprig
 image: SS3_milady_hindu_ashwagandha.PNG
 archetype: milady
 swag_score: 3
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # ashwagandha sprig

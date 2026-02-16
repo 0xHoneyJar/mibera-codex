@@ -3,7 +3,7 @@ name: mibera mate
 image: SS2_milady_Mibera Mate.png
 archetype: milady
 swag_score: 2
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # mibera mate

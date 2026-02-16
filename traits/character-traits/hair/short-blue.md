@@ -1,7 +1,7 @@
 ---
 name: short blue
 image: Short Blue__w8.PNG
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # short blue

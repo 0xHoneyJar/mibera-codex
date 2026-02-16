@@ -3,7 +3,7 @@ name: Drugs Not Hugs
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** Its relation with drugs, especially weed as shown by the graphics."
 swag_score: 2
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # Drugs Not Hugs

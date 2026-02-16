@@ -3,7 +3,7 @@ name: Smokey The Bera Shirt
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: Chicago Detroit
 swag_score: 5
-date_added: "March 10, 2025"
+date_added: "2025-03-10"
 ---
 
 # Smokey The Bera Shirt

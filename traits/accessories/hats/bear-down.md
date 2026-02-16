@@ -3,7 +3,7 @@ name: Bear Down
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Bear%20Down.webp"
 archetype: Acidhouse
 swag_score: 2
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Bear Down

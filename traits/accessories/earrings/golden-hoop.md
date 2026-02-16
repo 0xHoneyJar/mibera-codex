@@ -3,7 +3,7 @@ name: Golden Hoop
 image: SS3_golden hoop.PNG
 archetype: "**Archetype Alignment:** Aligned culture, related to the 90s rave"
 swag_score: 3
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # Golden Hoop

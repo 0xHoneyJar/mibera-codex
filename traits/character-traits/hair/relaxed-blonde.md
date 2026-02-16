@@ -1,7 +1,7 @@
 ---
 name: relaxed blonde
 image: Relaxed Blonde__w12.PNG Relaxed Blonde__z-32.PNG
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # relaxed blonde

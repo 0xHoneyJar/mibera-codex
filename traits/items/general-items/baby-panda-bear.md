@@ -3,7 +3,7 @@ name: baby panda bear
 image: SS4_milady_Baby Panda Bear.png
 archetype: milady
 swag_score: 4
-date_added: "July 11, 2024"
+date_added: "2024-07-11"
 ---
 
 # baby panda bear

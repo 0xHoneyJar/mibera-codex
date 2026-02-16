@@ -1,18 +1,18 @@
 ---
-name: mucana pruriens plant
-image: SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
+name: mucuna pruriens plant
+image: SS2_acidhouse_ancient_hindu_mucuna pruriens.PNG
 archetype: acidhouse
 swag_score: 2
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
-# mucana pruriens plant
+# mucuna pruriens plant
 
 ## Visual Properties
 
 
 **Image Files:**
-SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
+SS2_acidhouse_ancient_hindu_mucuna pruriens.PNG
 
 
 **Visual Description:** a small bunch of leaves and a strip of beans with yellow skin.

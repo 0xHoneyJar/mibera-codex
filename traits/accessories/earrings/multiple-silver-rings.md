@@ -3,7 +3,7 @@ name: Multiple Silver Rings
 image: SS4_chicagodetroit_Multiple Silver Rings.png
 archetype: Chicago Detroit
 swag_score: 4
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Multiple Silver Rings

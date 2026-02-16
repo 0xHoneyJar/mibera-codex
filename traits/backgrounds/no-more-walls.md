@@ -1,7 +1,7 @@
 ---
 name: No More Walls
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/no%20more%20walls.webp"
-date_added: "March 22, 2025"
+date_added: "2025-03-22"
 ---
 
 # No More Walls

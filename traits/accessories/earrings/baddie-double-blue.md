@@ -3,7 +3,7 @@ name: Baddie Double Blue
 image: SS1_baddie double blue.png
 archetype: "**Archetype Alignment:** Bera Baddies inspired item."
 swag_score: 1
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Baddie Double Blue

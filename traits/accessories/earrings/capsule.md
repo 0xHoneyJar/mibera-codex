@@ -3,7 +3,7 @@ name: Capsule
 image: SS3_capsule.PNG
 archetype: "**Archetype Alignment:** Its relation to drugs / medication."
 swag_score: 3
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # Capsule

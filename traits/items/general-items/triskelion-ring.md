@@ -3,7 +3,7 @@ name: triskelion ring
 image: SS3_Triskelion Ring.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "July 10, 2024"
+date_added: "2024-07-10"
 ---
 
 # triskelion ring

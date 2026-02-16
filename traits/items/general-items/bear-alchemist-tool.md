@@ -3,7 +3,7 @@ name: bear alchemist tool
 image: SS1_acidhouse_Bear Alchemist Tool.png
 archetype: acidhouse
 swag_score: 1
-date_added: "July 16, 2024"
+date_added: "2024-07-16"
 ---
 
 # bear alchemist tool

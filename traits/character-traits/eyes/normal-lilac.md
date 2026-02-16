@@ -1,6 +1,6 @@
 ---
 name: normal lilac
-date_added: "June 3, 2024"
+date_added: "2024-06-03"
 ---
 
 # normal lilac

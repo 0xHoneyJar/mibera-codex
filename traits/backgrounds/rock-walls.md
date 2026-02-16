@@ -1,7 +1,7 @@
 ---
 name: Rock Walls
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/Rock%20Walls.webp"
-date_added: "June 8, 2024"
+date_added: "2024-06-08"
 ---
 
 # Rock Walls

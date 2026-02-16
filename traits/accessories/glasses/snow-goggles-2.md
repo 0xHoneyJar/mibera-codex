@@ -2,8 +2,8 @@
 name: snow goggles 2
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/Snow Goggles 2.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "December 10, 2024"
+swag_score: null
+date_added: "2024-12-10"
 ---
 
 # snow goggles 2

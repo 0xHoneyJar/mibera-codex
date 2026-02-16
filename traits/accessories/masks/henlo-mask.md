@@ -3,7 +3,7 @@ name: Henlo Mask
 image: SS5_henlo mask.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 5
-date_added: "March 26, 2025"
+date_added: "2025-03-26"
 ---
 
 # Henlo Mask

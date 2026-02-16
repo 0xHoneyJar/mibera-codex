@@ -3,7 +3,7 @@ name: sudoswap owen plushie
 image: SS2_milady_Sudoswap Owen Plushie.png
 archetype: Milady
 swag_score: 2
-date_added: "July 12, 2024"
+date_added: "2024-07-12"
 ---
 
 # sudoswap owen plushie

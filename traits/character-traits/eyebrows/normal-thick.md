@@ -1,7 +1,7 @@
 ---
 name: normal thick
 image: "https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Normal%20Thick.webp"
-date_added: "July 30, 2024"
+date_added: "2024-07-30"
 ---
 
 # normal thick

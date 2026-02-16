@@ -3,7 +3,7 @@ name: capitalist realism
 image: SS2_Capitalist Realism.png
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "August 7, 2024"
+date_added: "2024-08-07"
 ---
 
 # capitalist realism

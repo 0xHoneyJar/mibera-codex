@@ -3,7 +3,7 @@ name: Nyan Cat
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** Its cultural relevance, internet culture, and very rave-coded based on its rainbow based color."
 swag_score: 4
-date_added: "June 8, 2024"
+date_added: "2024-06-08"
 ---
 
 # Nyan Cat

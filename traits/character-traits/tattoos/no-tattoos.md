@@ -2,8 +2,8 @@
 name: No Tattoos
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/No%20tattoos.webp"
 archetype: "**Archetype Alignment:** Default option for characters without body art. ---"
-swag_score: ---
-date_added: "**Introduced By:**"
+swag_score: null
+date_added: null
 ---
 
 # No Tattoos

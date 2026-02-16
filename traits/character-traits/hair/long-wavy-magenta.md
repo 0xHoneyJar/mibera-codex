@@ -1,7 +1,7 @@
 ---
 name: long wavy magenta
 image: Long Wavy Magenta__w2.png Long Wavy Magenta__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # long wavy magenta

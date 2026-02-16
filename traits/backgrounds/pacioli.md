@@ -1,7 +1,7 @@
 ---
 name: Pacioli
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10%20%28SCENE%29/pacioli.webp"
-date_added: "March 11, 2025"
+date_added: "2025-03-11"
 ---
 
 # Pacioli

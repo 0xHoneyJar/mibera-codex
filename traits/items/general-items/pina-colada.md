@@ -3,7 +3,7 @@ name: pina colada
 image: SS2_milady_Pina Colada.png
 archetype: milady
 swag_score: 2
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # pina colada

@@ -3,7 +3,7 @@ name: Peace Heart
 image: SS1_peace heart.png
 archetype: "**Archetype Alignment:** Its relation to the rave culture as an iconic symbolism and accessories."
 swag_score: 1
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # Peace Heart

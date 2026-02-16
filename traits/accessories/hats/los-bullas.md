@@ -3,7 +3,7 @@ name: los bullas
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_los%20bullas.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "March 11, 2025"
+date_added: "2025-03-11"
 ---
 
 # los bullas

@@ -1,7 +1,7 @@
 ---
 name: hime blonde
 image: Hime Blonde__w14.png Hime Blonde__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # hime blonde

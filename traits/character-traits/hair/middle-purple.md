@@ -1,7 +1,7 @@
 ---
 name: middle purple
 image: Middle Purple__w6.png
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # middle purple

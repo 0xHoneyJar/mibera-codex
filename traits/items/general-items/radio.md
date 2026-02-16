@@ -3,7 +3,7 @@ name: radio
 image: SS2_milady_Radio.png
 archetype: milady
 swag_score: 2
-date_added: "July 7, 2025"
+date_added: "2025-07-07"
 ---
 
 # radio

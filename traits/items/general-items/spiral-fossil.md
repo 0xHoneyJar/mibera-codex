@@ -3,7 +3,7 @@ name: spiral fossil
 image: SS4_freetekno_Spiral Fossil.png
 archetype: freetekno
 swag_score: 4
-date_added: "July 11, 2024"
+date_added: "2024-07-11"
 ---
 
 # spiral fossil

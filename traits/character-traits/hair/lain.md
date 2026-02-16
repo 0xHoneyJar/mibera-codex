@@ -1,7 +1,7 @@
 ---
 name: Lain
 image: Lain__w2.png
-date_added: "June 5, 2024"
+date_added: "2024-06-05"
 ---
 
 # Lain

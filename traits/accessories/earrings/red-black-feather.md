@@ -3,7 +3,7 @@ name: Red Black Feather
 image: SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 archetype: Acidhouse
 swag_score: 4
-date_added: "November 28, 2023"
+date_added: "2023-11-28"
 ---
 
 # Red Black Feather

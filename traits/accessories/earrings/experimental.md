@@ -3,7 +3,7 @@ name: Experimental
 image: SS3_experimental.png
 archetype: "**Archetype Alignment:** Symbolizing the general process of drug creation. Drugs are a big part of Mibera culture in general."
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Experimental

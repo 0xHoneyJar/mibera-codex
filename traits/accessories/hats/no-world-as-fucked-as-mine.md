@@ -3,7 +3,7 @@ name: No World as Fucked as Mine
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_modern_traveller_No%20World%20As%20Fucked%20As%20Mine.webp"
 archetype: Acidhouse
 swag_score: 3
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # No World as Fucked as Mine

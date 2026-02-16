@@ -3,7 +3,7 @@ name: tabernaemontana plant
 image: SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 archetype: freetekno
 swag_score: 4
-date_added: "January 10, 2025"
+date_added: "2025-01-10"
 ---
 
 # tabernaemontana plant

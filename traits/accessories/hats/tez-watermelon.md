@@ -3,7 +3,7 @@ name: Tez Watermelon
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_tez%20watermelon.webp"
 archetype: "**Archetype Alignment:** Tez was a big part of Mibera building and creation."
 swag_score: 4
-date_added: "March 11, 2025"
+date_added: "2025-03-11"
 ---
 
 # Tez Watermelon

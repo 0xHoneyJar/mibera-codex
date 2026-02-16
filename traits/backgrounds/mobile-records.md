@@ -1,7 +1,7 @@
 ---
 name: Mobile Records
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/Mobile%20Records.webp"
-date_added: "June 7, 2024"
+date_added: "2024-06-07"
 ---
 
 # Mobile Records

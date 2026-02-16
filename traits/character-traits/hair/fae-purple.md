@@ -1,7 +1,7 @@
 ---
 name: fae purple
 image: Fae Purple__w2.png
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # fae purple

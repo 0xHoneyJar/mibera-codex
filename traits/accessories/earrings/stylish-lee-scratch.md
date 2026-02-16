@@ -3,7 +3,7 @@ name: Stylish Lee Scratch
 image: SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 archetype: Chicago Detroit
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Stylish Lee Scratch

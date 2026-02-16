@@ -3,7 +3,7 @@ name: Industrial
 image: SS4_industrial.png
 archetype: "**Archetype Alignment:** Its relation to rave culture, which aligns with Mibera."
 swag_score: 4
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Industrial

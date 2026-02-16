@@ -3,7 +3,7 @@ name: Sami Hat
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_ancient_Sami%20Hat.webp"
 archetype: Acidhouse
 swag_score: 3
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Sami Hat

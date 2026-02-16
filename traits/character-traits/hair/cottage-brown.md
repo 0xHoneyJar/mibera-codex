@@ -1,7 +1,7 @@
 ---
 name: cottage brown
 image: Cottage Brown__w20.PNG
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # cottage brown

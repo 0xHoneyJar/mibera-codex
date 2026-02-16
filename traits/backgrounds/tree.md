@@ -1,7 +1,7 @@
 ---
 name: Tree
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10/Tree.webp"
-date_added: "June 7, 2024"
+date_added: "2024-06-07"
 ---
 
 # Tree

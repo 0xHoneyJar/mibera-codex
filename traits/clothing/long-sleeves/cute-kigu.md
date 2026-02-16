@@ -3,7 +3,7 @@ name: Cute Kigu
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU"
 archetype: Milady
 swag_score: 4
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # Cute Kigu

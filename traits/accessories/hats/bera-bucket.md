@@ -3,7 +3,7 @@ name: Bera Bucket
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Bera%20Bucket.webp"
 archetype: Milady
 swag_score: 3
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Bera Bucket

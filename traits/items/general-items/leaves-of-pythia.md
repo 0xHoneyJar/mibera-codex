@@ -3,7 +3,7 @@ name: leaves of pythia
 image: SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 archetype: acidhouse
 swag_score: 4
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # leaves of pythia

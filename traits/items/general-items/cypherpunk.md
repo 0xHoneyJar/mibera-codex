@@ -3,7 +3,7 @@ name: cypherpunk
 image: SS3_Cypherpunk.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # cypherpunk

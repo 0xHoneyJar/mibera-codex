@@ -3,7 +3,7 @@ name: ayahuasca bowl
 image: SS2_freetekno_mayan_Ayahuasca Bowl.png
 archetype: freetekno
 swag_score: 2
-date_added: "July 7, 2024"
+date_added: "2024-07-07"
 ---
 
 # ayahuasca bowl

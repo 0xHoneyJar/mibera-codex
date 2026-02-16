@@ -3,7 +3,7 @@ name: Sun Kigu
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU"
 archetype: Milady
 swag_score: 5
-date_added: "July 31, 2024"
+date_added: "2024-07-31"
 ---
 
 # Sun Kigu

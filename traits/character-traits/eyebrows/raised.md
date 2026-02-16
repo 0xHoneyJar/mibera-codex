@@ -1,6 +1,6 @@
 ---
 name: Raised
-date_added: "**Introduced By:** Gumi"
+date_added: null
 ---
 
 # Raised

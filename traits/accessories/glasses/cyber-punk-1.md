@@ -2,8 +2,8 @@
 name: Cyber Punk 1
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Cyber Punk 1.webp"
 archetype: Freetekno
-swag_score: ---
-date_added: "December 10, 2024"
+swag_score: null
+date_added: "2024-12-10"
 ---
 
 # Cyber Punk 1

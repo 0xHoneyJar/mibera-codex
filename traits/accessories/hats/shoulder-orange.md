@@ -3,7 +3,7 @@ name: Shoulder Orange
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Shoulder%20Orange.webp"
 archetype: Milady
 swag_score: 2
-date_added: "July 28, 2024"
+date_added: "2024-07-28"
 ---
 
 # Shoulder Orange

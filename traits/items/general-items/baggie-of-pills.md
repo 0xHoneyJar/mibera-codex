@@ -3,7 +3,7 @@ name: baggie of pills
 image: SS5_freetekno_Baggie Of Pills.png
 archetype: freetekno
 swag_score: 5
-date_added: "July 13, 2024"
+date_added: "2024-07-13"
 ---
 
 # baggie of pills

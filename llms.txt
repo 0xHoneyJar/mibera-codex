@@ -1,0 +1,60 @@
+# Mibera Codex
+
+> 10,000 time-travelling Beras. Mythology, traits, drugs, astrology, 15,000 years of lore.
+
+## Reading This Codex
+
+- Start with IDENTITY.md for embodiment constraints and signal hierarchy
+- Use manifest.json for programmatic file lookup
+- Schema definitions in _schema/README.md
+- Human navigation via SUMMARY.md or browse/index.md
+
+## Content Types
+
+| Type | Path | Count | Format |
+|------|------|-------|--------|
+| Mibera | miberas/{0001-10000}.md | 10,000 | YAML frontmatter + Markdown table |
+| Trait | traits/**/*.md | 1,257 | YAML frontmatter |
+| Drug | drugs-detailed/*.md | 78 | YAML frontmatter |
+| Ancestor | core-lore/ancestors/*.md | 33 | YAML frontmatter |
+| Tarot Card | core-lore/tarot-cards/*.md | 78 | YAML frontmatter |
+| Birthday Era | birthdays/*.md | 11 | Structured headings |
+| Special Collection | special-collections/*.md | 32 | YAML frontmatter |
+
+## Lookup Patterns
+
+### Find a Mibera by ID
+1. Read `miberas/{ID}.md` (zero-padded 4 digits: #42 → `miberas/0042.md`)
+
+### Find a trait by name
+1. Read `manifest.json` → find subcategory path
+2. Slugify the name: "Golden Hoop" → `golden-hoop.md`
+3. Read `traits/{subcategory}/{slug}.md`
+
+### Find all Miberas with a given trait
+1. Read `browse/by-{dimension}.md` for grouped listings
+
+### Embody a Mibera
+1. Read `IDENTITY.md` for synthesis constraints
+2. Read `miberas/{ID}.md` for the specific Mibera's traits
+3. Follow links to archetype, ancestor, drug for deeper context
+
+## Key Files
+
+- IDENTITY.md — Signal hierarchy and embodiment rules
+- core-lore/archetypes.md — The 4 archetypes
+- core-lore/philosophy.md — Genesis mythology
+- core-lore/drug-tarot-system.md — 78-card drug-tarot mapping
+- glossary.md — Terminology reference
+
+## Data Exports & Schemas
+
+- _data/miberas.jsonl — All 10,000 Miberas as JSONL (one JSON object per line)
+- _schema/*.schema.json — JSON Schema files for all entity types
+- llms-full.txt — Complete conceptual framework (~530KB, all core lore + ancestors + drugs)
+
+## Signal Hierarchy (from IDENTITY.md)
+
+Load-bearing (define worldview): Archetype → Ancestor → Birthday/Era
+Textural (color expression): Drug/Molecule → Tarot → Element
+Modifiers: Swag Rank → Astrology

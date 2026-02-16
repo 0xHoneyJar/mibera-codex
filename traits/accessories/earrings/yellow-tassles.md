@@ -3,7 +3,7 @@ name: Yellow Tassles
 image: SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 archetype: Chicago Detroit
 swag_score: 4
-date_added: "November 28, 2023"
+date_added: "2023-11-28"
 ---
 
 # Yellow Tassles

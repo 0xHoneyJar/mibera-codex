@@ -47,6 +47,31 @@
 | D | 1,500 |
 | F | 650 |
 
+### [By Drug →](by-drug.md)
+*What substance defines this Mibera's relationship to altered states?*
+
+78 drugs across 10,000 Miberas — from Ayahuasca to Zolpidem.
+
+### [By Element →](by-element.md)
+*What fundamental energy drives this Mibera?*
+
+| Element | Count |
+|---------|-------|
+| Air | ~2,500 |
+| Earth | ~2,500 |
+| Fire | ~2,500 |
+| Water | ~2,500 |
+
+### [By Birthday Era →](by-era.md)
+*When was this Mibera born?*
+
+10 eras spanning 15,000 years — from prehistory to the 21st century.
+
+### [By Tarot Card →](by-tarot.md)
+*What archetypal force shapes this Mibera?*
+
+78 cards from the Drug-Tarot System, each mapped to a substance.
+
 ---
 
 ## All Miberas

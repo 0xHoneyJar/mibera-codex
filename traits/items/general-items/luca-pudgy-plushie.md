@@ -3,7 +3,7 @@ name: luca pudgy plushie
 image: SS3_luca pudgy plushie.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "March 22, 2025"
+date_added: "2025-03-22"
 ---
 
 # luca pudgy plushie

@@ -3,7 +3,7 @@ name: BM2C
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_BM2C.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "March 18, 2025"
+date_added: "2025-03-18"
 ---
 
 # BM2C

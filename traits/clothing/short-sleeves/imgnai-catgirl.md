@@ -3,7 +3,7 @@ name: IMGNAI Catgirl
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** Its indirect ties to Milady Maker as well as its unconventional and provocative nature."
 swag_score: 2
-date_added: "July 20, 2024"
+date_added: "2024-07-20"
 ---
 
 # IMGNAI Catgirl

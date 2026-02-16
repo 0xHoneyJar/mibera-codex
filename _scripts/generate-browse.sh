@@ -1,0 +1,233 @@
+#!/usr/bin/env bash
+# generate-browse.sh — Generate browse pages from Mibera source data
+# Creates: by-drug.md, by-era.md, by-element.md, by-tarot.md
+# Idempotent: safe to re-run (overwrites generated files)
+set -euo pipefail
+
+REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+
+echo "Generating browse pages..." >&2
+
+python3 - "$REPO_ROOT" <<'PYEOF'
+import re, sys, os
+from pathlib import Path
+from collections import defaultdict
+from datetime import datetime
+
+repo_root = Path(sys.argv[1])
+browse_dir = repo_root / 'browse'
+miberas_dir = repo_root / 'miberas'
+
+timestamp = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+HEADER = f'<!-- generated: {timestamp} by _scripts/generate-browse.sh -->\n'
+
+# Regex to extract linked values from Mibera table rows
+LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
+
+def extract_field(content, field_name):
+    """Extract value from a Mibera markdown table row."""
+    for line in content.split('\n'):
+        if line.startswith(f'| {field_name} |'):
+            match = LINK_RE.search(line)
+            if match:
+                return match.group(1), match.group(2)
+            # Plain text value
+            parts = line.split('|')
+            if len(parts) >= 3:
+                val = parts[2].strip()
+                if val and val != 'None':
+                    return val, None
+    return None, None
+
+def format_mibera_list(ids, max_inline=50):
+    """Format a list of Mibera IDs as inline links."""
+    ids_sorted = sorted(ids, key=lambda x: int(x))
+    links = [f'[#{mid}](../miberas/{mid}.md)' for mid in ids_sorted[:max_inline]]
+    result = ' • '.join(links)
+    remaining = len(ids_sorted) - max_inline
+    if remaining > 0:
+        result += f' • *...and {remaining} more*'
+    return result
+
+# Parse all Mibera files
+print("Parsing 10,000 Mibera files...", file=sys.stderr)
+
+by_drug = defaultdict(list)
+by_element = defaultdict(list)
+by_era = defaultdict(list)   # keyed by era file slug
+by_tarot = defaultdict(list) # keyed by drug name (drugs map 1:1 to tarot)
+
+era_labels = {}  # slug -> display label
+
+for i in range(1, 10001):
+    mid = f'{i:04d}'
+    fpath = miberas_dir / f'{mid}.md'
+    if not fpath.exists():
+        continue
+    content = fpath.read_text(encoding='utf-8', errors='replace')
+
+    # Drug
+    drug_name, drug_path = extract_field(content, 'Drug')
+    if drug_name:
+        by_drug[drug_name].append(mid)
+
+    # Element
+    elem_name, _ = extract_field(content, 'Element')
+    if elem_name:
+        by_element[elem_name].append(mid)
+
+    # Birthday era (extract from link path)
+    _, bday_path = extract_field(content, 'Birthday')
+    if bday_path:
+        # Path like ../birthdays/medieval.md#anchor
+        era_file = bday_path.split('/')[-1].split('#')[0].replace('.md', '')
+        # Build a display label from the slug
+        era_display = era_file.replace('-', ' ').title()
+        era_labels[era_file] = era_display
+        by_era[era_file].append(mid)
+
+print(f"  Drugs: {len(by_drug)} groups", file=sys.stderr)
+print(f"  Elements: {len(by_element)} groups", file=sys.stderr)
+print(f"  Eras: {len(by_era)} groups", file=sys.stderr)
+
+# --- Generate by-drug.md ---
+print("Writing by-drug.md...", file=sys.stderr)
+lines = [HEADER]
+lines.append('# Miberas by Drug\n')
+lines.append('*Browse the 10,000 Miberas organized by their associated drug/molecule.*\n')
+lines.append('---\n')
+
+for drug in sorted(by_drug.keys(), key=str.lower):
+    ids = by_drug[drug]
+    # Slugify: lowercase, strip punctuation, replace spaces with hyphens
+    slug = drug.lower()
+    slug = slug.replace('\u2019', '').replace("'", '').replace('.', '').replace(',', '')
+    slug = slug.replace(' ', '-')
+    slug = re.sub(r'-+', '-', slug).strip('-')
+    lines.append(f'## {drug}\n')
+    lines.append(f'**{len(ids):,} Miberas**\n')
+    lines.append(f'[Learn about {drug} →](../drugs-detailed/{slug}.md)\n')
+    lines.append(format_mibera_list(ids) + '\n')
+    lines.append('')
+
+lines.append('---\n')
+lines.append('[← Back to Browse](index.md)\n')
+(browse_dir / 'by-drug.md').write_text('\n'.join(lines))
+
+# --- Generate by-element.md ---
+print("Writing by-element.md...", file=sys.stderr)
+lines = [HEADER]
+lines.append('# Miberas by Element\n')
+lines.append('*Browse the 10,000 Miberas organized by their elemental alignment.*\n')
+lines.append('---\n')
+
+for elem in sorted(by_element.keys()):
+    ids = by_element[elem]
+    slug = elem.lower()
+    lines.append(f'## {elem}\n')
+    lines.append(f'**{len(ids):,} Miberas**\n')
+    lines.append(f'[Learn about {elem} →](../traits/overlays/elements/{slug}.md)\n')
+    lines.append(format_mibera_list(ids) + '\n')
+    lines.append('')
+
+lines.append('---\n')
+lines.append('[← Back to Browse](index.md)\n')
+(browse_dir / 'by-element.md').write_text('\n'.join(lines))
+
+# --- Generate by-era.md ---
+print("Writing by-era.md...", file=sys.stderr)
+lines = [HEADER]
+lines.append('# Miberas by Birthday Era\n')
+lines.append('*Browse the 10,000 Miberas organized by the era of their birthday.*\n')
+lines.append('---\n')
+
+# Sort eras roughly chronologically by count (larger eras tend to be later)
+# Better: sort by the era slug which roughly follows chronological order
+era_order = sorted(by_era.keys())
+for era_slug in era_order:
+    ids = by_era[era_slug]
+    display = era_labels.get(era_slug, era_slug)
+    lines.append(f'## {display}\n')
+    lines.append(f'**{len(ids):,} Miberas**\n')
+    lines.append(f'[View full era →](../birthdays/{era_slug}.md)\n')
+    lines.append(format_mibera_list(ids) + '\n')
+    lines.append('')
+
+lines.append('---\n')
+lines.append('[← Back to Browse](index.md)\n')
+(browse_dir / 'by-era.md').write_text('\n'.join(lines))
+
+# --- Generate by-tarot.md ---
+# Tarot cards map 1:1 to drugs. Read tarot card files to build the mapping.
+print("Building tarot mapping...", file=sys.stderr)
+tarot_dir = repo_root / 'core-lore' / 'tarot-cards'
+drug_to_tarot = {}
+
+for card_file in tarot_dir.glob('*.md'):
+    if card_file.name == 'index.md':
+        continue
+    card_content = card_file.read_text(encoding='utf-8', errors='replace')
+    # Extract drug field from YAML frontmatter
+    in_frontmatter = False
+    card_name = None
+    card_drug = None
+    for line in card_content.split('\n'):
+        if line.strip() == '---':
+            if in_frontmatter:
+                break
+            in_frontmatter = True
+            continue
+        if in_frontmatter:
+            if line.startswith('name:'):
+                card_name = line.split(':', 1)[1].strip().strip("'\"")
+            elif line.startswith('drug:'):
+                card_drug = line.split(':', 1)[1].strip().strip("'\"")
+
+    if card_name and card_drug:
+        drug_to_tarot[card_drug.lower()] = (card_name, card_file.stem)
+
+# Normalization map for known drug name mismatches between Mibera files and tarot cards
+DRUG_NORMALIZE = {
+    "bufotenine": "bufotenin",
+    "st. john\u2019s wort": "st. john's wort",
+    "st. john\u0027s wort": "st. john's wort",
+}
+
+print(f"  Tarot cards mapped: {len(drug_to_tarot)}", file=sys.stderr)
+
+print("Writing by-tarot.md...", file=sys.stderr)
+lines = [HEADER]
+lines.append('# Miberas by Tarot Card\n')
+lines.append('*Browse the 10,000 Miberas organized by their tarot card (mapped via drug).*\n')
+lines.append('---\n')
+
+# Group Miberas by tarot card via drug mapping
+by_tarot = defaultdict(list)
+unmapped = 0
+for drug_name, mibera_ids in by_drug.items():
+    drug_key = DRUG_NORMALIZE.get(drug_name.lower(), drug_name.lower())
+    if drug_key in drug_to_tarot:
+        card_name, card_slug = drug_to_tarot[drug_key]
+        by_tarot[(card_name, card_slug)].extend(mibera_ids)
+    else:
+        unmapped += len(mibera_ids)
+
+if unmapped:
+    print(f"  Warning: {unmapped} Miberas have drugs not mapped to tarot cards", file=sys.stderr)
+
+for (card_name, card_slug) in sorted(by_tarot.keys()):
+    ids = by_tarot[(card_name, card_slug)]
+    lines.append(f'## {card_name}\n')
+    lines.append(f'**{len(ids):,} Miberas**\n')
+    lines.append(f'[Learn about {card_name} →](../core-lore/tarot-cards/{card_slug}.md)\n')
+    lines.append(format_mibera_list(ids) + '\n')
+    lines.append('')
+
+lines.append('---\n')
+lines.append('[← Back to Browse](index.md)\n')
+(browse_dir / 'by-tarot.md').write_text('\n'.join(lines))
+
+print("\nDone! Generated 4 browse pages.", file=sys.stderr)
+PYEOF
+
+echo "Browse pages generated." >&2

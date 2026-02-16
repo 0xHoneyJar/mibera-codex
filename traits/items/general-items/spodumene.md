@@ -3,7 +3,7 @@ name: spodumene
 image: SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 archetype: acidhouse
 swag_score: 4
-date_added: "January 16, 2025"
+date_added: "2025-01-16"
 ---
 
 # spodumene

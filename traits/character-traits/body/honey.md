@@ -1,7 +1,7 @@
 ---
 name: honey
 image: honey__w2.PNG honey__w2.PNG
-date_added: "August 13, 2024"
+date_added: "2024-08-13"
 ---
 
 # honey

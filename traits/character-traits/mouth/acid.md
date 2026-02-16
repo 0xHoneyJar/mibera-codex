@@ -1,7 +1,7 @@
 ---
 name: acid
 image: "https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/acid__w2.webp"
-date_added: "August 1st, 2024"
+date_added: "2024-08-01"
 ---
 
 # acid

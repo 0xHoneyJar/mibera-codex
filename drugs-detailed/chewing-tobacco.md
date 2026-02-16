@@ -5,9 +5,9 @@ era: Modern
 origin: Americas
 archetype: Chicago Detroit
 ancestor: Native americans, Hindu
-swag_score: '2'
+swag_score: 2
 image: chicagodetroit_hindu_nativeAmerican_chewing tobacco.PNG
-date_added: January 12, 2025
+date_added: "2025-01-12"
 ---
 
 # Chewing Tobacco
@@ -49,3 +49,12 @@ Chewing tobacco has been used by Indigenous peoples of the Americas for thousand
 - [Tobacco - Wikipedia](https://en.wikipedia.org/wiki/Tobacco)
 - [Paan - Britannica](https://www.britannica.com/topic/paan)
 - [Smokeless tobacco (paan and gutkha) consumption, prevalence, and contribution to oral cancer (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5543298/)
+
+<!-- @generated:backlinks-start -->
+## Miberas with this Drug
+
+[#0065](../miberas/0065.md) • [#0075](../miberas/0075.md) • [#0220](../miberas/0220.md) • [#0227](../miberas/0227.md) • [#0298](../miberas/0298.md) • [#0485](../miberas/0485.md) • [#0577](../miberas/0577.md) • [#0604](../miberas/0604.md) • [#0623](../miberas/0623.md) • [#0641](../miberas/0641.md) • [#0652](../miberas/0652.md) • [#0657](../miberas/0657.md) • [#0717](../miberas/0717.md) • [#0773](../miberas/0773.md) • [#0774](../miberas/0774.md) • [#0827](../miberas/0827.md) • [#0870](../miberas/0870.md) • [#0893](../miberas/0893.md) • [#0923](../miberas/0923.md) • [#0926](../miberas/0926.md) • [#0937](../miberas/0937.md) • [#0976](../miberas/0976.md) • [#1224](../miberas/1224.md) • [#1301](../miberas/1301.md) • [#1303](../miberas/1303.md) • [#1377](../miberas/1377.md) • [#1413](../miberas/1413.md) • [#1498](../miberas/1498.md) • [#1516](../miberas/1516.md) • [#1576](../miberas/1576.md) • [#1640](../miberas/1640.md) • [#1648](../miberas/1648.md) • [#1720](../miberas/1720.md) • [#1767](../miberas/1767.md) • [#2025](../miberas/2025.md) • [#2042](../miberas/2042.md) • [#2099](../miberas/2099.md) • [#2332](../miberas/2332.md) • [#2352](../miberas/2352.md) • [#2404](../miberas/2404.md) • [#2407](../miberas/2407.md) • [#2410](../miberas/2410.md) • [#2449](../miberas/2449.md) • [#2564](../miberas/2564.md) • [#2566](../miberas/2566.md) • [#2646](../miberas/2646.md) • [#2649](../miberas/2649.md) • [#2838](../miberas/2838.md) • [#2871](../miberas/2871.md) • [#2900](../miberas/2900.md) • ... and 101 more
+
+*151 Miberas total*
+<!-- @generated:backlinks-end -->
+

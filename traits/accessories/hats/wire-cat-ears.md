@@ -3,7 +3,7 @@ name: Wire Cat Ears
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Wire%20Cat%20Ears.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 2
-date_added: "July 28, 2024"
+date_added: "2024-07-28"
 ---
 
 # Wire Cat Ears

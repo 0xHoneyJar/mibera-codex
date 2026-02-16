@@ -1,7 +1,7 @@
 ---
 name: medium wavy brown
 image: Medium Wavy Brown__w10.png
-date_added: "June 15, 2024"
+date_added: "2024-06-15"
 ---
 
 # medium wavy brown

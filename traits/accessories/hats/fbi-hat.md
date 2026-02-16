@@ -3,7 +3,7 @@ name: FBI Hat
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_milady_FBI%20Hat.webp"
 archetype: Milady
 swag_score: 5
-date_added: "July 28, 2024"
+date_added: "2024-07-28"
 ---
 
 # FBI Hat

@@ -1,7 +1,7 @@
 ---
 name: classic blonde
 image: Classic Blonde__w14.PNG Classic Blonde__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # classic blonde

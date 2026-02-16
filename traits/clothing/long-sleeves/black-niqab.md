@@ -3,7 +3,7 @@ name: Black Niqab
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(ROBES"
 archetype: Milady
 swag_score: 5
-date_added: "July 28, 2024"
+date_added: "2024-07-28"
 ---
 
 # Black Niqab

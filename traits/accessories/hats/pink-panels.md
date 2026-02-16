@@ -3,7 +3,7 @@ name: Pink Panels
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_milady_Pink%20Panels.webp"
 archetype: Milady
 swag_score: 1
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Pink Panels

@@ -3,7 +3,7 @@ name: Gumball
 image: SS3_Gumball.PNG
 archetype: "**Archetype Alignment:** Fellow bera brojekt"
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Gumball

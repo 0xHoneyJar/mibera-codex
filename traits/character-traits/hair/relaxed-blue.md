@@ -1,6 +1,6 @@
 ---
 name: Relaxed Blue
-date_added: "**Introduced By:**"
+date_added: null
 ---
 
 # Relaxed Blue

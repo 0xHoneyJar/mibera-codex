@@ -3,7 +3,7 @@ name: Surgical Mask
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_acidhouse_Surgical Mask.webp"
 archetype: Acidhouse
 swag_score: 1
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Surgical Mask

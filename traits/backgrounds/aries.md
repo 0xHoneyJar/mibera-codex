@@ -1,7 +1,7 @@
 ---
 name: Aries
 image: "https://mibera.fsn1.your-objectstorage.com/components/Constellations/aries.webp"
-date_added: "November 23, 2024"
+date_added: "2024-11-23"
 ---
 
 # Aries

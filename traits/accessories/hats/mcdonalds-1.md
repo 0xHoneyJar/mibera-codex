@@ -2,8 +2,8 @@
 name: Mcdonalds 1
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Mcdonalds%201.webp"
 archetype: Chicago Detroit
-swag_score: "3 - https://www.amazon.com/McDonalds-Vintage-Official-Employee-Uniform/dp/B08GNYS18F ---"
-date_added: "December 10, 2024"
+swag_score: 3
+date_added: "2024-12-10"
 ---
 
 # Mcdonalds 1

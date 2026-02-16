@@ -1,7 +1,7 @@
 ---
 name: concerned
 image: "https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Concerned.webp"
-date_added: "July 30, 2024"
+date_added: "2024-07-30"
 ---
 
 # concerned

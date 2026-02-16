@@ -2,8 +2,8 @@
 name: Grateful Dead Mushroom
 image: "https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Grateful%20Dead%20Mushroom.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: ---
-date_added: "December 10, 2024"
+swag_score: null
+date_added: "2024-12-10"
 ---
 
 # Grateful Dead Mushroom

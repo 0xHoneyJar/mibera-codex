@@ -1,7 +1,7 @@
 ---
 name: Bearyphus
 image: SS5_bongbear_Bearyphus.png
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # Bearyphus

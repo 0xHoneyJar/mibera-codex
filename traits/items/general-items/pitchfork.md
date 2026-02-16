@@ -3,7 +3,7 @@ name: pitchfork
 image: SS1_freetekno_Pitchfork.png
 archetype: freetekno
 swag_score: 1
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # pitchfork

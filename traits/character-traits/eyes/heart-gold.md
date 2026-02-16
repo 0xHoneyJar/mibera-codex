@@ -1,7 +1,7 @@
 ---
 name: heart gold
 image: "https://mibera.fsn1.your-objectstorage.com/components/eyes__z69/Heart%20Gold__w15.webp"
-date_added: "June 3, 2024"
+date_added: "2024-06-03"
 ---
 
 # heart gold

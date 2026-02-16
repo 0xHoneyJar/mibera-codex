@@ -3,7 +3,7 @@ name: Honey Road
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: "**Archetype Alignment:** The official website for Mibera under The Honey Jar."
 swag_score: 4
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # Honey Road

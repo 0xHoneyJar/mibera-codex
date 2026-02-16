@@ -3,7 +3,7 @@ name: yeeted
 image: SS3_Yeeted.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "July 10, 2024"
+date_added: "2024-07-10"
 ---
 
 # yeeted

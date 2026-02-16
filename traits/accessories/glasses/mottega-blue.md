@@ -2,8 +2,8 @@
 name: Mottega Blue
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Mottega Blue.webp"
 archetype: Milady
-swag_score: ---
-date_added: "June 5, 2024"
+swag_score: null
+date_added: "2024-06-05"
 ---
 
 # Mottega Blue

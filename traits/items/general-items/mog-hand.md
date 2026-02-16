@@ -3,7 +3,7 @@ name: mog hand
 image: SS4_milady_Mog Hand.png
 archetype: milady
 swag_score: 4
-date_added: "July 12, 2024"
+date_added: "2024-07-12"
 ---
 
 # mog hand

@@ -3,7 +3,7 @@ name: Pyramid
 image: SS3_pyramid.png
 archetype: "**Archetype Alignment:** In relation / within an aligned aesthetic to ancient Egyptian as one of Mibera’s ancestors. Also in relation to Sun Ra."
 swag_score: 3
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # Pyramid

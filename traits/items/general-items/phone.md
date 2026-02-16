@@ -3,7 +3,7 @@ name: phone
 image: SS1_freetekno_Phone.png
 archetype: acidhouse
 swag_score: 1
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # phone

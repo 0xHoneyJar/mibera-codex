@@ -65,6 +65,11 @@
   * [By Archetype](browse/by-archetype.md)
   * [By Ancestor](browse/by-ancestor.md)
   * [By Swag Rank](browse/by-swag-rank.md)
+  * [By Drug](browse/by-drug.md)
+  * [By Element](browse/by-element.md)
+  * [By Birthday Era](browse/by-era.md)
+  * [By Tarot Card](browse/by-tarot.md)
+  * [Cluster Browse](browse/clusters/index.md)
 * [All Miberas](miberas/index.md)
 * [Birthdays](birthdays/index.md)
   * [Timeline & Distribution](birthdays/timeline.md)
@@ -82,6 +87,9 @@
 ## VI. The Ecosystem
 * [Featured Projects & Partners](special-collections/index.md)
 
-## VII. Behind the Scenes
+## VII. Schema & Validation
+* [Content Type Schemas](_schema/README.md)
+
+## VIII. Behind the Scenes
 * [Creative Process](behind-the-scenes/creative-process.md)
 * [Team History](behind-the-scenes/team-history.md)

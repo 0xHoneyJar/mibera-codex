@@ -3,7 +3,7 @@ name: Arc Jersey
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG"
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "March 22, 2025"
+date_added: "2025-03-22"
 ---
 
 # Arc Jersey

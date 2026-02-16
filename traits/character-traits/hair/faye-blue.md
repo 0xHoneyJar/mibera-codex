@@ -1,6 +1,6 @@
 ---
 name: Faye Blue
-date_added: "**Introduced By:**"
+date_added: null
 ---
 
 # Faye Blue

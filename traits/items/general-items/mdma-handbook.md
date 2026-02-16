@@ -3,7 +3,7 @@ name: mdma handbook
 image: SS4_milady_acidhouse_MDMA Handbook.png
 archetype: milady / acidhouse
 swag_score: 4
-date_added: "July 10, 2024"
+date_added: "2024-07-10"
 ---
 
 # mdma handbook

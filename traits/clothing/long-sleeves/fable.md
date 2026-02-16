@@ -3,7 +3,7 @@ name: Fable
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU"
 archetype: "**Archetype Alignment:** Fable is one of projects building in the Berachain ecosystem."
 swag_score: 5
-date_added: "March 11, 2025"
+date_added: "2025-03-11"
 ---
 
 # Fable

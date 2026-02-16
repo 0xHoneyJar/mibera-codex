@@ -3,7 +3,7 @@ name: mighty hulk toy
 image: SS2_freetekno_Mighty Hulk Toy.png
 archetype: Freetekno
 swag_score: 2
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # mighty hulk toy

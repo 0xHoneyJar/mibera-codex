@@ -3,7 +3,7 @@ name: shin ramyun
 image: SS3_freetekno_Shin Ramyun.png
 archetype: freetekno
 swag_score: 3
-date_added: "July 9, 2024"
+date_added: "2024-07-09"
 ---
 
 # shin ramyun

@@ -1,7 +1,7 @@
 ---
 name: Poppy Field
 image: "https://mibera.fsn1.your-objectstorage.com/components/background__z10%20%28SCENE%29/poppy%20field.webp"
-date_added: "March 11, 2025"
+date_added: "2025-03-11"
 ---
 
 # Poppy Field

@@ -3,7 +3,7 @@ name: Chulym Beekeper Hat
 image: "https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_Chulym Beekeeper Hat.webp"
 archetype: "**Archetype Alignment:** Otyken influence OTYKEN - LORD OF HONEY (ВЕРТИКАЛЬНЫЙ КЛИП)"
 swag_score: 3
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Chulym Beekeper Hat

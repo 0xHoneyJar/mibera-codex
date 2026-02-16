@@ -3,7 +3,7 @@ name: Spiral Tribe
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Spiral%20Tribe.webp"
 archetype: Milady
 swag_score: 3
-date_added: "July 25, 2024"
+date_added: "2024-07-25"
 ---
 
 # Spiral Tribe

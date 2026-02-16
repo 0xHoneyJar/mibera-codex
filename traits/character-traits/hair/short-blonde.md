@@ -1,7 +1,7 @@
 ---
 name: short blonde
 image: Short Blonde__w4.PNG
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # short blonde

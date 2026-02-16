@@ -3,7 +3,7 @@ name: Dog Bone
 image: SS3_dog bone.PNG
 archetype: "**Archetype Alignment:** In relation to the “Dog Bone Village” meme within the Milady Maker NFT community around the end of 2024"
 swag_score: 3
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Dog Bone

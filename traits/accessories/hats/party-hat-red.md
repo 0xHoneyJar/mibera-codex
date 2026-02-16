@@ -3,7 +3,7 @@ name: Party Hat Red
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_Party%20Hat%20Red.webp"
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Party Hat Red

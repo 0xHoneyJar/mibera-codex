@@ -3,7 +3,7 @@ name: mexicana
 image: SS2_acidhouse_Mexicana.png
 archetype: acidhouse
 swag_score: 2
-date_added: "July 6, 2024"
+date_added: "2024-07-06"
 ---
 
 # mexicana

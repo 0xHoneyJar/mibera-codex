@@ -3,7 +3,7 @@ name: Bera Ski
 image: SS4_Bera Ski.png
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "July 28, 2024"
+date_added: "2024-07-28"
 ---
 
 # Bera Ski

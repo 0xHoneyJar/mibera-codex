@@ -3,7 +3,7 @@ name: Remiliaco
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Remiliaco.webp"
 archetype: Acidhouse
 swag_score: 3
-date_added: "July 25, 2024"
+date_added: "2024-07-25"
 ---
 
 # Remiliaco

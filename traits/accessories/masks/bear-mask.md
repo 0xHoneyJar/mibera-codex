@@ -3,7 +3,7 @@ name: Bear Mask
 image: SS4_freetekno_Bear Mask.PNG
 archetype: Freetekno
 swag_score: 4
-date_added: "July 27, 2024"
+date_added: "2024-07-27"
 ---
 
 # Bear Mask

@@ -1,7 +1,7 @@
 ---
 name: classic blue
 image: Classic Blue__w12.PNG Classic Blue__z-32.png
-date_added: "June 22, 2024"
+date_added: "2024-06-22"
 ---
 
 # classic blue

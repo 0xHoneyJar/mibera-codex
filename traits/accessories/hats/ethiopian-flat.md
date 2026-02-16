@@ -3,7 +3,7 @@ name: Ethiopian Flat
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Ethiopian%20Flat.webp"
 archetype: Milady
 swag_score: 2
-date_added: "July 24, 2024"
+date_added: "2024-07-24"
 ---
 
 # Ethiopian Flat

@@ -2,8 +2,8 @@
 name: stars
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Stars.webp"
 archetype: Freetekno
-swag_score: ---
-date_added: "June 17, 2024"
+swag_score: null
+date_added: "2024-06-17"
 ---
 
 # stars

@@ -1,7 +1,7 @@
 ---
 name: messy bob brown
 image: Messy Bob Brown__w20.png
-date_added: "June 4, 2024"
+date_added: "2024-06-04"
 ---
 
 # messy bob brown

@@ -1,7 +1,7 @@
 ---
 name: Simple Yellow
 image: "https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/152_simple%20yellow.webp"
-date_added: August 2024
+date_added: "2024-08"
 ---
 
 # Simple Yellow

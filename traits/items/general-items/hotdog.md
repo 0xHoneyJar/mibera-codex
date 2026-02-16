@@ -3,7 +3,7 @@ name: hotdog
 image: SS4_hotdog.PNG
 archetype: "**Archetype Alignment:**"
 swag_score: 4
-date_added: "March 25, 2025"
+date_added: "2025-03-25"
 ---
 
 # hotdog

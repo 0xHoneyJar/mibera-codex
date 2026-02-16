@@ -3,7 +3,7 @@ name: Star Trio
 image: SS4_freetekno_stars.png
 archetype: Freetekno
 swag_score: 4
-date_added: "December 10, 2024"
+date_added: "2024-12-10"
 ---
 
 # Star Trio

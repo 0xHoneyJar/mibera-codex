@@ -3,7 +3,7 @@ name: ooga booga bera
 image: SS3_Ooga Booga Bera.png
 archetype: "**Archetype Alignment:**"
 swag_score: 3
-date_added: "December 9, 2024"
+date_added: "2024-12-09"
 ---
 
 # ooga booga bera

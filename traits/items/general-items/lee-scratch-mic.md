@@ -3,7 +3,7 @@ name: lee scratch mic
 image: SS4_chicagodetroit_Lee Scratch Mic.png
 archetype: chicago detroit
 swag_score: 4
-date_added: "July 10, 2024"
+date_added: "2024-07-10"
 ---
 
 # lee scratch mic
