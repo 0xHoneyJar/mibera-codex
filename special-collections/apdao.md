@@ -1,8 +1,11 @@
 ---
 name: Apdao
+type: "DAO"
 ---
 
 # Apdao
+
+**Type:** DAO
 
 Berachain DAO incubated by The Honey Jar. Venture studio and community aggregator supporting emerging protocols.
 

@@ -1,8 +1,11 @@
 ---
 name: Beradoge
+type: "NFT"
 ---
 
 # Beradoge
+
+**Type:** NFT
 
 NFT project on Berachain.
 
