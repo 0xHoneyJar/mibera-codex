@@ -35,6 +35,7 @@ mireveals/*/webp_part*/
 
 # Loa framework (development tooling, not part of codex)
 CLAUDE.md
+.mivaulty/
 .claude/
 .beads/
 .run/
