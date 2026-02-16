@@ -1,6 +1,6 @@
 # Drugs
 
-*79 substances documented in the Mibera Codex.*
+*78 substances documented in the Mibera Codex.*
 
 ## All Entries
 
@@ -65,7 +65,6 @@
 - [Psilacetin](psilacetin.md)
 - [Psychotria Viridis](psychotria-viridis.md)
 - [Sakae Na](sakae-na.md)
-- [Sakae Na](sakae-na.md)
 - [Sassafras](sassafras.md)
 - [Scopolamine](scopolamine.md)
 - [Sertraline](sertraline.md)
@@ -86,10 +85,6 @@
 
 ## By Archetype
 
-### **Archetype Alignment:**
-
-- [Sakae Na](sakae-na.md)
-
 ### Acidhouse
 
 - [Acacia](acacia.md)
@@ -105,6 +100,7 @@
 - [Mimosa Tenuiflora](mimosa-tenuiflora.md)
 - [MMDA](mmda.md)
 - [Mucuna Pruriens](mucuna-pruriens.md)
+- [Mushrooms](mushrooms.md)
 - [NOS](nos.md)
 - [Nutmeg](nutmeg.md)
 - [Ololiuqui](ololiuqui.md)
@@ -120,6 +116,7 @@
 - [Coca](coca.md)
 - [Cocaine](cocaine.md)
 - [Ethanol](ethanol.md)
+- [Euphoria](euphoria.md)
 - [Iboga](iboga.md)
 - [Ibogaine](ibogaine.md)
 - [Nicotine](nicotine.md)
@@ -133,10 +130,6 @@
 - [Tobacco](tobacco.md)
 - [Weed](weed.md)
 - [Yohimbe](yohimbe.md)
-
-### Chicago detroit
-
-- [Euphoria](euphoria.md)
 
 ### Freetekno
 
@@ -181,7 +174,3 @@
 - [Sober](sober.md)
 - [Tea](tea.md)
 - [Testosterone](testosterone.md)
-
-### acidhouse
-
-- [Mushrooms](mushrooms.md)
