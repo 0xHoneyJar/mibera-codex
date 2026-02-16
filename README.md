@@ -34,6 +34,7 @@ Cosmic and chemical systems that define each Mibera.
 - [Astrology](traits/overlays/astrology/index.md) — Sun, Moon, and Ascending signs
 - [Elements](traits/overlays/elements/index.md) — Fire, Water, Air, Earth
 - [Drug-Tarot System](core-lore/drug-tarot-system.md) — 78 cards mapped to 78 drugs
+- [Drugs Deep Dive](drugs-detailed/index.md) — Detailed profiles of all 79 substances
 
 ### IV. The Art
 1,337+ visual traits across multiple categories.
@@ -56,6 +57,14 @@ Partners and collaborations.
 The people and process behind the collection.
 - [Creative Process](behind-the-scenes/creative-process.md) — How the art was made
 - [Team History](behind-the-scenes/team-history.md) — The people who built Mibera
+
+---
+
+## Browse the Codex
+
+Explore the 10,000 Miberas through faceted search — filter by archetype, ancestor, drug, element, swag rank, birthday era, and more.
+
+[Browse all Miberas →](browse/index.md)
 
 ---
 
