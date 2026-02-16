@@ -188,7 +188,7 @@ era: Modern
 origin: Germany
 archetype: Milady
 ancestor: Native American
-swag_score: "4"
+swag_score: 4
 image: milady_nativeAmerican_MDMA.PNG
 date_added: January 12, 2025
 ---
@@ -202,11 +202,9 @@ date_added: January 12, 2025
 | origin | Yes | string | Geographic origin |
 | archetype | Yes | string | Freetekno/Milady/Acidhouse/Chicago Detroit |
 | ancestor | Yes | string | Linked ancestor name |
-| swag_score | Yes | string | Number as string |
+| swag_score | Yes | number | 1-5 rarity tier |
 | image | Yes | string | Filename |
 | date_added | Yes | string | Human-readable date |
-
-**Note**: `swag_score` is stored as a string in some files (inconsistency). Both `"4"` and `4` are accepted.
 
 **Special file**: `drug-pairings.md` is a reference page, not a drug entry (no YAML frontmatter).
 
@@ -284,7 +282,6 @@ type: "DeFi, Community"
 | name | Yes | string | Collection name |
 | type | Yes | string | Category description |
 
-**Known issue**: 4 files (apdao, beradoge, berakin, gumball) are missing the `type` field.
 
 ---
 
