@@ -20,9 +20,9 @@ Run from the repo root:
 
 | Script | Description |
 |--------|-------------|
-| `generate-browse.sh` | Generate faceted browse pages (`by-drug.md`, `by-era.md`, `by-element.md`, `by-tarot.md`) |
+| `generate-browse.sh` | Generate faceted browse pages (`by-drug.md`, `by-era.md`, `by-tarot.md`) |
 | `generate-backlinks.py` | Generate backlink sections for content files |
-| `generate-clusters.py` | Generate trait cluster analysis |
+| `generate-clusters.py` | Generate enriched dimension browse pages (`by-ancestor.md`, `by-archetype.md`, `by-element.md`) with cross-dimensional breakdown tables |
 | `generate-exports.py` | Export codex data in structured formats |
 | `generate-graph.py` | Generate relationship graph data |
 | `generate-llms-full.py` | Generate `llms-full.txt` — complete codex content for LLM ingestion |

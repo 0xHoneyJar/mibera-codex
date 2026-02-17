@@ -69,7 +69,6 @@
   * [By Element](browse/by-element.md)
   * [By Birthday Era](browse/by-era.md)
   * [By Tarot Card](browse/by-tarot.md)
-  * [Cluster Browse](browse/clusters/index.md)
 * [All Miberas](miberas/index.md)
 * [Birthdays](birthdays/index.md)
   * [Timeline & Distribution](birthdays/timeline.md)

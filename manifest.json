@@ -103,15 +103,12 @@
     "graph": "_data/graph.json",
     "stats": "_data/stats.md"
   },
-  "cluster_browse": {
-    "directory": "browse/clusters/",
-    "index": "browse/clusters/index.md",
-    "pairs": {
-      "archetype_ancestor": "browse/clusters/archetype-ancestor/",
-      "archetype_element": "browse/clusters/archetype-element/",
-      "ancestor_element": "browse/clusters/ancestor-element/"
-    },
-    "total_pages": 274
+  "cross_dimensional_browse": {
+    "note": "Cross-dimensional breakdowns are now inline in the enriched browse pages",
+    "by_ancestor": "browse/by-ancestor.md",
+    "by_archetype": "browse/by-archetype.md",
+    "by_element": "browse/by-element.md",
+    "generator": "_scripts/generate-clusters.py"
   },
   "schemas": {
     "mibera": "_schema/mibera.schema.json",
