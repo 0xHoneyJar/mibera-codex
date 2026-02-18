@@ -32,18 +32,15 @@ images/
 mireveals/
 .obsidian/
 
-# Loa framework (development tooling, not part of codex)
-CLAUDE.md
+# Loa framework — local-only / ephemeral files
 .mivaulty/
-.reviewignore
-.claude/
-.beads/
 .run/
-.loa.config.yaml
-.loa-version.json
-.gitattributes
-PROCESS.md
-INSTALLATION.md
+.claude/settings.local.json
+.claude/cache/
+
+# Beads — track portable format, ignore local database
+.beads/beads.db
+.beads/last-touched
 
 # Loa state — track development history, exclude ephemeral files
 grimoires/loa/NOTES.md.tmp
