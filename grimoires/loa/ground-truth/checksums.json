@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-02-15T12:39:27Z",
-  "git_sha": "968ee310d8606f06b3e06973e44e511913a1fff9",
+  "generated_at": "2026-02-18T22:23:24Z",
+  "git_sha": "b3bcd47c9ece3d96b1dcfb417b7aec0c2772cd8e",
   "algorithm": "sha256",
   "files": {
-    "grimoires/loa/ground-truth/architecture.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "grimoires/loa/ground-truth/behaviors.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "grimoires/loa/ground-truth/api-surface.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "grimoires/loa/ground-truth/index.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "grimoires/loa/ground-truth/contracts.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "grimoires/loa/ground-truth/architecture.md": "a865dadb4c8c912e080362ddbf1250503f5ccdc7c79946256503ef8ed4dfd750",
+    "grimoires/loa/ground-truth/behaviors.md": "a65abe8fb5c104ceb6a62566e8947fb34f9d9cf7d88b60de941d5d7dcafb5e48",
+    "grimoires/loa/ground-truth/api-surface.md": "fc43c5eb800a8bdfb014fd3dba56aa4a8cef9e89f973fee34da30a17338cbc0e",
+    "grimoires/loa/ground-truth/index.md": "42d20a3111e19dc78a352a867312d315578fb57008cdba8e66e043fa375215b4",
+    "grimoires/loa/ground-truth/contracts.md": "a9a293a7f0e1d7ca83c0eb1f0f41e37391d4695611aa39a22749e13af9e199e2"
   }
 }
