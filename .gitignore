@@ -28,9 +28,8 @@ npm-debug.log*
 all-images/
 images/
 
-# Mireveal image folders (hosted externally)
-mireveals/*/webp/
-mireveals/*/webp_part*/
+# Mireveals (in-progress data, not ready for tracking)
+mireveals/
 .obsidian/
 
 # Loa framework (development tooling, not part of codex)
