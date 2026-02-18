@@ -43,4 +43,6 @@ element: Earth
 
 **Element:** Earth
 
+**1/1 Grail:** [Capricorn Grail (#8971)](../../../grails/capricorn.md)
+
 ---

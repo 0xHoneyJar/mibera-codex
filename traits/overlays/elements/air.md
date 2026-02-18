@@ -17,4 +17,6 @@ quadrant: Northern (lat ≥ 0) and Eastern (lon ≥ 0)
 
 **Qualities:** Intellect, communication, movement, ideas, breath
 
+**1/1 Grail:** [Air Grail (#2769)](../../../grails/air.md)
+
 ---

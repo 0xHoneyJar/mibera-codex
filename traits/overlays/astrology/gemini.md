@@ -43,4 +43,6 @@ element: Air
 
 **Element:** Air
 
+**1/1 Grail:** [Gemini Grail (#7218)](../../../grails/gemini.md)
+
 ---

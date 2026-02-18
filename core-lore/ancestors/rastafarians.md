@@ -7,6 +7,8 @@ locations: Jamaica
 
 # Rastafarians
 
+> **1/1 Grail**: [Rastafarian Grail (#1134)](../../grails/rastafarian.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

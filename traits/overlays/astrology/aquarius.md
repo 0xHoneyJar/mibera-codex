@@ -43,4 +43,6 @@ element: Air
 
 **Element:** Air
 
+**1/1 Grail:** [Aquarius Grail (#6805)](../../../grails/aquarius.md)
+
 ---

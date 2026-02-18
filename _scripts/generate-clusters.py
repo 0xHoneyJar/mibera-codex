@@ -1,243 +1,290 @@
 #!/usr/bin/env python3
-"""Generate cluster MOC (Map of Content) pages for cross-dimensional browse.
+"""Generate enriched dimension browse pages with cross-dimensional breakdowns.
 
-Reads all 10,000 Mibera YAML frontmatter files and generates Markdown pages
-for every non-empty intersection of high-value dimension pairs:
-  - archetype × ancestor
-  - archetype × element
-  - ancestor × element
+Reads _data/miberas.jsonl and generates three enriched browse pages:
+  - browse/by-ancestor.md   (with archetype + element breakdowns per ancestor)
+  - browse/by-archetype.md  (with ancestor + element breakdowns per archetype)
+  - browse/by-element.md    (with archetype + ancestor breakdowns per element)
 
-Output: browse/clusters/{pair_type}/{slug-a}-x-{slug-b}.md
-Index:  browse/clusters/index.md
+This replaces the former browse/clusters/ directory (275 separate files).
+
+Usage: python3 _scripts/generate-clusters.py
 """
 
-import glob
-import os
-import yaml
+import json
+import sys
 from collections import defaultdict
 from datetime import datetime, timezone
+from pathlib import Path
 
-MIBERA_DIR = "miberas"
-OUTPUT_DIR = "browse/clusters"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DATA_FILE = REPO_ROOT / "_data" / "miberas.jsonl"
+OUTPUT_DIR = REPO_ROOT / "browse"
+
 TIMESTAMP = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-MAX_INLINE_LINKS = 50
+HEADER = f"<!-- generated: {TIMESTAMP} by _scripts/generate-clusters.py -->"
 
-# Dimension pairs to generate
-PAIRS = [
-    {
-        "id": "archetype-ancestor",
-        "dim_a": "archetype",
-        "dim_b": "ancestor",
-        "label_a": "Archetype",
-        "label_b": "Ancestor",
-        "link_a": lambda slug: f"../../../core-lore/archetypes.md#{slug}",
-        "link_b": lambda slug: f"../../../core-lore/ancestors/{slug}.md",
-    },
-    {
-        "id": "archetype-element",
-        "dim_a": "archetype",
-        "dim_b": "element",
-        "label_a": "Archetype",
-        "label_b": "Element",
-        "link_a": lambda slug: f"../../../core-lore/archetypes.md#{slug}",
-        "link_b": lambda _: f"../../../browse/by-element.md",
-    },
-    {
-        "id": "ancestor-element",
-        "dim_a": "ancestor",
-        "dim_b": "element",
-        "label_a": "Ancestor",
-        "label_b": "Element",
-        "link_a": lambda slug: f"../../../core-lore/ancestors/{slug}.md",
-        "link_b": lambda _: f"../../../browse/by-element.md",
-    },
-]
+# Rank display order and normalization (JSONL uses Sss/Ss, display uses SSS/SS)
+RANK_DISPLAY = {"Sss": "SSS", "Ss": "SS", "S": "S", "A": "A", "B": "B", "C": "C", "D": "D", "F": "F"}
+RANK_ORDER = ["SSS", "SS", "S", "A", "B", "C", "D", "F"]
+TOP_RANKS = {"SSS", "SS", "S"}
+
+
+def load_data():
+    """Load all mibera records from JSONL."""
+    records = []
+    with open(DATA_FILE) as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                rec = json.loads(line)
+                # Normalize rank for display
+                rec["rank"] = RANK_DISPLAY.get(rec.get("swag_rank", ""), rec.get("swag_rank", ""))
+                records.append(rec)
+    return records
 
 
 def slugify(name):
-    """Convert display name to file slug."""
+    """Convert display name to URL slug."""
     if not name:
         return ""
     s = name.lower()
-    s = s.replace("\u2019", "")  # right single quote
-    s = s.replace("'", "")
-    s = s.replace(".", "")
-    s = s.replace(" ", "-")
-    s = s.replace("/", "-")
+    for ch in ["\u2019", "'", "."]:
+        s = s.replace(ch, "")
+    s = s.replace(" ", "-").replace("/", "-")
     return s
 
 
-def load_mibera_data():
-    """Load frontmatter from all Mibera files."""
-    miberas = []
-    for filepath in sorted(glob.glob(os.path.join(MIBERA_DIR, "*.md"))):
-        basename = os.path.basename(filepath)
-        if basename == "index.md":
-            continue
-        try:
-            with open(filepath, "r") as f:
-                content = f.read()
-            if not content.startswith("---"):
-                continue
-            end = content.index("---", 3)
-            fm = yaml.safe_load(content[3:end])
-            if fm and isinstance(fm, dict):
-                mibera_id = fm.get("id")
-                if mibera_id is not None:
-                    miberas.append({
-                        "id": int(mibera_id),
-                        "archetype": fm.get("archetype", ""),
-                        "ancestor": fm.get("ancestor", ""),
-                        "element": fm.get("element", ""),
-                    })
-        except Exception as e:
-            print(f"  WARNING: Error reading {filepath}: {e}")
-    return miberas
-
-
-def format_mibera_links(ids):
-    """Format Mibera IDs as inline links with truncation."""
-    links = []
-    for mid in sorted(ids)[:MAX_INLINE_LINKS]:
-        padded = f"{mid:04d}"
-        links.append(f"[#{padded}](../../../miberas/{padded}.md)")
-
-    result = " • ".join(links)
-    remaining = len(ids) - MAX_INLINE_LINKS
-    if remaining > 0:
-        result += f" • *...and {remaining} more*"
+def fmt_links_space(ids, max_n=20):
+    """Space-separated Mibera links with (+N more) overflow."""
+    sorted_ids = sorted(ids)
+    parts = [f"[#{mid:04d}](../miberas/{mid:04d}.md)" for mid in sorted_ids[:max_n]]
+    result = " ".join(parts)
+    over = len(sorted_ids) - max_n
+    if over > 0:
+        result += f" (+{over} more)"
     return result
 
 
-def generate_cluster_page(pair, val_a, val_b, ids):
-    """Generate a single cluster page."""
-    slug_a = slugify(val_a)
-    slug_b = slugify(val_b)
-    link_a = pair["link_a"](slug_a)
-    link_b = pair["link_b"](slug_b)
-    count = len(ids)
-
-    content = f"""<!-- generated: {TIMESTAMP} by _scripts/generate-clusters.py -->
-
-# {val_a} × {val_b}
-
-*{pair["label_a"]}: {val_a} | {pair["label_b"]}: {val_b}*
-
-**{count:,} Miberas** in this cluster.
-
-[Learn about {val_a} →]({link_a}) | [Learn about {val_b} →]({link_b})
-
-{format_mibera_links(ids)}
-
----
-
-*Generated by `_scripts/generate-clusters.py`*
-"""
-    return content
+def fmt_links_bullet(ids, max_n=50):
+    """Bullet-separated Mibera links with *...and N more* overflow."""
+    sorted_ids = sorted(ids)
+    parts = [f"[#{mid:04d}](../miberas/{mid:04d}.md)" for mid in sorted_ids[:max_n]]
+    result = " \u2022 ".join(parts)
+    over = len(sorted_ids) - max_n
+    if over > 0:
+        result += f" \u2022 *...and {over} more*"
+    return result
 
 
-def generate_index(all_clusters):
-    """Generate the cluster index page."""
-    lines = [
-        f"<!-- generated: {TIMESTAMP} by _scripts/generate-clusters.py -->",
-        "",
-        "# Cluster Browse",
-        "",
-        "*Cross-dimensional views of the 10,000 Miberas. Each cluster page shows all Miberas matching a specific combination of traits.*",
-        "",
-        "---",
-        "",
-    ]
+def rank_lines_compact(records):
+    """Rank-grouped member lines in compact format (by-ancestor/by-element style)."""
+    by_rank = defaultdict(list)
+    for r in records:
+        rank = r.get("rank", "")
+        if rank:
+            by_rank[rank].append(r["id"])
+    lines = []
+    for rank in RANK_ORDER:
+        if rank in by_rank:
+            lines.append(f"**{rank}:** {fmt_links_space(by_rank[rank])}")
+            lines.append("")
+    return lines
 
-    for pair in PAIRS:
-        pair_id = pair["id"]
-        clusters = all_clusters.get(pair_id, [])
-        if not clusters:
+
+def rank_sections_headed(records):
+    """Rank-grouped member sections with ### headings (by-archetype style)."""
+    by_rank = defaultdict(list)
+    for r in records:
+        rank = r.get("rank", "")
+        if rank:
+            by_rank[rank].append(r["id"])
+    lines = []
+    for rank in RANK_ORDER:
+        if rank in by_rank:
+            ids = sorted(by_rank[rank])
+            lines.append(f"### Rank {rank} ({len(ids)})")
+            lines.append("")
+            lines.append(fmt_links_bullet(ids))
+            lines.append("")
+    return lines
+
+
+def dim_table(records, dim, ordered_values, label):
+    """Count breakdown table for a dimension."""
+    counts = defaultdict(int)
+    for r in records:
+        v = r.get(dim, "")
+        if v:
+            counts[v] += 1
+    rows = [(v, counts[v]) for v in ordered_values if counts.get(v)]
+    if not rows:
+        return []
+    lines = [f"| {label} | Count |", "|---|---:|"]
+    for v, c in rows:
+        lines.append(f"| {v} | {c:,} |")
+    return lines
+
+
+# ---- PAGE GENERATORS ----
+
+
+def gen_by_ancestor(records, ancestors, archetypes, elements):
+    """Generate by-ancestor.md with cross-dimensional breakdowns."""
+    by_anc = defaultdict(list)
+    for r in records:
+        a = r.get("ancestor", "")
+        if a:
+            by_anc[a].append(r)
+
+    L = [HEADER, "", "# Miberas by Ancestor", "",
+         "*Browse the 10,000 Miberas organized by their cultural lineage.*",
+         "", "---", ""]
+
+    # Summary table
+    L += ["| Ancestor | Count | Top Ranks |", "|----------|-------|-----------|"]
+    for anc in ancestors:
+        recs = by_anc.get(anc, [])
+        top = sum(1 for r in recs if r.get("rank") in TOP_RANKS)
+        L.append(f"| [{anc}](#{slugify(anc)}) | {len(recs)} | {top} |")
+    L += ["", "---", ""]
+
+    # Per-ancestor sections
+    for anc in ancestors:
+        recs = by_anc.get(anc, [])
+        if not recs:
             continue
+        slug = slugify(anc)
+        L += [f"## {anc}", "",
+              f"**{len(recs):,} Miberas** | [Learn about {anc} \u2192](../core-lore/ancestors/{slug}.md)",
+              ""]
 
-        # Sort by count descending
-        clusters_sorted = sorted(clusters, key=lambda c: c["count"], reverse=True)
-        largest = clusters_sorted[0]
-        smallest = clusters_sorted[-1]
+        # Cross-dimensional breakdowns
+        tbl = dim_table(recs, "archetype", archetypes, "Archetype")
+        if tbl:
+            L += tbl
+            L.append("")
+        tbl = dim_table(recs, "element", elements, "Element")
+        if tbl:
+            L += tbl
+            L.append("")
 
-        lines.append(f"## {pair['label_a']} × {pair['label_b']}")
-        lines.append("")
-        lines.append(f"*{len(clusters_sorted)} clusters | Largest: {largest['name']} ({largest['count']:,}) | Smallest: {smallest['name']} ({smallest['count']:,})*")
-        lines.append("")
-        lines.append("| Cluster | Miberas |")
-        lines.append("|---------|---------|")
+        # Rank-grouped member list
+        L += rank_lines_compact(recs)
+        L += ["---", ""]
 
-        for c in clusters_sorted:
-            lines.append(f"| [{c['name']}]({c['path']}) | {c['count']:,} |")
+    L += ["[← Back to Browse](index.md)", ""]
+    return "\n".join(L)
 
-        lines.append("")
-        lines.append("---")
-        lines.append("")
 
-    lines.append("*Generated by `_scripts/generate-clusters.py`*")
-    lines.append("")
-    return "\n".join(lines)
+def gen_by_archetype(records, archetypes, ancestors, elements):
+    """Generate by-archetype.md with cross-dimensional breakdowns."""
+    by_arch = defaultdict(list)
+    for r in records:
+        a = r.get("archetype", "")
+        if a:
+            by_arch[a].append(r)
+
+    L = [HEADER, "", "# Miberas by Archetype", "",
+         "*Browse the 10,000 Miberas organized by their rave tribe.*",
+         "", "---", ""]
+
+    for arch in archetypes:
+        recs = by_arch.get(arch, [])
+        if not recs:
+            continue
+        slug = slugify(arch)
+        L += [f"## {arch}", "",
+              f"**{len(recs):,} Miberas**", "",
+              f"[Learn about {arch} \u2192](../core-lore/archetypes.md#{slug})",
+              ""]
+
+        # Cross-dimensional breakdowns
+        tbl = dim_table(recs, "ancestor", ancestors, "Ancestor")
+        if tbl:
+            L += tbl
+            L.append("")
+        tbl = dim_table(recs, "element", elements, "Element")
+        if tbl:
+            L += tbl
+            L.append("")
+
+        # Rank-grouped member lists with ### headings
+        L += rank_sections_headed(recs)
+        L += ["---", ""]
+
+    L += ["[\u2190 Back to Browse](index.md)", ""]
+    return "\n".join(L)
+
+
+def gen_by_element(records, elements, archetypes, ancestors):
+    """Generate by-element.md with cross-dimensional breakdowns."""
+    by_elem = defaultdict(list)
+    for r in records:
+        e = r.get("element", "")
+        if e:
+            by_elem[e].append(r)
+
+    L = [HEADER, "", "# Miberas by Element", "",
+         "*Browse the 10,000 Miberas organized by their elemental alignment.*",
+         "", "---", ""]
+
+    for elem in elements:
+        recs = by_elem.get(elem, [])
+        if not recs:
+            continue
+        slug = elem.lower()
+        L += [f"## {elem}", "",
+              f"**{len(recs):,} Miberas**", "",
+              f"[Learn about {elem} \u2192](../traits/overlays/elements/{slug}.md)",
+              ""]
+
+        # Cross-dimensional breakdowns
+        tbl = dim_table(recs, "archetype", archetypes, "Archetype")
+        if tbl:
+            L += tbl
+            L.append("")
+        tbl = dim_table(recs, "ancestor", ancestors, "Ancestor")
+        if tbl:
+            L += tbl
+            L.append("")
+
+        # Rank-grouped member list
+        L += rank_lines_compact(recs)
+        L += ["---", ""]
+
+    L += ["[\u2190 Back to Browse](index.md)", ""]
+    return "\n".join(L)
 
 
 def main():
-    print("Loading Mibera data...")
-    miberas = load_mibera_data()
-    print(f"  Loaded {len(miberas)} Miberas")
+    if not DATA_FILE.exists():
+        print(f"ERROR: Data file not found: {DATA_FILE}", file=sys.stderr)
+        sys.exit(1)
 
-    all_clusters = {}
-    total_pages = 0
+    print("Loading Mibera data...", file=sys.stderr)
+    records = load_data()
+    print(f"  Loaded {len(records)} records", file=sys.stderr)
 
-    for pair in PAIRS:
-        pair_id = pair["id"]
-        dim_a = pair["dim_a"]
-        dim_b = pair["dim_b"]
+    # Extract ordered dimension values
+    ancestors = sorted({r["ancestor"] for r in records if r.get("ancestor")})
+    archetypes = sorted({r["archetype"] for r in records if r.get("archetype")})
+    elements = sorted({r["element"] for r in records if r.get("element")})
+    print(f"  Ancestors: {len(ancestors)}, Archetypes: {len(archetypes)}, Elements: {len(elements)}",
+          file=sys.stderr)
 
-        print(f"\nGenerating {pair['label_a']} × {pair['label_b']} clusters...")
+    OUTPUT_DIR.mkdir(exist_ok=True)
 
-        # Build lookup: (val_a, val_b) -> [mibera_ids]
-        clusters = defaultdict(list)
-        for m in miberas:
-            va = m.get(dim_a, "")
-            vb = m.get(dim_b, "")
-            if va and vb:
-                clusters[(va, vb)].append(m["id"])
+    print("Generating by-ancestor.md...", file=sys.stderr)
+    (OUTPUT_DIR / "by-ancestor.md").write_text(gen_by_ancestor(records, ancestors, archetypes, elements))
 
-        # Create output directory
-        pair_dir = os.path.join(OUTPUT_DIR, pair_id)
-        os.makedirs(pair_dir, exist_ok=True)
+    print("Generating by-archetype.md...", file=sys.stderr)
+    (OUTPUT_DIR / "by-archetype.md").write_text(gen_by_archetype(records, archetypes, ancestors, elements))
 
-        pair_cluster_info = []
-        for (va, vb), ids in sorted(clusters.items()):
-            slug_a = slugify(va)
-            slug_b = slugify(vb)
-            filename = f"{slug_a}-x-{slug_b}.md"
-            filepath = os.path.join(pair_dir, filename)
+    print("Generating by-element.md...", file=sys.stderr)
+    (OUTPUT_DIR / "by-element.md").write_text(gen_by_element(records, elements, archetypes, ancestors))
 
-            content = generate_cluster_page(pair, va, vb, ids)
-            with open(filepath, "w") as f:
-                f.write(content)
-
-            pair_cluster_info.append({
-                "name": f"{va} × {vb}",
-                "path": f"{pair_id}/{filename}",
-                "count": len(ids),
-            })
-            total_pages += 1
-
-        all_clusters[pair_id] = pair_cluster_info
-        print(f"  Generated {len(pair_cluster_info)} cluster pages")
-
-    # Generate index
-    print(f"\nGenerating index page...")
-    index_content = generate_index(all_clusters)
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    with open(os.path.join(OUTPUT_DIR, "index.md"), "w") as f:
-        f.write(index_content)
-
-    print(f"\nDone!")
-    print(f"  Total cluster pages: {total_pages}")
-    print(f"  Index: {OUTPUT_DIR}/index.md")
-    print(f"  Directories: {', '.join(p['id'] for p in PAIRS)}")
+    print("\nDone! Generated 3 enriched browse pages.", file=sys.stderr)
 
 
 if __name__ == "__main__":

@@ -7,6 +7,8 @@ locations: Greece, Mediterranean
 
 # Greek
 
+> **1/1 Grail**: [Greek Grail (#1630)](../../grails/greek.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

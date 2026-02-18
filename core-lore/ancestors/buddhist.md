@@ -7,6 +7,8 @@ locations: '---'
 
 # Buddhist
 
+> **1/1 Grail**: [Buddhist Grail (#9503)](../../grails/buddhist.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

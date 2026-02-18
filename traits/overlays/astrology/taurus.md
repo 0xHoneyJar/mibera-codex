@@ -43,4 +43,6 @@ element: Earth
 
 **Element:** Earth
 
+**1/1 Grail:** [Taurus Grail (#2113)](../../../grails/taurus.md)
+
 ---

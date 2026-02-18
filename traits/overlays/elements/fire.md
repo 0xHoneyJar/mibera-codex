@@ -17,4 +17,6 @@ quadrant: Southern (lat < 0) and Eastern (lon ≥ 0)
 
 **Qualities:** Energy, passion, transformation, willpower, action
 
+**1/1 Grail:** [Fire Grail (#6458)](../../../grails/fire.md)
+
 ---

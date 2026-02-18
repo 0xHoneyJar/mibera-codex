@@ -43,4 +43,6 @@ element: Water
 
 **Element:** Water
 
+**1/1 Grail:** [Pisces Grail (#6409)](../../../grails/pisces.md)
+
 ---

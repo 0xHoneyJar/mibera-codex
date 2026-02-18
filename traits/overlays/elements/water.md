@@ -17,4 +17,6 @@ quadrant: Southern (lat < 0) and Western (lon < 0)
 
 **Qualities:** Emotion, intuition, flow, dreams, the unconscious
 
+**1/1 Grail:** [Water Grail (#6761)](../../../grails/water.md)
+
 ---

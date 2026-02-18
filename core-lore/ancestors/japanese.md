@@ -7,6 +7,8 @@ locations: Japan
 
 # Japanese
 
+> **1/1 Grail**: [Japanese Grail (#4363)](../../grails/japanese.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

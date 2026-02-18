@@ -43,4 +43,6 @@ element: Water
 
 **Element:** Water
 
+**1/1 Grail:** [Cancer Grail (#8620)](../../../grails/cancer.md)
+
 ---

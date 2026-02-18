@@ -7,6 +7,8 @@ locations: Nepal, India,
 
 # Hindu
 
+> **1/1 Grail**: [Hindu Grail (#8277)](../../grails/hindu.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

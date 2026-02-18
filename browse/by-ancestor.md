@@ -1,3 +1,5 @@
+<!-- generated: 2026-02-17T00:18:30Z by _scripts/generate-clusters.py -->
+
 # Miberas by Ancestor
 
 *Browse the 10,000 Miberas organized by their cultural lineage.*
@@ -6,45 +8,61 @@
 
 | Ancestor | Count | Top Ranks |
 |----------|-------|-----------|
-| [Aboriginal](#aboriginal) | 286 | 4 |
-| [Arabs](#arabs) | 541 | 41 |
-| [Ballroom](#ballroom) | 218 | 11 |
-| [Bong Bear](#bong-bear) | 107 | 7 |
-| [Buddhist](#buddhist) | 156 | 14 |
-| [Chinese](#chinese) | 432 | 26 |
-| [Cypherpunk](#cypherpunk) | 10 | 0 |
-| [Ethiopian](#ethiopian) | 372 | 16 |
-| [Gabon](#gabon) | 502 | 20 |
-| [Greek](#greek) | 585 | 10 |
-| [Haitian](#haitian) | 267 | 3 |
-| [Hindu](#hindu) | 664 | 56 |
-| [Indian](#indian) | 39 | 2 |
-| [Irish Druids](#irish-druids) | 361 | 24 |
-| [Japanese](#japanese) | 276 | 16 |
-| [Mayan](#mayan) | 634 | 47 |
-| [Mongolian](#mongolian) | 397 | 8 |
-| [Native American](#native-american) | 598 | 24 |
-| [Nepal](#nepal) | 357 | 12 |
-| [Orthodox Jew](#orthodox-jew) | 85 | 4 |
-| [Palestinian](#palestinian) | 212 | 12 |
+| [Aboriginal](#aboriginal) | 286 | 6 |
+| [Arabs](#arabs) | 541 | 64 |
+| [Ballroom](#ballroom) | 218 | 16 |
+| [Bong Bear](#bong-bear) | 107 | 34 |
+| [Buddhist](#buddhist) | 156 | 20 |
+| [Chinese](#chinese) | 432 | 49 |
+| [Cypherpunk](#cypherpunk) | 10 | 4 |
+| [Ethiopian](#ethiopian) | 372 | 28 |
+| [Gabon](#gabon) | 502 | 35 |
+| [Greek](#greek) | 585 | 18 |
+| [Haitian](#haitian) | 267 | 5 |
+| [Hindu](#hindu) | 664 | 82 |
+| [Indian](#indian) | 39 | 4 |
+| [Irish Druids](#irish-druids) | 361 | 39 |
+| [Japanese](#japanese) | 276 | 20 |
+| [Mayan](#mayan) | 634 | 90 |
+| [Mongolian](#mongolian) | 397 | 13 |
+| [Native American](#native-american) | 598 | 44 |
+| [Nepal](#nepal) | 357 | 22 |
+| [Orthodox Jew](#orthodox-jew) | 85 | 7 |
+| [Palestinian](#palestinian) | 212 | 17 |
 | [Polynesian](#polynesian) | 159 | 0 |
-| [Punjabi](#punjabi) | 111 | 3 |
-| [Pythia](#pythia) | 446 | 16 |
-| [Rastafarians](#rastafarians) | 251 | 4 |
-| [Sami](#sami) | 226 | 25 |
-| [Satanist](#satanist) | 276 | 13 |
-| [Sicanje](#sicanje) | 257 | 10 |
-| [Stonewall](#stonewall) | 183 | 15 |
-| [Sufis](#sufis) | 252 | 15 |
-| [Thai](#thai) | 409 | 30 |
-| [Traveller](#traveller) | 91 | 6 |
-| [Turkey](#turkey) | 240 | 6 |
+| [Punjabi](#punjabi) | 111 | 4 |
+| [Pythia](#pythia) | 446 | 25 |
+| [Rastafarians](#rastafarians) | 251 | 5 |
+| [Sami](#sami) | 226 | 39 |
+| [Satanist](#satanist) | 276 | 16 |
+| [Sicanje](#sicanje) | 257 | 12 |
+| [Stonewall](#stonewall) | 183 | 22 |
+| [Sufis](#sufis) | 252 | 27 |
+| [Thai](#thai) | 409 | 61 |
+| [Traveller](#traveller) | 91 | 14 |
+| [Turkey](#turkey) | 240 | 8 |
 
 ---
 
 ## Aboriginal
 
 **286 Miberas** | [Learn about Aboriginal →](../core-lore/ancestors/aboriginal.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 68 |
+| Chicago/Detroit | 99 |
+| Freetekno | 59 |
+| Milady | 60 |
+
+| Element | Count |
+|---|---:|
+| Air | 44 |
+| Earth | 39 |
+| Fire | 156 |
+| Water | 47 |
+
+**SS:** [#8789](../miberas/8789.md) [#8901](../miberas/8901.md)
 
 **S:** [#1779](../miberas/1779.md) [#4714](../miberas/4714.md) [#5594](../miberas/5594.md) [#6714](../miberas/6714.md)
 
@@ -64,6 +82,24 @@
 
 **541 Miberas** | [Learn about Arabs →](../core-lore/ancestors/arabs.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 141 |
+| Chicago/Detroit | 69 |
+| Freetekno | 136 |
+| Milady | 195 |
+
+| Element | Count |
+|---|---:|
+| Air | 277 |
+| Earth | 117 |
+| Fire | 81 |
+| Water | 66 |
+
+**SSS:** [#1073](../miberas/1073.md) [#1925](../miberas/1925.md) [#3899](../miberas/3899.md) [#4692](../miberas/4692.md) [#4953](../miberas/4953.md) [#5887](../miberas/5887.md) [#7656](../miberas/7656.md) [#8700](../miberas/8700.md) [#8874](../miberas/8874.md)
+
+**SS:** [#0954](../miberas/0954.md) [#1041](../miberas/1041.md) [#2769](../miberas/2769.md) [#3198](../miberas/3198.md) [#3400](../miberas/3400.md) [#3712](../miberas/3712.md) [#4339](../miberas/4339.md) [#4343](../miberas/4343.md) [#4429](../miberas/4429.md) [#4464](../miberas/4464.md) [#5464](../miberas/5464.md) [#7947](../miberas/7947.md) [#8929](../miberas/8929.md) [#9043](../miberas/9043.md)
+
 **S:** [#0219](../miberas/0219.md) [#0337](../miberas/0337.md) [#0697](../miberas/0697.md) [#0795](../miberas/0795.md) [#0897](../miberas/0897.md) [#0907](../miberas/0907.md) [#1157](../miberas/1157.md) [#2040](../miberas/2040.md) [#2299](../miberas/2299.md) [#2623](../miberas/2623.md) [#2624](../miberas/2624.md) [#3092](../miberas/3092.md) [#3104](../miberas/3104.md) [#3157](../miberas/3157.md) [#3249](../miberas/3249.md) [#3489](../miberas/3489.md) [#3780](../miberas/3780.md) [#3796](../miberas/3796.md) [#4536](../miberas/4536.md) [#4792](../miberas/4792.md) (+21 more)
 
 **A:** [#0123](../miberas/0123.md) [#0168](../miberas/0168.md) [#0356](../miberas/0356.md) [#0479](../miberas/0479.md) [#0510](../miberas/0510.md) [#0830](../miberas/0830.md) [#1002](../miberas/1002.md) [#1032](../miberas/1032.md) [#1090](../miberas/1090.md) [#1142](../miberas/1142.md) [#1200](../miberas/1200.md) [#1385](../miberas/1385.md) [#1754](../miberas/1754.md) [#1824](../miberas/1824.md) [#2160](../miberas/2160.md) [#2296](../miberas/2296.md) [#2361](../miberas/2361.md) [#2501](../miberas/2501.md) [#2690](../miberas/2690.md) [#2792](../miberas/2792.md) (+62 more)
@@ -81,6 +117,24 @@
 ## Ballroom
 
 **218 Miberas** | [Learn about Ballroom →](../core-lore/ancestors/ballroom.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 24 |
+| Chicago/Detroit | 114 |
+| Freetekno | 27 |
+| Milady | 53 |
+
+| Element | Count |
+|---|---:|
+| Air | 37 |
+| Earth | 108 |
+| Fire | 44 |
+| Water | 29 |
+
+**SSS:** [#5470](../miberas/5470.md) [#9780](../miberas/9780.md)
+
+**SS:** [#2139](../miberas/2139.md) [#9020](../miberas/9020.md) [#9978](../miberas/9978.md)
 
 **S:** [#0307](../miberas/0307.md) [#2257](../miberas/2257.md) [#3987](../miberas/3987.md) [#4028](../miberas/4028.md) [#4105](../miberas/4105.md) [#4288](../miberas/4288.md) [#4326](../miberas/4326.md) [#4682](../miberas/4682.md) [#4971](../miberas/4971.md) [#8151](../miberas/8151.md) [#8662](../miberas/8662.md)
 
@@ -100,6 +154,21 @@
 
 **107 Miberas** | [Learn about Bong Bear →](../core-lore/ancestors/bong-bear.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 17 |
+| Chicago/Detroit | 19 |
+| Freetekno | 28 |
+| Milady | 43 |
+
+| Element | Count |
+|---|---:|
+| Earth | 107 |
+
+**SSS:** [#1508](../miberas/1508.md) [#2176](../miberas/2176.md) [#2265](../miberas/2265.md) [#2527](../miberas/2527.md) [#3045](../miberas/3045.md) [#3443](../miberas/3443.md) [#3997](../miberas/3997.md) [#4002](../miberas/4002.md) [#4522](../miberas/4522.md) [#5581](../miberas/5581.md) [#5789](../miberas/5789.md) [#6859](../miberas/6859.md) [#7405](../miberas/7405.md) [#9836](../miberas/9836.md)
+
+**SS:** [#0347](../miberas/0347.md) [#1181](../miberas/1181.md) [#1264](../miberas/1264.md) [#1268](../miberas/1268.md) [#1541](../miberas/1541.md) [#3383](../miberas/3383.md) [#3619](../miberas/3619.md) [#4007](../miberas/4007.md) [#4686](../miberas/4686.md) [#6003](../miberas/6003.md) [#6676](../miberas/6676.md) [#7812](../miberas/7812.md) [#8288](../miberas/8288.md)
+
 **S:** [#0710](../miberas/0710.md) [#3210](../miberas/3210.md) [#3253](../miberas/3253.md) [#3822](../miberas/3822.md) [#4719](../miberas/4719.md) [#9170](../miberas/9170.md) [#9511](../miberas/9511.md)
 
 **A:** [#0558](../miberas/0558.md) [#1425](../miberas/1425.md) [#1855](../miberas/1855.md) [#2121](../miberas/2121.md) [#2403](../miberas/2403.md) [#2476](../miberas/2476.md) [#6216](../miberas/6216.md) [#7922](../miberas/7922.md) [#8395](../miberas/8395.md) [#9547](../miberas/9547.md)
@@ -113,6 +182,24 @@
 ## Buddhist
 
 **156 Miberas** | [Learn about Buddhist →](../core-lore/ancestors/buddhist.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 47 |
+| Chicago/Detroit | 32 |
+| Freetekno | 35 |
+| Milady | 42 |
+
+| Element | Count |
+|---|---:|
+| Air | 98 |
+| Earth | 19 |
+| Fire | 27 |
+| Water | 12 |
+
+**SSS:** [#7373](../miberas/7373.md) [#7614](../miberas/7614.md) [#8599](../miberas/8599.md)
+
+**SS:** [#0192](../miberas/0192.md) [#7509](../miberas/7509.md) [#9303](../miberas/9303.md)
 
 **S:** [#0500](../miberas/0500.md) [#1107](../miberas/1107.md) [#1963](../miberas/1963.md) [#2719](../miberas/2719.md) [#2804](../miberas/2804.md) [#2837](../miberas/2837.md) [#3539](../miberas/3539.md) [#4500](../miberas/4500.md) [#4709](../miberas/4709.md) [#5664](../miberas/5664.md) [#7576](../miberas/7576.md) [#8345](../miberas/8345.md) [#8757](../miberas/8757.md) [#9366](../miberas/9366.md)
 
@@ -132,6 +219,24 @@
 
 **432 Miberas** | [Learn about Chinese →](../core-lore/ancestors/chinese.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 78 |
+| Chicago/Detroit | 58 |
+| Freetekno | 52 |
+| Milady | 244 |
+
+| Element | Count |
+|---|---:|
+| Air | 276 |
+| Earth | 47 |
+| Fire | 51 |
+| Water | 58 |
+
+**SSS:** [#1773](../miberas/1773.md) [#6124](../miberas/6124.md) [#6235](../miberas/6235.md) [#6239](../miberas/6239.md) [#8721](../miberas/8721.md)
+
+**SS:** [#0147](../miberas/0147.md) [#0190](../miberas/0190.md) [#0767](../miberas/0767.md) [#1297](../miberas/1297.md) [#1929](../miberas/1929.md) [#1956](../miberas/1956.md) [#2151](../miberas/2151.md) [#2245](../miberas/2245.md) [#2582](../miberas/2582.md) [#4621](../miberas/4621.md) [#5001](../miberas/5001.md) [#5112](../miberas/5112.md) [#6118](../miberas/6118.md) [#7365](../miberas/7365.md) [#8150](../miberas/8150.md) [#8373](../miberas/8373.md) [#8747](../miberas/8747.md) [#9008](../miberas/9008.md)
+
 **S:** [#0536](../miberas/0536.md) [#0621](../miberas/0621.md) [#1387](../miberas/1387.md) [#2118](../miberas/2118.md) [#2923](../miberas/2923.md) [#3470](../miberas/3470.md) [#3674](../miberas/3674.md) [#3776](../miberas/3776.md) [#4106](../miberas/4106.md) [#4395](../miberas/4395.md) [#5227](../miberas/5227.md) [#5807](../miberas/5807.md) [#6221](../miberas/6221.md) [#6251](../miberas/6251.md) [#6425](../miberas/6425.md) [#6535](../miberas/6535.md) [#7103](../miberas/7103.md) [#7499](../miberas/7499.md) [#7642](../miberas/7642.md) [#7709](../miberas/7709.md) (+6 more)
 
 **A:** [#0080](../miberas/0080.md) [#0121](../miberas/0121.md) [#0186](../miberas/0186.md) [#0200](../miberas/0200.md) [#0440](../miberas/0440.md) [#0519](../miberas/0519.md) [#0814](../miberas/0814.md) [#0958](../miberas/0958.md) [#0963](../miberas/0963.md) [#1082](../miberas/1082.md) [#1112](../miberas/1112.md) [#1339](../miberas/1339.md) [#1375](../miberas/1375.md) [#1592](../miberas/1592.md) [#1817](../miberas/1817.md) [#1836](../miberas/1836.md) [#1850](../miberas/1850.md) [#1922](../miberas/1922.md) [#1940](../miberas/1940.md) [#2009](../miberas/2009.md) (+51 more)
@@ -150,6 +255,23 @@
 
 **10 Miberas** | [Learn about Cypherpunk →](../core-lore/ancestors/cypherpunk.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 1 |
+| Chicago/Detroit | 4 |
+| Freetekno | 1 |
+| Milady | 4 |
+
+| Element | Count |
+|---|---:|
+| Air | 2 |
+| Earth | 7 |
+| Fire | 1 |
+
+**SSS:** [#3653](../miberas/3653.md)
+
+**SS:** [#3168](../miberas/3168.md) [#8788](../miberas/8788.md) [#9499](../miberas/9499.md)
+
 **A:** [#5528](../miberas/5528.md)
 
 **B:** [#1037](../miberas/1037.md) [#2576](../miberas/2576.md) [#3410](../miberas/3410.md) [#8107](../miberas/8107.md) [#9051](../miberas/9051.md)
@@ -159,6 +281,24 @@
 ## Ethiopian
 
 **372 Miberas** | [Learn about Ethiopian →](../core-lore/ancestors/ethiopian.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 26 |
+| Chicago/Detroit | 49 |
+| Freetekno | 169 |
+| Milady | 128 |
+
+| Element | Count |
+|---|---:|
+| Air | 239 |
+| Earth | 45 |
+| Fire | 47 |
+| Water | 41 |
+
+**SSS:** [#7948](../miberas/7948.md) [#9944](../miberas/9944.md)
+
+**SS:** [#1291](../miberas/1291.md) [#1426](../miberas/1426.md) [#1566](../miberas/1566.md) [#5777](../miberas/5777.md) [#6541](../miberas/6541.md) [#6698](../miberas/6698.md) [#6819](../miberas/6819.md) [#8042](../miberas/8042.md) [#8269](../miberas/8269.md) [#8499](../miberas/8499.md)
 
 **S:** [#0383](../miberas/0383.md) [#0531](../miberas/0531.md) [#0971](../miberas/0971.md) [#1994](../miberas/1994.md) [#2320](../miberas/2320.md) [#3720](../miberas/3720.md) [#3762](../miberas/3762.md) [#4774](../miberas/4774.md) [#5323](../miberas/5323.md) [#6452](../miberas/6452.md) [#7569](../miberas/7569.md) [#7965](../miberas/7965.md) [#8314](../miberas/8314.md) [#9133](../miberas/9133.md) [#9216](../miberas/9216.md) [#9536](../miberas/9536.md)
 
@@ -178,6 +318,24 @@
 
 **502 Miberas** | [Learn about Gabon →](../core-lore/ancestors/gabon.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 49 |
+| Chicago/Detroit | 208 |
+| Freetekno | 103 |
+| Milady | 142 |
+
+| Element | Count |
+|---|---:|
+| Air | 219 |
+| Earth | 73 |
+| Fire | 132 |
+| Water | 78 |
+
+**SSS:** [#1944](../miberas/1944.md) [#2521](../miberas/2521.md) [#6299](../miberas/6299.md) [#9735](../miberas/9735.md)
+
+**SS:** [#2830](../miberas/2830.md) [#2977](../miberas/2977.md) [#3398](../miberas/3398.md) [#3590](../miberas/3590.md) [#3704](../miberas/3704.md) [#3865](../miberas/3865.md) [#3935](../miberas/3935.md) [#4029](../miberas/4029.md) [#6436](../miberas/6436.md) [#7049](../miberas/7049.md) [#7984](../miberas/7984.md)
+
 **S:** [#0252](../miberas/0252.md) [#1123](../miberas/1123.md) [#1193](../miberas/1193.md) [#1358](../miberas/1358.md) [#2248](../miberas/2248.md) [#2567](../miberas/2567.md) [#3414](../miberas/3414.md) [#3444](../miberas/3444.md) [#5366](../miberas/5366.md) [#5382](../miberas/5382.md) [#5396](../miberas/5396.md) [#5403](../miberas/5403.md) [#6225](../miberas/6225.md) [#6435](../miberas/6435.md) [#6976](../miberas/6976.md) [#9519](../miberas/9519.md) [#9563](../miberas/9563.md) [#9664](../miberas/9664.md) [#9712](../miberas/9712.md) [#9824](../miberas/9824.md)
 
 **A:** [#0472](../miberas/0472.md) [#1049](../miberas/1049.md) [#1140](../miberas/1140.md) [#1233](../miberas/1233.md) [#1331](../miberas/1331.md) [#1479](../miberas/1479.md) [#1501](../miberas/1501.md) [#1582](../miberas/1582.md) [#1594](../miberas/1594.md) [#1679](../miberas/1679.md) [#2730](../miberas/2730.md) [#2746](../miberas/2746.md) [#3109](../miberas/3109.md) [#3493](../miberas/3493.md) [#4055](../miberas/4055.md) [#4437](../miberas/4437.md) [#4489](../miberas/4489.md) [#4675](../miberas/4675.md) [#4989](../miberas/4989.md) [#5089](../miberas/5089.md) (+24 more)
@@ -195,6 +353,24 @@
 ## Greek
 
 **585 Miberas** | [Learn about Greek →](../core-lore/ancestors/greek.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 233 |
+| Chicago/Detroit | 67 |
+| Freetekno | 159 |
+| Milady | 126 |
+
+| Element | Count |
+|---|---:|
+| Air | 312 |
+| Earth | 101 |
+| Fire | 99 |
+| Water | 73 |
+
+**SSS:** [#3464](../miberas/3464.md) [#4438](../miberas/4438.md) [#8320](../miberas/8320.md) [#8785](../miberas/8785.md)
+
+**SS:** [#3923](../miberas/3923.md) [#4209](../miberas/4209.md) [#5266](../miberas/5266.md) [#9208](../miberas/9208.md)
 
 **S:** [#0101](../miberas/0101.md) [#0435](../miberas/0435.md) [#1585](../miberas/1585.md) [#3197](../miberas/3197.md) [#3435](../miberas/3435.md) [#3569](../miberas/3569.md) [#4078](../miberas/4078.md) [#5626](../miberas/5626.md) [#6252](../miberas/6252.md) [#8460](../miberas/8460.md)
 
@@ -214,6 +390,22 @@
 
 **267 Miberas** | [Learn about Haitian →](../core-lore/ancestors/haitian.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 32 |
+| Chicago/Detroit | 26 |
+| Freetekno | 147 |
+| Milady | 62 |
+
+| Element | Count |
+|---|---:|
+| Air | 56 |
+| Earth | 143 |
+| Fire | 36 |
+| Water | 32 |
+
+**SS:** [#0293](../miberas/0293.md) [#5393](../miberas/5393.md)
+
 **S:** [#3335](../miberas/3335.md) [#6034](../miberas/6034.md) [#6274](../miberas/6274.md)
 
 **A:** [#0593](../miberas/0593.md) [#2268](../miberas/2268.md) [#5391](../miberas/5391.md) [#6462](../miberas/6462.md) [#7657](../miberas/7657.md) [#7784](../miberas/7784.md)
@@ -231,6 +423,24 @@
 ## Hindu
 
 **664 Miberas** | [Learn about Hindu →](../core-lore/ancestors/hindu.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 87 |
+| Chicago/Detroit | 220 |
+| Freetekno | 136 |
+| Milady | 221 |
+
+| Element | Count |
+|---|---:|
+| Air | 350 |
+| Earth | 106 |
+| Fire | 113 |
+| Water | 95 |
+
+**SSS:** [#3222](../miberas/3222.md) [#3784](../miberas/3784.md) [#4099](../miberas/4099.md) [#6309](../miberas/6309.md) [#7419](../miberas/7419.md) [#9070](../miberas/9070.md)
+
+**SS:** [#1151](../miberas/1151.md) [#1802](../miberas/1802.md) [#2017](../miberas/2017.md) [#2573](../miberas/2573.md) [#3567](../miberas/3567.md) [#4067](../miberas/4067.md) [#4074](../miberas/4074.md) [#4699](../miberas/4699.md) [#4864](../miberas/4864.md) [#5147](../miberas/5147.md) [#6232](../miberas/6232.md) [#6250](../miberas/6250.md) [#6313](../miberas/6313.md) [#6657](../miberas/6657.md) [#7456](../miberas/7456.md) [#8619](../miberas/8619.md) [#9428](../miberas/9428.md) [#9656](../miberas/9656.md) [#9829](../miberas/9829.md) [#9902](../miberas/9902.md)
 
 **S:** [#0067](../miberas/0067.md) [#0088](../miberas/0088.md) [#0195](../miberas/0195.md) [#0411](../miberas/0411.md) [#0467](../miberas/0467.md) [#1127](../miberas/1127.md) [#1569](../miberas/1569.md) [#1574](../miberas/1574.md) [#2196](../miberas/2196.md) [#3201](../miberas/3201.md) [#3278](../miberas/3278.md) [#3366](../miberas/3366.md) [#3628](../miberas/3628.md) [#3747](../miberas/3747.md) [#3761](../miberas/3761.md) [#3968](../miberas/3968.md) [#4166](../miberas/4166.md) [#4305](../miberas/4305.md) [#4365](../miberas/4365.md) [#4403](../miberas/4403.md) (+36 more)
 
@@ -250,6 +460,22 @@
 
 **39 Miberas** | [Learn about Indian →](../core-lore/ancestors/indian.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 7 |
+| Chicago/Detroit | 22 |
+| Freetekno | 5 |
+| Milady | 5 |
+
+| Element | Count |
+|---|---:|
+| Air | 28 |
+| Earth | 3 |
+| Fire | 4 |
+| Water | 4 |
+
+**SS:** [#1810](../miberas/1810.md) [#9573](../miberas/9573.md)
+
 **S:** [#0951](../miberas/0951.md) [#8475](../miberas/8475.md)
 
 **A:** [#0006](../miberas/0006.md) [#6036](../miberas/6036.md) [#8685](../miberas/8685.md)
@@ -267,6 +493,24 @@
 ## Irish Druids
 
 **361 Miberas** | [Learn about Irish Druids →](../core-lore/ancestors/irish-druids.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 148 |
+| Chicago/Detroit | 50 |
+| Freetekno | 53 |
+| Milady | 110 |
+
+| Element | Count |
+|---|---:|
+| Air | 58 |
+| Earth | 211 |
+| Fire | 48 |
+| Water | 44 |
+
+**SSS:** [#1146](../miberas/1146.md) [#6729](../miberas/6729.md) [#7459](../miberas/7459.md) [#8138](../miberas/8138.md) [#9456](../miberas/9456.md)
+
+**SS:** [#0420](../miberas/0420.md) [#2601](../miberas/2601.md) [#2727](../miberas/2727.md) [#2812](../miberas/2812.md) [#3848](../miberas/3848.md) [#5401](../miberas/5401.md) [#5744](../miberas/5744.md) [#6415](../miberas/6415.md) [#6497](../miberas/6497.md) [#7652](../miberas/7652.md)
 
 **S:** [#0584](../miberas/0584.md) [#0819](../miberas/0819.md) [#1231](../miberas/1231.md) [#1384](../miberas/1384.md) [#1628](../miberas/1628.md) [#1805](../miberas/1805.md) [#2550](../miberas/2550.md) [#3325](../miberas/3325.md) [#3408](../miberas/3408.md) [#3566](../miberas/3566.md) [#4381](../miberas/4381.md) [#4501](../miberas/4501.md) [#4954](../miberas/4954.md) [#7369](../miberas/7369.md) [#7583](../miberas/7583.md) [#7718](../miberas/7718.md) [#8193](../miberas/8193.md) [#8263](../miberas/8263.md) [#8469](../miberas/8469.md) [#8536](../miberas/8536.md) (+4 more)
 
@@ -286,6 +530,24 @@
 
 **276 Miberas** | [Learn about Japanese →](../core-lore/ancestors/japanese.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 54 |
+| Chicago/Detroit | 48 |
+| Freetekno | 43 |
+| Milady | 131 |
+
+| Element | Count |
+|---|---:|
+| Air | 163 |
+| Earth | 44 |
+| Fire | 37 |
+| Water | 32 |
+
+**SSS:** [#7239](../miberas/7239.md)
+
+**SS:** [#2197](../miberas/2197.md) [#3031](../miberas/3031.md) [#9183](../miberas/9183.md)
+
 **S:** [#0499](../miberas/0499.md) [#0949](../miberas/0949.md) [#1650](../miberas/1650.md) [#2616](../miberas/2616.md) [#2905](../miberas/2905.md) [#3430](../miberas/3430.md) [#3536](../miberas/3536.md) [#3646](../miberas/3646.md) [#4512](../miberas/4512.md) [#5049](../miberas/5049.md) [#6356](../miberas/6356.md) [#6701](../miberas/6701.md) [#7009](../miberas/7009.md) [#7455](../miberas/7455.md) [#7763](../miberas/7763.md) [#8808](../miberas/8808.md)
 
 **A:** [#0560](../miberas/0560.md) [#0663](../miberas/0663.md) [#0823](../miberas/0823.md) [#1172](../miberas/1172.md) [#1245](../miberas/1245.md) [#1757](../miberas/1757.md) [#1820](../miberas/1820.md) [#3363](../miberas/3363.md) [#3413](../miberas/3413.md) [#3455](../miberas/3455.md) [#3746](../miberas/3746.md) [#3764](../miberas/3764.md) [#3832](../miberas/3832.md) [#4020](../miberas/4020.md) [#4049](../miberas/4049.md) [#4901](../miberas/4901.md) [#4909](../miberas/4909.md) [#5200](../miberas/5200.md) [#5765](../miberas/5765.md) [#6195](../miberas/6195.md) (+17 more)
@@ -303,6 +565,24 @@
 ## Mayan
 
 **634 Miberas** | [Learn about Mayan →](../core-lore/ancestors/mayan.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 178 |
+| Chicago/Detroit | 69 |
+| Freetekno | 178 |
+| Milady | 209 |
+
+| Element | Count |
+|---|---:|
+| Air | 119 |
+| Earth | 352 |
+| Fire | 86 |
+| Water | 77 |
+
+**SSS:** [#0331](../miberas/0331.md) [#0796](../miberas/0796.md) [#3153](../miberas/3153.md) [#3516](../miberas/3516.md) [#4452](../miberas/4452.md) [#5278](../miberas/5278.md) [#5395](../miberas/5395.md) [#5632](../miberas/5632.md) [#6603](../miberas/6603.md) [#8650](../miberas/8650.md) [#9325](../miberas/9325.md)
+
+**SS:** [#0027](../miberas/0027.md) [#0126](../miberas/0126.md) [#0441](../miberas/0441.md) [#0566](../miberas/0566.md) [#0703](../miberas/0703.md) [#0914](../miberas/0914.md) [#0952](../miberas/0952.md) [#1059](../miberas/1059.md) [#1254](../miberas/1254.md) [#1457](../miberas/1457.md) [#1468](../miberas/1468.md) [#1728](../miberas/1728.md) [#1822](../miberas/1822.md) [#1889](../miberas/1889.md) [#2587](../miberas/2587.md) [#3016](../miberas/3016.md) [#3090](../miberas/3090.md) [#3970](../miberas/3970.md) [#4021](../miberas/4021.md) [#4715](../miberas/4715.md) (+12 more)
 
 **S:** [#0350](../miberas/0350.md) [#0400](../miberas/0400.md) [#0587](../miberas/0587.md) [#1547](../miberas/1547.md) [#1785](../miberas/1785.md) [#2126](../miberas/2126.md) [#2438](../miberas/2438.md) [#2520](../miberas/2520.md) [#2684](../miberas/2684.md) [#2687](../miberas/2687.md) [#2758](../miberas/2758.md) [#2849](../miberas/2849.md) [#2964](../miberas/2964.md) [#3015](../miberas/3015.md) [#3020](../miberas/3020.md) [#3038](../miberas/3038.md) [#3351](../miberas/3351.md) [#3434](../miberas/3434.md) [#3891](../miberas/3891.md) [#4335](../miberas/4335.md) (+27 more)
 
@@ -322,6 +602,24 @@
 
 **397 Miberas** | [Learn about Mongolian →](../core-lore/ancestors/mongolian.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 62 |
+| Chicago/Detroit | 91 |
+| Freetekno | 54 |
+| Milady | 190 |
+
+| Element | Count |
+|---|---:|
+| Air | 230 |
+| Earth | 54 |
+| Fire | 59 |
+| Water | 54 |
+
+**SSS:** [#7186](../miberas/7186.md)
+
+**SS:** [#4066](../miberas/4066.md) [#7037](../miberas/7037.md) [#7646](../miberas/7646.md) [#8174](../miberas/8174.md)
+
 **S:** [#0268](../miberas/0268.md) [#0574](../miberas/0574.md) [#0959](../miberas/0959.md) [#1335](../miberas/1335.md) [#1982](../miberas/1982.md) [#3177](../miberas/3177.md) [#6302](../miberas/6302.md) [#7262](../miberas/7262.md)
 
 **A:** [#0012](../miberas/0012.md) [#0041](../miberas/0041.md) [#0585](../miberas/0585.md) [#0894](../miberas/0894.md) [#1083](../miberas/1083.md) [#1519](../miberas/1519.md) [#1551](../miberas/1551.md) [#1742](../miberas/1742.md) [#2505](../miberas/2505.md) [#2714](../miberas/2714.md) [#2850](../miberas/2850.md) [#2979](../miberas/2979.md) [#3181](../miberas/3181.md) [#3719](../miberas/3719.md) [#3855](../miberas/3855.md) [#4138](../miberas/4138.md) [#4894](../miberas/4894.md) [#5277](../miberas/5277.md) [#6910](../miberas/6910.md) [#6967](../miberas/6967.md) (+9 more)
@@ -339,6 +637,24 @@
 ## Native American
 
 **598 Miberas** | [Learn about Native American →](../core-lore/ancestors/native-american.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 86 |
+| Chicago/Detroit | 46 |
+| Freetekno | 186 |
+| Milady | 280 |
+
+| Element | Count |
+|---|---:|
+| Air | 105 |
+| Earth | 313 |
+| Fire | 84 |
+| Water | 96 |
+
+**SSS:** [#2102](../miberas/2102.md) [#4891](../miberas/4891.md) [#6045](../miberas/6045.md)
+
+**SS:** [#0090](../miberas/0090.md) [#1108](../miberas/1108.md) [#1462](../miberas/1462.md) [#1577](../miberas/1577.md) [#1830](../miberas/1830.md) [#2311](../miberas/2311.md) [#3466](../miberas/3466.md) [#3753](../miberas/3753.md) [#4293](../miberas/4293.md) [#4778](../miberas/4778.md) [#5509](../miberas/5509.md) [#5779](../miberas/5779.md) [#6334](../miberas/6334.md) [#7326](../miberas/7326.md) [#7580](../miberas/7580.md) [#8832](../miberas/8832.md) [#9843](../miberas/9843.md)
 
 **S:** [#0274](../miberas/0274.md) [#0533](../miberas/0533.md) [#1144](../miberas/1144.md) [#1344](../miberas/1344.md) [#1789](../miberas/1789.md) [#2114](../miberas/2114.md) [#2269](../miberas/2269.md) [#2722](../miberas/2722.md) [#2779](../miberas/2779.md) [#2781](../miberas/2781.md) [#2922](../miberas/2922.md) [#3683](../miberas/3683.md) [#4019](../miberas/4019.md) [#4216](../miberas/4216.md) [#4623](../miberas/4623.md) [#5614](../miberas/5614.md) [#6266](../miberas/6266.md) [#6837](../miberas/6837.md) [#6961](../miberas/6961.md) [#7000](../miberas/7000.md) (+4 more)
 
@@ -358,6 +674,24 @@
 
 **357 Miberas** | [Learn about Nepal →](../core-lore/ancestors/nepal.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 34 |
+| Chicago/Detroit | 49 |
+| Freetekno | 55 |
+| Milady | 219 |
+
+| Element | Count |
+|---|---:|
+| Air | 186 |
+| Earth | 68 |
+| Fire | 52 |
+| Water | 51 |
+
+**SSS:** [#0303](../miberas/0303.md) [#7281](../miberas/7281.md) [#9911](../miberas/9911.md)
+
+**SS:** [#1768](../miberas/1768.md) [#4025](../miberas/4025.md) [#4180](../miberas/4180.md) [#4553](../miberas/4553.md) [#6854](../miberas/6854.md) [#8810](../miberas/8810.md) [#9981](../miberas/9981.md)
+
 **S:** [#0039](../miberas/0039.md) [#0044](../miberas/0044.md) [#0197](../miberas/0197.md) [#0841](../miberas/0841.md) [#0876](../miberas/0876.md) [#1539](../miberas/1539.md) [#2236](../miberas/2236.md) [#4052](../miberas/4052.md) [#5692](../miberas/5692.md) [#6431](../miberas/6431.md) [#7895](../miberas/7895.md) [#7918](../miberas/7918.md)
 
 **A:** [#0172](../miberas/0172.md) [#0512](../miberas/0512.md) [#0603](../miberas/0603.md) [#1056](../miberas/1056.md) [#1293](../miberas/1293.md) [#2353](../miberas/2353.md) [#2402](../miberas/2402.md) [#2568](../miberas/2568.md) [#2631](../miberas/2631.md) [#3312](../miberas/3312.md) [#3411](../miberas/3411.md) [#3898](../miberas/3898.md) [#3914](../miberas/3914.md) [#4169](../miberas/4169.md) [#4859](../miberas/4859.md) [#4912](../miberas/4912.md) [#5007](../miberas/5007.md) [#5132](../miberas/5132.md) [#5463](../miberas/5463.md) [#5531](../miberas/5531.md) (+18 more)
@@ -375,6 +709,22 @@
 ## Orthodox Jew
 
 **85 Miberas** | [Learn about Orthodox Jew →](../core-lore/ancestors/orthodox-jew.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 8 |
+| Chicago/Detroit | 25 |
+| Freetekno | 36 |
+| Milady | 16 |
+
+| Element | Count |
+|---|---:|
+| Air | 23 |
+| Earth | 23 |
+| Fire | 18 |
+| Water | 21 |
+
+**SS:** [#8273](../miberas/8273.md) [#8876](../miberas/8876.md) [#9295](../miberas/9295.md)
 
 **S:** [#0304](../miberas/0304.md) [#4765](../miberas/4765.md) [#7830](../miberas/7830.md) [#9531](../miberas/9531.md)
 
@@ -394,6 +744,24 @@
 
 **212 Miberas** | [Learn about Palestinian →](../core-lore/ancestors/palestinian.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 28 |
+| Chicago/Detroit | 28 |
+| Freetekno | 12 |
+| Milady | 144 |
+
+| Element | Count |
+|---|---:|
+| Air | 125 |
+| Earth | 41 |
+| Fire | 22 |
+| Water | 24 |
+
+**SSS:** [#2371](../miberas/2371.md) [#7873](../miberas/7873.md)
+
+**SS:** [#2609](../miberas/2609.md) [#5685](../miberas/5685.md) [#5706](../miberas/5706.md)
+
 **S:** [#0315](../miberas/0315.md) [#0490](../miberas/0490.md) [#2556](../miberas/2556.md) [#4003](../miberas/4003.md) [#4031](../miberas/4031.md) [#5121](../miberas/5121.md) [#6786](../miberas/6786.md) [#7518](../miberas/7518.md) [#7855](../miberas/7855.md) [#8686](../miberas/8686.md) [#9683](../miberas/9683.md) [#9837](../miberas/9837.md)
 
 **A:** [#0571](../miberas/0571.md) [#1826](../miberas/1826.md) [#3723](../miberas/3723.md) [#4227](../miberas/4227.md) [#4265](../miberas/4265.md) [#4794](../miberas/4794.md) [#5348](../miberas/5348.md) [#5545](../miberas/5545.md) [#5790](../miberas/5790.md) [#5844](../miberas/5844.md) [#6202](../miberas/6202.md) [#7119](../miberas/7119.md) [#8384](../miberas/8384.md) [#8865](../miberas/8865.md) [#9114](../miberas/9114.md) [#9217](../miberas/9217.md) [#9396](../miberas/9396.md)
@@ -412,6 +780,20 @@
 
 **159 Miberas** | [Learn about Polynesian →](../core-lore/ancestors/polynesian.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 111 |
+| Chicago/Detroit | 5 |
+| Freetekno | 12 |
+| Milady | 31 |
+
+| Element | Count |
+|---|---:|
+| Air | 31 |
+| Earth | 52 |
+| Fire | 20 |
+| Water | 56 |
+
 **B:** [#1015](../miberas/1015.md) [#1332](../miberas/1332.md) [#1474](../miberas/1474.md) [#2870](../miberas/2870.md) [#3067](../miberas/3067.md) [#3585](../miberas/3585.md) [#5979](../miberas/5979.md) [#6828](../miberas/6828.md) [#7506](../miberas/7506.md) [#7570](../miberas/7570.md) [#7732](../miberas/7732.md) [#7868](../miberas/7868.md) [#8895](../miberas/8895.md)
 
 **C:** [#0146](../miberas/0146.md) [#0246](../miberas/0246.md) [#0271](../miberas/0271.md) [#0316](../miberas/0316.md) [#0346](../miberas/0346.md) [#0390](../miberas/0390.md) [#0568](../miberas/0568.md) [#0600](../miberas/0600.md) [#0609](../miberas/0609.md) [#0978](../miberas/0978.md) [#1236](../miberas/1236.md) [#1429](../miberas/1429.md) [#1660](../miberas/1660.md) [#2007](../miberas/2007.md) [#2086](../miberas/2086.md) [#2097](../miberas/2097.md) [#2203](../miberas/2203.md) [#2205](../miberas/2205.md) [#2894](../miberas/2894.md) [#2968](../miberas/2968.md) (+55 more)
@@ -425,6 +807,22 @@
 ## Punjabi
 
 **111 Miberas** | [Learn about Punjabi →](../core-lore/ancestors/punjabi.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 19 |
+| Chicago/Detroit | 20 |
+| Freetekno | 33 |
+| Milady | 39 |
+
+| Element | Count |
+|---|---:|
+| Air | 63 |
+| Earth | 14 |
+| Fire | 18 |
+| Water | 16 |
+
+**SSS:** [#7920](../miberas/7920.md)
 
 **S:** [#2538](../miberas/2538.md) [#5472](../miberas/5472.md) [#7178](../miberas/7178.md)
 
@@ -444,6 +842,22 @@
 
 **446 Miberas** | [Learn about Pythia →](../core-lore/ancestors/pythia.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 193 |
+| Chicago/Detroit | 57 |
+| Freetekno | 56 |
+| Milady | 140 |
+
+| Element | Count |
+|---|---:|
+| Air | 289 |
+| Earth | 52 |
+| Fire | 58 |
+| Water | 47 |
+
+**SS:** [#4012](../miberas/4012.md) [#4080](../miberas/4080.md) [#4322](../miberas/4322.md) [#4842](../miberas/4842.md) [#6413](../miberas/6413.md) [#6932](../miberas/6932.md) [#7353](../miberas/7353.md) [#7691](../miberas/7691.md) [#8353](../miberas/8353.md)
+
 **S:** [#1180](../miberas/1180.md) [#1389](../miberas/1389.md) [#1967](../miberas/1967.md) [#2818](../miberas/2818.md) [#3285](../miberas/3285.md) [#3537](../miberas/3537.md) [#4654](../miberas/4654.md) [#5379](../miberas/5379.md) [#6840](../miberas/6840.md) [#7151](../miberas/7151.md) [#7185](../miberas/7185.md) [#7487](../miberas/7487.md) [#7790](../miberas/7790.md) [#8198](../miberas/8198.md) [#8418](../miberas/8418.md) [#9215](../miberas/9215.md)
 
 **A:** [#0606](../miberas/0606.md) [#1237](../miberas/1237.md) [#1314](../miberas/1314.md) [#1351](../miberas/1351.md) [#1694](../miberas/1694.md) [#3125](../miberas/3125.md) [#5504](../miberas/5504.md) [#5637](../miberas/5637.md) [#5843](../miberas/5843.md) [#6030](../miberas/6030.md) [#6652](../miberas/6652.md) [#6861](../miberas/6861.md) [#7025](../miberas/7025.md) [#7427](../miberas/7427.md) [#8306](../miberas/8306.md) [#9533](../miberas/9533.md) [#9615](../miberas/9615.md) [#9796](../miberas/9796.md)
@@ -461,6 +875,22 @@
 ## Rastafarians
 
 **251 Miberas** | [Learn about Rastafarians →](../core-lore/ancestors/rastafarians.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 17 |
+| Chicago/Detroit | 156 |
+| Freetekno | 25 |
+| Milady | 53 |
+
+| Element | Count |
+|---|---:|
+| Air | 45 |
+| Earth | 134 |
+| Fire | 34 |
+| Water | 38 |
+
+**SS:** [#6482](../miberas/6482.md)
 
 **S:** [#3327](../miberas/3327.md) [#4702](../miberas/4702.md) [#5769](../miberas/5769.md) [#8968](../miberas/8968.md)
 
@@ -480,6 +910,24 @@
 
 **226 Miberas** | [Learn about Sami →](../core-lore/ancestors/sami.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 63 |
+| Chicago/Detroit | 42 |
+| Freetekno | 44 |
+| Milady | 77 |
+
+| Element | Count |
+|---|---:|
+| Air | 130 |
+| Earth | 32 |
+| Fire | 36 |
+| Water | 28 |
+
+**SSS:** [#3296](../miberas/3296.md) [#5009](../miberas/5009.md) [#7806](../miberas/7806.md)
+
+**SS:** [#0191](../miberas/0191.md) [#1175](../miberas/1175.md) [#1971](../miberas/1971.md) [#3790](../miberas/3790.md) [#4435](../miberas/4435.md) [#4865](../miberas/4865.md) [#8250](../miberas/8250.md) [#8523](../miberas/8523.md) [#8616](../miberas/8616.md) [#9705](../miberas/9705.md) [#9825](../miberas/9825.md)
+
 **S:** [#0412](../miberas/0412.md) [#0591](../miberas/0591.md) [#1691](../miberas/1691.md) [#1732](../miberas/1732.md) [#2442](../miberas/2442.md) [#3041](../miberas/3041.md) [#3095](../miberas/3095.md) [#3999](../miberas/3999.md) [#4064](../miberas/4064.md) [#4177](../miberas/4177.md) [#4306](../miberas/4306.md) [#4524](../miberas/4524.md) [#4684](../miberas/4684.md) [#5012](../miberas/5012.md) [#5950](../miberas/5950.md) [#6111](../miberas/6111.md) [#6476](../miberas/6476.md) [#6764](../miberas/6764.md) [#7494](../miberas/7494.md) [#7581](../miberas/7581.md) (+5 more)
 
 **A:** [#0015](../miberas/0015.md) [#0139](../miberas/0139.md) [#1021](../miberas/1021.md) [#1506](../miberas/1506.md) [#1755](../miberas/1755.md) [#2458](../miberas/2458.md) [#2892](../miberas/2892.md) [#3336](../miberas/3336.md) [#3345](../miberas/3345.md) [#3405](../miberas/3405.md) [#3705](../miberas/3705.md) [#3957](../miberas/3957.md) [#3965](../miberas/3965.md) [#4093](../miberas/4093.md) [#4445](../miberas/4445.md) [#4662](../miberas/4662.md) [#4862](../miberas/4862.md) [#5369](../miberas/5369.md) [#5536](../miberas/5536.md) [#5957](../miberas/5957.md) (+18 more)
@@ -497,6 +945,22 @@
 ## Satanist
 
 **276 Miberas** | [Learn about Satanist →](../core-lore/ancestors/satanist.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 36 |
+| Chicago/Detroit | 39 |
+| Freetekno | 64 |
+| Milady | 137 |
+
+| Element | Count |
+|---|---:|
+| Air | 59 |
+| Earth | 217 |
+
+**SSS:** [#0572](../miberas/0572.md) [#0655](../miberas/0655.md)
+
+**SS:** [#4406](../miberas/4406.md)
 
 **S:** [#0967](../miberas/0967.md) [#1188](../miberas/1188.md) [#1883](../miberas/1883.md) [#3140](../miberas/3140.md) [#3893](../miberas/3893.md) [#4925](../miberas/4925.md) [#5336](../miberas/5336.md) [#5406](../miberas/5406.md) [#6073](../miberas/6073.md) [#6330](../miberas/6330.md) [#6784](../miberas/6784.md) [#7089](../miberas/7089.md) [#9785](../miberas/9785.md)
 
@@ -516,6 +980,22 @@
 
 **257 Miberas** | [Learn about Sicanje →](../core-lore/ancestors/sicanje.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 18 |
+| Chicago/Detroit | 133 |
+| Freetekno | 42 |
+| Milady | 64 |
+
+| Element | Count |
+|---|---:|
+| Air | 65 |
+| Earth | 68 |
+| Fire | 61 |
+| Water | 63 |
+
+**SS:** [#3465](../miberas/3465.md) [#7388](../miberas/7388.md)
+
 **S:** [#0563](../miberas/0563.md) [#4320](../miberas/4320.md) [#5161](../miberas/5161.md) [#5787](../miberas/5787.md) [#7076](../miberas/7076.md) [#7382](../miberas/7382.md) [#7954](../miberas/7954.md) [#8792](../miberas/8792.md) [#9227](../miberas/9227.md) [#9907](../miberas/9907.md)
 
 **A:** [#0541](../miberas/0541.md) [#1084](../miberas/1084.md) [#1608](../miberas/1608.md) [#2287](../miberas/2287.md) [#2695](../miberas/2695.md) [#3183](../miberas/3183.md) [#3212](../miberas/3212.md) [#3910](../miberas/3910.md) [#4229](../miberas/4229.md) [#4408](../miberas/4408.md) [#5075](../miberas/5075.md) [#5332](../miberas/5332.md) [#5752](../miberas/5752.md) [#5874](../miberas/5874.md) [#6144](../miberas/6144.md) [#7337](../miberas/7337.md) [#7894](../miberas/7894.md) [#8289](../miberas/8289.md) [#8667](../miberas/8667.md) [#8842](../miberas/8842.md) (+2 more)
@@ -533,6 +1013,24 @@
 ## Stonewall
 
 **183 Miberas** | [Learn about Stonewall →](../core-lore/ancestors/stonewall.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 16 |
+| Chicago/Detroit | 94 |
+| Freetekno | 32 |
+| Milady | 41 |
+
+| Element | Count |
+|---|---:|
+| Air | 34 |
+| Earth | 99 |
+| Fire | 23 |
+| Water | 27 |
+
+**SSS:** [#5220](../miberas/5220.md) [#5872](../miberas/5872.md)
+
+**SS:** [#0771](../miberas/0771.md) [#1813](../miberas/1813.md) [#2593](../miberas/2593.md) [#3485](../miberas/3485.md) [#7665](../miberas/7665.md)
 
 **S:** [#0366](../miberas/0366.md) [#0629](../miberas/0629.md) [#0644](../miberas/0644.md) [#1473](../miberas/1473.md) [#2434](../miberas/2434.md) [#4143](../miberas/4143.md) [#4504](../miberas/4504.md) [#4602](../miberas/4602.md) [#5079](../miberas/5079.md) [#5091](../miberas/5091.md) [#5106](../miberas/5106.md) [#6272](../miberas/6272.md) [#6791](../miberas/6791.md) [#6814](../miberas/6814.md) [#9751](../miberas/9751.md)
 
@@ -552,6 +1050,24 @@
 
 **252 Miberas** | [Learn about Sufis →](../core-lore/ancestors/sufis.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 37 |
+| Chicago/Detroit | 59 |
+| Freetekno | 105 |
+| Milady | 51 |
+
+| Element | Count |
+|---|---:|
+| Air | 153 |
+| Earth | 35 |
+| Fire | 32 |
+| Water | 32 |
+
+**SSS:** [#0808](../miberas/0808.md) [#4550](../miberas/4550.md) [#6782](../miberas/6782.md) [#8514](../miberas/8514.md)
+
+**SS:** [#2076](../miberas/2076.md) [#3657](../miberas/3657.md) [#4740](../miberas/4740.md) [#7012](../miberas/7012.md) [#7096](../miberas/7096.md) [#7941](../miberas/7941.md) [#8179](../miberas/8179.md) [#8783](../miberas/8783.md)
+
 **S:** [#1023](../miberas/1023.md) [#1514](../miberas/1514.md) [#1678](../miberas/1678.md) [#2125](../miberas/2125.md) [#4727](../miberas/4727.md) [#5184](../miberas/5184.md) [#5714](../miberas/5714.md) [#5715](../miberas/5715.md) [#6329](../miberas/6329.md) [#6486](../miberas/6486.md) [#6931](../miberas/6931.md) [#7796](../miberas/7796.md) [#8092](../miberas/8092.md) [#8994](../miberas/8994.md) [#9248](../miberas/9248.md)
 
 **A:** [#0598](../miberas/0598.md) [#1278](../miberas/1278.md) [#1341](../miberas/1341.md) [#1603](../miberas/1603.md) [#1871](../miberas/1871.md) [#2051](../miberas/2051.md) [#2095](../miberas/2095.md) [#2224](../miberas/2224.md) [#2234](../miberas/2234.md) [#2356](../miberas/2356.md) [#2367](../miberas/2367.md) [#2960](../miberas/2960.md) [#2996](../miberas/2996.md) [#3500](../miberas/3500.md) [#3522](../miberas/3522.md) [#3792](../miberas/3792.md) [#4358](../miberas/4358.md) [#4473](../miberas/4473.md) [#4562](../miberas/4562.md) [#5568](../miberas/5568.md) (+11 more)
@@ -569,6 +1085,24 @@
 ## Thai
 
 **409 Miberas** | [Learn about Thai →](../core-lore/ancestors/thai.md)
+
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 33 |
+| Chicago/Detroit | 39 |
+| Freetekno | 51 |
+| Milady | 286 |
+
+| Element | Count |
+|---|---:|
+| Air | 241 |
+| Earth | 55 |
+| Fire | 57 |
+| Water | 56 |
+
+**SSS:** [#0469](../miberas/0469.md) [#3731](../miberas/3731.md) [#5816](../miberas/5816.md) [#6717](../miberas/6717.md) [#7916](../miberas/7916.md) [#8377](../miberas/8377.md) [#8608](../miberas/8608.md) [#8939](../miberas/8939.md) [#9463](../miberas/9463.md)
+
+**SS:** [#0243](../miberas/0243.md) [#0389](../miberas/0389.md) [#0741](../miberas/0741.md) [#1003](../miberas/1003.md) [#1154](../miberas/1154.md) [#1319](../miberas/1319.md) [#3498](../miberas/3498.md) [#3913](../miberas/3913.md) [#4693](../miberas/4693.md) [#4743](../miberas/4743.md) [#5374](../miberas/5374.md) [#6101](../miberas/6101.md) [#6400](../miberas/6400.md) [#6778](../miberas/6778.md) [#6909](../miberas/6909.md) [#7082](../miberas/7082.md) [#7341](../miberas/7341.md) [#7366](../miberas/7366.md) [#8547](../miberas/8547.md) [#8737](../miberas/8737.md) (+2 more)
 
 **S:** [#0021](../miberas/0021.md) [#1149](../miberas/1149.md) [#1423](../miberas/1423.md) [#1734](../miberas/1734.md) [#1750](../miberas/1750.md) [#2093](../miberas/2093.md) [#2645](../miberas/2645.md) [#3028](../miberas/3028.md) [#3080](../miberas/3080.md) [#3126](../miberas/3126.md) [#3190](../miberas/3190.md) [#3528](../miberas/3528.md) [#5139](../miberas/5139.md) [#5163](../miberas/5163.md) [#5175](../miberas/5175.md) [#5730](../miberas/5730.md) [#5989](../miberas/5989.md) [#6043](../miberas/6043.md) [#6504](../miberas/6504.md) [#6860](../miberas/6860.md) (+10 more)
 
@@ -588,6 +1122,24 @@
 
 **91 Miberas** | [Learn about Traveller →](../core-lore/ancestors/traveller.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 12 |
+| Chicago/Detroit | 17 |
+| Freetekno | 7 |
+| Milady | 55 |
+
+| Element | Count |
+|---|---:|
+| Air | 24 |
+| Earth | 24 |
+| Fire | 19 |
+| Water | 24 |
+
+**SSS:** [#0017](../miberas/0017.md) [#7293](../miberas/7293.md)
+
+**SS:** [#0102](../miberas/0102.md) [#1675](../miberas/1675.md) [#2813](../miberas/2813.md) [#3700](../miberas/3700.md) [#5450](../miberas/5450.md) [#7144](../miberas/7144.md)
+
 **S:** [#1900](../miberas/1900.md) [#2110](../miberas/2110.md) [#2560](../miberas/2560.md) [#2565](../miberas/2565.md) [#8016](../miberas/8016.md) [#9270](../miberas/9270.md)
 
 **A:** [#0285](../miberas/0285.md) [#0674](../miberas/0674.md) [#1488](../miberas/1488.md) [#2033](../miberas/2033.md) [#2152](../miberas/2152.md) [#2459](../miberas/2459.md) [#2661](../miberas/2661.md) [#3460](../miberas/3460.md) [#7104](../miberas/7104.md) [#9427](../miberas/9427.md)
@@ -604,6 +1156,24 @@
 
 **240 Miberas** | [Learn about Turkey →](../core-lore/ancestors/turkey.md)
 
+| Archetype | Count |
+|---|---:|
+| Acidhouse | 25 |
+| Chicago/Detroit | 34 |
+| Freetekno | 40 |
+| Milady | 141 |
+
+| Element | Count |
+|---|---:|
+| Air | 156 |
+| Earth | 26 |
+| Fire | 31 |
+| Water | 27 |
+
+**SSS:** [#1890](../miberas/1890.md)
+
+**SS:** [#2316](../miberas/2316.md)
+
 **S:** [#2309](../miberas/2309.md) [#5841](../miberas/5841.md) [#6244](../miberas/6244.md) [#9048](../miberas/9048.md) [#9552](../miberas/9552.md) [#9870](../miberas/9870.md)
 
 **A:** [#0336](../miberas/0336.md) [#0607](../miberas/0607.md) [#1952](../miberas/1952.md) [#2031](../miberas/2031.md) [#2106](../miberas/2106.md) [#2119](../miberas/2119.md) [#2130](../miberas/2130.md) [#2378](../miberas/2378.md) [#3094](../miberas/3094.md) [#3239](../miberas/3239.md) [#3348](../miberas/3348.md) [#3441](../miberas/3441.md) [#3813](../miberas/3813.md) [#3934](../miberas/3934.md) [#4068](../miberas/4068.md) [#4528](../miberas/4528.md) [#4769](../miberas/4769.md) [#5363](../miberas/5363.md) [#6478](../miberas/6478.md) [#8638](../miberas/8638.md) (+6 more)
@@ -618,3 +1188,4 @@
 
 ---
 
+[← Back to Browse](index.md)

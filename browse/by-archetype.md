@@ -1,3 +1,5 @@
+<!-- generated: 2026-02-17T00:18:30Z by _scripts/generate-clusters.py -->
+
 # Miberas by Archetype
 
 *Browse the 10,000 Miberas organized by their rave tribe.*
@@ -9,6 +11,57 @@
 **1,988 Miberas**
 
 [Learn about Acidhouse →](../core-lore/archetypes.md#acidhouse)
+
+| Ancestor | Count |
+|---|---:|
+| Aboriginal | 68 |
+| Arabs | 141 |
+| Ballroom | 24 |
+| Bong Bear | 17 |
+| Buddhist | 47 |
+| Chinese | 78 |
+| Cypherpunk | 1 |
+| Ethiopian | 26 |
+| Gabon | 49 |
+| Greek | 233 |
+| Haitian | 32 |
+| Hindu | 87 |
+| Indian | 7 |
+| Irish Druids | 148 |
+| Japanese | 54 |
+| Mayan | 178 |
+| Mongolian | 62 |
+| Native American | 86 |
+| Nepal | 34 |
+| Orthodox Jew | 8 |
+| Palestinian | 28 |
+| Polynesian | 111 |
+| Punjabi | 19 |
+| Pythia | 193 |
+| Rastafarians | 17 |
+| Sami | 63 |
+| Satanist | 36 |
+| Sicanje | 18 |
+| Stonewall | 16 |
+| Sufis | 37 |
+| Thai | 33 |
+| Traveller | 12 |
+| Turkey | 25 |
+
+| Element | Count |
+|---|---:|
+| Air | 838 |
+| Earth | 563 |
+| Fire | 306 |
+| Water | 281 |
+
+### Rank SSS (15)
+
+[#0017](../miberas/0017.md) • [#0303](../miberas/0303.md) • [#0572](../miberas/0572.md) • [#1146](../miberas/1146.md) • [#2265](../miberas/2265.md) • [#2527](../miberas/2527.md) • [#3222](../miberas/3222.md) • [#3296](../miberas/3296.md) • [#3443](../miberas/3443.md) • [#3784](../miberas/3784.md) • [#5009](../miberas/5009.md) • [#5872](../miberas/5872.md) • [#5887](../miberas/5887.md) • [#7614](../miberas/7614.md) • [#8320](../miberas/8320.md)
+
+### Rank SS (55)
+
+[#0090](../miberas/0090.md) • [#0126](../miberas/0126.md) • [#0190](../miberas/0190.md) • [#0347](../miberas/0347.md) • [#0703](../miberas/0703.md) • [#0952](../miberas/0952.md) • [#1175](../miberas/1175.md) • [#1264](../miberas/1264.md) • [#1319](../miberas/1319.md) • [#1541](../miberas/1541.md) • [#1728](../miberas/1728.md) • [#1810](../miberas/1810.md) • [#1889](../miberas/1889.md) • [#1929](../miberas/1929.md) • [#2076](../miberas/2076.md) • [#2151](../miberas/2151.md) • [#2573](../miberas/2573.md) • [#2601](../miberas/2601.md) • [#2727](../miberas/2727.md) • [#2812](../miberas/2812.md) • [#3498](../miberas/3498.md) • [#3790](../miberas/3790.md) • [#4021](../miberas/4021.md) • [#4066](../miberas/4066.md) • [#4067](../miberas/4067.md) • [#4293](../miberas/4293.md) • [#4322](../miberas/4322.md) • [#4429](../miberas/4429.md) • [#4699](../miberas/4699.md) • [#4715](../miberas/4715.md) • [#5213](../miberas/5213.md) • [#5509](../miberas/5509.md) • [#5910](../miberas/5910.md) • [#6250](../miberas/6250.md) • [#6415](../miberas/6415.md) • [#6482](../miberas/6482.md) • [#6577](../miberas/6577.md) • [#6932](../miberas/6932.md) • [#7250](../miberas/7250.md) • [#7646](../miberas/7646.md) • [#7883](../miberas/7883.md) • [#7947](../miberas/7947.md) • [#8174](../miberas/8174.md) • [#8288](../miberas/8288.md) • [#8404](../miberas/8404.md) • [#8523](../miberas/8523.md) • [#8616](../miberas/8616.md) • [#8747](../miberas/8747.md) • [#8832](../miberas/8832.md) • [#8929](../miberas/8929.md) • *...and 5 more*
 
 ### Rank S (98)
 
@@ -40,7 +93,58 @@
 
 **2,088 Miberas**
 
-[Learn about Chicago/Detroit →](../core-lore/archetypes.md#chicagodetroit)
+[Learn about Chicago/Detroit →](../core-lore/archetypes.md#chicago-detroit)
+
+| Ancestor | Count |
+|---|---:|
+| Aboriginal | 99 |
+| Arabs | 69 |
+| Ballroom | 114 |
+| Bong Bear | 19 |
+| Buddhist | 32 |
+| Chinese | 58 |
+| Cypherpunk | 4 |
+| Ethiopian | 49 |
+| Gabon | 208 |
+| Greek | 67 |
+| Haitian | 26 |
+| Hindu | 220 |
+| Indian | 22 |
+| Irish Druids | 50 |
+| Japanese | 48 |
+| Mayan | 69 |
+| Mongolian | 91 |
+| Native American | 46 |
+| Nepal | 49 |
+| Orthodox Jew | 25 |
+| Palestinian | 28 |
+| Polynesian | 5 |
+| Punjabi | 20 |
+| Pythia | 57 |
+| Rastafarians | 156 |
+| Sami | 42 |
+| Satanist | 39 |
+| Sicanje | 133 |
+| Stonewall | 94 |
+| Sufis | 59 |
+| Thai | 39 |
+| Traveller | 17 |
+| Turkey | 34 |
+
+| Element | Count |
+|---|---:|
+| Air | 816 |
+| Earth | 577 |
+| Fire | 373 |
+| Water | 322 |
+
+### Rank SSS (17)
+
+[#1073](../miberas/1073.md) • [#1508](../miberas/1508.md) • [#1890](../miberas/1890.md) • [#2371](../miberas/2371.md) • [#3464](../miberas/3464.md) • [#3997](../miberas/3997.md) • [#5278](../miberas/5278.md) • [#5789](../miberas/5789.md) • [#6717](../miberas/6717.md) • [#7293](../miberas/7293.md) • [#7419](../miberas/7419.md) • [#7806](../miberas/7806.md) • [#7920](../miberas/7920.md) • [#8608](../miberas/8608.md) • [#9070](../miberas/9070.md) • [#9836](../miberas/9836.md) • [#9911](../miberas/9911.md)
+
+### Rank SS (39)
+
+[#1151](../miberas/1151.md) • [#1268](../miberas/1268.md) • [#1426](../miberas/1426.md) • [#1468](../miberas/1468.md) • [#1971](../miberas/1971.md) • [#2587](../miberas/2587.md) • [#2593](../miberas/2593.md) • [#2830](../miberas/2830.md) • [#3016](../miberas/3016.md) • [#3090](../miberas/3090.md) • [#3168](../miberas/3168.md) • [#3398](../miberas/3398.md) • [#3465](../miberas/3465.md) • [#3567](../miberas/3567.md) • [#3657](../miberas/3657.md) • [#3704](../miberas/3704.md) • [#3935](../miberas/3935.md) • [#4029](../miberas/4029.md) • [#5147](../miberas/5147.md) • [#5401](../miberas/5401.md) • [#6003](../miberas/6003.md) • [#6313](../miberas/6313.md) • [#6413](../miberas/6413.md) • [#6909](../miberas/6909.md) • [#7012](../miberas/7012.md) • [#7049](../miberas/7049.md) • [#7353](../miberas/7353.md) • [#7388](../miberas/7388.md) • [#7509](../miberas/7509.md) • [#7665](../miberas/7665.md) • [#7691](../miberas/7691.md) • [#8250](../miberas/8250.md) • [#8373](../miberas/8373.md) • [#8789](../miberas/8789.md) • [#9303](../miberas/9303.md) • [#9428](../miberas/9428.md) • [#9573](../miberas/9573.md) • [#9829](../miberas/9829.md) • [#9981](../miberas/9981.md)
 
 ### Rank S (106)
 
@@ -74,6 +178,57 @@
 
 [Learn about Freetekno →](../core-lore/archetypes.md#freetekno)
 
+| Ancestor | Count |
+|---|---:|
+| Aboriginal | 59 |
+| Arabs | 136 |
+| Ballroom | 27 |
+| Bong Bear | 28 |
+| Buddhist | 35 |
+| Chinese | 52 |
+| Cypherpunk | 1 |
+| Ethiopian | 169 |
+| Gabon | 103 |
+| Greek | 159 |
+| Haitian | 147 |
+| Hindu | 136 |
+| Indian | 5 |
+| Irish Druids | 53 |
+| Japanese | 43 |
+| Mayan | 178 |
+| Mongolian | 54 |
+| Native American | 186 |
+| Nepal | 55 |
+| Orthodox Jew | 36 |
+| Palestinian | 12 |
+| Polynesian | 12 |
+| Punjabi | 33 |
+| Pythia | 56 |
+| Rastafarians | 25 |
+| Sami | 44 |
+| Satanist | 64 |
+| Sicanje | 42 |
+| Stonewall | 32 |
+| Sufis | 105 |
+| Thai | 51 |
+| Traveller | 7 |
+| Turkey | 40 |
+
+| Element | Count |
+|---|---:|
+| Air | 910 |
+| Earth | 666 |
+| Fire | 342 |
+| Water | 267 |
+
+### Rank SSS (21)
+
+[#0331](../miberas/0331.md) • [#0655](../miberas/0655.md) • [#2176](../miberas/2176.md) • [#2521](../miberas/2521.md) • [#3653](../miberas/3653.md) • [#4002](../miberas/4002.md) • [#5470](../miberas/5470.md) • [#6045](../miberas/6045.md) • [#6235](../miberas/6235.md) • [#6239](../miberas/6239.md) • [#6309](../miberas/6309.md) • [#6782](../miberas/6782.md) • [#7239](../miberas/7239.md) • [#7405](../miberas/7405.md) • [#7656](../miberas/7656.md) • [#8138](../miberas/8138.md) • [#8514](../miberas/8514.md) • [#8650](../miberas/8650.md) • [#8700](../miberas/8700.md) • [#8785](../miberas/8785.md) • [#9325](../miberas/9325.md)
+
+### Rank SS (42)
+
+[#0027](../miberas/0027.md) • [#0102](../miberas/0102.md) • [#0192](../miberas/0192.md) • [#0293](../miberas/0293.md) • [#0389](../miberas/0389.md) • [#0441](../miberas/0441.md) • [#0566](../miberas/0566.md) • [#1041](../miberas/1041.md) • [#1254](../miberas/1254.md) • [#1297](../miberas/1297.md) • [#1822](../miberas/1822.md) • [#2017](../miberas/2017.md) • [#2316](../miberas/2316.md) • [#3198](../miberas/3198.md) • [#3383](../miberas/3383.md) • [#3923](../miberas/3923.md) • [#4209](../miberas/4209.md) • [#4343](../miberas/4343.md) • [#4435](../miberas/4435.md) • [#4740](../miberas/4740.md) • [#4865](../miberas/4865.md) • [#5266](../miberas/5266.md) • [#5706](../miberas/5706.md) • [#5779](../miberas/5779.md) • [#6101](../miberas/6101.md) • [#6232](../miberas/6232.md) • [#6676](../miberas/6676.md) • [#6854](../miberas/6854.md) • [#7096](../miberas/7096.md) • [#7456](../miberas/7456.md) • [#7652](../miberas/7652.md) • [#7812](../miberas/7812.md) • [#7941](../miberas/7941.md) • [#8175](../miberas/8175.md) • [#8179](../miberas/8179.md) • [#8273](../miberas/8273.md) • [#8619](../miberas/8619.md) • [#8783](../miberas/8783.md) • [#8822](../miberas/8822.md) • [#8876](../miberas/8876.md) • [#8901](../miberas/8901.md) • [#9043](../miberas/9043.md)
+
 ### Rank S (91)
 
 [#0197](../miberas/0197.md) • [#0219](../miberas/0219.md) • [#0337](../miberas/0337.md) • [#0383](../miberas/0383.md) • [#0411](../miberas/0411.md) • [#0500](../miberas/0500.md) • [#0531](../miberas/0531.md) • [#0591](../miberas/0591.md) • [#0897](../miberas/0897.md) • [#0907](../miberas/0907.md) • [#1335](../miberas/1335.md) • [#1358](../miberas/1358.md) • [#1539](../miberas/1539.md) • [#1585](../miberas/1585.md) • [#1678](../miberas/1678.md) • [#1734](../miberas/1734.md) • [#1883](../miberas/1883.md) • [#1994](../miberas/1994.md) • [#2093](../miberas/2093.md) • [#2236](../miberas/2236.md) • [#2299](../miberas/2299.md) • [#2320](../miberas/2320.md) • [#2438](../miberas/2438.md) • [#2550](../miberas/2550.md) • [#2687](../miberas/2687.md) • [#2719](../miberas/2719.md) • [#2922](../miberas/2922.md) • [#3015](../miberas/3015.md) • [#3126](../miberas/3126.md) • [#3253](../miberas/3253.md) • [#3327](../miberas/3327.md) • [#3335](../miberas/3335.md) • [#3408](../miberas/3408.md) • [#3434](../miberas/3434.md) • [#3435](../miberas/3435.md) • [#3489](../miberas/3489.md) • [#3537](../miberas/3537.md) • [#3747](../miberas/3747.md) • [#3999](../miberas/3999.md) • [#4019](../miberas/4019.md) • [#4143](../miberas/4143.md) • [#4381](../miberas/4381.md) • [#4500](../miberas/4500.md) • [#4654](../miberas/4654.md) • [#4709](../miberas/4709.md) • [#4714](../miberas/4714.md) • [#4719](../miberas/4719.md) • [#4727](../miberas/4727.md) • [#4925](../miberas/4925.md) • [#4966](../miberas/4966.md) • *...and 41 more*
@@ -106,6 +261,57 @@
 
 [Learn about Milady →](../core-lore/archetypes.md#milady)
 
+| Ancestor | Count |
+|---|---:|
+| Aboriginal | 60 |
+| Arabs | 195 |
+| Ballroom | 53 |
+| Bong Bear | 43 |
+| Buddhist | 42 |
+| Chinese | 244 |
+| Cypherpunk | 4 |
+| Ethiopian | 128 |
+| Gabon | 142 |
+| Greek | 126 |
+| Haitian | 62 |
+| Hindu | 221 |
+| Indian | 5 |
+| Irish Druids | 110 |
+| Japanese | 131 |
+| Mayan | 209 |
+| Mongolian | 190 |
+| Native American | 280 |
+| Nepal | 219 |
+| Orthodox Jew | 16 |
+| Palestinian | 144 |
+| Polynesian | 31 |
+| Punjabi | 39 |
+| Pythia | 140 |
+| Rastafarians | 53 |
+| Sami | 77 |
+| Satanist | 137 |
+| Sicanje | 64 |
+| Stonewall | 41 |
+| Sufis | 51 |
+| Thai | 286 |
+| Traveller | 55 |
+| Turkey | 141 |
+
+| Element | Count |
+|---|---:|
+| Air | 1,673 |
+| Earth | 1,023 |
+| Fire | 565 |
+| Water | 478 |
+
+### Rank SSS (47)
+
+[#0469](../miberas/0469.md) • [#0796](../miberas/0796.md) • [#0808](../miberas/0808.md) • [#1773](../miberas/1773.md) • [#1925](../miberas/1925.md) • [#1944](../miberas/1944.md) • [#2102](../miberas/2102.md) • [#3045](../miberas/3045.md) • [#3153](../miberas/3153.md) • [#3516](../miberas/3516.md) • [#3731](../miberas/3731.md) • [#3899](../miberas/3899.md) • [#4099](../miberas/4099.md) • [#4438](../miberas/4438.md) • [#4452](../miberas/4452.md) • [#4522](../miberas/4522.md) • [#4550](../miberas/4550.md) • [#4692](../miberas/4692.md) • [#4891](../miberas/4891.md) • [#4953](../miberas/4953.md) • [#5220](../miberas/5220.md) • [#5395](../miberas/5395.md) • [#5581](../miberas/5581.md) • [#5632](../miberas/5632.md) • [#5816](../miberas/5816.md) • [#6124](../miberas/6124.md) • [#6299](../miberas/6299.md) • [#6603](../miberas/6603.md) • [#6729](../miberas/6729.md) • [#6859](../miberas/6859.md) • [#7186](../miberas/7186.md) • [#7281](../miberas/7281.md) • [#7373](../miberas/7373.md) • [#7459](../miberas/7459.md) • [#7873](../miberas/7873.md) • [#7916](../miberas/7916.md) • [#7948](../miberas/7948.md) • [#8377](../miberas/8377.md) • [#8599](../miberas/8599.md) • [#8721](../miberas/8721.md) • [#8874](../miberas/8874.md) • [#8939](../miberas/8939.md) • [#9456](../miberas/9456.md) • [#9463](../miberas/9463.md) • [#9735](../miberas/9735.md) • [#9780](../miberas/9780.md) • [#9944](../miberas/9944.md)
+
+### Rank SS (114)
+
+[#0147](../miberas/0147.md) • [#0191](../miberas/0191.md) • [#0243](../miberas/0243.md) • [#0420](../miberas/0420.md) • [#0741](../miberas/0741.md) • [#0767](../miberas/0767.md) • [#0771](../miberas/0771.md) • [#0914](../miberas/0914.md) • [#0954](../miberas/0954.md) • [#1003](../miberas/1003.md) • [#1059](../miberas/1059.md) • [#1108](../miberas/1108.md) • [#1154](../miberas/1154.md) • [#1181](../miberas/1181.md) • [#1291](../miberas/1291.md) • [#1457](../miberas/1457.md) • [#1462](../miberas/1462.md) • [#1566](../miberas/1566.md) • [#1577](../miberas/1577.md) • [#1675](../miberas/1675.md) • [#1768](../miberas/1768.md) • [#1802](../miberas/1802.md) • [#1813](../miberas/1813.md) • [#1830](../miberas/1830.md) • [#1956](../miberas/1956.md) • [#2139](../miberas/2139.md) • [#2197](../miberas/2197.md) • [#2245](../miberas/2245.md) • [#2311](../miberas/2311.md) • [#2582](../miberas/2582.md) • [#2609](../miberas/2609.md) • [#2769](../miberas/2769.md) • [#2813](../miberas/2813.md) • [#2977](../miberas/2977.md) • [#3031](../miberas/3031.md) • [#3400](../miberas/3400.md) • [#3466](../miberas/3466.md) • [#3485](../miberas/3485.md) • [#3590](../miberas/3590.md) • [#3619](../miberas/3619.md) • [#3700](../miberas/3700.md) • [#3712](../miberas/3712.md) • [#3753](../miberas/3753.md) • [#3848](../miberas/3848.md) • [#3865](../miberas/3865.md) • [#3913](../miberas/3913.md) • [#3970](../miberas/3970.md) • [#4007](../miberas/4007.md) • [#4012](../miberas/4012.md) • [#4025](../miberas/4025.md) • *...and 64 more*
+
 ### Rank S (205)
 
 [#0021](../miberas/0021.md) • [#0039](../miberas/0039.md) • [#0067](../miberas/0067.md) • [#0101](../miberas/0101.md) • [#0195](../miberas/0195.md) • [#0400](../miberas/0400.md) • [#0435](../miberas/0435.md) • [#0467](../miberas/0467.md) • [#0490](../miberas/0490.md) • [#0499](../miberas/0499.md) • [#0533](../miberas/0533.md) • [#0536](../miberas/0536.md) • [#0563](../miberas/0563.md) • [#0587](../miberas/0587.md) • [#0795](../miberas/0795.md) • [#0819](../miberas/0819.md) • [#0841](../miberas/0841.md) • [#0959](../miberas/0959.md) • [#0967](../miberas/0967.md) • [#0971](../miberas/0971.md) • [#1023](../miberas/1023.md) • [#1123](../miberas/1123.md) • [#1144](../miberas/1144.md) • [#1157](../miberas/1157.md) • [#1180](../miberas/1180.md) • [#1231](../miberas/1231.md) • [#1423](../miberas/1423.md) • [#1569](../miberas/1569.md) • [#1574](../miberas/1574.md) • [#1628](../miberas/1628.md) • [#1650](../miberas/1650.md) • [#1691](../miberas/1691.md) • [#1785](../miberas/1785.md) • [#1789](../miberas/1789.md) • [#1805](../miberas/1805.md) • [#1900](../miberas/1900.md) • [#1982](../miberas/1982.md) • [#2040](../miberas/2040.md) • [#2114](../miberas/2114.md) • [#2118](../miberas/2118.md) • [#2125](../miberas/2125.md) • [#2126](../miberas/2126.md) • [#2196](../miberas/2196.md) • [#2257](../miberas/2257.md) • [#2538](../miberas/2538.md) • [#2556](../miberas/2556.md) • [#2560](../miberas/2560.md) • [#2565](../miberas/2565.md) • [#2567](../miberas/2567.md) • [#2624](../miberas/2624.md) • *...and 155 more*
@@ -132,3 +338,4 @@
 
 ---
 
+[← Back to Browse](index.md)

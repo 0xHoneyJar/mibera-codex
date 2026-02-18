@@ -43,4 +43,6 @@ element: Earth
 
 **Element:** Earth
 
+**1/1 Grail:** [Virgo Grail (#8834)](../../../grails/virgo.md)
+
 ---

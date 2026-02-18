@@ -7,6 +7,8 @@ locations: Mongolia, Central Asia, Siberia
 
 # Mongolian
 
+> **1/1 Grail**: [Mongolian Grail (#507)](../../grails/mongolian.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

@@ -7,6 +7,8 @@ locations: Ethiopia
 
 # Ethiopian
 
+> **1/1 Grail**: [Ethiopian Grail (#7702)](../../grails/ethiopian.md)
+
 ## Cultural Significance
 
 **Figures Associated:**
