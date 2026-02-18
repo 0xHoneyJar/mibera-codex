@@ -3,24 +3,38 @@
   "$id": "ancestor.schema.json",
   "title": "Ancestor Entry",
   "description": "Schema for ancestor YAML frontmatter (core-lore/ancestors/*.md)",
+  "x-codex-meta": {
+    "entity_type": "ancestor",
+    "confidence_profile": "1/4 canonical (name), 3 community (periods, locations)",
+    "primary_source": "project-lore",
+    "last_verified": "2026-02-18"
+  },
   "type": "object",
   "required": ["name", "period_ancient", "period_modern", "locations"],
   "properties": {
     "name": {
       "type": "string",
-      "description": "Ancestor culture name"
+      "description": "Ancestor culture name",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
     },
     "period_ancient": {
       "type": "string",
-      "description": "Ancient period date range (e.g., '-480 - -323')"
+      "description": "Ancient period date range (e.g., '-480 - -323')",
+      "x-codex-confidence": "community",
+      "x-codex-source": "research"
     },
     "period_modern": {
       "type": "string",
-      "description": "Modern period date range (e.g., '330 - 1453')"
+      "description": "Modern period date range (e.g., '330 - 1453')",
+      "x-codex-confidence": "community",
+      "x-codex-source": "research"
     },
     "locations": {
       "type": "string",
-      "description": "Comma-separated geographic regions"
+      "description": "Comma-separated geographic regions",
+      "x-codex-confidence": "community",
+      "x-codex-source": "research"
     }
   }
 }

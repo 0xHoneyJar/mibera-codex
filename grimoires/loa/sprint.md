@@ -1,6 +1,6 @@
-# Sprint Plan: Index Completeness Markers
+# Sprint Plan: Schema Meta Blocks
 
-**Cycle**: 011
+**Cycle**: 012
 **PRD**: `grimoires/loa/prd.md`
 **SDD**: `grimoires/loa/sdd.md`
 
@@ -8,45 +8,43 @@
 
 ## Overview
 
-Single sprint. Add machine-readable completeness comments to 8 entity index files.
+Single sprint. Add `x-codex-confidence`, `x-codex-source`, and `x-codex-meta` to 8 schema files.
 
 ---
 
-## Sprint 1: Completeness Comments
+## Sprint 1: Schema Meta Annotations
 
-**Goal**: Add `<!-- codex-status: ... -->` HTML comments to all entity index READMEs.
+**Goal**: Add field-level confidence annotations and schema-level meta blocks to all 8 JSON Schema files.
 
-### Task 1.1: Add completeness comments to 8 index files
+### Task 1.1: Annotate all 8 schema files
 
-**Description**: Insert a machine-readable HTML comment as the first line of each entity index README. Values sourced from `manifest.json`.
-
-**Format**: `<!-- codex-status: {COMPLETE|PARTIAL} | entities: {count} | last-verified: 2026-02-18 -->`
+**Description**: For each property in each schema file, add `x-codex-confidence` and `x-codex-source` inline. Add `x-codex-meta` top-level block. Values per SDD Section 4.
 
 **Files**:
-1. `miberas/README.md` — COMPLETE, 10000
-2. `traits/README.md` — COMPLETE, 1257
-3. `drugs-detailed/README.md` — COMPLETE, 78
-4. `core-lore/ancestors/README.md` — COMPLETE, 33
-5. `core-lore/tarot-cards/README.md` — COMPLETE, 78
-6. `birthdays/README.md` — COMPLETE, 11
-7. `special-collections/README.md` — PARTIAL, 32
-8. `grails/README.md` — COMPLETE, 42
+1. `_codex/schema/mibera.schema.json` — 26 properties
+2. `_codex/schema/drug.schema.json` — 9 properties
+3. `_codex/schema/ancestor.schema.json` — 4 properties
+4. `_codex/schema/tarot-card.schema.json` — 7 properties
+5. `_codex/schema/trait-full.schema.json` — 5 properties
+6. `_codex/schema/trait-minimal.schema.json` — 3 properties
+7. `_codex/schema/special-collection.schema.json` — 2 properties
+8. `_codex/schema/grail.schema.json` — 7 properties
 
 **Acceptance criteria**:
-- [x] All 8 files have `<!-- codex-status: ... -->` as first line
-- [x] Values match manifest.json entity_types (status + count)
-- [x] Comment format matches regex `^<!-- codex-status: (COMPLETE|PARTIAL) \| entities: \d+ \| last-verified: \d{4}-\d{2}-\d{2} -->$`
-- [x] Existing file content is unchanged (comment is prepended)
-
-**Dependencies**: None
+- [x] All 8 schema files have `x-codex-meta` top-level block
+- [x] Every property in every schema has `x-codex-confidence` and `x-codex-source`
+- [x] Confidence values are only `canonical`, `derived`, or `community`
+- [x] Source values are from the 7-value vocabulary in SDD Section 3
+- [x] All files are valid JSON
 
 ### Task 1.2: Validate
 
-**Description**: Verify all comments are correct and files are undamaged.
+**Description**: Verify all annotations are correct and schemas remain valid.
 
 **Acceptance criteria**:
-- [x] All 8 comments parseable by regex
-- [x] Entity counts match manifest.json
-- [x] No other content in files was modified
+- [x] All 8 files parse as valid JSON
+- [x] No existing schema properties were modified or removed
+- [x] Confidence/source values match SDD Section 4 mapping
+- [x] `x-codex-meta.last_verified` is `2026-02-18` on all files
 
 **Dependencies**: Task 1.1

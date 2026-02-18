@@ -1,43 +1,95 @@
-# PRD: Index Completeness Markers
+# PRD: Schema Meta Blocks — Field-Level Confidence
 
-**Cycle**: 011
+**Cycle**: 012
 **Date**: 2026-02-18
-**Issue**: #15 P2 item — completeness comments on index files
+**Issue**: #15 P2 item — schema meta blocks with confidence levels
 
-## Problem
+---
 
-Agents navigating entity index files must check `manifest.json` to determine whether an entity type is COMPLETE or PARTIAL. Issue #15 proposed adding machine-readable HTML comments directly to index READMEs so agents can determine completeness status in a single file read.
+## 1. Problem Statement
 
-## Requirement
+The codex has 8 JSON Schema files defining entity structures, but they contain no provenance or confidence metadata. A consumer (agent, app, researcher) cannot programmatically determine whether a field's value comes from on-chain contract metadata (canonical), was derived from pattern analysis, or was community-contributed.
 
-### FR-1: Add completeness HTML comments to entity index files
+> Sources: Issue #15 P2 item, NOTES.md decision log
 
-Add a machine-readable HTML comment to the top of each entity index README with:
-- `codex-status`: COMPLETE or PARTIAL
-- `entities`: count of documented entities
-- `last-verified`: date of last verification
+## 2. Goals
 
-Format:
-```html
-<!-- codex-status: COMPLETE | entities: 42 | last-verified: 2026-02-18 -->
+1. Add machine-readable confidence annotations to all 8 schema files
+2. Use JSON Schema's `x-` extension mechanism (non-breaking)
+3. Enable consumers to filter or weight data by confidence level
+
+## 3. Success Criteria
+
+- All 8 schema files have `x-codex-meta` blocks
+- Every field in every schema has a confidence annotation
+- Annotations use a controlled vocabulary: `canonical`, `derived`, `community`
+- Source authority is documented per field
+- Existing schema validation is unaffected (no breaking changes)
+
+## 4. Scope
+
+### In Scope
+
+- Add `x-codex-meta` extension to all 8 `_codex/schema/*.schema.json` files
+- Document confidence vocabulary in a schema README or inline
+- Validate that schemas still parse correctly after modification
+
+### Out of Scope
+
+- Modifying actual entity data files
+- Adding per-record confidence (this is schema-level, not instance-level)
+- Changing manifest.json (already has aggregate completeness)
+
+## 5. Confidence Vocabulary
+
+| Level | Meaning | Example |
+|-------|---------|---------|
+| `canonical` | From on-chain metadata or contract state | Mibera archetype, element, swag_score |
+| `derived` | Computed from canonical data via deterministic rules | Swag rank (derived from score thresholds) |
+| `community` | Community-contributed, editorial, or artist-sourced | Grail descriptions, drug origins, ancestor locations |
+
+## 6. Format
+
+Each schema property gains an `x-codex-confidence` annotation:
+
+```json
+{
+  "archetype": {
+    "type": "string",
+    "enum": ["Freetekno", "Milady", "Acidhouse", "Chicago/Detroit"],
+    "description": "One of 4 archetypes",
+    "x-codex-confidence": "canonical",
+    "x-codex-source": "contract-metadata"
+  }
+}
 ```
 
-### Target files (8)
+Each schema file also gets a top-level `x-codex-meta` block:
 
-| File | Entity Type | Status | Count |
-|------|-------------|--------|-------|
-| `miberas/README.md` | mibera | COMPLETE | 10,000 |
-| `traits/README.md` | trait | COMPLETE | 1,257 |
-| `drugs-detailed/README.md` | drug | COMPLETE | 78 |
-| `core-lore/ancestors/README.md` | ancestor | COMPLETE | 33 |
-| `core-lore/tarot-cards/README.md` | tarot_card | COMPLETE | 78 |
-| `birthdays/README.md` | birthday_era | COMPLETE | 11 |
-| `special-collections/README.md` | special_collection | PARTIAL | 32 |
-| `grails/README.md` | grail | COMPLETE | 42 |
+```json
+{
+  "x-codex-meta": {
+    "entity_type": "mibera",
+    "confidence_summary": "All fields canonical except swag_rank (derived)",
+    "last_verified": "2026-02-18"
+  }
+}
+```
 
-Values sourced from `manifest.json` entity_types.
+## 7. Entity Confidence Assessment
 
-## Non-Requirements
+| Schema | Fields | Confidence Profile |
+|--------|--------|--------------------|
+| `mibera.schema.json` | 26 | Nearly all canonical (contract metadata). `swag_rank` is derived. |
+| `drug.schema.json` | 9 | Mixed: `name`, `archetype`, `ancestor` canonical; `molecule`, `era`, `origin` community-sourced |
+| `ancestor.schema.json` | 4 | All community (historical research) |
+| `tarot-card.schema.json` | TBD | Check source |
+| `trait-full.schema.json` | TBD | Check source |
+| `trait-minimal.schema.json` | TBD | Check source |
+| `special-collection.schema.json` | TBD | Check source |
+| `grail.schema.json` | 7 | `id`, `name`, `type` canonical; `category`, `description` community; `commissioned_for`, `status` mixed |
 
-- No schema changes (P2 item 1 deferred — see NOTES.md)
-- No content changes to the files beyond the HTML comment
+## 8. Risks
+
+- **Low**: JSON Schema parsers ignore `x-` extensions by default — no breakage risk
+- **Low**: Confidence assessment is subjective for some fields — document rationale

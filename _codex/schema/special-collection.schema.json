@@ -3,16 +3,26 @@
   "$id": "special-collection.schema.json",
   "title": "Special Collection Entry",
   "description": "Schema for special collection YAML frontmatter (special-collections/*.md)",
+  "x-codex-meta": {
+    "entity_type": "special_collection",
+    "confidence_profile": "1/2 canonical (name), 1 community (type)",
+    "primary_source": "project-lore",
+    "last_verified": "2026-02-18"
+  },
   "type": "object",
   "required": ["name", "type"],
   "properties": {
     "name": {
       "type": "string",
-      "description": "Collection name"
+      "description": "Collection name",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
     },
     "type": {
       "type": "string",
-      "description": "Collection category (e.g., DeFi, NFT, DAO, Community)"
+      "description": "Collection category (e.g., DeFi, NFT, DAO, Community)",
+      "x-codex-confidence": "community",
+      "x-codex-source": "classification"
     }
   }
 }

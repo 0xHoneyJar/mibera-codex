@@ -3,6 +3,12 @@
   "$id": "mibera.schema.json",
   "title": "Mibera Entry",
   "description": "Schema for Mibera YAML frontmatter (miberas/NNNN.md)",
+  "x-codex-meta": {
+    "entity_type": "mibera",
+    "confidence_profile": "27/28 canonical, 1 derived (swag_rank)",
+    "primary_source": "contract-metadata",
+    "last_verified": "2026-02-18"
+  },
   "type": "object",
   "required": [
     "id", "type", "archetype", "ancestor", "time_period", "birthday",
@@ -15,120 +21,176 @@
       "type": "integer",
       "minimum": 1,
       "maximum": 10000,
-      "description": "Mibera numeric ID (1-10000)"
+      "description": "Mibera numeric ID (1-10000)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "type": {
       "const": "mibera",
-      "description": "Entity type discriminator"
+      "description": "Entity type discriminator",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "archetype": {
       "type": "string",
       "enum": ["Freetekno", "Milady", "Acidhouse", "Chicago/Detroit"],
-      "description": "One of 4 archetypes"
+      "description": "One of 4 archetypes",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "ancestor": {
       "type": "string",
-      "description": "Cultural ancestor lineage"
+      "description": "Cultural ancestor lineage",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "time_period": {
       "type": "string",
-      "description": "Modern, Ancient, etc."
+      "description": "Modern, Ancient, etc.",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "birthday": {
       "type": "string",
-      "description": "Birthday in MM/DD/YYYY Ce/Bce HH:MM format"
+      "description": "Birthday in MM/DD/YYYY Ce/Bce HH:MM format",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "birth_coordinates": {
       "type": "string",
-      "description": "Latitude, longitude"
+      "description": "Latitude, longitude",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "sun_sign": {
       "type": "string",
-      "description": "Zodiac sun sign"
+      "description": "Zodiac sun sign",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "moon_sign": {
       "type": "string",
-      "description": "Zodiac moon sign"
+      "description": "Zodiac moon sign",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "ascending_sign": {
       "type": "string",
-      "description": "Zodiac ascending sign"
+      "description": "Zodiac ascending sign",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "element": {
       "type": "string",
       "enum": ["Earth", "Fire", "Water", "Air"],
-      "description": "Classical element"
+      "description": "Classical element",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "swag_rank": {
       "type": "string",
       "enum": ["S", "A", "B", "C", "D"],
-      "description": "Swag tier ranking"
+      "description": "Swag tier ranking",
+      "x-codex-confidence": "derived",
+      "x-codex-source": "contract-metadata"
     },
     "swag_score": {
       "type": "integer",
       "minimum": 0,
       "maximum": 100,
-      "description": "Numeric swag score"
+      "description": "Numeric swag score",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "background": {
       "type": "string",
-      "description": "Background trait"
+      "description": "Background trait",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "body": {
       "type": "string",
-      "description": "Body trait"
+      "description": "Body trait",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "hair": {
       "type": ["string", "null"],
-      "description": "Hair trait (null if None)"
+      "description": "Hair trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "eyes": {
       "type": "string",
-      "description": "Eyes trait"
+      "description": "Eyes trait",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "eyebrows": {
       "type": "string",
-      "description": "Eyebrows trait"
+      "description": "Eyebrows trait",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "mouth": {
       "type": "string",
-      "description": "Mouth trait"
+      "description": "Mouth trait",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "shirt": {
       "type": ["string", "null"],
-      "description": "Shirt trait (null if None)"
+      "description": "Shirt trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "hat": {
       "type": ["string", "null"],
-      "description": "Hat trait (null if None)"
+      "description": "Hat trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "glasses": {
       "type": ["string", "null"],
-      "description": "Glasses trait (null if None)"
+      "description": "Glasses trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "mask": {
       "type": ["string", "null"],
-      "description": "Mask trait (null if None)"
+      "description": "Mask trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "earrings": {
       "type": ["string", "null"],
-      "description": "Earrings trait (null if None)"
+      "description": "Earrings trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "face_accessory": {
       "type": ["string", "null"],
-      "description": "Face accessory trait (null if None)"
+      "description": "Face accessory trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "tattoo": {
       "type": ["string", "null"],
-      "description": "Tattoo trait (null if None)"
+      "description": "Tattoo trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "item": {
       "type": ["string", "null"],
-      "description": "Item trait (null if None)"
+      "description": "Item trait (null if None)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "drug": {
       "type": "string",
-      "description": "Associated drug"
+      "description": "Associated drug",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     }
   },
   "additionalProperties": false

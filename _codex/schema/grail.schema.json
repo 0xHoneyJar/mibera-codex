@@ -3,6 +3,12 @@
   "$id": "grail.schema.json",
   "title": "Grail Entry",
   "description": "Schema for Grail (1/1) YAML frontmatter (grails/*.md)",
+  "x-codex-meta": {
+    "entity_type": "grail",
+    "confidence_profile": "4/7 canonical, 3 community (category, description, commissioned_for)",
+    "primary_source": "contract-metadata",
+    "last_verified": "2026-02-18"
+  },
   "type": "object",
   "required": ["name", "type", "category"],
   "properties": {
@@ -10,35 +16,49 @@
       "type": "integer",
       "minimum": 1,
       "maximum": 10000,
-      "description": "Token ID within the Mibera Maker contract. Omitted for community grails not yet on-chain."
+      "description": "Token ID within the Mibera Maker contract. Omitted for community grails not yet on-chain.",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     },
     "name": {
       "type": "string",
       "minLength": 1,
-      "description": "Display name of the Grail"
+      "description": "Display name of the Grail",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "artist"
     },
     "type": {
       "type": "string",
       "const": "grail",
-      "description": "Content type identifier"
+      "description": "Content type identifier",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "classification"
     },
     "category": {
       "type": "string",
       "enum": ["element", "luminary", "concept", "zodiac", "planet", "ancestor", "primordial", "special", "community"],
-      "description": "Thematic category"
+      "description": "Thematic category",
+      "x-codex-confidence": "community",
+      "x-codex-source": "classification"
     },
     "description": {
       "type": "string",
-      "description": "Short artist description of the piece"
+      "description": "Short artist description of the piece",
+      "x-codex-confidence": "community",
+      "x-codex-source": "artist"
     },
     "commissioned_for": {
       "type": "string",
-      "description": "Community member the grail was created for (community grails only)"
+      "description": "Community member the grail was created for (community grails only)",
+      "x-codex-confidence": "community",
+      "x-codex-source": "artist"
     },
     "status": {
       "type": "string",
       "enum": ["on-chain", "pending"],
-      "description": "On-chain status. Defaults to on-chain for canonical grails."
+      "description": "On-chain status. Defaults to on-chain for canonical grails.",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
     }
   },
   "additionalProperties": false

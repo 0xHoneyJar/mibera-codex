@@ -59,12 +59,8 @@
 
 ## Decisions
 
-### P2 Item 1: Schema meta blocks with confidence levels — DEFERRED
-Issue #15 proposed adding `meta` blocks to schemas (`_codex/schema/*.schema.json`) with `confidence` (canonical/verified/inferred/uncertain), `source_authority`, and `last_updated` per field. Decided not to implement yet because:
-1. `manifest.json` already has `completeness`, `completeness_note`, and `last_verified` per entity type — the aggregate confidence question is answered
-2. Field-level confidence adds schema complexity without a current consumer — no app or agent currently queries "how confident is this archetype assignment?"
-3. The codex data is overwhelmingly canonical (sourced from contract metadata and official project materials) — confidence tagging would be nearly uniform
-4. If a consumer needs field-level provenance later, it can be added as a non-breaking schema extension
+### P2 Item 1: Schema meta blocks with confidence levels — IMPLEMENTED (Cycle 012)
+Added `x-codex-confidence` and `x-codex-source` annotations to all 65 fields across 8 schema files. Used JSON Schema `x-` extension mechanism (non-breaking). Three confidence levels: canonical (77%), derived (1.5%), community (21.5%). Seven source types: contract-metadata, project-lore, project-asset, editorial, research, artist, classification.
 
 ## Observations
 
