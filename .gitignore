@@ -45,4 +45,9 @@ CLAUDE.md
 .gitattributes
 PROCESS.md
 INSTALLATION.md
-grimoires/loa/
+
+# Loa state — track development history, exclude ephemeral files
+grimoires/loa/NOTES.md.tmp
+grimoires/loa/analytics/
+grimoires/loa/a2a/trajectory/
+grimoires/loa/memory/

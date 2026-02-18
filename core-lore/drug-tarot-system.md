@@ -62,7 +62,7 @@ The 22 Major Arcana cards carry the most significant drug associations:
 
 > *"Kronos — the god of time, chronic time. Like the Grim Reaper with his sickle and scythe, he's the harbinger of death. The instrument of murder and castration. The old hunched man with the long beard. The one who shows up when your time has come."*
 
-*[Full Major Arcana mappings in tarot-cards/index.md]*
+*[Full Major Arcana mappings in tarot-cards/README.md]*
 
 ---
 
@@ -119,12 +119,12 @@ Drugs also connect to cultural Ancestors based on historical usage:
 ## Detailed References
 
 For complete card-by-card mappings:
-→ [Tarot Cards](tarot-cards/index.md)
+→ [Tarot Cards](tarot-cards/README.md)
 
 For drug pairing details (Ancient ↔ Modern connections):
 → [Drug Pairings](../drugs-detailed/drug-pairings.md)
 
 For individual drug profiles with molecules, effects, and history:
-→ [Drugs](../drugs-detailed/index.md)
+→ [Drugs](../drugs-detailed/README.md)
 
 ---

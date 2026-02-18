@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "tracks": [
+    {
+      "entity_type": "mibera",
+      "count": 10000,
+      "completeness": "COMPLETE",
+      "note": "All 10,000 generative Miberas from the Mibera Maker contract"
+    },
+    {
+      "entity_type": "grail",
+      "count": 42,
+      "completeness": "COMPLETE",
+      "note": "All 42 hand-drawn 1/1 art pieces. These are specific token IDs within the same contract."
+    },
+    {
+      "entity_type": "trait",
+      "count": 1257,
+      "completeness": "COMPLETE",
+      "note": "All visual traits across 18 subcategories"
+    },
+    {
+      "entity_type": "drug",
+      "count": 78,
+      "completeness": "COMPLETE",
+      "note": "All 78 drugs in the drug-tarot system"
+    },
+    {
+      "entity_type": "tarot_card",
+      "count": 78,
+      "completeness": "COMPLETE",
+      "note": "All 78 tarot cards mapped 1:1 to drugs"
+    },
+    {
+      "entity_type": "ancestor",
+      "count": 33,
+      "completeness": "COMPLETE",
+      "note": "All 33 cultural ancestors"
+    },
+    {
+      "entity_type": "special_collection",
+      "count": 32,
+      "completeness": "PARTIAL",
+      "note": "Known partner collaborations. New partners may not be immediately documented."
+    },
+    {
+      "entity_type": "birthday_era",
+      "count": 11,
+      "completeness": "COMPLETE",
+      "note": "All era classifications for 15,000 years of birthdays"
+    },
+    {
+      "entity_type": "fractured_mibera",
+      "count": 10,
+      "completeness": "COMPLETE",
+      "note": "All 10 soulbound companion collections documented with contract addresses"
+    }
+  ],
+  "does_not_track": [
+    {
+      "category": "ownership",
+      "reason": "Codex documents lore and metadata, not wallet balances or transfers. Use on-chain indexer."
+    },
+    {
+      "category": "custom_commissions",
+      "reason": "Only the 42 canonical Grails are documented. Custom 1/1 commissions are not tracked."
+    },
+    {
+      "category": "on_chain_state",
+      "reason": "Codex is static documentation. Token transfers, marketplace activity, and balances are not tracked."
+    },
+    {
+      "category": "social_identities",
+      "reason": "No mapping between wallets, usernames, or real-world identities and tokens."
+    },
+    {
+      "category": "price_data",
+      "reason": "No market prices, sales history, or floor price tracking."
+    }
+  ],
+  "stop_conditions": [
+    "If searching for a named entity in a COMPLETE entity type and it's not in the index, it does not exist in the codex.",
+    "If the question involves wallet addresses or ownership, the codex cannot answer — use an on-chain indexer.",
+    "If the question involves a person or community member, the codex has no social identity data.",
+    "If the question involves price or market data, the codex has no financial data."
+  ]
+}

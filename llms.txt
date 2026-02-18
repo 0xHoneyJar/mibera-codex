@@ -6,8 +6,8 @@
 
 - Start with IDENTITY.md for embodiment constraints and signal hierarchy
 - Use manifest.json for programmatic file lookup
-- Schema definitions in _schema/README.md
-- Human navigation via SUMMARY.md or browse/index.md
+- Schema definitions in _codex/schema/README.md
+- Human navigation via SUMMARY.md or browse/README.md
 
 ## Content Types
 
@@ -20,6 +20,7 @@
 | Tarot Card | core-lore/tarot-cards/*.md | 78 | YAML frontmatter |
 | Birthday Era | birthdays/*.md | 11 | Structured headings |
 | Special Collection | special-collections/*.md | 32 | YAML frontmatter |
+| Grail | grails/{slug}.md | 42 | YAML frontmatter |
 
 ## Lookup Patterns
 
@@ -49,8 +50,8 @@
 
 ## Data Exports & Schemas
 
-- _data/miberas.jsonl — All 10,000 Miberas as JSONL (one JSON object per line)
-- _schema/*.schema.json — JSON Schema files for all entity types
+- _codex/data/miberas.jsonl — All 10,000 Miberas as JSONL (one JSON object per line)
+- _codex/schema/*.schema.json — JSON Schema files for all entity types
 - llms-full.txt — Complete conceptual framework (~530KB, all core lore + ancestors + drugs)
 
 ## Signal Hierarchy (from IDENTITY.md)
@@ -58,3 +59,30 @@
 Load-bearing (define worldview): Archetype → Ancestor → Birthday/Era
 Textural (color expression): Drug/Molecule → Tarot → Element
 Modifiers: Swag Rank → Astrology
+
+## Scope & Boundaries
+
+### What This Codex Tracks
+- 10,000 generative Miberas (COMPLETE)
+- 42 hand-drawn Grails / 1/1s (COMPLETE)
+- 1,257 visual traits across 18 subcategories (COMPLETE)
+- 78 drugs, 78 tarot cards, 33 ancestors (COMPLETE)
+- 32 special/partner collections (PARTIAL)
+
+### What This Codex Does NOT Track
+- Ownership / wallet balances / transfers
+- Custom commissioned art beyond the 42 canonical Grails
+- On-chain state (marketplace activity, token transfers)
+- Community member identities
+- Price or market data
+
+### When to Stop Searching
+- Name not in index + entity type is COMPLETE → it does not exist here
+- Question involves wallets/ownership → codex cannot answer, use on-chain indexer
+- Question involves a person → no social identity data here
+- Question involves price/market → no financial data here
+
+### Machine-Readable Scope
+- _codex/data/scope.json — programmatic scope boundaries
+- _codex/data/gaps.json — known unknowns with resolution paths
+- _codex/data/contracts.json — canonical contract addresses

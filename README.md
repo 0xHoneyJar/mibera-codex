@@ -27,14 +27,14 @@ The genesis mythology and philosophical framework.
 ### II. The Framework
 The four Rave Tribes and cultural lineages.
 - [Archetypes](core-lore/archetypes.md) — Freetekno, Milady, Chicago Detroit, Acidhouse
-- [Ancestors](core-lore/ancestors/index.md) — Hindu, Mayan, Greek, Native American, and more
+- [Ancestors](core-lore/ancestors/README.md) — Hindu, Mayan, Greek, Native American, and more
 
 ### III. The Mysticism
 Cosmic and chemical systems that define each Mibera.
-- [Astrology](traits/overlays/astrology/index.md) — Sun, Moon, and Ascending signs
-- [Elements](traits/overlays/elements/index.md) — Fire, Water, Air, Earth
+- [Astrology](traits/overlays/astrology/README.md) — Sun, Moon, and Ascending signs
+- [Elements](traits/overlays/elements/README.md) — Fire, Water, Air, Earth
 - [Drug-Tarot System](core-lore/drug-tarot-system.md) — 78 cards mapped to 78 drugs
-- [Drugs Deep Dive](drugs-detailed/index.md) — Detailed profiles of all 79 substances
+- [Drugs Deep Dive](drugs-detailed/README.md) — Detailed profiles of all 79 substances
 
 ### IV. The Art
 1,337+ visual traits across multiple categories.
@@ -43,20 +43,42 @@ Cosmic and chemical systems that define each Mibera.
 
 ### V. The Collection
 The 10,000 Miberas and their temporal identities.
-- [All Miberas](miberas/index.md) — Individual entries with full metadata
-- [Birthdays](birthdays/index.md) — 9,995 unique birthdays spanning 15,000 years
+- [All Miberas](miberas/README.md) — Individual entries with full metadata
+- [Grails](grails/README.md) — 42 hand-drawn 1/1 art pieces
+- [Birthdays](birthdays/README.md) — 9,995 unique birthdays spanning 15,000 years
 
 ### VI. The Mechanics
-- [Ranking & Scoring](traits/overlays/ranking/index.md) — Swag Score and tribal coherence
+- [Ranking & Scoring](traits/overlays/ranking/README.md) — Swag Score and tribal coherence
 
 ### VII. The Ecosystem
 Partners and collaborations.
-- [Special Collections](special-collections/index.md) — Berachain ecosystem integrations
+- [Special Collections](special-collections/README.md) — Berachain ecosystem integrations
 
 ### VIII. Behind the Scenes
 The people and process behind the collection.
 - [Creative Process](behind-the-scenes/creative-process.md) — How the art was made
 - [Team History](behind-the-scenes/team-history.md) — The people who built Mibera
+
+### IX. On-Chain
+Contract addresses and ecosystem mechanics.
+- [Contract Registry](_codex/data/contracts.json) — All ecosystem contract addresses
+- [Fractured Mibera](_codex/data/fractured-mibera.md) — 10 soulbound companion collections
+- [Shadow Traits](_codex/data/shadow-traits.md) — On-chain trait uniqueness system
+- [Candies Marketplace](_codex/data/candies-mechanics.md) — Seizure mechanics and holder discounts
+- [Mibera Sets](_codex/data/mibera-sets.md) — 12-tier ERC-1155 on Optimism
+- [Archetype Quiz](_codex/data/tarot-quiz.md) — Soulbound archetype alignment
+- [The 42 Motif](_codex/data/42-motif.md) — Numerological easter eggs across contracts
+- [Contract ABIs](_codex/data/abis/README.md) — Machine-readable contract interfaces
+
+### X. Data & Research
+Machine-readable exports and analytical datasets.
+- [Data Directory Index](_codex/data/README.md) — All exports with format descriptions
+- [Knowledge Graph](_codex/data/graph.json) — 10,279 nodes, 70,344 edges
+- [All Miberas (JSONL)](_codex/data/miberas.jsonl) — 10,000 entries as newline-delimited JSON
+- [All Grails (JSONL)](_codex/data/grails.jsonl) — 42 entries
+- [Scope & Boundaries](_codex/data/scope.json) — What this codex tracks and doesn't
+- [Known Gaps](_codex/data/gaps.json) — Documented unknowns with resolution paths
+- [Timeline](_codex/data/timeline.json) — Key ecosystem events
 
 ---
 
@@ -64,7 +86,7 @@ The people and process behind the collection.
 
 Explore the 10,000 Miberas through faceted search — filter by archetype, ancestor, drug, element, swag rank, birthday era, and more.
 
-[Browse all Miberas →](browse/index.md)
+[Browse all Miberas →](browse/README.md)
 
 ---
 
@@ -73,10 +95,12 @@ Explore the 10,000 Miberas through faceted search — filter by archetype, ances
 | Metric | Value |
 |--------|-------|
 | Total Miberas | 10,000 |
+| Hand-Drawn Grails | 42 |
 | Unique Traits | 1,337+ |
 | Archetypes | 4 |
 | Ancestors | 12+ |
 | Tarot-Drug Mappings | 78 |
+| Ecosystem Contracts | 11 |
 | Birthday Range | 13,166 BCE – 2024 CE |
 
 ---

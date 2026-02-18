@@ -1,22 +1,28 @@
 {
   "version": "1.0.0",
-  "generated": "2026-02-15",
+  "generated": "2026-02-17",
   "description": "Directory-level index for the Mibera Codex. Use for programmatic navigation.",
   "entity_types": {
     "mibera": {
       "directory": "miberas/",
-      "index": "miberas/index.md",
+      "index": "miberas/README.md",
       "count": 10000,
       "format": "yaml_frontmatter_and_markdown_table",
       "naming": "{NNNN}.md (zero-padded 4-digit ID)",
       "id_range": [1, 10000],
-      "fields": ["Archetype", "Ancestor", "Time Period", "Birthday", "Birth Coordinates", "Sun Sign", "Moon Sign", "Ascending Sign", "Element", "Swag Rank", "Swag Score", "Background", "Body", "Hair", "Eyes", "Eyebrows", "Mouth", "Shirt", "Hat", "Glasses", "Mask", "Earrings", "Face Accessory", "Tattoo", "Item", "Drug"]
+      "fields": ["Archetype", "Ancestor", "Time Period", "Birthday", "Birth Coordinates", "Sun Sign", "Moon Sign", "Ascending Sign", "Element", "Swag Rank", "Swag Score", "Background", "Body", "Hair", "Eyes", "Eyebrows", "Mouth", "Shirt", "Hat", "Glasses", "Mask", "Earrings", "Face Accessory", "Tattoo", "Item", "Drug"],
+      "completeness": "COMPLETE",
+      "completeness_note": "All 10,000 generative Miberas documented",
+      "last_verified": "2026-02-18"
     },
     "trait": {
       "directory": "traits/",
-      "index": "traits/index.md",
+      "index": "traits/README.md",
       "count": 1257,
       "format": "yaml_frontmatter",
+      "completeness": "COMPLETE",
+      "completeness_note": "1,257 visual traits across 18 subcategories",
+      "last_verified": "2026-02-18",
       "subcategories": {
         "accessories/earrings": 64,
         "accessories/face-accessories": 42,
@@ -42,47 +48,65 @@
     },
     "drug": {
       "directory": "drugs-detailed/",
-      "index": "drugs-detailed/index.md",
+      "index": "drugs-detailed/README.md",
       "count": 78,
       "format": "yaml_frontmatter",
       "naming": "{slug}.md",
-      "reference_files": ["drugs-detailed/drug-pairings.md"]
+      "reference_files": ["drugs-detailed/drug-pairings.md"],
+      "completeness": "COMPLETE",
+      "completeness_note": "78 drugs mapped 1:1 to tarot cards",
+      "last_verified": "2026-02-18"
     },
     "ancestor": {
       "directory": "core-lore/ancestors/",
-      "index": "core-lore/ancestors/index.md",
+      "index": "core-lore/ancestors/README.md",
       "count": 33,
-      "format": "yaml_frontmatter"
+      "format": "yaml_frontmatter",
+      "completeness": "COMPLETE",
+      "completeness_note": "All 33 ancestor lineages documented",
+      "last_verified": "2026-02-18"
     },
     "tarot_card": {
       "directory": "core-lore/tarot-cards/",
-      "index": "core-lore/tarot-cards/index.md",
+      "index": "core-lore/tarot-cards/README.md",
       "count": 78,
-      "format": "yaml_frontmatter"
+      "format": "yaml_frontmatter",
+      "completeness": "COMPLETE",
+      "completeness_note": "78 tarot cards mapped 1:1 to drugs",
+      "last_verified": "2026-02-18"
     },
     "birthday_era": {
       "directory": "birthdays/",
-      "index": "birthdays/index.md",
+      "index": "birthdays/README.md",
       "count": 11,
-      "format": "structured_markdown"
+      "format": "structured_markdown",
+      "completeness": "COMPLETE",
+      "completeness_note": "All 11 eras covering 13,166 BCE – 2024 CE",
+      "last_verified": "2026-02-18"
     },
     "special_collection": {
       "directory": "special-collections/",
-      "index": "special-collections/index.md",
+      "index": "special-collections/README.md",
       "count": 32,
-      "format": "yaml_frontmatter"
+      "format": "yaml_frontmatter",
+      "completeness": "PARTIAL",
+      "completeness_note": "32 documented; additional partner collections may exist",
+      "last_verified": "2026-02-18"
     },
     "grail": {
       "directory": "grails/",
-      "index": "grails/index.md",
+      "index": "grails/README.md",
       "count": 42,
       "format": "yaml_frontmatter",
-      "naming": "{slug}.md"
+      "naming": "{slug}.md",
+      "completeness": "COMPLETE",
+      "completeness_note": "All 42 canonical hand-drawn 1/1 Grails",
+      "last_verified": "2026-02-18"
     }
   },
   "browse": {
     "directory": "browse/",
-    "index": "browse/index.md",
+    "index": "browse/README.md",
     "dimensions": {
       "by-archetype": "browse/by-archetype.md",
       "by-ancestor": "browse/by-ancestor.md",
@@ -101,32 +125,43 @@
     "drug_tarot_system": "core-lore/drug-tarot-system.md",
     "glossary": "glossary.md",
     "summary": "SUMMARY.md",
-    "schema": "_schema/README.md",
+    "schema": "_codex/schema/README.md",
     "llms": "llms.txt",
     "llms_full": "llms-full.txt",
-    "ontology": "_schema/ontology.yaml"
+    "ontology": "_codex/schema/ontology.yaml"
   },
   "data_exports": {
-    "miberas_jsonl": "_data/miberas.jsonl",
-    "graph": "_data/graph.json",
-    "stats": "_data/stats.md",
-    "grails_jsonl": "_data/grails.jsonl"
+    "miberas_jsonl": "_codex/data/miberas.jsonl",
+    "graph": "_codex/data/graph.json",
+    "stats": "_codex/data/stats.md",
+    "grails_jsonl": "_codex/data/grails.jsonl",
+    "scope": "_codex/data/scope.json",
+    "gaps": "_codex/data/gaps.json",
+    "contracts": "_codex/data/contracts.json",
+    "timeline": "_codex/data/timeline.json",
+    "abis": "_codex/data/abis/README.md",
+    "fractured_mibera": "_codex/data/fractured-mibera.md",
+    "shadow_traits": "_codex/data/shadow-traits.md",
+    "candies_mechanics": "_codex/data/candies-mechanics.md",
+    "motif_42": "_codex/data/42-motif.md",
+    "mibera_sets": "_codex/data/mibera-sets.md",
+    "tarot_quiz": "_codex/data/tarot-quiz.md"
   },
   "cross_dimensional_browse": {
     "note": "Cross-dimensional breakdowns are now inline in the enriched browse pages",
     "by_ancestor": "browse/by-ancestor.md",
     "by_archetype": "browse/by-archetype.md",
     "by_element": "browse/by-element.md",
-    "generator": "_scripts/generate-clusters.py"
+    "generator": "_codex/scripts/generate-clusters.py"
   },
   "schemas": {
-    "mibera": "_schema/mibera.schema.json",
-    "drug": "_schema/drug.schema.json",
-    "ancestor": "_schema/ancestor.schema.json",
-    "tarot_card": "_schema/tarot-card.schema.json",
-    "trait_full": "_schema/trait-full.schema.json",
-    "trait_minimal": "_schema/trait-minimal.schema.json",
-    "special_collection": "_schema/special-collection.schema.json",
-    "grail": "_schema/grail.schema.json"
+    "mibera": "_codex/schema/mibera.schema.json",
+    "drug": "_codex/schema/drug.schema.json",
+    "ancestor": "_codex/schema/ancestor.schema.json",
+    "tarot_card": "_codex/schema/tarot-card.schema.json",
+    "trait_full": "_codex/schema/trait-full.schema.json",
+    "trait_minimal": "_codex/schema/trait-minimal.schema.json",
+    "special_collection": "_codex/schema/special-collection.schema.json",
+    "grail": "_codex/schema/grail.schema.json"
   }
 }

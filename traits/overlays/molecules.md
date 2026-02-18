@@ -13,9 +13,9 @@ Molecules contribute to the Swag Score: `total_ss = item_score * shirt_score * m
 ### Detailed References
 
 - **[Drug-Tarot System](../../core-lore/drug-tarot-system.md)** — The framework mapping 78 tarot cards to 78 drugs
-- **[Tarot Cards](../../core-lore/tarot-cards/index.md)** — Full card-by-card mappings with tarot meanings
+- **[Tarot Cards](../../core-lore/tarot-cards/README.md)** — Full card-by-card mappings with tarot meanings
 - **[Drug Pairings](../../drugs-detailed/drug-pairings.md)** — Ancient ↔ Modern connections with shared effects
-- **[Detailed Drug Profiles](../../drugs-detailed/index.md)** — Individual profiles with effects, botany, and sources
+- **[Detailed Drug Profiles](../../drugs-detailed/README.md)** — Individual profiles with effects, botany, and sources
 
 ---
 

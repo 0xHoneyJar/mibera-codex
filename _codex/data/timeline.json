@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "events": [
+    {
+      "id": "EVT-001",
+      "name": "Mibera Maker contract deployment",
+      "date": null,
+      "chain": "berachain",
+      "notes": "ERC-721C deployment of 10,000 tokens",
+      "verified": false
+    },
+    {
+      "id": "EVT-002",
+      "name": "Mibera mint",
+      "date": null,
+      "chain": "berachain",
+      "notes": "4.2 BERA mint price",
+      "verified": false
+    },
+    {
+      "id": "EVT-003",
+      "name": "Grails creation",
+      "date": null,
+      "notes": "42 hand-drawn 1/1 pieces by cfang",
+      "verified": false
+    },
+    {
+      "id": "EVT-004",
+      "name": "MiberaSets deployment",
+      "date": null,
+      "chain": "optimism",
+      "notes": "12 tiered ERC-1155 tokens",
+      "verified": false
+    },
+    {
+      "id": "EVT-005",
+      "name": "Codex repository created",
+      "date": null,
+      "notes": "GitHub repository 0xHoneyJar/mibera-codex",
+      "verified": false
+    },
+    {
+      "id": "EVT-006",
+      "name": "Candies launch",
+      "date": null,
+      "chain": "berachain",
+      "notes": "ERC-1155 collectible candies",
+      "verified": false
+    }
+  ]
+}
