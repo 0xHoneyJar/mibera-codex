@@ -84,6 +84,17 @@
   * [19th Century](birthdays/19th-century.md)
   * [20th Century](birthdays/20th-century.md)
   * [21st Century](birthdays/21st-century.md)
+* [Fractures — Reveal Timeline](fractures/README.md)
+  * [MiParcels](fractures/miparcels.md)
+  * [Miladies](fractures/miladies.md)
+  * [MiReveal #1.1](fractures/mireveal-1.1.md)
+  * [MiReveal #2.2](fractures/mireveal-2.2.md)
+  * [MiReveal #3.3](fractures/mireveal-3.3.md)
+  * [MiReveal #4.20](fractures/mireveal-4.20.md)
+  * [MiReveal #5.5](fractures/mireveal-5.5.md)
+  * [MiReveal #6.9](fractures/mireveal-6.9.md)
+  * [MiReveal #7.7](fractures/mireveal-7.7.md)
+  * [MiReveal #8.8](fractures/mireveal-8.8.md)
 
 ## VI. The Ecosystem
 * [Featured Projects & Partners](special-collections/README.md)
