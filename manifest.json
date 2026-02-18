@@ -71,6 +71,13 @@
       "index": "special-collections/index.md",
       "count": 32,
       "format": "yaml_frontmatter"
+    },
+    "grail": {
+      "directory": "grails/",
+      "index": "grails/index.md",
+      "count": 42,
+      "format": "yaml_frontmatter",
+      "naming": "{slug}.md"
     }
   },
   "browse": {
@@ -83,7 +90,8 @@
       "by-drug": "browse/by-drug.md",
       "by-era": "browse/by-era.md",
       "by-element": "browse/by-element.md",
-      "by-tarot": "browse/by-tarot.md"
+      "by-tarot": "browse/by-tarot.md",
+      "grails": "browse/grails.md"
     }
   },
   "key_files": {
@@ -101,7 +109,8 @@
   "data_exports": {
     "miberas_jsonl": "_data/miberas.jsonl",
     "graph": "_data/graph.json",
-    "stats": "_data/stats.md"
+    "stats": "_data/stats.md",
+    "grails_jsonl": "_data/grails.jsonl"
   },
   "cross_dimensional_browse": {
     "note": "Cross-dimensional breakdowns are now inline in the enriched browse pages",
@@ -117,6 +126,7 @@
     "tarot_card": "_schema/tarot-card.schema.json",
     "trait_full": "_schema/trait-full.schema.json",
     "trait_minimal": "_schema/trait-minimal.schema.json",
-    "special_collection": "_schema/special-collection.schema.json"
+    "special_collection": "_schema/special-collection.schema.json",
+    "grail": "_schema/grail.schema.json"
   }
 }

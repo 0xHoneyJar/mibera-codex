@@ -43,4 +43,6 @@ element: Fire
 
 **Element:** Fire
 
+**1/1 Grail:** [Sagittarius Grail (#7321)](../../../grails/sagittarius.md)
+
 ---

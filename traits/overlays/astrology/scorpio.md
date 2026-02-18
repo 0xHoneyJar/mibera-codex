@@ -43,4 +43,6 @@ element: Water
 
 **Element:** Water
 
+**1/1 Grail:** [Scorpio Grail (#235)](../../../grails/scorpio.md)
+
 ---

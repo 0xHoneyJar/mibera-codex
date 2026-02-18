@@ -24,6 +24,7 @@ Run from the repo root:
 | `generate-backlinks.py` | Generate backlink sections for content files |
 | `generate-clusters.py` | Generate enriched dimension browse pages (`by-ancestor.md`, `by-archetype.md`, `by-element.md`) with cross-dimensional breakdown tables |
 | `generate-exports.py` | Export codex data in structured formats |
+| `generate-grails.py` | Generate Grails browse page (`browse/grails.md`) and data export (`_data/grails.jsonl`) from `grails/*.md` frontmatter |
 | `generate-graph.py` | Generate relationship graph data |
 | `generate-llms-full.py` | Generate `llms-full.txt` — complete codex content for LLM ingestion |
 | `generate-stats.py` | Generate codex statistics |

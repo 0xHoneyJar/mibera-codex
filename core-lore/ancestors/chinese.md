@@ -7,6 +7,8 @@ locations: China
 
 # Chinese
 
+> **1/1 Grail**: [Chinese Grail (#392)](../../grails/chinese.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

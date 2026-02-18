@@ -43,4 +43,6 @@ element: Air
 
 **Element:** Air
 
+**1/1 Grail:** [Libra Grail (#895)](../../../grails/libra.md)
+
 ---

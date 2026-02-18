@@ -7,6 +7,8 @@ locations: USA
 
 # Native American
 
+> **1/1 Grail**: [Native American Grail (#3282)](../../grails/native-american.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

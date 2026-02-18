@@ -7,6 +7,8 @@ locations: The first Church of Satan (California, USA)
 
 # Satanist
 
+> **1/1 Grail**: [Satanist Grail (#8557)](../../grails/satanist.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

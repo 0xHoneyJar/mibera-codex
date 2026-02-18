@@ -7,6 +7,8 @@ locations: Maya Region, Mesoamerica (Guatemala, Mexico, Belize, Honduras)
 
 # Mayan
 
+> **1/1 Grail**: [Mayan Grail (#3970)](../../grails/mayan.md)
+
 ## Cultural Significance
 
 **Figures Associated:**

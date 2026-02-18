@@ -17,4 +17,6 @@ quadrant: Northern (lat ≥ 0) and Western (lon < 0)
 
 **Qualities:** Stability, material world, grounding, physical form, abundance
 
+**1/1 Grail:** [Earth Grail (#3244)](../../../grails/earth.md)
+
 ---

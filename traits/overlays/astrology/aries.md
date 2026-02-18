@@ -43,4 +43,6 @@ element: Fire
 
 **Element:** Fire
 
+**1/1 Grail:** [Aries Grail (#4803)](../../../grails/aries.md)
+
 ---
