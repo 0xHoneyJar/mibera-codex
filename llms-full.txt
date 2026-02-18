@@ -1001,6 +1001,8 @@ Source: core-lore/ancestors/buddhist.md
 
 # Buddhist
 
+> **1/1 Grail**: [Buddhist Grail (#9503)](../../grails/buddhist.md)
+
 ## Cultural Significance
 
 **Figures Associated:**
@@ -1040,6 +1042,8 @@ Source: core-lore/ancestors/chinese.md
 ════════════════════════════════════════════════════════════
 
 # Chinese
+
+> **1/1 Grail**: [Chinese Grail (#392)](../../grails/chinese.md)
 
 ## Cultural Significance
 
@@ -1132,6 +1136,8 @@ Source: core-lore/ancestors/ethiopian.md
 
 # Ethiopian
 
+> **1/1 Grail**: [Ethiopian Grail (#7702)](../../grails/ethiopian.md)
+
 ## Cultural Significance
 
 **Figures Associated:**
@@ -1210,6 +1216,8 @@ Source: core-lore/ancestors/greek.md
 ════════════════════════════════════════════════════════════
 
 # Greek
+
+> **1/1 Grail**: [Greek Grail (#1630)](../../grails/greek.md)
 
 ## Cultural Significance
 
@@ -1293,6 +1301,8 @@ Source: core-lore/ancestors/hindu.md
 ════════════════════════════════════════════════════════════
 
 # Hindu
+
+> **1/1 Grail**: [Hindu Grail (#8277)](../../grails/hindu.md)
 
 ## Cultural Significance
 
@@ -1418,6 +1428,8 @@ Source: core-lore/ancestors/japanese.md
 
 # Japanese
 
+> **1/1 Grail**: [Japanese Grail (#4363)](../../grails/japanese.md)
+
 ## Cultural Significance
 
 **Figures Associated:**
@@ -1459,6 +1471,8 @@ Source: core-lore/ancestors/mayan.md
 
 # Mayan
 
+> **1/1 Grail**: [Mayan Grail (#3970)](../../grails/mayan.md)
+
 ## Cultural Significance
 
 **Figures Associated:**
@@ -1498,6 +1512,8 @@ Source: core-lore/ancestors/mongolian.md
 ════════════════════════════════════════════════════════════
 
 # Mongolian
+
+> **1/1 Grail**: [Mongolian Grail (#507)](../../grails/mongolian.md)
 
 ## Cultural Significance
 
@@ -1542,6 +1558,8 @@ Source: core-lore/ancestors/native-american.md
 ════════════════════════════════════════════════════════════
 
 # Native American
+
+> **1/1 Grail**: [Native American Grail (#3282)](../../grails/native-american.md)
 
 ## Cultural Significance
 
@@ -1842,6 +1860,8 @@ Source: core-lore/ancestors/rastafarians.md
 
 # Rastafarians
 
+> **1/1 Grail**: [Rastafarian Grail (#1134)](../../grails/rastafarian.md)
+
 ## Cultural Significance
 
 **Figures Associated:**
@@ -1926,6 +1946,8 @@ Source: core-lore/ancestors/satanist.md
 ════════════════════════════════════════════════════════════
 
 # Satanist
+
+> **1/1 Grail**: [Satanist Grail (#8557)](../../grails/satanist.md)
 
 ## Cultural Significance
 

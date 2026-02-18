@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "trait-minimal.schema.json",
+  "title": "Trait Entry (Minimal)",
+  "description": "Schema for traits with minimal metadata: character-traits (body, eyebrows, eyes, hair, mouth, tattoos), overlays (traits/{character-traits,overlays}/**/*.md)",
+  "x-codex-meta": {
+    "entity_type": "trait",
+    "confidence_profile": "2/3 canonical, 1 community (date_added)",
+    "primary_source": "contract-metadata",
+    "last_verified": "2026-02-18"
+  },
+  "type": "object",
+  "required": ["name"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Trait display name",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
+    },
+    "image": {
+      "type": "string",
+      "description": "Image filename or URL",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-asset"
+    },
+    "date_added": {
+      "type": ["string", "null"],
+      "description": "Date added in ISO format (YYYY-MM-DD) or null",
+      "x-codex-confidence": "community",
+      "x-codex-source": "editorial"
+    }
+  }
+}

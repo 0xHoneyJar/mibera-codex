@@ -1,4 +1,4 @@
-<!-- generated: 2026-02-17T20:03:20Z by _scripts/generate-grails.py -->
+<!-- generated: 2026-02-18T04:14:45Z by _codex/scripts/generate-grails.py -->
 
 # Browse: Grails
 

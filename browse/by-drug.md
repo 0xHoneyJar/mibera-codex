@@ -1,4 +1,4 @@
-<!-- generated: 2026-02-15T22:59:43Z by _scripts/generate-browse.sh -->
+<!-- generated: 2026-02-18T04:15:22Z by _codex/scripts/generate-browse.sh -->
 
 # Miberas by Drug
 
@@ -710,4 +710,4 @@
 
 ---
 
-[← Back to Browse](index.md)
+[← Back to Browse](README.md)

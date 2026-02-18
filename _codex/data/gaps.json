@@ -1,0 +1,76 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "gaps": [
+    {
+      "id": "GAP-001",
+      "description": "Custom 1/1 commissions beyond the 42 canonical Grails",
+      "severity": "structural",
+      "entity_type": "grail",
+      "resolution_path": "Only the artist (cfang/Gumi) knows the full list. Must be manually provided.",
+      "status": "open"
+    },
+    {
+      "id": "GAP-002",
+      "description": "FracturedMibera — 10 soulbound companion collections tied to main Mibera token IDs",
+      "severity": "recoverable",
+      "entity_type": null,
+      "resolution_path": "Extract from mibera-contracts repo. 10 contract addresses with token-level mappings.",
+      "status": "closed",
+      "resolved_by": "_codex/data/fractured-mibera.md",
+      "resolved_date": "2026-02-18"
+    },
+    {
+      "id": "GAP-003",
+      "description": "Mibera Sets — 12 tiered ERC-1155 tokens on Optimism with Arweave metadata",
+      "severity": "recoverable",
+      "entity_type": null,
+      "resolution_path": "Contract 0x886D2176D899796cD1AfFA07Eff07B9b2B80f1be on Optimism. Metadata on Arweave.",
+      "status": "closed",
+      "resolved_by": "_codex/data/mibera-sets.md",
+      "resolved_date": "2026-02-18",
+      "residual_gaps": "Arweave URIs not retrievable without RPC call; contract source not in public repos"
+    },
+    {
+      "id": "GAP-004",
+      "description": "Shadow Traits / VendingMachine — on-chain trait uniqueness via keccak256 hashes",
+      "severity": "recoverable",
+      "entity_type": "trait",
+      "resolution_path": "Extract from Shadows/VM contract 0x048327A187b944ddac61c6e202BfccD20d17c008.",
+      "status": "closed",
+      "resolved_by": "_codex/data/shadow-traits.md",
+      "resolved_date": "2026-02-18"
+    },
+    {
+      "id": "GAP-005",
+      "description": "Contract ABIs not stored in codex",
+      "severity": "recoverable",
+      "entity_type": null,
+      "resolution_path": "Import from mibera-contracts repo or verify on-chain.",
+      "status": "closed",
+      "resolved_by": "_codex/data/abis/README.md",
+      "resolved_date": "2026-02-18",
+      "residual_gaps": "5 of 10 contracts unverified on explorer (treasury, bera-market-minter, mibera-trade, accounts, mibera-sets)"
+    },
+    {
+      "id": "GAP-006",
+      "description": "Candies marketplace mechanics (0.1% seizure, holder discounts up to 42%)",
+      "severity": "recoverable",
+      "entity_type": null,
+      "resolution_path": "Document from CandiesMarket contract logic.",
+      "status": "closed",
+      "resolved_by": "_codex/data/candies-mechanics.md",
+      "resolved_date": "2026-02-18"
+    },
+    {
+      "id": "GAP-007",
+      "description": "The '42' motif on-chain — 42% max discount, 4.2 BERA mint, 4.20% royalties, ID 69420 seizure",
+      "severity": "recoverable",
+      "entity_type": null,
+      "resolution_path": "Document as lore cross-reference with contract verification.",
+      "status": "closed",
+      "resolved_by": "_codex/data/42-motif.md",
+      "resolved_date": "2026-02-18"
+    }
+  ]
+}

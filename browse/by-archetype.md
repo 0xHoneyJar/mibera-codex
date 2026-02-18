@@ -1,4 +1,4 @@
-<!-- generated: 2026-02-17T00:18:30Z by _scripts/generate-clusters.py -->
+<!-- generated: 2026-02-18T04:15:26Z by _codex/scripts/generate-clusters.py -->
 
 # Miberas by Archetype
 
@@ -338,4 +338,4 @@
 
 ---
 
-[← Back to Browse](index.md)
+[← Back to Browse](README.md)

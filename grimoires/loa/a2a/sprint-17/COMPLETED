@@ -1,0 +1,11 @@
+Sprint 17 (cycle-010 sprint-1: Navigation Update) completed 2026-02-18
+
+Tasks:
+- 1.1: Updated README.md (expanded On-Chain, added Data & Research, added Quick Stats row)
+- 1.2: Updated SUMMARY.md (added On-Chain and Data sections)
+- 1.3: Created _codex/data/README.md (data directory index)
+- 1.4: Verified gaps.json + scope.json accuracy (no changes needed)
+- 1.5: Validated all links (129/129 OK)
+
+Review: All good
+Audit: APPROVED - LET'S FUCKING GO

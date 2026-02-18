@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "tarot-card.schema.json",
+  "title": "Tarot Card Entry",
+  "description": "Schema for tarot card YAML frontmatter (core-lore/tarot-cards/*.md)",
+  "x-codex-meta": {
+    "entity_type": "tarot_card",
+    "confidence_profile": "5/7 canonical, 2 community (meaning, molecule)",
+    "primary_source": "project-lore",
+    "last_verified": "2026-02-18"
+  },
+  "type": "object",
+  "required": ["name", "suit", "element", "meaning", "drug", "drug_type", "molecule"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Card name",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "suit": {
+      "type": "string",
+      "description": "Major Arcana or suit name",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "element": {
+      "type": "string",
+      "enum": ["Air", "Fire", "Water", "Earth"],
+      "description": "Classical element",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "meaning": {
+      "type": "string",
+      "description": "Brief card meaning",
+      "x-codex-confidence": "community",
+      "x-codex-source": "research"
+    },
+    "drug": {
+      "type": "string",
+      "description": "Associated drug name",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "drug_type": {
+      "type": "string",
+      "enum": ["Ancient", "Modern"],
+      "description": "Drug era classification",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "molecule": {
+      "type": "string",
+      "description": "Chemical formula of associated drug",
+      "x-codex-confidence": "community",
+      "x-codex-source": "research"
+    }
+  }
+}

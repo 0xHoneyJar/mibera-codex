@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "drug.schema.json",
+  "title": "Drug Entry",
+  "description": "Schema for drug YAML frontmatter (drugs-detailed/*.md)",
+  "x-codex-meta": {
+    "entity_type": "drug",
+    "confidence_profile": "6/9 canonical, 3 community (molecule, origin, date_added)",
+    "primary_source": "project-lore",
+    "last_verified": "2026-02-18"
+  },
+  "type": "object",
+  "required": ["name", "molecule", "era", "origin", "archetype", "ancestor", "swag_score", "image", "date_added"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Drug display name",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "molecule": {
+      "type": "string",
+      "description": "Chemical formula",
+      "x-codex-confidence": "community",
+      "x-codex-source": "research"
+    },
+    "era": {
+      "type": "string",
+      "enum": ["Ancient", "Modern"],
+      "description": "Historical era classification",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "origin": {
+      "type": "string",
+      "description": "Geographic origin",
+      "x-codex-confidence": "community",
+      "x-codex-source": "research"
+    },
+    "archetype": {
+      "type": "string",
+      "enum": ["Freetekno", "Milady", "Acidhouse", "Chicago Detroit"],
+      "description": "Associated archetype (note: no slash in drug files)",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "ancestor": {
+      "type": "string",
+      "description": "Associated ancestor culture",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "swag_score": {
+      "type": ["integer", "null"],
+      "description": "Rarity tier (1-5) or null",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-lore"
+    },
+    "image": {
+      "type": "string",
+      "description": "Image filename",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-asset"
+    },
+    "date_added": {
+      "type": ["string", "null"],
+      "description": "Date added in ISO format (YYYY-MM-DD) or null",
+      "x-codex-confidence": "community",
+      "x-codex-source": "editorial"
+    }
+  }
+}

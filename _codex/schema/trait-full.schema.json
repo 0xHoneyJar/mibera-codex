@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "trait-full.schema.json",
+  "title": "Trait Entry (Full)",
+  "description": "Schema for traits with full metadata: accessories, clothing, items, backgrounds (traits/{accessories,backgrounds,clothing,items}/**/*.md)",
+  "x-codex-meta": {
+    "entity_type": "trait",
+    "confidence_profile": "4/5 canonical, 1 community (date_added)",
+    "primary_source": "contract-metadata",
+    "last_verified": "2026-02-18"
+  },
+  "type": "object",
+  "required": ["name", "image"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Trait display name",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
+    },
+    "image": {
+      "type": "string",
+      "description": "Image filename or URL",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "project-asset"
+    },
+    "archetype": {
+      "type": "string",
+      "description": "Associated archetype",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
+    },
+    "swag_score": {
+      "type": ["integer", "null"],
+      "description": "Rarity tier (1-5) or null",
+      "x-codex-confidence": "canonical",
+      "x-codex-source": "contract-metadata"
+    },
+    "date_added": {
+      "type": ["string", "null"],
+      "description": "Date added in ISO format (YYYY-MM-DD) or null",
+      "x-codex-confidence": "community",
+      "x-codex-source": "editorial"
+    }
+  }
+}
