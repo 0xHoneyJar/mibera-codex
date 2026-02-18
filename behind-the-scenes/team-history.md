@@ -1,5 +1,7 @@
 # Team History
 
+> **Note:** This document was aggregated from the Mibera work server (Discord) being scraped. The information here reflects what was captured at the time of scraping and is subject to change. Names, roles, and contributions may be incomplete or outdated.
+
 *The people who built Mibera — from a Discord server to 10,000 time-travelling bears.*
 
 ---
