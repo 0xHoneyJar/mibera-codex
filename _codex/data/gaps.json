@@ -7,7 +7,7 @@
       "description": "Custom 1/1 commissions beyond the 42 canonical Grails",
       "severity": "structural",
       "entity_type": "grail",
-      "resolution_path": "Only the artist (cfang/Gumi) knows the full list. Must be manually provided.",
+      "resolution_path": "Only the artist (Gumi) knows the full list. Must be manually provided.",
       "status": "open"
     },
     {
