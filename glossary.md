@@ -38,6 +38,16 @@ The mapping of 78 tarot cards to 78 psychoactive substances. Each Mibera carries
 
 ---
 
+## F
+
+### Fracture
+One of 10 soulbound ERC-721 collections representing the reveal phases of the Mibera collection. Each Fracture marks a step in the progression from sealed envelope (MiParcels) to fully-realized Mibera (MiReveal #8.8). Holders mint their corresponding token ID as permanent on-chain proof of participation in each reveal wave. See: [Fractures](fractures/README.md)
+
+### FracturedMibera
+The smart contract system powering the 10 Fracture collections. Enforces soulbound (non-transferable) tokens with 1:1 token ID mapping to the main Mibera collection. See: [Technical Reference](_codex/data/fractured-mibera.md)
+
+---
+
 ## H
 
 ### High Council of 101 Bears

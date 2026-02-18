@@ -272,12 +272,12 @@
     {
       "id": "cycle-012",
       "label": "Schema Meta Blocks — Field-Level Confidence",
-      "status": "active",
+      "status": "archived",
       "created": "2026-02-18",
-      "archived": null,
-      "prd": "grimoires/loa/prd.md",
-      "sdd": "grimoires/loa/sdd.md",
-      "sprint_plan": "grimoires/loa/sprint.md",
+      "archived": "2026-02-18",
+      "prd": "grimoires/loa/archive/cycle-012/prd.md",
+      "sdd": "grimoires/loa/archive/cycle-012/sdd.md",
+      "sprint_plan": "grimoires/loa/archive/cycle-012/sprint.md",
       "sprints": [
         {
           "id": "sprint-1",
@@ -288,10 +288,30 @@
         }
       ],
       "sprint_count": 1
+    },
+    {
+      "id": "cycle-013",
+      "label": "Fractures — Reveal Phase Documentation",
+      "status": "active",
+      "created": "2026-02-18",
+      "archived": null,
+      "prd": "grimoires/loa/prd.md",
+      "sdd": null,
+      "sprint_plan": "grimoires/loa/sprint.md",
+      "sprints": [
+        {
+          "id": "sprint-1",
+          "global_id": 20,
+          "label": "Fractures Content & Integration",
+          "status": "completed",
+          "tasks": 4
+        }
+      ],
+      "sprint_count": 1
     }
   ],
-  "active_cycle": "cycle-012",
+  "active_cycle": "cycle-013",
   "active_bugfix": null,
-  "global_sprint_counter": 19,
+  "global_sprint_counter": 20,
   "bugfix_cycles": []
 }

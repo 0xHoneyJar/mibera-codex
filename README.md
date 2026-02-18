@@ -46,6 +46,7 @@ The 10,000 Miberas and their temporal identities.
 - [All Miberas](miberas/README.md) — Individual entries with full metadata
 - [Grails](grails/README.md) — 42 hand-drawn 1/1 art pieces
 - [Birthdays](birthdays/README.md) — 9,995 unique birthdays spanning 15,000 years
+- [Fractures](fractures/README.md) — 10 reveal phases from sealed envelope to final form
 
 ### VI. The Mechanics
 - [Ranking & Scoring](traits/overlays/ranking/README.md) — Swag Score and tribal coherence

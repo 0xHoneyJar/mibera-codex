@@ -1,50 +1,48 @@
-# Sprint Plan: Schema Meta Blocks
+# Sprint Plan: Fractures — Reveal Phase Documentation
 
-**Cycle**: 012
-**PRD**: `grimoires/loa/prd.md`
-**SDD**: `grimoires/loa/sdd.md`
-
----
-
-## Overview
-
-Single sprint. Add `x-codex-confidence`, `x-codex-source`, and `x-codex-meta` to 8 schema files.
+**Cycle**: 013
+**Sprint**: 1 (Global: 20)
+**Label**: Fractures Content & Integration
 
 ---
 
-## Sprint 1: Schema Meta Annotations
+## Tasks
 
-**Goal**: Add field-level confidence annotations and schema-level meta blocks to all 8 JSON Schema files.
+### Task 1: Create fractures/README.md
+**Priority**: P0
+**Acceptance Criteria**:
+- Overview of what Fractures are (soulbound reveal phase markers)
+- Timeline table with all 10 phases, names, symbols, and contract addresses
+- Naming convention explanation
+- Link to `_codex/data/fractured-mibera.md` for technical/contract details
+- Links to each individual phase file
 
-### Task 1.1: Annotate all 8 schema files
+### Task 2: Create individual phase files (10 files)
+**Priority**: P0
+**Acceptance Criteria**:
+- `miparcels.md` — sealed envelopes, labels, stickers, lore scrawl
+- `miladies.md` — flipped Milady Maker art, toilet graffiti
+- `mireveal-1.1.md` — colors, scenery hints, rare foregrounds
+- `mireveal-2.2.md` — scene clears, molecule, silhouette
+- `mireveal-3.3.md` — coherent form, astrology, eyes closed
+- `mireveal-4.20.md` — moon, hat placement
+- `mireveal-5.5.md` — awake, rising sign, face finalized
+- `mireveal-6.9.md` — head final form, ancient emblem
+- `mireveal-7.7.md` — tattoos, calm before storm
+- `mireveal-8.8.md` — final reveal, current collection
+- Each file has: YAML frontmatter, phase number, contract address, symbol, narrative description
+- Backlink markers included
 
-**Description**: For each property in each schema file, add `x-codex-confidence` and `x-codex-source` inline. Add `x-codex-meta` top-level block. Values per SDD Section 4.
+### Task 3: Update navigation (README, SUMMARY, glossary)
+**Priority**: P0
+**Acceptance Criteria**:
+- `README.md` Section V includes Fractures link
+- `SUMMARY.md` includes Fractures section with all phase files
+- `glossary.md` has entries for Fracture/FracturedMibera
 
-**Files**:
-1. `_codex/schema/mibera.schema.json` — 26 properties
-2. `_codex/schema/drug.schema.json` — 9 properties
-3. `_codex/schema/ancestor.schema.json` — 4 properties
-4. `_codex/schema/tarot-card.schema.json` — 7 properties
-5. `_codex/schema/trait-full.schema.json` — 5 properties
-6. `_codex/schema/trait-minimal.schema.json` — 3 properties
-7. `_codex/schema/special-collection.schema.json` — 2 properties
-8. `_codex/schema/grail.schema.json` — 7 properties
-
-**Acceptance criteria**:
-- [x] All 8 schema files have `x-codex-meta` top-level block
-- [x] Every property in every schema has `x-codex-confidence` and `x-codex-source`
-- [x] Confidence values are only `canonical`, `derived`, or `community`
-- [x] Source values are from the 7-value vocabulary in SDD Section 3
-- [x] All files are valid JSON
-
-### Task 1.2: Validate
-
-**Description**: Verify all annotations are correct and schemas remain valid.
-
-**Acceptance criteria**:
-- [x] All 8 files parse as valid JSON
-- [x] No existing schema properties were modified or removed
-- [x] Confidence/source values match SDD Section 4 mapping
-- [x] `x-codex-meta.last_verified` is `2026-02-18` on all files
-
-**Dependencies**: Task 1.1
+### Task 4: Validate links and structure
+**Priority**: P1
+**Acceptance Criteria**:
+- All internal links resolve
+- Backlink markers present
+- File structure mirrors grails/birthdays pattern
