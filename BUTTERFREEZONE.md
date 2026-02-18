@@ -185,8 +185,8 @@ Embodiment constraints defined in `IDENTITY.md`. Core principle: "Traits are sig
 **Scope boundaries**: Reference `_codex/data/scope.json`. The codex does not track ownership, wallets, on-chain state, community identities, or price data.
 
 <!-- ground-truth-meta
-head_sha: b3bcd47c9ece3d96b1dcfb417b7aec0c2772cd8e
-generated_at: 2026-02-18T22:24:00Z
+head_sha: 73d059be031095f9c57a6464ca77fdca6610b0a2
+generated_at: 2026-02-18T22:42:00Z
 generator: manual v1.0.0
 sections:
   agent_context: 10fe201dd4a952dd
@@ -198,5 +198,5 @@ sections:
   verification: 4ba2287823ad0e13
   agents: ec56cf1482939569
   culture: 8939703ae309ec01
-  quick_start: dfcb8a405b833d9b
+  quick_start: 9e585b0b452c6adc
 -->
