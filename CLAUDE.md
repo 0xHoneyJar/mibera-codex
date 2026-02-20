@@ -32,6 +32,7 @@ Traits are signals, not scripts. A Mibera born in 1352 CE with a Greek ancestor 
 - **Ancestor by name**: `core-lore/ancestors/{slug}.md`
 - **Tarot card**: `core-lore/tarot-cards/{slug}.md`
 - **Grail by name**: `grails/{slug}.md`
+- **Mibera Set by name**: `mibera-sets/{slug}.md`
 - **Data exports**: `_codex/data/miberas.jsonl` (10K), `_codex/data/graph.json` (5.9 MB knowledge graph)
 
 ## Entity Conventions
@@ -77,6 +78,7 @@ Reference `_codex/data/scope.json` for programmatic scope.
 | `birthdays/` | Birthday era classifications | 11 |
 | `browse/` | Dimensional browse indices | 8 |
 | `grails/` | Hand-drawn 1/1 art pieces | 42 |
+| `mibera-sets/` | Honey Road ERC-1155 tokens (Optimism) | 12 |
 | `fractures/` | Reveal phase documentation | 10 |
 | `special-collections/` | Partner/special collections | 32 |
 | `_codex/` | Schemas, scripts, data exports | — |

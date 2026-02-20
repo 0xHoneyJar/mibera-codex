@@ -55,6 +55,12 @@
       "count": 10,
       "completeness": "COMPLETE",
       "note": "All 10 soulbound companion collections documented with contract addresses"
+    },
+    {
+      "entity_type": "mibera_set",
+      "count": 12,
+      "completeness": "COMPLETE",
+      "note": "All 12 Mibera Set ERC-1155 tokens on Optimism with Arweave metadata"
     }
   ],
   "does_not_track": [
