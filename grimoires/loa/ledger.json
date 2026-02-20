@@ -312,33 +312,53 @@
     {
       "id": "cycle-014",
       "label": "Agent Surface — BUTTERFREEZONE, CLAUDE.md & Ground Truth",
-      "status": "active",
+      "status": "archived",
       "created": "2026-02-18",
-      "archived": null,
-      "prd": "grimoires/loa/prd.md",
+      "archived": "2026-02-20",
+      "prd": "grimoires/loa/archive/cycle-014/prd.md",
       "sdd": null,
-      "sprint_plan": null,
+      "sprint_plan": "grimoires/loa/archive/cycle-014/sprint.md",
       "sprints": [
         {
           "id": "sprint-1",
           "global_id": 21,
           "label": "CLAUDE.md & Ground Truth Population",
-          "status": "planned",
+          "status": "completed",
           "tasks": 7
         },
         {
           "id": "sprint-2",
           "global_id": 22,
           "label": "BUTTERFREEZONE.md & Config",
-          "status": "planned",
+          "status": "completed",
           "tasks": 3
         }
       ],
       "sprint_count": 2
+    },
+    {
+      "id": "cycle-015",
+      "label": "Mibera Sets — Individual Token Entries",
+      "status": "active",
+      "created": "2026-02-20",
+      "archived": null,
+      "prd": "grimoires/loa/prd.md",
+      "sdd": "grimoires/loa/sdd.md",
+      "sprint_plan": "grimoires/loa/sprint.md",
+      "sprints": [
+        {
+          "id": "sprint-1",
+          "global_id": 23,
+          "label": "Fetch Metadata & Generate Token Entries",
+          "status": "planned",
+          "tasks": 5
+        }
+      ],
+      "sprint_count": 1
     }
   ],
-  "active_cycle": "cycle-014",
+  "active_cycle": "cycle-015",
   "active_bugfix": null,
-  "global_sprint_counter": 22,
+  "global_sprint_counter": 23,
   "bugfix_cycles": []
 }

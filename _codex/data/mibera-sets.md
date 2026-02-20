@@ -33,18 +33,18 @@ The 12 token IDs divide into two categories: **numbered sets** (IDs 1-7) and **m
 
 | Token ID | Name | Supply | Holders | Category |
 |----------|------|--------|---------|----------|
-| 1 | Honey Road Set One | 65 | 62 | Numbered Set |
-| 2 | Honey Road Set Two | ~57 | 50+ | Numbered Set |
-| 3 | Honey Road Set Three | ~54 | 50+ | Numbered Set |
-| 4 | Honey Road Set Four | ~58 | 50+ | Numbered Set |
-| 5 | Honey Road Set Five | 48 | 43 | Numbered Set |
-| 6 | Honey Road Set Six | 3 | 3 | Numbered Set |
-| 7 | Honey Road Set Seven | 1 | 1 | Numbered Set (unique) |
-| 8 | Honey Road Articles | 18 | 16 | Media |
-| 9 | Honey Road Music | 19 | 18 | Media |
-| 10 | Honey Road Posters | 19 | 19 | Media |
-| 11 | Honey Road Video | 20 | 20 | Media |
-| 12 | Honey Road Supersetooor | ~54 | 50+ | Completionist |
+| 1 | [Honey Road Set One](../../mibera-sets/honey-road-set-one.md) | 65 | 62 | Numbered Set |
+| 2 | [Honey Road Set Two](../../mibera-sets/honey-road-set-two.md) | ~57 | 50+ | Numbered Set |
+| 3 | [Honey Road Set Three](../../mibera-sets/honey-road-set-three.md) | ~54 | 50+ | Numbered Set |
+| 4 | [Honey Road Set Four](../../mibera-sets/honey-road-set-four.md) | ~58 | 50+ | Numbered Set |
+| 5 | [Honey Road Set Five](../../mibera-sets/honey-road-set-five.md) | 48 | 43 | Numbered Set |
+| 6 | [Honey Road Set Six](../../mibera-sets/honey-road-set-six.md) | 3 | 3 | Numbered Set |
+| 7 | [Honey Road Set Seven](../../mibera-sets/honey-road-set-seven.md) | 1 | 1 | Numbered Set (unique) |
+| 8 | [Honey Road Articles](../../mibera-sets/honey-road-articles.md) | 18 | 16 | Media |
+| 9 | [Honey Road Music](../../mibera-sets/honey-road-music.md) | 19 | 18 | Media |
+| 10 | [Honey Road Posters](../../mibera-sets/honey-road-posters.md) | 19 | 19 | Media |
+| 11 | [Honey Road Video](../../mibera-sets/honey-road-video.md) | 20 | 20 | Media |
+| 12 | [Honey Road Supersetooor](../../mibera-sets/honey-road-supersetooor.md) | ~54 | 50+ | Completionist |
 
 *Supply and holder counts sourced from Blockscout on-chain data (2026-02-18). For IDs 2, 3, 4, and 12 the counts are approximate because the Blockscout API paginates at 50 holders; the true totals are slightly higher than shown. ID 1 was verified via pagination to have exactly 65 supply and 62 holders.*
 
@@ -93,13 +93,20 @@ Additional JSON files in the repo that may relate to media-tier distribution:
 
 ## Metadata
 
-The codex records indicate metadata is stored on Arweave. However:
+Metadata is stored on Arweave. The `uri(uint256)` function returns per-token URIs following the pattern:
 
-- The contract source is not verified, so the `uri()` function output cannot be read via block explorer
-- Blockscout returns `metadata: null` for all 12 token instances, suggesting metadata indexing has not resolved
-- No Arweave transaction IDs or `ar://` URIs were found in the codebase or on-chain data
+```
+ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/{id}.json
+```
 
-<!-- GAP: Arweave metadata URIs are not retrievable without calling the contract's uri() function directly. This requires either an RPC call to the contract or contract verification on a block explorer. The metadata content (names, descriptions, images) for each tier is unknown beyond what OpenSea has indexed. -->
+Each token's JSON metadata contains: `name`, `description`, `image` (Arweave URI), and `attributes` (Origin, Set Type).
+
+- **Description** (all tokens): "A mysterious artifact from the ancient Honey Road trade routes."
+- **Set Types** vary by token: Base (numbered 1-5), Strong (media 8-11), Super (completionist 12), and unique values for 6 and 7
+- **Images**: Each token has a unique Arweave-hosted image
+
+Full metadata for all 12 tokens: [`_codex/data/mibera-sets-meta.json`](mibera-sets-meta.json)
+Individual token entries: [`mibera-sets/`](../../mibera-sets/README.md)
 
 ## Lore Context
 
@@ -123,11 +130,7 @@ The naming pattern ("Set One" through "Set Seven" plus media types) suggests a c
 
 <!-- GAP: The exact minting mechanism is unknown -- whether tokens were minted via Merkle proof claims, direct airdrops, or a custom mint function. -->
 
-<!-- GAP: Arweave metadata URIs cannot be retrieved without an RPC call to the contract's uri() function. -->
-
 <!-- GAP: The relationship between the set.json/superset.json allowlists and specific token ID distribution is unconfirmed. -->
-
-<!-- GAP: Token names beyond what OpenSea has indexed (Set One through Set Seven, Articles, Music, Posters, Video, Supersetooor) are inferred from search results and marketplace listings, not from on-chain metadata. -->
 
 ## Source
 

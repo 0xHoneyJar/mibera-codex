@@ -102,6 +102,16 @@
       "completeness": "COMPLETE",
       "completeness_note": "All 42 canonical hand-drawn 1/1 Grails",
       "last_verified": "2026-02-18"
+    },
+    "mibera_set": {
+      "directory": "mibera-sets/",
+      "index": "mibera-sets/README.md",
+      "count": 12,
+      "format": "yaml_frontmatter",
+      "naming": "{slug}.md",
+      "completeness": "COMPLETE",
+      "completeness_note": "All 12 Mibera Set ERC-1155 tokens on Optimism",
+      "last_verified": "2026-02-20"
     }
   },
   "browse": {
@@ -145,6 +155,7 @@
     "candies_mechanics": "_codex/data/candies-mechanics.md",
     "motif_42": "_codex/data/42-motif.md",
     "mibera_sets": "_codex/data/mibera-sets.md",
+    "mibera_sets_meta": "_codex/data/mibera-sets-meta.json",
     "tarot_quiz": "_codex/data/tarot-quiz.md"
   },
   "cross_dimensional_browse": {
