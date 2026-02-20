@@ -5,7 +5,7 @@ era: Modern
 origin: '---'
 archetype: Chicago detroit
 ancestor: Mongolian
-swag_score: 5
+swag_score: 2
 image: chicagodetroit_mongolian_euphoria.PNG
 date_added: "2025-01-12"
 ---

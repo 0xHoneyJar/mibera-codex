@@ -2,7 +2,7 @@
 name: Red Sunglasses
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Red Sunglasses.webp"
 archetype: Chicago Detroit
-swag_score: null
+swag_score: 2
 date_added: "2024-12-10"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-12-10"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 2
 
 ## Connections
 

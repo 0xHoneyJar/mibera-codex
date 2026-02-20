@@ -5,7 +5,7 @@ era: Modern
 origin: England
 archetype: Milady
 ancestor: Satanist
-swag_score: 3
+swag_score: 2
 image: milady_satanists_clear pill.PNG
 date_added: "2025-01-10"
 ---

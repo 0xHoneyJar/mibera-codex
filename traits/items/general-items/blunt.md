@@ -2,7 +2,7 @@
 name: blunt
 image: SS3_chicagodetroit_Blunt.png
 archetype: chicago detroit
-swag_score: 3
+swag_score: 2
 date_added: "2024-06-05"
 ---
 
@@ -42,7 +42,7 @@ SS3_chicagodetroit_Blunt.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 2
 
 
 ---

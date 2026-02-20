@@ -2,7 +2,7 @@
 name: fly agaric
 image: SS3_acidhouse_Fly Agaric.png
 archetype: acidhouse
-swag_score: 3
+swag_score: 4
 date_added: "2024-12-09"
 ---
 
@@ -42,7 +42,7 @@ SS3_acidhouse_Fly Agaric.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 4
 
 
 ---

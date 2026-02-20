@@ -5,7 +5,7 @@ era: Modern
 origin: China
 archetype: Chicago Detroit
 ancestor: Sicanje
-swag_score: 2
+swag_score: 1
 image: chicagodetroit_sicanje_alcohol.PNG
 date_added: "2025-01-12"
 ---

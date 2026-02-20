@@ -2,7 +2,7 @@
 name: syringe
 image: SS3_chicagodetroit_Syringe.png
 archetype: chicago detroit
-swag_score: 3
+swag_score: 1
 date_added: "2024-07-07"
 ---
 
@@ -42,7 +42,7 @@ SS3_chicagodetroit_Syringe.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 1
 
 
 ---

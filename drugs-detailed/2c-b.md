@@ -5,7 +5,7 @@ era: Modern
 origin: USA
 archetype: Freetekno
 ancestor: Native American
-swag_score: 2
+swag_score: 1
 image: freetekno_nativeAmerican_2C-B.PNG
 date_added: "2025-01-12"
 ---

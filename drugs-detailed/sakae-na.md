@@ -5,7 +5,7 @@ era: Ancient
 origin: Southeast Asia
 archetype: Milady
 ancestor: Thai
-swag_score: 4
+swag_score: 5
 image: milady_thai_sakae naa.PNG
 date_added: "2025-01-12"
 ---

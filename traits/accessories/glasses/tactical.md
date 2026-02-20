@@ -2,7 +2,7 @@
 name: Tactical
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Tactical.webp"
 archetype: Milady
-swag_score: null
+swag_score: 3
 date_added: "2024-12-10"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-12-10"
 **Archetype Alignment:** Based on a Bong Bear’s trait / art tactical glasses.
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 3
 
 ## Connections
 

@@ -5,7 +5,7 @@ era: Modern
 origin: USA
 archetype: Milady
 ancestor: Thai
-swag_score: 2
+swag_score: 3
 image: milady_thai_estrogen.PNG
 date_added: "2025-01-12"
 ---

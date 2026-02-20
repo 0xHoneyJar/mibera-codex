@@ -2,7 +2,7 @@
 name: galactic gecko tarot
 image: SS3_galactic gecko tarot.png
 archetype: "**Archetype Alignment:**"
-swag_score: 3
+swag_score: 4
 date_added: "2025-03-22"
 ---
 
@@ -42,7 +42,7 @@ SS3_galactic gecko tarot.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 4
 
 
 ---

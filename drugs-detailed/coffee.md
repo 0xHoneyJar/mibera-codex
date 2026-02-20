@@ -5,7 +5,7 @@ era: Ancient
 origin: Ethiopia
 archetype: Milady
 ancestor: Ethiopian, Arabs, Traveller
-swag_score: 3
+swag_score: 5
 image: milady_ethiopian_arabs_traveller_coffee.PNG
 date_added: "2025-01-12"
 ---

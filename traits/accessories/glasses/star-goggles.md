@@ -2,7 +2,7 @@
 name: star goggles
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Star Goggles.webp"
 archetype: Freetekno
-swag_score: null
+swag_score: 2
 date_added: "2024-06-16"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-16"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 2
 
 ## Connections
 

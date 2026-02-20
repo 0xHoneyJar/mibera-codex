@@ -5,7 +5,7 @@ era: Modern
 origin: Germany
 archetype: Milady
 ancestor: Native Americans
-swag_score: 4
+swag_score: 2
 image: milady_nativeAmerican_MDA.PNG
 date_added: "2025-01-12"
 ---

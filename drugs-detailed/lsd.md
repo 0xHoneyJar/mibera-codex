@@ -5,7 +5,7 @@ era: Modern
 origin: Switzerland
 archetype: Freetekno
 ancestor: Aboriginals, Haitians
-swag_score: 4
+swag_score: 1
 image: freetekno_aboriginals_haitians_LSD.PNG
 date_added: "2025-01-12"
 ---

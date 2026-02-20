@@ -5,7 +5,7 @@ era: Modern
 origin: France
 archetype: Freetekno
 ancestor: Ethiopians
-swag_score: 3
+swag_score: 1
 image: freetekno_ethiopians_M-CAT.PNG
 date_added: "2025-01-12"
 ---

@@ -5,7 +5,7 @@ era: Ancient
 origin: China
 archetype: Milady
 ancestor: Chinese, Palestinian
-swag_score: 3
+swag_score: 4
 image: milady_chinese_palestinian_ephedra.PNG
 date_added: "2025-01-12"
 ---

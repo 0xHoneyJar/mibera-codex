@@ -5,7 +5,7 @@ era: Modern
 origin: South America
 archetype: Chicago Detroit
 ancestor: Ballroom
-swag_score: 5
+swag_score: 3
 image: chicagodetroit_ballroomScene_cocaine.PNG
 date_added: "2025-01-12"
 ---

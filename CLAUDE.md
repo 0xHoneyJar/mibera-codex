@@ -79,6 +79,7 @@ Reference `_codex/data/scope.json` for programmatic scope.
 | `browse/` | Dimensional browse indices | 8 |
 | `grails/` | Hand-drawn 1/1 art pieces | 42 |
 | `mibera-sets/` | Honey Road ERC-1155 tokens (Optimism) | 12 |
+| `swag-scoring/` | Scoring formula, methods, and all trait scores | — |
 | `fractures/` | Reveal phase documentation | 10 |
 | `special-collections/` | Partner/special collections | 32 |
 | `_codex/` | Schemas, scripts, data exports | — |

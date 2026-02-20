@@ -1,7 +1,7 @@
 ---
 name: babybera x beradrome helmet
 archetype: "**Archetype Alignment:**"
-swag_score: null
+swag_score: 4
 date_added: null
 ---
 
@@ -40,10 +40,7 @@ date_added: null
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 4
 
 ## Connections
 

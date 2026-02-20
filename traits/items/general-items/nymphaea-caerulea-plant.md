@@ -2,7 +2,7 @@
 name: nymphaea caerulea plant
 image: SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 archetype: chicago detroit
-swag_score: 3
+swag_score: 4
 date_added: "2025-01-10"
 ---
 
@@ -42,7 +42,7 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 4
 
 
 ---

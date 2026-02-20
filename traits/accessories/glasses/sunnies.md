@@ -2,7 +2,7 @@
 name: Sunnies
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Sunnies.webp"
 archetype: acidhouse
-swag_score: null
+swag_score: 3
 date_added: "2024-12-10"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-12-10"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 3
 
 ## Connections
 

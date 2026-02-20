@@ -5,7 +5,7 @@ era: Modern
 origin: Ethiopia, China, Mesoamerica
 archetype: Milady
 ancestor: Ethiopian, Arabs, Traveller, Chinese, Japanese
-swag_score: 3
+swag_score: 2
 image: milady_ethiopian_arabs_traveller_chinese_japanese_caffeine.PNG
 date_added: "2025-01-12"
 ---

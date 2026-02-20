@@ -5,7 +5,7 @@ era: Ancient
 origin: Egypt
 archetype: Chicago Detroit
 ancestor: Greek
-swag_score: 3
+swag_score: 2
 image: chicagodetroit_greek_nymphaea caerulea.PNG
 date_added: "2025-01-12"
 ---

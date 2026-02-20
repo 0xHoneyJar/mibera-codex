@@ -2,7 +2,7 @@
 name: big 80s
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Big 80s.webp"
 archetype: chicago detroit.
-swag_score: null
+swag_score: 5
 date_added: "2024-06-18"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-18"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 5
 
 ## Connections
 

@@ -5,7 +5,7 @@ era: Ancient
 origin: South America, Africa, Asia
 archetype: Acidhouse
 ancestor: Hindu
-swag_score: 2
+swag_score: 5
 image: acidhouse_hindu_mucuna pruriens.PNG
 date_added: "2025-01-12"
 ---

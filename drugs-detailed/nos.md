@@ -5,7 +5,7 @@ era: Modern
 origin: England
 archetype: Acidhouse
 ancestor: Pythia
-swag_score: 4
+swag_score: 1
 image: acidhouse_pythia_NOS.PNG
 date_added: "2025-01-12"
 ---

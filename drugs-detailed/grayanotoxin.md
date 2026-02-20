@@ -5,7 +5,7 @@ era: Ancient
 origin: Turkey
 archetype: Milady
 ancestor: Nepal, Turkey
-swag_score: 3
+swag_score: 1
 image: milady_nepal_turkey_grayanotoxin.PNG
 date_added: "2025-01-12"
 ---

@@ -2,7 +2,7 @@
 name: coca leaves
 image: SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 archetype: chicago detroit
-swag_score: 3
+swag_score: 2
 date_added: "2025-01-16"
 ---
 
@@ -42,7 +42,7 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 2
 
 
 ---

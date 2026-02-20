@@ -5,7 +5,7 @@ era: Ancient
 origin: Amazon Basin
 archetype: Freetekno
 ancestor: Mayan
-swag_score: 4
+swag_score: 5
 image: freetekno_mayan_ayahuasca.PNG
 date_added: "2025-01-12"
 ---

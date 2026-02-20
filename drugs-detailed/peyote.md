@@ -5,7 +5,7 @@ era: Ancient
 origin: Mexico
 archetype: Freetekno
 ancestor: Native American
-swag_score: 2
+swag_score: 4
 image: freetekno_nativeAmerican_peyote.PNG
 date_added: "2025-01-12"
 ---

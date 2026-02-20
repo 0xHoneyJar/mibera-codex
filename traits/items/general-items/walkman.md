@@ -2,7 +2,7 @@
 name: walkman
 image: SS2_freetekno_Walkman.png
 archetype: freetekno
-swag_score: null
+swag_score: 2
 date_added: "2024-12-09"
 ---
 
@@ -42,10 +42,7 @@ SS2_freetekno_Walkman.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 2
 
 ## Connections
 

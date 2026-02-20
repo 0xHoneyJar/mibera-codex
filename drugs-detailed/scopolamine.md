@@ -5,7 +5,7 @@ era: Modern
 origin: Europe, Middle East
 archetype: Freetekno
 ancestor: Greek, Arabs
-swag_score: 3
+swag_score: 4
 image: freetekno_greek_arabs_scopolamine.PNG
 date_added: "2025-01-12"
 ---

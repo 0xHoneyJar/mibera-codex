@@ -2,7 +2,7 @@
 name: Reflections
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Reflections.webp"
 archetype: Chicago Detroit
-swag_score: null
+swag_score: 3
 date_added: "2024-08-03"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-08-03"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 3
 
 ## Connections
 

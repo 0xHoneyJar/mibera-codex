@@ -5,7 +5,7 @@ era: Ancient
 origin: Southern Europe, Western Asia, North Africa
 archetype: Freetekno
 ancestor: Greek
-swag_score: 3
+swag_score: 2
 image: freetekno_greek_henbane.PNG
 date_added: "2025-01-12"
 ---

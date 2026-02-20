@@ -5,7 +5,7 @@ era: Ancient
 origin: Brazil
 archetype: Acidhouse
 ancestor: Mayan
-swag_score: 1
+swag_score: 4
 image: acidhouse_mayan_Mimosa Tenuiflora.PNG
 date_added: "2025-01-12"
 ---

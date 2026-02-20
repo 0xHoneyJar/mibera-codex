@@ -2,7 +2,7 @@
 name: Harajuku
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Harajuku.webp"
 archetype: Milady
-swag_score: null
+swag_score: 2
 date_added: "2024-06-16"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-16"
 **Archetype Alignment:** This is an existing Milady Maker trait.
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 2
 
 ## Connections
 

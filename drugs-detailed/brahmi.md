@@ -5,7 +5,7 @@ era: Ancient
 origin: India
 archetype: Chicago Detroit
 ancestor: Hindu
-swag_score: 2
+swag_score: 5
 image: chicagodetroit_hindu_brahmi.PNG
 date_added: "2025-01-12"
 ---

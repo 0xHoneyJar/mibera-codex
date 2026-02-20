@@ -2,7 +2,7 @@
 name: picked iboga
 image: SS3_chicagodetroit_ancient_gabon_iboga.PNG
 archetype: chicago detroit
-swag_score: 3
+swag_score: 2
 date_added: "2024-12-09"
 ---
 
@@ -42,7 +42,7 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 2
 
 
 ---

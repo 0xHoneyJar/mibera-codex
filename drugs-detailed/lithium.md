@@ -5,7 +5,7 @@ era: Ancient
 origin: Sweden
 archetype: Acidhouse
 ancestor: Irish Druids
-swag_score: 4
+swag_score: 5
 image: acidhouse_irishDruids_lithium.PNG
 date_added: "2025-01-12"
 ---

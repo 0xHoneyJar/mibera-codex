@@ -5,7 +5,7 @@ era: Ancient
 origin: Mediterranean Basin, Middle East
 archetype: Acidhouse
 ancestor: Native American
-swag_score: 1
+swag_score: 5
 image: acidhouse_nativeAmerican_arundo donax.PNG
 date_added: "2025-01-12"
 ---

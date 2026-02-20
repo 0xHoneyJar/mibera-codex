@@ -5,7 +5,7 @@ era: Ancient
 origin: Mexico
 archetype: acidhouse
 ancestor: Irish druids, Buddhist, Sami
-swag_score: 2
+swag_score: 5
 image: acidhouse_irishDruids_buddhists_sami_mushrooms.PNG
 date_added: "2025-01-12"
 ---

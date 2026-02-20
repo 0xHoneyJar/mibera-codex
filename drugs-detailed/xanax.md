@@ -5,7 +5,7 @@ era: Ancient
 origin: USA
 archetype: Freetekno
 ancestor: Hindu
-swag_score: 5
+swag_score: 3
 image: freetekno_hindu_xanax.PNG
 date_added: "2025-01-12"
 ---

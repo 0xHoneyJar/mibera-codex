@@ -1,5 +1,6 @@
 ---
 name: Simple Red
+swag_score: 1
 image: "https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/150_simple%20red.webp"
 date_added: "2024-08"
 ---

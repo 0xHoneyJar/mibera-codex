@@ -2,7 +2,7 @@
 name: vape pen
 image: SS1_chicagodetroit_Vape Pen.png
 archetype: chicago detroit
-swag_score: 1
+swag_score: 2
 date_added: "2024-07-07"
 ---
 
@@ -42,7 +42,7 @@ SS1_chicagodetroit_Vape Pen.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 1
+**Swag Score:** 2
 
 
 ---

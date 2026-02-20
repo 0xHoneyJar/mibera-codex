@@ -2,7 +2,7 @@
 name: drank lean purp sizzurp
 image: SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 archetype: chicago detroit
-swag_score: 5
+swag_score: 4
 date_added: "2024-07-12"
 ---
 
@@ -42,7 +42,7 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 5
+**Swag Score:** 4
 
 
 ---

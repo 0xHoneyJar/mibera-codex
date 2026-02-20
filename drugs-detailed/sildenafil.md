@@ -5,7 +5,7 @@ era: Modern
 origin: UK
 archetype: Chicago Detroit
 ancestor: Gabon
-swag_score: 3
+swag_score: 1
 image: chicagodetroit_gabon_sildenafil.PNG
 date_added: "2025-01-12"
 ---

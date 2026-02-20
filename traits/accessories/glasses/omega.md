@@ -2,7 +2,7 @@
 name: Omega
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Omega.webp"
 archetype: "**Archetype Alignment:** OlympusDAO in Berachain history. One of Bong Bear’s traits."
-swag_score: null
+swag_score: 5
 date_added: "2024-12-10"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-12-10"
 **Archetype Alignment:** OlympusDAO in Berachain history. One of Bong Bear’s traits.
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 5
 
 ## Connections
 
