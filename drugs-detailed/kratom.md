@@ -5,7 +5,7 @@ era: Modern
 origin: Thailand
 archetype: Milady
 ancestor: Thai
-swag_score: 3
+swag_score: 5
 image: milady_thai_kratom.PNG
 date_added: "2025-01-12"
 ---

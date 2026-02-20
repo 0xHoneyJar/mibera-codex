@@ -5,7 +5,7 @@ era: Ancient
 origin: Greece
 archetype: Acidhouse
 ancestor: Greek
-swag_score: 5
+swag_score: 2
 image: acidhouse_greekAncients_kykeon.PNG
 date_added: "2025-01-12"
 ---

@@ -5,7 +5,7 @@ era: Ancient
 origin: Americas
 archetype: Chicago Detroit
 ancestor: Hindu
-swag_score: 2
+swag_score: 3
 image: chicagodetroit_hindu_tobacco.PNG
 date_added: "2025-01-12"
 ---

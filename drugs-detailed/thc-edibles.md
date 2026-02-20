@@ -5,7 +5,7 @@ era: Modern
 origin: USA
 archetype: Chicago Detroit
 ancestor: Hindu
-swag_score: 3
+swag_score: 4
 image: chicagodetroit_hindu_THC edibles.PNG
 date_added: "2025-01-12"
 ---

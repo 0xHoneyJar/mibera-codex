@@ -2,7 +2,7 @@
 name: McDonalds 3
 image: "https://mibera.fsn1.your-objectstorage.com/components/hats__z160/mcdonalds%203.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: null
+swag_score: 4
 date_added: "2025-05-04"
 ---
 
@@ -42,7 +42,7 @@ date_added: "2025-05-04"
 **Archetype Alignment:** 
 
 
-**Swag Score:** ---
+**Swag Score:** 4
 
 
 ---

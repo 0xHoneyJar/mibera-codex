@@ -5,7 +5,7 @@ era: Ancient
 origin: Amazon Basin
 archetype: Freetekno
 ancestor: Native American, Mayan
-swag_score: 1
+swag_score: 3
 image: freetekno_nativeAmericans_mayan_psychotria viridis.PNG
 date_added: "2025-01-12"
 ---

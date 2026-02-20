@@ -5,7 +5,7 @@ era: Ancient
 origin: The US
 archetype: Freetekno
 ancestor: Greek
-swag_score: 4
+swag_score: 2
 image: freetekno_greek_sertraline.PNG
 date_added: "2025-01-12"
 ---

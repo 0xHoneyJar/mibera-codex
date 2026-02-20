@@ -2,7 +2,7 @@
 name: fanged noumena
 image: SS3_Fanged Noumena.png
 archetype: "**Archetype Alignment:**"
-swag_score: 3
+swag_score: 2
 date_added: "2024-08-07"
 ---
 
@@ -42,7 +42,7 @@ SS3_Fanged Noumena.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 2
 
 
 ---

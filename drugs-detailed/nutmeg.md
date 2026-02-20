@@ -5,7 +5,7 @@ era: Ancient
 origin: New Guinea, East Indies
 archetype: Acidhouse
 ancestor: Arabs
-swag_score: 2
+swag_score: 4
 image: acidhouse_arabs_nutmeg.PNG
 date_added: "2025-01-12"
 ---

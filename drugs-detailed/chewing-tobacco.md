@@ -5,7 +5,7 @@ era: Modern
 origin: Americas
 archetype: Chicago Detroit
 ancestor: Native americans, Hindu
-swag_score: 2
+swag_score: 1
 image: chicagodetroit_hindu_nativeAmerican_chewing tobacco.PNG
 date_added: "2025-01-12"
 ---

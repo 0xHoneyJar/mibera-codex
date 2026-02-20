@@ -1,7 +1,7 @@
 ---
 name: Criminal Records Vest
 archetype: "**Archetype Alignment:**"
-swag_score: null
+swag_score: 3
 date_added: null
 ---
 
@@ -39,9 +39,7 @@ date_added: null
 **Archetype Alignment:**
 
 
-**Swag Score:**
-
----
+**Swag Score:** 3
 
 ## Connections
 

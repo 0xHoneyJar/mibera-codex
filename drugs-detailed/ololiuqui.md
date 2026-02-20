@@ -5,7 +5,7 @@ era: Ancient
 origin: Central and South America
 archetype: Acidhouse
 ancestor: Mayan
-swag_score: 1
+swag_score: 5
 image: acidhouse_mayan_ololiuqui.PNG
 date_added: "2025-01-12"
 ---

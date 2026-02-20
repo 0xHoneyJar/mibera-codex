@@ -2,7 +2,7 @@
 name: Rayban
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Rayban.webp"
 archetype: Chicago Detroit
-swag_score: null
+swag_score: 1
 date_added: "2024-06-18"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-18"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 1
 
 ## Connections
 

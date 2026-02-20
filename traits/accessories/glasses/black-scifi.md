@@ -2,7 +2,7 @@
 name: Black Scifi
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Black Scifi.webp"
 archetype: Chicago detroit
-swag_score: null
+swag_score: 2
 date_added: "2024-06-18"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-18"
 **Archetype Alignment:** Its relation to the house music history in Chicago, highlighting the birth of the first female DJ in Chicago’s house scene.
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 2
 
 ## Connections
 

@@ -5,7 +5,7 @@ era: Ancient
 origin: Pacific Polynesia
 archetype: Acidhouse
 ancestor: Polynesian, Aboriginal
-swag_score: 3
+swag_score: 1
 image: acidhouse_polynesian_aboriginal_kava.PNG
 date_added: "2025-01-12"
 ---

@@ -5,7 +5,7 @@ era: Modern
 origin: Germany
 archetype: Milady
 ancestor: Chinese, Palestinian
-swag_score: 3
+swag_score: 5
 image: milady_chinese_palestinian_dextroamphetamine.PNG
 date_added: "2025-01-12"
 ---

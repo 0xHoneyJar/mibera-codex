@@ -2,7 +2,7 @@
 name: watergun 2
 image: SS3_acidhouse_Watergun 2.png
 archetype: acidhouse
-swag_score: 3
+swag_score: 4
 date_added: "2024-06-05"
 ---
 
@@ -42,7 +42,7 @@ SS3_acidhouse_Watergun 2.png
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 4
 
 
 ---

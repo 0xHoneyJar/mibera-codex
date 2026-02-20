@@ -2,7 +2,7 @@
 name: babybera yeet pipe
 image: SS3_Babybera Yeet Pipe.PNG
 archetype: "**Archetype Alignment:**"
-swag_score: 3
+swag_score: 2
 date_added: "2024-12-09"
 ---
 
@@ -42,7 +42,7 @@ SS3_Babybera Yeet Pipe.PNG
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 2
 
 
 ---

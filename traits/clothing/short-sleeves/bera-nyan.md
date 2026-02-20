@@ -1,7 +1,7 @@
 ---
 name: Bera Nyan
 archetype: "**Archetype Alignment:** Bera version of Nyan Cat, cultural relevance and impact in the space."
-swag_score: null
+swag_score: 5
 date_added: null
 ---
 
@@ -40,10 +40,7 @@ date_added: null
 **Archetype Alignment:** Bera version of Nyan Cat, cultural relevance and impact in the space.
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 5
 
 ## Connections
 

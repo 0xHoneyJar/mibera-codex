@@ -5,7 +5,7 @@ era: Modern
 origin: Central Asia, Indian subcontinent
 archetype: Acidhouse
 ancestor: Chinese, Native American
-swag_score: 3
+swag_score: 5
 image: acidhouse_chinese_nativeAmerican_CBD.PNG
 date_added: "2025-01-12"
 ---

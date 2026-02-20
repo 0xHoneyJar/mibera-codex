@@ -5,7 +5,7 @@ era: Ancient
 origin: USA
 archetype: Milady
 ancestor: Native American
-swag_score: 4
+swag_score: 5
 image: milady_nativeAmerican_benadryl.PNG
 date_added: "2025-01-12"
 ---

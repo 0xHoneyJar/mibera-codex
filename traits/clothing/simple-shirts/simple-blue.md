@@ -1,5 +1,6 @@
 ---
 name: Simple Blue
+swag_score: 1
 image: "https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/146_simple%20blue.webp"
 date_added: "2024-08"
 ---

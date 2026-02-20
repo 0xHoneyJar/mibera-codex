@@ -2,7 +2,7 @@
 name: uk rave flyers
 image: SS3_freetekno_UK Rave Flyers.PNG
 archetype: Freetekno
-swag_score: 3
+swag_score: 4
 date_added: "2024-12-09"
 ---
 
@@ -42,7 +42,7 @@ SS3_freetekno_UK Rave Flyers.PNG
 **Archetype Alignment:** Rave flyers are an important aesthetic influence on Mibera. It also examines
 
 
-**Swag Score:** 3
+**Swag Score:** 4
 
 
 ---

@@ -2,7 +2,7 @@
 name: Swimming Goggles
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Swimming Goggles.webp"
 archetype: Acidhouse
-swag_score: null
+swag_score: 4
 date_added: "2024-06-18"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-18"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 4
 
 ## Connections
 

@@ -5,7 +5,7 @@ era: Ancient
 origin: Persia, India
 archetype: Freetekno
 ancestor: Sufi
-swag_score: 3
+swag_score: 4
 image: freetekno_sufi_syrian rue.PNG
 date_added: "2025-01-12"
 ---

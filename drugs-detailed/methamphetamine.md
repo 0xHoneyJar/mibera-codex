@@ -5,7 +5,7 @@ era: Modern
 origin: Japan
 archetype: Milady
 ancestor: Chinese, Palestinian
-swag_score: 1
+swag_score: 2
 image: milady_chinese_palestinian_methamphetamine.PNG
 date_added: "2025-01-12"
 ---

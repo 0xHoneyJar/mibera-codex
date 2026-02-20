@@ -5,7 +5,7 @@ era: Modern
 origin: France
 archetype: Chicago Detroit
 ancestor: '**Swag Score:** 3'
-swag_score: 3
+swag_score: 4
 image: chicagodetroit_stonewall_poppers.PNG
 date_added: "2025-01-12"
 ---

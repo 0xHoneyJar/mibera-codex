@@ -2,7 +2,7 @@
 name: Cyber Punk 2
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Cyber Punk 2.webp"
 archetype: Freetekno
-swag_score: null
+swag_score: 2
 date_added: "2024-06-18"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-18"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 2
 
 ## Connections
 

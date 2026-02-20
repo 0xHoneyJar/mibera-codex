@@ -5,7 +5,7 @@ era: Ancient
 origin: South America, Africa
 archetype: Freetekno
 ancestor: Gabon
-swag_score: 4
+swag_score: 3
 image: freetekno_gabon_tabernaemontana.PNG
 date_added: "2025-01-12"
 ---

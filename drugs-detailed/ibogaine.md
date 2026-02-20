@@ -5,7 +5,7 @@ era: Modern
 origin: Congo, Gabon
 archetype: Chicago Detroit
 ancestor: Gabon
-swag_score: 3
+swag_score: 2
 image: chicagodetroit_gabon_ibogaine.PNG
 date_added: "2025-01-12"
 ---

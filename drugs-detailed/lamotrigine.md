@@ -5,7 +5,7 @@ era: Modern
 origin: UK
 archetype: Acidhouse
 ancestor: Irish Druids
-swag_score: 4
+swag_score: 1
 image: acidhouse_irishDruids_lamotrigine.PNG
 date_added: "2025-01-12"
 ---

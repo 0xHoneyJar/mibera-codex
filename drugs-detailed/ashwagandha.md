@@ -5,7 +5,7 @@ era: Ancient
 origin: India, Middle East, parts of North Africa
 archetype: Milady
 ancestor: Hindu
-swag_score: 3
+swag_score: 5
 image: milady_hindu_ashwagandha.PNG
 date_added: "2025-01-12"
 ---

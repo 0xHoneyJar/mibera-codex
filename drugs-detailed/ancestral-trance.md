@@ -5,7 +5,7 @@ era: Ancient
 origin: '---'
 archetype: Freetekno
 ancestor: Orthodox Jews, Aboriginal, Haitians
-swag_score: 5
+swag_score: 3
 image: freetekno_orthodoxJews_aboriginal_haitians_ancestral trance.PNG
 date_added: "2025-01-12"
 ---

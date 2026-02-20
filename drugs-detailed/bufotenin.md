@@ -5,7 +5,7 @@ era: Ancient
 origin: Central & South America
 archetype: Acidhouse
 ancestor: Native Americans
-swag_score: 2
+swag_score: 1
 image: acidhouse_nativeAmerican_bufotenine.PNG
 date_added: "2025-01-12"
 ---

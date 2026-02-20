@@ -16,9 +16,6 @@ One of four primary Rave Tribes that define aesthetic and philosophical foundati
 - **[Chicago Detroit](core-lore/archetypes.md#chicago-detroit)** — Early 80s house/techno origins (Spring: Aries, Taurus, Gemini)
 - **[Acidhouse](core-lore/archetypes.md#acidhouse)** — Late 90s/2000s acid house revival (Fall: Libra, Scorpio, Sagittarius)
 
-### Archetype Coherence
-The percentage of a Mibera's traits that belong to the same Archetype. Higher coherence = higher Swag Score bonus.
-
 ---
 
 ## C

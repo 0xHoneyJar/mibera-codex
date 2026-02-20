@@ -2,7 +2,7 @@
 name: d2 edamame
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/d2 edamame.webp"
 archetype: "**Archetype Alignment:**"
-swag_score: null
+swag_score: 5
 date_added: "2024-02-28"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-02-28"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 5
 
 ## Connections
 

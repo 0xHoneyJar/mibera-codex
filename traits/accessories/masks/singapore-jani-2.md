@@ -1,7 +1,7 @@
 ---
 name: Singapore Jani 2
-archetype: "**Archetype Alignment:**"
-swag_score: null
+archetype: Cross-Archetype
+swag_score: 5
 date_added: null
 ---
 
@@ -9,56 +9,48 @@ date_added: null
 
 ## Visual Properties
 
+**Visual Description:** Custom-made mask worn by Jani (deepname99) at Token 2024 in Singapore. Second of two unique founder masks from the event.
 
-**Image Files:**
-
-
-**Visual Description:**
-
-**Dominant Colors:**
+**Dominant Colors:** —
 
 ---
 
 ## Cultural Context
 
+**Cultural Origin:** Token 2024, Singapore
 
-**Cultural Origin:**
+**Era:** Modern
 
-**Era:**
-
-
-**Why This Matters:**
-
+**Why This Matters:** One of only two masks in the entire 10,000 Mibera collection directly tied to the founder. Jani had two custom masks made for the Token conference in Singapore — both were subsequently stolen. The masks became an artifact of real-world loss woven into the generative collection. Both Singapore Jani masks landed on Rank D Miberas, compounding the bad luck that followed these pieces from Singapore.
 
 ---
 
 ## Mibera Integration
 
-**Archetype:**
+**Archetype:** Cross-Archetype
 
-**Archetype Alignment:**
+**Archetype Alignment:** Founder tribute — not aligned to a specific rave tribe.
 
+**Swag Score:** 5
 
-**Swag Score:**
+---
+
+## Rarity
+
+Only **1 out of 10,000** Miberas wears this mask: [#6426](../../../miberas/6426.md). Only 388 Miberas have masks at all.
 
 ---
 
 ## Connections
 
-**Ancestor:** 
+**Related Masks:** [Singapore Jani 1](singapore-jani-1.md), [Founders Mask](founders-mask.md)
 
 ---
 
 ## Attribution
 
-**Date Added:**
+**Introduced By:** Jani (deepname99)
 
-**Introduced By:**
-
-**Team Notes:**
-
-**Sources:**
-
-**Summary:**
+**Team Notes:** Custom masks from Token 2024 Singapore. Both stolen IRL. Both assigned Rank D by the generative algorithm — truly bad luck all around.
 
 ---

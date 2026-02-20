@@ -2,7 +2,7 @@
 name: Beradrome 2
 image: "https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(SHORT"
 archetype: Milady
-swag_score: 3
+swag_score: 4
 date_added: "2024-12-10"
 ---
 
@@ -42,7 +42,7 @@ date_added: "2024-12-10"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 4
 
 
 ---

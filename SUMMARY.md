@@ -57,7 +57,9 @@
 * [Backgrounds](traits/backgrounds/README.md)
 
 ### Overlays
-* [Ranking & Scoring](traits/overlays/ranking/README.md)
+* [**Swag Scoring — Formula, Methods & All Trait Scores**](swag-scoring/README.md)
+  * [Trait Score Lookup](swag-scoring/trait-scores.md)
+* [Ranking Tiers](traits/overlays/ranking/README.md)
 * [Molecules](traits/overlays/molecules.md)
 
 ## V. The Collection

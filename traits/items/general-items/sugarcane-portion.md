@@ -2,7 +2,7 @@
 name: sugarcane portion
 image: SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 archetype: chicago detroit
-swag_score: 3
+swag_score: 4
 date_added: "2024-12-09"
 ---
 
@@ -42,7 +42,7 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 4
 
 
 ---

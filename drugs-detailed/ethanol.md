@@ -5,7 +5,7 @@ era: Modern
 origin: Persia
 archetype: Chicago Detroit
 ancestor: Sicanje
-swag_score: 3
+swag_score: 4
 image: chicagodetroit_sicanje_ethanol.PNG
 date_added: "2025-01-12"
 ---

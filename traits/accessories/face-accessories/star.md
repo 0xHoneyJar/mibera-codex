@@ -2,7 +2,7 @@
 name: Star
 image: "https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_Milady_Star.webp"
 archetype: Milady
-swag_score: 2
+swag_score: 3
 date_added: "2024-12-10"
 ---
 
@@ -42,7 +42,7 @@ date_added: "2024-12-10"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 2
+**Swag Score:** 3
 
 
 ---

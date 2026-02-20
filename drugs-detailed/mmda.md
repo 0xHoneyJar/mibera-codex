@@ -5,7 +5,7 @@ era: Modern
 origin: USA
 archetype: Acidhouse
 ancestor: Arabs
-swag_score: 2
+swag_score: 4
 image: acidhouse_arabs_MMDA.PNG
 date_added: "2025-01-12"
 ---

@@ -5,7 +5,7 @@ era: Ancient
 origin: Australia
 archetype: Chicago Detroit
 ancestor: Aboriginal
-swag_score: 2
+swag_score: 3
 image: chicagodetroit_aboriginal_pituri.PNG
 date_added: "2025-01-12"
 ---

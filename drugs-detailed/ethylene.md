@@ -5,7 +5,7 @@ era: Ancient
 origin: England
 archetype: Acidhouse
 ancestor: Pythia
-swag_score: 4
+swag_score: 2
 image: acidhouse_pythia_ethylene.PNG
 date_added: "2025-01-12"
 ---

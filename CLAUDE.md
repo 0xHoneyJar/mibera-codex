@@ -77,6 +77,7 @@ Reference `_codex/data/scope.json` for programmatic scope.
 | `birthdays/` | Birthday era classifications | 11 |
 | `browse/` | Dimensional browse indices | 8 |
 | `grails/` | Hand-drawn 1/1 art pieces | 42 |
+| `swag-scoring/` | Scoring formula, methods, and all trait scores | — |
 | `fractures/` | Reveal phase documentation | 10 |
 | `special-collections/` | Partner/special collections | 32 |
 | `_codex/` | Schemas, scripts, data exports | — |

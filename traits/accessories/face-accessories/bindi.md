@@ -2,7 +2,7 @@
 name: Bindi
 image: "https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_modern_nepal_Bindi.webp"
 archetype: Milady
-swag_score: 1
+swag_score: 3
 date_added: "2024-12-10"
 ---
 
@@ -42,7 +42,7 @@ date_added: "2024-12-10"
 **Archetype Alignment:** 
 
 
-**Swag Score:** 1
+**Swag Score:** 3
 
 
 ---

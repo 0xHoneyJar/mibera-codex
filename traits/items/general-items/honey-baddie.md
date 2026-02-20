@@ -2,7 +2,7 @@
 name: honey baddie
 image: SS3_Honey Baddie.PNG
 archetype: "**Archetype Alignment:**"
-swag_score: 3
+swag_score: 5
 date_added: "2024-12-09"
 ---
 
@@ -42,7 +42,7 @@ SS3_Honey Baddie.PNG
 **Archetype Alignment:** 
 
 
-**Swag Score:** 3
+**Swag Score:** 5
 
 
 ---

@@ -2,7 +2,7 @@
 name: Mottega Blue
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Mottega Blue.webp"
 archetype: Milady
-swag_score: null
+swag_score: 1
 date_added: "2024-06-05"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-05"
 **Archetype Alignment:** This is an existing trait within Milady Maker.
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 1
 
 ## Connections
 

@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-18T12:17:41Z",
-  "files_checked": 11582,
-  "total_links": 249730,
-  "broken_links": 4,
+  "timestamp": "2026-02-20T21:32:53Z",
+  "files_checked": 11608,
+  "total_links": 249853,
+  "broken_links": 5,
   "issues": [
     {
       "file": "PROCESS.md",
@@ -19,6 +19,10 @@
     {
       "file": "PROCESS.md",
       "target": "INSTALLATION.md"
+    },
+    {
+      "file": "BUTTERFREEZONE.md",
+      "target": "core-lore/README.md"
     }
   ]
 }

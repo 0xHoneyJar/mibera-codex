@@ -2,7 +2,7 @@
 name: stars
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Stars.webp"
 archetype: Freetekno
-swag_score: null
+swag_score: 5
 date_added: "2024-06-17"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-06-17"
 **Archetype Alignment:** One of Bong Bear’s traits.
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 5
 
 ## Connections
 

@@ -2,7 +2,7 @@
 name: Sick Sunglasses
 image: "https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Sick Sunglasses.webp"
 archetype: Chicago Detroit
-swag_score: null
+swag_score: 4
 date_added: "2024-12-10"
 ---
 
@@ -42,10 +42,7 @@ date_added: "2024-12-10"
 **Archetype Alignment:** music culture, and its association with Yung Singh who was known for his underground performance with his Punjabi Garage mix as his main niche.
 
 
-**Swag Score:** 
-
-
----
+**Swag Score:** 4
 
 ## Connections
 
