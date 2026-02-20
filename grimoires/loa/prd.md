@@ -1,174 +1,185 @@
-# PRD: Agent Surface — BUTTERFREEZONE, CLAUDE.md & Ground Truth
+# PRD: Mibera Sets — Individual Token Entries
 
-**Cycle**: 014
-**Date**: 2026-02-18
-**Issues**: [#18](https://github.com/0xHoneyJar/mibera-codex/issues/18), [#19](https://github.com/0xHoneyJar/mibera-codex/issues/19)
+> **Cycle**: cycle-015
+> **Created**: 2026-02-20
+> **Status**: Draft
 
 ---
 
 ## 1. Problem Statement
 
-The mibera-codex has a fully mounted Loa framework (v1.39.1, 31 skills, `.claude/` System Zone, `.beads/`, 13 completed cycles) but three critical agent-facing surfaces remain empty or template-only:
+The codex documents Mibera Sets at the collection level (`_codex/data/mibera-sets.md`) with contract data, tier structure, and on-chain activity. However, none of the 12 individual tokens have their own entries. The Arweave metadata — names, descriptions, images, attributes — has never been fetched because the contract isn't verified on any explorer and `uri()` must be called via RPC.
 
-1. **CLAUDE.md** contains no project-specific instructions — agents arrive with framework knowledge but zero codex context (no signal hierarchy, no lookup patterns, no conventions)
-2. **BUTTERFREEZONE.md** doesn't exist — the Loa mesh system (`butterfreezone-mesh.sh`) can't discover the codex's capabilities, and cross-repo graphs show it as an `unknown` type node
-3. **Ground truth files** are all 0 bytes — 5 empty files in `grimoires/loa/ground-truth/` that should contain verified, citation-grounded codebase facts
+> Source: `_codex/data/mibera-sets.md` GAP comments (lines 96-102, 122-130)
 
-This means any agent working in or with this repo — whether via `/ride`, mesh queries, or direct development — gets no project-specific orientation and can't verify claims against ground truth.
+## 2. Goal
 
-## 2. Goals
+Create an individual entry for each of the 12 Mibera Set ERC-1155 tokens, sourced from on-chain metadata. No narrative expansion — document what the metadata says.
 
-1. **CLAUDE.md**: Encode codex-specific agent instructions — signal hierarchy, lookup patterns, entity conventions, scope boundaries, embodiment rules
-2. **BUTTERFREEZONE.md**: Create a mesh-compatible agent context file using `type: codex` (non-standard, to be upstreamed later) with provenance-tagged sections adapted for a knowledge-base repo
-3. **Ground truth**: Populate all 5 files (`index.md`, `architecture.md`, `behaviors.md`, `api-surface.md`, `contracts.md`) with citation-grounded content adapted for a markdown knowledge base rather than a code repo
-4. **Config**: Add `butterfreezone` section to `.loa.config.yaml` with ecosystem links, culture block, and capability declarations
+### Success Criteria
 
-## 3. Background & Context
+- [ ] All 12 token metadata URIs fetched via RPC call to Optimism
+- [ ] Arweave metadata downloaded for all 12 tokens
+- [ ] Individual markdown files created at `mibera-sets/{slug}.md`
+- [ ] `mibera-sets/README.md` index created with links to all entries
+- [ ] `_codex/data/mibera-sets.md` updated with resolved metadata URIs
+- [ ] Navigation indices updated (SUMMARY.md, manifest.json, README.md)
+- [ ] GAP comments in `_codex/data/mibera-sets.md` resolved where applicable
 
-### What exists today
+## 3. Users
 
-| Surface | File | Status |
-|---------|------|--------|
-| LLM summary | `llms.txt` (3.3 KB) | Complete |
-| Full LLM context | `llms-full.txt` (547 KB) | Complete |
-| Programmatic manifest | `manifest.json` (6.2 KB) | Complete |
-| AI embodiment rules | `IDENTITY.md` (6.8 KB) | Complete |
-| Table of contents | `SUMMARY.md` (5.0 KB) | Complete |
-| Machine-readable scope | `_codex/data/scope.json` (2.8 KB) | Complete |
-| Knowledge graph | `_codex/data/graph.json` (5.9 MB) | Complete |
-| Schemas | `_codex/schema/*.schema.json` (8 files) | Complete |
-| CLAUDE.md instructions | `CLAUDE.md` | **Template only** |
-| BUTTERFREEZONE.md | — | **Missing** |
-| Ground truth (5 files) | `grimoires/loa/ground-truth/` | **All empty** |
-| Butterfreezone config | `.loa.config.yaml` | **Missing section** |
+Same as codex-wide: humans and LLMs browsing on GitHub.
 
-### Schema mismatch: codex vs. code repos
+## 4. Functional Requirements
 
-The `butterfreezone-gen.sh` is designed for code repos — it auto-detects `type` from `package.json`/`Cargo.toml`, extracts interfaces from `.claude/skills/`, and scans for code entry points. A markdown knowledge base requires adapted sections:
+### FR-1: Fetch Metadata URIs via RPC
 
-| BUTTERFREEZONE Section | Code Repo | Codex Adaptation |
-|------------------------|-----------|------------------|
-| Key Capabilities | Functions, exports | Entity types with counts (10K miberas, 78 drugs, etc.) |
-| Architecture | Code topology, data flow | Signal hierarchy, entity relationship model, directory layout |
-| Interfaces | API routes, CLI commands | Navigation patterns: browse dimensions, lookup by ID, JSONL export |
-| Module Map | `src/`, `lib/` dirs | Content directories with counts and completeness |
-| Verification | Test suites, CI | Schema validation, `manifest.json` completeness markers, audit scripts |
-| Agents | Persona files | Embodiment rules from `IDENTITY.md` |
-| Culture | Methodology | Ravepill philosophy, archetype system, temporal paradox |
+Call `uri(uint256)` on contract `0x886D2176D899796cD1AfFA07Eff07B9b2B80f1be` on Optimism for token IDs 1-12.
 
-### Ground truth adaptation
+- **RPC endpoint**: `https://mainnet.optimism.io` (public)
+- **Function selector**: `0x0e89341c` (ERC-1155 `uri(uint256)`)
+- **Expected return**: Arweave URI (`ar://...`) or HTTPS gateway URL
 
-Ground truth files expect `file:line` citations to code. For a knowledge base:
-- `architecture.md` → directory structure, signal hierarchy, entity relationships
-- `api-surface.md` → lookup patterns, data exports, schema files
-- `behaviors.md` → validation scripts, generation pipeline, backlink system
-- `contracts.md` → entity schemas, frontmatter contracts, cross-entity references
-- `index.md` → hub linking to the other 4 files with quick stats
+### FR-2: Fetch Arweave Metadata
 
-## 4. Success Criteria
+For each URI returned, fetch the JSON metadata via Arweave gateway (e.g. `https://arweave.net/{txid}`).
 
-- [ ] `CLAUDE.md` contains codex-specific instructions (signal hierarchy, lookup patterns, scope, conventions)
-- [ ] `BUTTERFREEZONE.md` passes `butterfreezone-validate.sh` (may warn on non-standard `type: codex`)
-- [ ] `BUTTERFREEZONE.md` has valid AGENT-CONTEXT block with `type: codex`
-- [ ] `BUTTERFREEZONE.md` has provenance tags on all sections
-- [ ] `BUTTERFREEZONE.md` has ground-truth-meta block with `head_sha` and checksums
-- [ ] `BUTTERFREEZONE.md` is 500+ words total
-- [ ] All 5 ground truth files populated with citation-grounded content
-- [ ] Grounding ratio ≥ 0.95 (95% of claims cite source `file:line`)
-- [ ] `.loa.config.yaml` has `butterfreezone` section with ecosystem entries
-- [ ] `butterfreezone-mesh.sh --live` no longer warns about missing BUTTERFREEZONE.md
+Expected metadata fields (standard ERC-1155):
+- `name` — token name
+- `description` — token description
+- `image` — image URI (likely Arweave)
+- `attributes` — trait array (optional)
 
-## 5. Scope
+### FR-3: Create Individual Token Files
+
+One file per token at `mibera-sets/{slug}.md`. Slug derived from metadata name (e.g. "Honey Road Set One" → `honey-road-set-one.md`).
+
+**Schema** (following grail/fracture conventions):
+
+```yaml
+---
+token_id: 1
+name: "Honey Road Set One"
+type: mibera-set
+category: numbered  # or "media" or "completionist"
+supply: 65
+image: "ar://..."
+metadata_uri: "ar://..."
+---
+```
+
+Body: description from Arweave metadata, plus a summary line with links. Backlink markers at bottom.
+
+```markdown
+# Honey Road Set One
+
+> **Token #1** · Numbered Set · Supply: 65 · [All Mibera Sets →](README.md)
+
+{description from metadata}
+
+---
+
+<!-- @generated:backlinks-start -->
+<!-- @generated:backlinks-end -->
+```
+
+### FR-4: Create Index (README.md)
+
+`mibera-sets/README.md` following the pattern of `grails/README.md` and `fractures/README.md`:
+
+```markdown
+<!-- codex-status: COMPLETE | entities: 12 | last-verified: 2026-02-20 -->
+# Mibera Sets — Honey Road Artifacts
+
+*12 ERC-1155 tokens on Optimism representing artifacts from the Honey Road.*
+
+---
+
+## Numbered Sets (7)
+
+- [Honey Road Set One](honey-road-set-one.md) · Token #1 · Supply: 65
+...
+
+## Media (4)
+
+...
+
+## Completionist (1)
+
+...
+```
+
+### FR-5: Update Existing References
+
+- **`_codex/data/mibera-sets.md`**: Replace GAP comments with resolved metadata URIs. Add links to individual token files.
+- **`manifest.json`**: Add `mibera-set` entity type with count and path
+- **`SUMMARY.md`**: Add mibera-sets section
+- **Root `README.md`**: Add to directory layout table if applicable
+
+## 5. Technical Approach
+
+### RPC Call
+
+Use Python `urllib` (stdlib-only, per codex conventions) to make JSON-RPC calls:
+
+```python
+import json, urllib.request
+
+rpc_url = "https://mainnet.optimism.io"
+contract = "0x886D2176D899796cD1AfFA07Eff07B9b2B80f1be"
+
+def call_uri(token_id):
+    # Encode uri(uint256) call
+    selector = "0x0e89341c"
+    token_hex = hex(token_id)[2:].zfill(64)
+    data = selector + token_hex
+
+    payload = {
+        "jsonrpc": "2.0",
+        "method": "eth_call",
+        "params": [{"to": contract, "data": data}, "latest"],
+        "id": 1
+    }
+    req = urllib.request.Request(rpc_url, json.dumps(payload).encode(),
+                                 {"Content-Type": "application/json"})
+    resp = json.loads(urllib.request.urlopen(req).read())
+    # Decode string from ABI-encoded response
+    return decode_abi_string(resp["result"])
+```
+
+### Arweave Fetch
+
+Standard HTTPS GET to `arweave.net` gateway. Parse JSON response.
+
+## 6. Scope
 
 ### In Scope
 
-1. **CLAUDE.md customization** — project-specific agent instructions below the `@` import
-2. **BUTTERFREEZONE.md authoring** — hand-authored, adapted for `type: codex`
-3. **Ground truth population** — all 5 files with codex-appropriate content
-4. **`.loa.config.yaml` butterfreezone config** — ecosystem, culture, capabilities
-5. **Checksums update** — regenerate `ground-truth/checksums.json` after population
+- RPC calls to fetch metadata URIs for tokens 1-12
+- Arweave metadata fetch for all 12 tokens
+- Individual token entry files in `mibera-sets/`
+- README index for the directory
+- Updates to navigation indices and mibera-sets.md
 
 ### Out of Scope
 
-- Upstream PR to Loa for `type: codex` support in `butterfreezone-gen.sh` / `butterfreezone-validate.sh`
-- Construct packaging (depends on upstream codex type support)
-- `/ride` execution (ground truth will be manually authored with proper grounding)
-- Changes to existing codex content, schemas, or scripts
-- SDD (no code architecture decisions needed — this is content authoring)
+- Honey Road narrative expansion
+- Collector mechanic lore
+- Image downloads or hosting
+- On-chain activity analysis per token
+- Schema JSON file for mibera-set type (can add in a later cycle)
 
-## 6. Deliverables
+## 7. Risks
 
-| # | Deliverable | File(s) |
-|---|-------------|---------|
-| 1 | Project-specific CLAUDE.md | `CLAUDE.md` |
-| 2 | BUTTERFREEZONE.md | `BUTTERFREEZONE.md` |
-| 3 | Ground truth index | `grimoires/loa/ground-truth/index.md` |
-| 4 | Ground truth architecture | `grimoires/loa/ground-truth/architecture.md` |
-| 5 | Ground truth API surface | `grimoires/loa/ground-truth/api-surface.md` |
-| 6 | Ground truth behaviors | `grimoires/loa/ground-truth/behaviors.md` |
-| 7 | Ground truth contracts | `grimoires/loa/ground-truth/contracts.md` |
-| 8 | Ground truth checksums | `grimoires/loa/ground-truth/checksums.json` |
-| 9 | Config update | `.loa.config.yaml` (butterfreezone section) |
+| Risk | Likelihood | Mitigation |
+|------|-----------|------------|
+| RPC rate limit on public Optimism endpoint | Low | Retry with backoff; fallback to Alchemy/Infura free tier |
+| Arweave metadata not in expected format | Medium | Adapt schema to actual fields; document deviations |
+| `uri()` returns template URI with `{id}` placeholder | Medium | ERC-1155 spec allows this; substitute token ID |
+| Some tokens have no metadata on Arweave | Low | Create stub entries with on-chain data only, mark GAP |
 
-## 7. CLAUDE.md Content Specification
+## 8. Dependencies
 
-The project-specific section should encode:
-
-- **Start here**: Point agents to `IDENTITY.md`, `manifest.json`, `llms.txt`
-- **Signal hierarchy**: Load-bearing > Textural > Modifiers (from `IDENTITY.md`)
-- **Lookup patterns**: ID→file mapping, trait slugification, browse dimensions
-- **Entity conventions**: YAML frontmatter, markdown tables, backlink markers
-- **Scope boundaries**: Reference `_codex/data/scope.json` for what the codex tracks vs. doesn't
-- **Safety rules**: NEVER hallucinate trait values, NEVER invent entities, always read source file
-- **Scripts**: stdlib-only Python with regex YAML parsing, no PyYAML
-- **Links**: relative markdown links, validated by `audit-links.sh`
-- **Backlinks**: auto-generated between `<!-- @generated:backlinks-start/end -->` markers
-
-## 8. BUTTERFREEZONE.md Content Specification
-
-### AGENT-CONTEXT block
-
-```yaml
-name: mibera-codex
-type: codex
-purpose: Comprehensive lore documentation and machine-readable knowledge base for 10,000 time-travelling Beras — mythology, traits, drugs, astrology, spanning 15,000 years.
-version: 1.0.0
-key_files: [IDENTITY.md, manifest.json, llms.txt, _codex/schema/README.md, SUMMARY.md]
-interfaces: [browse/README.md, _codex/data/miberas.jsonl, _codex/data/graph.json, llms-full.txt]
-dependencies: []
-ecosystem:
-  - repo: 0xHoneyJar/loa
-    role: framework
-    interface: butterfreezone-mesh
-  - repo: 0xHoneyJar/midi-interface
-    role: consumer
-    interface: badge-validation
-trust_level: L1-self-declared
-```
-
-### Section mapping with provenance
-
-| Section | Provenance | Content Source |
-|---------|-----------|----------------|
-| Key Capabilities | DERIVED | Entity type registry from `manifest.json` |
-| Architecture | DERIVED | Signal hierarchy from `IDENTITY.md`, directory layout |
-| Interfaces | CODE-FACTUAL | Lookup patterns from `llms.txt`, data exports |
-| Module Map | CODE-FACTUAL | Content directories with file counts |
-| Verification | CODE-FACTUAL | Audit scripts, schema validation, completeness markers |
-| Agents | DERIVED | Embodiment persona from `IDENTITY.md` |
-| Culture | OPERATIONAL | Ravepill philosophy, archetype system |
-| Quick Start | OPERATIONAL | From `llms.txt` intro |
-
-## 9. Risks
-
-| Risk | Likelihood | Impact | Mitigation |
-|------|-----------|--------|------------|
-| `butterfreezone-validate.sh` rejects `type: codex` | Medium | Low | Non-standard type produces warning, not error. Document for upstream. |
-| Ground truth grounding ratio < 0.95 for non-code repo | Low | Medium | Adapt citation format: use `file:section` for markdown rather than `file:line` |
-| BUTTERFREEZONE word budget (3400) too tight for codex entity descriptions | Low | Low | Prioritize entity counts over descriptions; link to `manifest.json` for details |
-
-## 10. Dependencies
-
-- None — all source data exists in the repo
-- No external APIs or services needed
-- No new dependencies or tools required
+- Public Optimism RPC access
+- Arweave gateway availability
+- Existing `_codex/data/mibera-sets.md` for supply/holder data

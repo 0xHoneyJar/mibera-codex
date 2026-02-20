@@ -1,0 +1,236 @@
+{
+  "fetched": "2026-02-20",
+  "contract": "0x886D2176D899796cD1AfFA07Eff07B9b2B80f1be",
+  "chain": "optimism",
+  "rpc": "https://mainnet.optimism.io",
+  "tokens": {
+    "1": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/1.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/1.json",
+      "metadata": {
+        "name": "Honey Road Set One",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Base"
+          }
+        ],
+        "image": "ar://WF0YSzcniL21J4CssMqsRERlx1bFEwUtXQY-a2_CyG8"
+      }
+    },
+    "2": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/2.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/2.json",
+      "metadata": {
+        "name": "Honey Road Set Two",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Base"
+          }
+        ],
+        "image": "ar://oAwbLFMW7sU_OSLIG0Oe775DSZfSbw_knHUFV-cjcDs"
+      }
+    },
+    "3": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/3.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/3.json",
+      "metadata": {
+        "name": "Honey Road Set Three",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Base"
+          }
+        ],
+        "image": "ar://xlDrYq56xR5KyL-4rmlDziAGRMFHqszfX5kZHW-Ohpw"
+      }
+    },
+    "4": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/4.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/4.json",
+      "metadata": {
+        "name": "Honey Road Set Four",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Base"
+          }
+        ],
+        "image": "ar://I4Mq9KqvpkTO7-FT3GqWmv6lWTd2deQHb8kJ7j8o85A"
+      }
+    },
+    "5": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/5.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/5.json",
+      "metadata": {
+        "name": "Honey Road Set Five",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Base"
+          }
+        ],
+        "image": "ar://eHxemHk7N44CaItQi8lhhjtXg40iypDtuexQNq2Iueg"
+      }
+    },
+    "6": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/6.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/6.json",
+      "metadata": {
+        "name": "Honey Road Set Six",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Base"
+          }
+        ],
+        "image": "ar://ZR1_UKJ5VYRp0S8MqHfYjiw8Xa04OrQKHmhIgvnxPgA"
+      }
+    },
+    "7": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/7.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/7.json",
+      "metadata": {
+        "name": "Honey Road Set Seven",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Base"
+          }
+        ],
+        "image": "ar://l0QY7x9kq_077BY4mcy7qr6JUQ8f0dOYnHnobG0NX6Q"
+      }
+    },
+    "8": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/8.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/8.json",
+      "metadata": {
+        "name": "Honey Road Articles",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Strong"
+          }
+        ],
+        "image": "ar://A1H5mgZumj_wT9fp-DZ-i5dWX5dD7F8MgycRKZy1IOA"
+      }
+    },
+    "9": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/9.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/9.json",
+      "metadata": {
+        "name": "Honey Road Music",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Strong"
+          }
+        ],
+        "image": "ar://VthR3-MqJP7cyGwH_HExhrMLDrbnG5WBvW6HFyKyomM"
+      }
+    },
+    "10": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/10.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/10.json",
+      "metadata": {
+        "name": "Honey Road Posters",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Strong"
+          }
+        ],
+        "image": "ar://mszBuOKFv6lqXe2LFPW9BOwhruQH5uKz0Xzl0Eo1dGw"
+      }
+    },
+    "11": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/11.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/11.json",
+      "metadata": {
+        "name": "Honey Road Video",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Strong"
+          }
+        ],
+        "image": "ar://vVprnyyQSGJrr78WHK0huE97JEuI_aRC4rRTLjVXEK4"
+      }
+    },
+    "12": {
+      "uri_raw": "ar://uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/12.json",
+      "uri_resolved": "https://arweave.net/uH9kbQ3egPRlI34MEoIIe1zHr49_Aqy3xixW-gtib58/12.json",
+      "metadata": {
+        "name": "Honey Road Supersetooor",
+        "description": "A mysterious artifact from the ancient Honey Road trade routes.",
+        "attributes": [
+          {
+            "trait_type": "Origin",
+            "value": "Honey Road"
+          },
+          {
+            "trait_type": "Set Type",
+            "value": "Super"
+          }
+        ],
+        "image": "ar://X4h7m9lj7_wyMcS6jBHCG8x1bABLq1HLJkyH3KkJZZI"
+      }
+    }
+  }
+}
