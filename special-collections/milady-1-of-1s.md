@@ -7,7 +7,7 @@ type: "Tribute, 1/1"
 
 **Type:** Tribute, 1/1
 
-Five custom Miberas created as direct tributes to specific [Milady Maker](https://miladymaker.net/) NFTs and their stories. Each is a hand-crafted 1-of-1 within the 10,000 generative collection — all share the [Milady](../core-lore/archetypes.md#milady) archetype and [Rank F](../traits/overlays/ranking/f.md) ("Special").
+Five custom Miberas created as direct tributes to specific [Milady Maker](https://miladymaker.net/) NFTs and their stories. Each is a hand-crafted 1-of-1 within the 10,000 generative collection — all share the [Milady](../core-lore/archetypes.md#milady) archetype and [Rank F](../traits/overlays/ranking/f.md).
 
 Unlike the [42 Grails](../grails/README.md), which are fully hand-drawn 1/1 art pieces, Milady 1-of-1s are generative Miberas with unique traits that appear nowhere else in the collection. Every trait exclusive to a Milady 1-of-1 exists on exactly one token out of 10,000.
 

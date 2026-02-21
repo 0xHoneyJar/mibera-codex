@@ -1,44 +1,18 @@
-<!-- codex-status: PARTIAL | entities: 32 | last-verified: 2026-02-18 -->
-# Featured Projects & Partners
+# Special Collections
 
-*Collaborations and featured projects within the Mibera ecosystem.*
+*Unique sub-collections, tribute pieces, and partner collaborations within the Mibera universe.*
 
 ---
 
+## 1/1 Collections
 
-## All Entries
+- [**Milady 1-of-1s**](milady-1-of-1s.md) — 5 custom tributes to specific Milady Maker NFTs
+- [**Cypherpunk Floppies**](cypherpunk-floppies/) — 12 unique floppy disk items featuring cypherpunk pioneers
+- [**Singapore Jani Masks**](singapore-jani/) — 2 unique masks worn by founder Jani at Token 2049 Singapore
+- [**Bong Bears**](bong-bears/) — 101 unique held items + 4 rare bear variants (105 total)
 
-- [Baby Bera](baby-bera.md)
-- [The Honey Cast](the-honey-cast.md)
-- [Smilee](smilee.md)
-- [Puffpaw](puffpaw.md)
-- [Beradrome](beradrome.md)
-- [Yeet](yeet.md)
-- [Bera Baddies](bera-baddies.md)
-- [Bullas](bullas.md)
-- [Steady Teddys](steady-teddys.md)
-- [Ooga Booga](ooga-booga.md)
-- [Beratone](beratone.md)
-- [Beramonium](beramonium.md)
-- [Beraborrow](beraborrow.md)
-- [Galactic Geckos Space Garage](galactic-geckos-space-garage.md)
-- [Sprodcast](sprodcast.md)
-- [Henlo](henlo.md)
-- [GumBall](gumball.md)
-- [Apdao](apdao.md)
-- [Beradoge](beradoge.md)
-- [Berakin](berakin.md)
-- [Kodiak](kodiak.md)
-- [Vase](vase.md)
-- [BM2C](bm2c.md)
-- [Kingdomly](kingdomly.md)
-- [The Honey Jar](the-honey-jar.md)
-- [DarkFi](darkfi.md)
-- [Ramen Finance](ramen-finance.md)
-- [Cave](cave.md)
-- [Bera Horses](bera-horses.md)
-- [Fable](fable.md)
-- [Beraland](beraland.md)
-- [IVX](ivx.md)
-- [Milady 1-of-1s](milady-1-of-1s.md)
+## Partner Traits
 
+- [**Berachain Ecosystem**](baraeco/) — 32 collaborative traits from Berachain ecosystem projects
+
+---
