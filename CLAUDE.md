@@ -46,9 +46,9 @@ Traits are signals, not scripts. A Mibera born in 1352 CE with a Greek ancestor 
 
 Reference `_codex/data/scope.json` for programmatic scope.
 
-**What the codex tracks**: 10,000 Miberas, 42 Grails, 1,257 traits, 78 drugs, 78 tarot cards, 33 ancestors, 11 birthday eras, 32 special collections, 10 Fractures
+**What the codex tracks**: 10,000 Miberas, 42 canonical Grails + community Grails, 1,257 traits, 78 drugs, 78 tarot cards, 33 ancestors, 11 birthday eras, 32 special collections, 10 Fractures
 
-**What the codex does NOT track**: ownership/wallets, custom commissions beyond 42 Grails, on-chain state (transfers, marketplace), community member identities, price/market data
+**What the codex does NOT track**: ownership/wallets, on-chain state (transfers, marketplace), community member identities, price/market data
 
 **When to stop searching**: if an entity's type is marked COMPLETE in `manifest.json` and the name isn't found — it doesn't exist here.
 

@@ -8,7 +8,10 @@
       "severity": "structural",
       "entity_type": "grail",
       "resolution_path": "Only the artist (Gumi) knows the full list. Must be manually provided.",
-      "status": "open"
+      "status": "closed",
+      "resolved_by": "special-collections/ (Milady 1-of-1s, Cypherpunk Floppies, Singapore Jani, Bong Bears) + grails/README.md Community section",
+      "resolved_date": "2026-02-20",
+      "residual_gaps": "Community grails section will grow as new commissions are created. Only Mijedi documented so far."
     },
     {
       "id": "GAP-002",
