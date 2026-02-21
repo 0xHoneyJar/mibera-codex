@@ -4,7 +4,7 @@
 
 ---
 
-## 1/1 Collections
+## 1/1 Trait Collections
 
 - [**Milady 1-of-1s**](milady-1-of-1s.md) — 5 custom tributes to specific Milady Maker NFTs
 - [**Cypherpunk Floppies**](cypherpunk-floppies/) — 12 unique floppy disk items featuring cypherpunk pioneers

@@ -17,12 +17,21 @@ type: "1/1 Items"
 
 These four items are unique 1-of-1 held items in the Bong Bear family:
 
-| Item | Mibera |
-|------|--------|
-| Bearmo | [#5186](../../miberas/5186.md) |
-| Beartull | [#8696](../../miberas/8696.md) |
-| Bearyphus | [#2140](../../miberas/2140.md) |
-| Zeus | [#1508](../../miberas/1508.md) |
+### Bearmo — Mibera [#5186](../../miberas/5186.md)
+
+![Mibera #5186](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/7fe929d285c61157b0b81d0c5b3afdd9814c5aa1.png)
+
+### Beartull — Mibera [#8696](../../miberas/8696.md)
+
+![Mibera #8696](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/c85178be88556fd1a51fc3d2dafceb17ec13bdcd.png)
+
+### Bearyphus — Mibera [#2140](../../miberas/2140.md)
+
+![Mibera #2140](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/8500c1d9a44685463552d397792b1242ce2dabe2.png)
+
+### Zeus — Mibera [#1508](../../miberas/1508.md)
+
+![Mibera #1508](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/42c9668721a32acf6da9ff905205431dc6aaa69f.png)
 
 ---
 

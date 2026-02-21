@@ -17,6 +17,8 @@ Unlike the [42 Grails](../grails/README.md), which are fully hand-drawn 1/1 art 
 
 ### Drippy Milady — Mibera [#7453](../miberas/7453.md)
 
+![Mibera #7453](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/f9f37f9a65478c3cc2663890b4105fae5a6bc760.png)
+
 **Based on:** [Milady #5930](https://opensea.io/item/ethereum/0x5af0d9827e0c53e4799bb226655a1de152a425a5/5930)
 
 A tribute to a very high drip Milady. Mibera #7453 carries the most unique traits of any single token in the collection — six traits that exist on no other Mibera:
@@ -36,6 +38,8 @@ The face accessory directly references the source Milady by token ID.
 
 ### Stratt — Mibera [#8006](../miberas/8006.md)
 
+![Mibera #8006](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/fcb6b8f3ab82e05f6781e879011bd3b4a53b9744.png)
+
 **Based on:** [Milady #4542](https://opensea.io/item/ethereum/0x5af0d9827e0c53e4799bb226655a1de152a425a5/4542)
 
 A memorial tribute to Stratt, a beloved Milady community member who passed away. Stratt spawned the "share a butterfly with me" meme that became a lasting piece of Milady cultural memory.
@@ -50,6 +54,8 @@ A memorial tribute to Stratt, a beloved Milady community member who passed away.
 
 ### Todd Fine — Mibera [#8931](../miberas/8931.md)
 
+![Mibera #8931](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/fd3eabc1750a91d2649b5e3476c88e548391265d.png)
+
 **Based on:** [Milady #9410](https://opensea.io/item/ethereum/0x5af0d9827e0c53e4799bb226655a1de152a425a5/9410)
 
 A tribute to Todd Fine ([@tfinesol](https://x.com/tfinesol)), a prolific Milady community member, writer, activist, and self-described "crypto villain." Fine is known for his critical, sardonic commentary on crypto culture, published across Hyperallergic, HuffPost, and The Indypendent.
@@ -62,6 +68,8 @@ A tribute to Todd Fine ([@tfinesol](https://x.com/tfinesol)), a prolific Milady 
 ---
 
 ### Lazarus — Mibera [#3264](../miberas/3264.md)
+
+![Mibera #3264](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/fa189d3430ded9b4d9dfcfb60dab5df688fefb65.png)
 
 **Based on:** [Milady #602](https://opensea.io/item/ethereum/0x5af0d9827e0c53e4799bb226655a1de152a425a5/602) ([Etherscan](https://etherscan.io/token/0x5af0d9827e0c53e4799bb226655a1de152a425a5?a=602))
 
@@ -79,6 +87,8 @@ A tribute to Milady #602, which is held in a wallet controlled by North Korea's 
 ---
 
 ### Bantony — Mibera [#4815](../miberas/4815.md)
+
+![Mibera #4815](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/f87c48a91c1332eeceff0f533d96dd2f2eb71231.png)
 
 **Based on:** [Milady #8365](https://opensea.io/item/ethereum/0x5af0d9827e0c53e4799bb226655a1de152a425a5/8365)
 

@@ -15,10 +15,21 @@ Each mask appears on exactly one Mibera out of 10,000. Both carry a swag score o
 
 ## The Two Masks
 
-| Mask | Mibera | Swag Score | Mibera Rank | Mibera Score |
-|------|--------|------------|-------------|--------------|
-| [Singapore Jani 1](../../traits/accessories/masks/singapore-jani-1.md) | [#7797](../../miberas/7797.md) | 5 | D | 13 |
-| [Singapore Jani 2](../../traits/accessories/masks/singapore-jani-2.md) | [#6426](../../miberas/6426.md) | 5 | D | 8 |
+### Singapore Jani 1 — Mibera [#7797](../../miberas/7797.md)
+
+![Mibera #7797](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/184e414632df1289d2cd9ec5732118f437520109.png)
+
+**Mask Swag Score:** 5 | **Mibera Rank:** D | **Mibera Score:** 13
+
+**Trait file:** [Singapore Jani 1](../../traits/accessories/masks/singapore-jani-1.md)
+
+### Singapore Jani 2 — Mibera [#6426](../../miberas/6426.md)
+
+![Mibera #6426](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/3ceda98a6b6cd967103be3404f8f6e49dbec34a0.png)
+
+**Mask Swag Score:** 5 | **Mibera Rank:** D | **Mibera Score:** 8
+
+**Trait file:** [Singapore Jani 2](../../traits/accessories/masks/singapore-jani-2.md)
 
 ---
 
