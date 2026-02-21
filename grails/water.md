@@ -8,6 +8,8 @@ description: "Aquatic hues with downward flow and chest light evoking the sun"
 
 # Water
 
+![Water](https://gateway.irys.xyz/7rpvwFYcB5t7S1HziaBAr4RgfAFpqCwCYbFUbkFqpbAq/water.PNG)
+
 > **Grail #6761** · Element · [Browse all Grails →](../browse/grails.md)
 
 All hues associated with water. Downward flowing, water falls with gravity. Presence of light in the chest to evoke connection to the sun, providing life.
