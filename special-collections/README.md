@@ -13,6 +13,6 @@
 
 ## Partner Traits
 
-- [**Berachain Ecosystem**](baraeco/) — 32 collaborative traits from Berachain ecosystem projects
+- [**Berachain Ecosystem**](bera-eco/) — 32 collaborative traits from Berachain ecosystem projects
 
 ---
