@@ -70,7 +70,7 @@
     },
     {
       "category": "custom_commissions",
-      "reason": "Only the 42 canonical Grails are documented. Custom 1/1 commissions are not tracked."
+      "reason": "42 canonical Grails + community Grails documented in grails/. Non-Grail 1/1 traits documented in special-collections/."
     },
     {
       "category": "on_chain_state",

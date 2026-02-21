@@ -1,7 +1,7 @@
-<!-- codex-status: COMPLETE | entities: 42 | last-verified: 2026-02-18 -->
+<!-- codex-status: COMPLETE | entities: 43 | last-verified: 2026-02-20 -->
 # Grails — 1/1 Collection
 
-*42 hand-drawn art pieces in the Mibera Maker contract.*
+*42 canonical hand-drawn art pieces in the Mibera Maker contract, plus community commissions.*
 
 ---
 
