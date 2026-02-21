@@ -40,4 +40,5 @@
 - [Fable](fable.md)
 - [Beraland](beraland.md)
 - [IVX](ivx.md)
+- [Milady 1-of-1s](milady-1-of-1s.md)
 
