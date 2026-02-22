@@ -285,7 +285,61 @@ type: "DeFi, Community"
 
 ---
 
-## 7. Birthday Era
+## 7. Grail Entry
+
+**Path**: `grails/{slug}.md`
+**Format**: YAML frontmatter + Markdown
+**Count**: 42 canonical + community grails
+
+### Frontmatter
+
+```yaml
+---
+id: 1630
+name: "Greek"
+type: grail
+category: ancestor
+description: "Greek amphora aesthetics with Bacchus and Apollo"
+---
+```
+
+See `grail.schema.json` for field definitions.
+
+### Body Template
+
+```markdown
+# {Name}
+
+![{Name}]({image-url})
+
+> **Grail #{ID}** · {Category} · [Browse all Grails →](../browse/grails.md)
+
+## Cultural Context
+
+The real-world history, mythology, or traditions the piece references.
+Sourced claims with links where possible.
+
+## Visual Elements
+
+What is depicted — imagery, symbols, objects, colors — and how each
+element connects to the cultural context above.
+
+## Why Mibera
+
+Why this subject was chosen for the collection. How it fits the
+Mibera universe, connects to the ancestor/element/zodiac system,
+or resonates with the project's themes.
+```
+
+**Notes**:
+- Grails have no trait table — these three sections serve as the metadata
+- All sourced claims should link to references (Wikipedia preferred)
+- Existing special notes (e.g. "Combined piece" for Gaia/Uranus) go above the sections
+- Entries should be written so an agent could build a persona from the content alone
+
+---
+
+## 8. Birthday Era
 
 **Path**: `birthdays/{era-slug}.md`
 **Format**: Structured Markdown headings (no YAML frontmatter)

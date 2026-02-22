@@ -12,4 +12,12 @@ description: "Green life tones with grounded hair and textured figure"
 
 > **Grail #3244** · Element · [Browse all Grails →](../browse/grails.md)
 
-Focus on green to signify life. "Hair" drawn as if attached to the ground, stable and solid like earth. Smoother lines flowing around the textured figure to evoke the movement that the earth facilitates. Presence of light in the chest to evoke connection to the sun, providing life.
+## Visual Elements
+
+Green-dominated palette. The figure's hair extends downward as though rooted into the ground. A point of light in the chest connects the figure to the sun — earth receiving light and converting it to life.
+
+## Why Mibera
+
+Earth corresponds to the northwest quadrant (North America, Western Europe, parts of Africa) and the qualities of stability, grounding, physical form, and abundance. Of the four elements, Earth is the most material — it's the ground that the other three act upon.
+
+The Earth grail represents the element as its own identity rather than one layer in a Mibera's trait stack. All four element grails share a motif of sunlight as life-giving force, linking them as a set.
